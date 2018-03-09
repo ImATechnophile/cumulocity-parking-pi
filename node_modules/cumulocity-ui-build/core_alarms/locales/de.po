@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Add alarm type"
+msgstr "Alarmtyp hinzufügen"
+
+msgid "Alarm list"
+msgstr "Alarmliste"
+
+msgid "Alarm type"
+msgstr "Alarmtyp"
+
+msgid "By active status"
+msgstr "Nach aktivem Status"
+
+msgid "By severity"
+msgstr "Nach Schweregrad"
+
+msgid "Displays a list of alarms filtered by object, severity and status"
+msgstr "Zeigt eine Liste von Alarmen, gefiltert nach Gerät, Schweregrad und Status"
+
+msgid "Order"
+msgstr "Reihenfolge"
+
+msgid "Order alarms by active status, severity, and time"
+msgstr "Alarme nach aktivem Status, Schweregrad und Zeit ordnen"
+
+msgid "Order alarms by severity and time"
+msgstr "Alarme nach Schweregrad und Zeit ordnen"
+
+msgid "Please select at least one severity."
+msgstr "Wählen Sie mindestens einen Schweregrad."
+
+msgid "Severities"
+msgstr "Schweregrade"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Types"
+msgstr "Typen"

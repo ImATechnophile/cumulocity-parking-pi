@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Please choose a device and complete the mapping for all light states."
+msgstr "Wählen Sie ein Gerät und füllen Sie die Statusregeln für alle Lampen aus."
+
+msgid "Property"
+msgstr "Attribut"
+
+msgid "Select device property"
+msgstr "Geräteattribut auswählen"
+
+msgid "Select fieldbus property"
+msgstr "Feldbus-Attribut auswählen"
+
+msgid "State"
+msgstr "Zustand"
+
+msgid "States mapping"
+msgstr "Statusregeln"
+
+msgid "The value of the selected data point or property must be one of the following to have the respective light on: true, 1, any non-empty string or any non-null number."
+msgstr "Um das entsprechende Licht zu aktivieren, muss der Wert des angegebenen Datenpunkts oder Attributs eine der folgenden Bedingungen erfüllen: Wahr, 1, nicht leere Zeichenkette, eine Zahl ungleich null."
+
+msgid "Traffic light"
+msgstr "Ampel"
+
+msgid "Visualizes traffic light based on the states of a device"
+msgstr "Zeigt eine Ampel basiered auf dem Gerätestatus"
+
+msgid "green"
+msgstr "grün"
+
+msgid "red"
+msgstr "rot"
+
+msgid "yellow"
+msgstr "gelb"

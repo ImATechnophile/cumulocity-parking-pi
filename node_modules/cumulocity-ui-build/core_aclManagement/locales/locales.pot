@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:30
+msgid "ADMIN"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:76
+msgid "ALARM"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:77
+msgid "AUDIT"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:78
+msgid "EVENT"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:79
+msgid "MANAGED_OBJECT"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:80
+msgid "MEASUREMENT"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:81
+msgid "OPERATION"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:33
+msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission. Note that to have access to an object, user has to have access to all its fragments. Use an asterisk (*) to grant permission to any object's fragment type."
+msgstr ""
+
+#: core_aclManagement/views/permissionEditor.html:28
+msgid "Permission"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:29
+msgid "READ"
+msgstr ""
+
+#: core_aclManagement/controllers/permissionEditorCtrl.js:83
+msgid "SUPPORT"
+msgstr ""
+
+#: core_aclManagement/views/permissionEditor.html:6
+msgid "Scope"
+msgstr ""
+
+#: core_aclManagement/views/permissionEditor.html:30
+#: core_aclManagement/views/permissionEditor.html:8
+msgid "Select or search"
+msgstr ""
+
+#: core_aclManagement/views/permissionEditor.html:17
+msgid "Type"
+msgstr ""

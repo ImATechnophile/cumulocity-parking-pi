@@ -1,0 +1,61 @@
+.statusOk {
+  color: @brand-success;
+}
+
+.statusNok {
+  color: @dark-danger;
+}
+
+.statusAlert {
+  color: @brand-warning;
+}
+
+.statusUnknown {
+  color: lighten(@gray, 25);
+}
+
+.status.warning,
+.color.warning {
+  color: @brand-info;
+}
+
+.status.minor,
+.color.minor {
+  color: @brand-warning;
+}
+
+.status.major,
+.color.major {
+  color: @dark-warning;
+}
+
+.status.critical,
+.color.critical {
+  color: @dark-danger;
+}
+
+// for svg
+path.statusUnknown {
+  fill: lighten(@gray, 30);
+  &.pushStatus {
+    fill: lighten(@gray, 35);
+  }
+}
+
+path.statusOk {
+  fill: @brand-success;
+  &.pushStatus {
+    fill: lighten(@brand-success, 5);
+  }
+}
+
+path.statusNok {
+  fill: @dark-danger;
+  &.pushStatus {
+    fill: lighten(@dark-danger, 5);
+  }
+}
+
+.fill-warning {
+  fill: @brand-warning;
+}

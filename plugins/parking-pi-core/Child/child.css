@@ -1,0 +1,74 @@
+.container {
+    width: 100%;
+    padding-right: 100px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.card-header:first-child {
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+.card-header {
+    display: block;
+}
+.text-success {
+    color: #28a745!important;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+.text-center {
+    text-align: center!important;
+}
+.mb-5, .my-5 {
+    margin-bottom: 3rem!important;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.card-body {
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card {
+    position: relative;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #f4f4f4;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+.card-footer:last-child {
+    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px);
+}
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color: rgba(0,0,0,.03);
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+.text-center {
+    text-align: center!important;
+}
+.text-danger {
+    color: #dc3545!important;
+}
+.text-warning {
+     color: #d78407; 
+}

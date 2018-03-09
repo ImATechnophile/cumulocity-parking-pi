@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Center map"
+msgstr "Karte zentrieren"
+
+msgid "Clear geofence"
+msgstr "Geofence löschen"
+
+msgid "Displays a map with position markers for selected devices."
+msgstr "Zeigt eine Karte mit den Positionen der ausgewählten Geräte an"
+
+msgid "Double click to add points and set the area. Click and drag the points to adjust."
+msgstr "Mit Doppelklick Punkte hinzuzufügen und den Bereich setzen. Durch Klicken und Ziehen die Punkte ausrichten."
+
+msgid "Edit geofence"
+msgstr "Geofence bearbeiten"
+
+msgid "Enter address"
+msgstr "Adresse eingeben"
+
+msgid "Map"
+msgstr "Karte"
+
+msgid "Save"
+msgstr "Speichern"

@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Application key"
+msgstr "アプリケーションキー"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Connectivity plan"
+msgstr "接続プラン"
+
+msgid "Device EUI"
+msgstr "デバイスEUI"
+
+msgid "Device profiles"
+msgstr "デバイスプロファイル"
+
+msgid "Device type"
+msgstr "デバイスタイプ"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "No connectivity plans with free slots available."
+msgstr "空きスロットがある接続プランはありません"
+
+msgid "No device profiles."
+msgstr "デバイスプロファイルはありません"
+
+msgid "No device types configured. Create a LoRa device type using device database."
+msgstr "設定されているデバイスタイプはありません。 デバイスデータベースを使用してLoRaデバイスタイプを作成してください"
+
+msgid "Only connectivity plans with free slots are displayed"
+msgstr "空きスロットのある接続プランのみが表示されます"
+
+msgid "Select device profile"
+msgstr "デバイスプロファイルを選択"
+
+msgid "Select device type"
+msgstr "デバイスタイプを選択"
+
+msgid "Wait while provider settings are loaded&hellip;"
+msgstr "プロバイダの設定が読み込まれるまでお待ちください＆hellip;"

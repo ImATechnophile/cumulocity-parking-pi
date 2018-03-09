@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_tixiDeviceControl/pollFrequencyOperationSettings.html:12
+msgid "Cancel"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:34
+msgid "Could not get measurements from device because of \"{{failureReason}}\"!"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:33
+msgid "Could not get measurements from device!"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:60
+msgid "Could not initiate measurement poll because of \"{{failureReason}}\"!"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:59
+msgid "Could not initiate measurement poll!"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:21
+#: devicemanagement_tixiDeviceControl/index.js:25
+#: devicemanagement_tixiDeviceControl/pollFrequencyOperationSettings.html:11
+#: devicemanagement_tixiDeviceControl/pollFrequencyOperationSettings.html:3
+msgid "Get measurements"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:31
+msgid "Getting measurements from device..."
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:32
+msgid "Got measurements from device."
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:42
+#: devicemanagement_tixiDeviceControl/index.js:48
+msgid "Initiate measurement poll"
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:58
+msgid "Initiated measurement poll."
+msgstr ""
+
+#: devicemanagement_tixiDeviceControl/index.js:57
+msgid "Initiating measurement poll..."
+msgstr ""

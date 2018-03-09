@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active, critical alarms"
+msgstr "アクティブなクリティカルアラーム"
+
+msgid "Battery: level"
+msgstr "バッテリー: レベル"
+
+msgid "CPU: workload"
+msgstr "CPU: ワークロード"
+
+msgid "Device and communication"
+msgstr "デバイスと通信"
+
+msgid "Device data"
+msgstr "デバイスデータ"
+
+msgid "Device status"
+msgstr "デバイスステータス"
+
+msgid "Group assignment"
+msgstr "グループの割り当て"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Memory: total"
+msgstr "メモリ: 全体"
+
+msgid "Memory: used"
+msgstr "メモリ: 使用中"
+
+msgid "Message of the day"
+msgstr "その日のメッセージ"
+
+msgid "Network: download"
+msgstr "ネットワーク: ダウンロード"
+
+msgid "Network: upload"
+msgstr "ネットワーク: アップロード"
+
+msgid "Signal: BER"
+msgstr "信号: BER"
+
+msgid "Signal: ECN0"
+msgstr "信号: ECN0"
+
+msgid "Signal: RCSP"
+msgstr "信号: RCSP"
+
+msgid "Signal: RSSI"
+msgstr "信号: RSSI"

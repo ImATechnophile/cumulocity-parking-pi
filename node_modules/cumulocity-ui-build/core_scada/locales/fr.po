@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Assign device property"
+msgstr "Assigner la propriété de l'appareil"
+
+msgid "Assign fieldbus property"
+msgstr "Assigner une propriété fieldbus"
+
+msgid "Clear mapping"
+msgstr "Effacer la cartographie"
+
+msgid "Current value"
+msgstr "Valeur courante"
+
+msgid "Display a configurable SVG."
+msgstr "Afficher un SVG configurable."
+
+msgid ""
+"For placeholder to be recognized it needs to be used at least once\n"
+"        in curly braces with no other expression, e.g. <var ng-non-bindable=\"\">{{placeholderName}}</var>.\n"
+"        Then you can use this placeholderName in bindings handled by Angular.\n"
+"        There are also predefined functions available:"
+msgstr "Pour que l'espace réservé soit reconnu, il doit être utilisé au moins une fois dans des accolades sans autre expression, p. ex. <var ng-non-bindable=\"\">{{placeholderName}}</var> . Vous pouvez ensuite utiliser ce placeholderName dans les liaisons gérées par Angular. Il existe également des fonctions prédéfinies disponibles:"
+
+msgid "Invalid SVG"
+msgstr "SVG invalide"
+
+msgid "Mapped to"
+msgstr "Mappé à"
+
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Target"
+msgstr "Cible"
+
+msgid "Toggle help text"
+msgstr "Texte d’aide de bascule"
+
+msgid "You need to choose a device and fill all mappings to be able to preview an SVG."
+msgstr "Vous devez choisir un appareil et remplir tous les mappages pour pouvoir prévoir un SVG."
+
+msgid "takes alarms status object and returns a CSS class that can be used for styling: none, warning, minor, major, critical, e.g."
+msgstr "prend l'objet de status des alarmes et renvoie une classe CSS qui peut être utilisée pour le style: none, warning, minor, major, critical, p. ex."
+
+msgid "takes device's id and redirects user to device details view, e.g."
+msgstr "prend l'identifiant de l’appareil et redirige l'utilisateur vers la vue des détails d’appareil, p. ex."
+
+msgid "takes group's id and redirects user to group details view, e.g."
+msgstr "prend l'identifiant du groupe et redirige l'utilisateur vers la vue des détails du groupe, p. ex."

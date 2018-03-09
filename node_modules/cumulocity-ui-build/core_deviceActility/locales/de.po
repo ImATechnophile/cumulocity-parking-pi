@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Confirm deprovisioning?"
+msgstr "Deprovisionierung bestätigen?"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete device without deprovisioning"
+msgstr "Gerät ohne Deprovisionierung löschen"
+
+msgid "Deprovision"
+msgstr "Deprovisionieren"
+
+msgid "Deprovision device"
+msgstr "Geräte deprovisionieren"
+
+msgid "Deprovision device from ThingPark"
+msgstr "Gerät aus ThingPark austragen"
+
+msgid "Device has been deleted!"
+msgstr "Gerät wurde gelöscht."
+
+msgid "Device has been deprovisioned!"
+msgstr "Gerät wurde deprovisioniert."
+
+msgid "Including child devices of this device"
+msgstr "Einschließlich aller Untergeräte dieses Geräts"
+
+msgid "LoRa device"
+msgstr "LoRa-Gerät"

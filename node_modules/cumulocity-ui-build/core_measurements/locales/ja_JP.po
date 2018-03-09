@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Aggregation"
+msgstr "集計"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Bars"
+msgstr "バー"
+
+msgid "Change aggregation or select shorter date range."
+msgstr "集合を変更、あるいはより短い日付の範囲を選択"
+
+msgid "Daily"
+msgstr "1日ごと"
+
+msgid "Daily aggregation"
+msgstr "日ごとの集計"
+
+msgid "Data has been truncated. Please use aggregation."
+msgstr "データは切り捨てられました。集計を使用してください"
+
+msgid "Drag X-Axis to move time.<br>Select time period to zoom.<br>Double click to zoom out."
+msgstr "X軸をドラッグして時刻を変更、<br>時刻を選択してズーム、<br>ダブルクリックしてズームアウト"
+
+msgid "From"
+msgstr "開始日"
+
+msgid "Hourly"
+msgstr "1時間ごと"
+
+msgid "Hourly aggregation"
+msgstr "時間ごとの集計"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Line"
+msgstr "線"
+
+msgid "Line and points"
+msgstr "線と点"
+
+msgid "Loading"
+msgstr "読み込み中"
+
+msgid "Maximum"
+msgstr "最大値"
+
+msgid "Minimum"
+msgstr "最小値"
+
+msgid "Minimum and maximum"
+msgstr "最大と最小"
+
+msgid "Minutely"
+msgstr "1分ごと"
+
+msgid "Minutely aggregation"
+msgstr "1分ごとの集計"
+
+msgid "Nearest measurement:"
+msgstr "最も近い測定値："
+
+msgid "No aggregation"
+msgstr "集計はありません"
+
+msgid "No data available."
+msgstr "使用可能なデータはありません"
+
+msgid "Points"
+msgstr "ポイント"
+
+msgid "Real time active"
+msgstr "リアルタイム ON"
+
+msgid "Real time inactive"
+msgstr "リアルタイム OFF"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Select data points"
+msgstr "データポイントを選択"
+
+msgid "To"
+msgstr "終了日時"
+
+msgid "Truncated data."
+msgstr "切り捨てられたデータ"

@@ -1,0 +1,38 @@
+<div ng-app="device" ng-controller="DevicesController">
+<div class="row">
+  <div class="col-md-12">
+    <h1 class="style">Parking Devices</h1>
+    <div class="input-group">
+      <input type="text" class="form-control" ng-model="searchtxt" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button"><a><i class="fa fa-search text-grey" aria-hidden="true"></i></a></button>
+      </span>
+    </div>
+  </div>
+</div>
+<br>
+<div class="card">
+    <div class="card-body">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th class="thstyle">NO</th>
+                    <th class="thstyle">NAME</th>
+                    <th class="thstyle">LOCATION</th>
+                    <th class="thstyle">STATUS</th>
+                    <th class="thstyle">DETAILS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="CU in all | filter : searchtxt">
+                    <td class="rwstyle">{{CU.serialNo}}</td>
+                    <td class="rwstyle" ng-model="DeviceName">{{CU.name}}</td>
+                    <td class="rwstyle">{{CU.lat}} , {{CU.lng}} </td>
+                    <td class="rwstyle">{{CU.status}}</td>
+                    <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()">View Details</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</div>

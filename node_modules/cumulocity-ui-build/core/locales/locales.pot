@@ -1,0 +1,3540 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core/ui/locales/serverMessages.service.js:473
+msgid "\"{{field}}\" must be less than or equal to {{maxValue}}"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:186
+msgid "\"{{field}}\" must not be null"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:467
+msgid "\"{{field}}\" should not be null"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:480
+msgid "\"{{field}}\" should not contain null values"
+msgstr ""
+
+#: core/ui/views/loadmore.html:16
+msgid "({{paging.more}} left)"
+msgstr ""
+
+#: core/ui/views/filePicker.html:18
+msgid ""
+"<b>Drop file here</b><br>\n"
+"          or click to browse your computer."
+msgstr ""
+
+#: core/core/services/devices.js:853
+msgid "<no name>"
+msgstr ""
+
+#: core/core/services/deviceRegistration.js:77
+msgid "ACCEPTED"
+msgstr ""
+
+#: core/core/services/alarms.js:86
+#: core/ui/directives/alarmList.js:109
+msgid "ACKNOWLEDGED"
+msgstr ""
+
+#: core/core/services/alarms.js:751
+#: core/ui/directives/alarmList.js:120
+msgid "ACKNOWLEDGED by: {{ackBy}} {{ackTimeFromNow}}"
+msgstr ""
+
+#: core/core/services/alarms.js:85
+msgid "ACTIVE"
+msgstr ""
+
+#: core/core/services/alarms.js:768
+#: core/ui/directives/alarmList.js:140
+msgid "ACTIVE: triggered {{alarmTimeFromNow}}"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:52
+msgid "ALARM STATUS"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1071
+msgid "API"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:54
+msgid "ARRAY"
+msgstr ""
+
+#: core/ui/containers/header.html:89
+msgid "Access denied requests"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:78
+msgid "Access is denied!"
+msgstr ""
+
+#: core/ui/services/measurementsReport.js:207
+msgid "Access is denied."
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:38
+msgid "Access technology"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:30
+msgid "Account"
+msgstr ""
+
+#: core/ui/views/alarmList.html:120
+#: core/ui/views/alarmList.html:52
+msgid "Acknowledge"
+msgstr ""
+
+#: core/ui/views/alarmList.html:46
+msgid "Actions"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:41
+msgid "Activate"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:41
+msgid "Activate user"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:22
+msgid "Active"
+msgstr ""
+
+#: core/ui/views/audits.html:4
+msgid "Activity"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:6
+msgid "Add action"
+msgstr ""
+
+#: core/ui/lists/quickLinksList.service.js:135
+msgid "Add device"
+msgstr ""
+
+#: core/ui/views/filePicker.html:51
+msgid "Add file"
+msgstr ""
+
+#: core/ui/lists/quickLinksList.service.js:156
+msgid "Add group"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:17
+msgid "Add property"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/group.html:8
+msgid "Add to group"
+msgstr ""
+
+#: core/ui/lists/quickLinksList.service.js:109
+msgid "Add user"
+msgstr ""
+
+#: core/core/services/application.js:68
+msgid "Administration"
+msgstr ""
+
+#: core/core/services/audits.js:83
+#: core/core/services/retentions.js:57
+msgid "Alarm"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:81
+msgid "Alarm created"
+msgstr ""
+
+#: core/ui/directives/alarmList.js:42
+msgid "Alarm status changed to \"{{status}}\"."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:84
+msgid "Alarm updated"
+msgstr ""
+
+#: core/core/services/permissions.js:30
+#: core/ui/services/deviceListColumns.js:508
+#: core/ui/user/rolesUiStrings.constant.js:43
+msgid "Alarms"
+msgstr ""
+
+#: core/core/services/permissions.js:42
+#: core/core/services/retentions.js:72
+#: core/ui/itemSelector/itemSelector.html:32
+msgid "All"
+msgstr ""
+
+#: core/ui/controllers/deviceList.js:211
+msgid "All devices"
+msgstr ""
+
+#: core/ui/containers/header.component.js:182
+msgid "Allow support user access"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:14
+msgid "Allows for CREATE, UPDATE and DELETE actions"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:91
+msgid "Also delete all devices inside this group and its sub-groups."
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:59
+msgid "Also delete child devices of this device."
+msgstr ""
+
+#: core/ui/index.js:209
+msgid "An error has occurred, contact support."
+msgstr ""
+
+#: core/ui/services/measurementsReport.js:198
+msgid "An error has occurred. Please try again later."
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:376
+msgid "And before"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:14
+msgid "And sort"
+msgstr ""
+
+#: core/ui/views/audits.html:7
+msgid "Application"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:34
+msgid "Application management"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:35
+msgid "Application subscriptions management"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:90
+msgid "Application with given name already exists!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:99
+msgid "Application with the following values ({{valuesList}}, contextPath={{contextPath}}) already exists!"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:34
+msgid "Apply"
+msgstr ""
+
+#: core/ui/controllers/editRetentionRule.js:29
+msgid "Are you sure?"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:18
+msgid "Ascending"
+msgstr ""
+
+#: core/ui/services/measurementsReport.js:78
+msgid "At least 1 data point must be selected"
+msgstr ""
+
+#: core/ui/views/eventList.html:160
+msgid "Attachment"
+msgstr ""
+
+#: core/core/services/retentions.js:69
+msgid "Audit"
+msgstr ""
+
+#: core/core/services/permissions.js:31
+#: core/ui/user/rolesUiStrings.constant.js:44
+msgid "Audits"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:106
+msgid "Authentication failed! User account is locked."
+msgstr ""
+
+#: core/ui/lists/list-display-control.component.js:33
+msgid "Auto"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:109
+msgid "Availability monitoring record"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:34
+msgid "Band"
+msgstr ""
+
+#: core/ui/services/batchop.js:38
+msgid "Batch operations"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:53
+msgid "Beware that e-mail is required to reset password"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:91
+msgid "Boolean"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/group.html:10
+msgid "Browse"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:319
+msgid "Bulk operation cancelled by user."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:202
+msgid "Bulk operation delay must be greater than {{minSeconds}} seconds!"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:50
+msgid "Bulk operations"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:78
+msgid "CANCELLED"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:68
+msgid "CEP Manager"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:46
+msgid "CEP management"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:162
+msgid "CEP module \"{{name}}\" created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:174
+msgid "CEP module \"{{name}}\" deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:168
+msgid "CEP module \"{{name}}\" updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:153
+msgid "CEP module created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:159
+msgid "CEP module deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:156
+msgid "CEP module updated"
+msgstr ""
+
+#: core/core/services/alarms.js:87
+#: core/ui/directives/alarmList.js:125
+msgid "CLEARED"
+msgstr ""
+
+#: core/core/services/alarms.js:761
+#: core/ui/directives/alarmList.js:132
+msgid "CLEARED: was active for {{alarmDuration}}"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:73
+msgid "COMPLETED SUCCESSFULLY"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:68
+msgid "COMPLETED WITH FAILURES"
+msgstr ""
+
+#: core/core/services/alarms.js:55
+msgid "CRITICAL"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:84
+msgid "Can access and modify the full user hierarchy"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:87
+msgid "Can create new user as his own sub-users and manage this"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:90
+msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:78
+msgid "Can read all data from all devices"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:56
+msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:65
+msgid "Can read all data of the asset."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:75
+msgid "Can read and write all data from all devices"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:59
+msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:62
+msgid "Can restart devices."
+msgstr ""
+
+#: core/ui/components/inplaceInput.html:37
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:39
+#: core/ui/properties/computedPropertyConfigModal.html:17
+#: core/ui/properties/schemaPropertySelector.html:50
+#: core/ui/services/modal.js:73
+#: core/ui/user/editUser.modal.html:31
+#: core/ui/user/selectUser.modal.html:21
+#: core/ui/user/userUtil.service.js:238
+#: core/ui/views/addDynamicGroupModal.html:23
+#: core/ui/views/askForPassword.html:14
+#: core/ui/views/binaryInputModal.html:22
+#: core/ui/views/deviceDetailBasic/groupSelectModal.html:30
+#: core/ui/views/editRetentionRuleModal.html:10
+#: core/ui/views/measurementsReport.html:14
+#: core/ui/views/support.html:40
+msgid "Cancel"
+msgstr ""
+
+#: core/ui/operations/operations-timeline.html:43
+msgid "Cancel operation"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:259
+msgid "Cancel password change"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:112
+msgid "Cannot activate a certificate which is either expired or not yet valid!"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/groupSelectModal.html:13
+msgid "Cannot add group as its own child."
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:76
+msgid "Cannot be greater than 3650 days."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:115
+msgid "Cannot change password: provided token is invalid!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:124
+msgid "Cannot deploy module '{{moduleName}}'! Compilation failed in expression '{{expression}}': incorrect syntax near '{{syntaxError}}'!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:118
+msgid "Cannot deploy module {{errorMessage}}"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:87
+msgid "Cannot enable custom domain. DNS is setup incorrectly!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:135
+msgid "Cannot execute bulk operation on empty group. Group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:141
+msgid "Cannot execute bulk operation on empty group. Smart group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:452
+msgid "Cannot introduce cyclic ownership dependency!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:147
+msgid "Cannot reschedule bulk operation. All its operations are already successful."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:132
+msgid "Cannot reset password for user with such e-mail: e-mail not found!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:150
+msgid "Cannot update/delete application binary via this endpoint"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:544
+msgid "Cannot use a reserved SQL keyword '{{tenantId}}' as domain!"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:74
+msgid "Cell ID"
+msgstr ""
+
+#: core/core/services/permissions.js:41
+msgid "Change"
+msgstr ""
+
+#: core/ui/views/alarmList.html:152
+msgid "Change log"
+msgstr ""
+
+#: core/ui/views/loadmore.html:26
+msgid "Change page size {{pageSize}}"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:258
+msgid "Change password"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:61
+msgid "Change the severities of alarms based on activity time"
+msgstr ""
+
+#: core/ui/views/audits.html:5
+msgid "Changes"
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/basic.js:184
+msgid "Changes successfully saved!"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:58
+msgid "Checked"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:192
+msgid "Child device creation"
+msgstr ""
+
+#: core/ui/user/userUtil.service.js:237
+msgid "Choose"
+msgstr ""
+
+#: core/ui/schemaForm/customFieldTypes/dateTimePicker.html:12
+msgid "Choose date"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:56
+#: core/ui/views/filePicker.html:17
+msgid "Choose file"
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/group.js:171
+msgid "Choose group"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:205
+msgid "Choose language"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:119
+msgid "Choose owner…"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:73
+#: core/ui/views/eventList.html:37
+msgid "Clear"
+msgstr ""
+
+#: core/ui/views/eventList.html:36
+#: core/ui/views/eventList.html:95
+msgid "Clear date range"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:389
+msgid "Clear existing alarm"
+msgstr ""
+
+#: core/ui/views/deviceList.html:7
+msgid "Clear filters"
+msgstr ""
+
+#: core/ui/header/accessDeniedModal.html:21
+#: core/ui/notifications/alertDetail.html:11
+#: core/ui/notifications/alerts.html:5
+#: core/ui/operations/operations-timeline-modal.html:21
+#: core/ui/views/alertDetail.html:11
+msgid "Close"
+msgstr ""
+
+#: core/core/services/application.js:69
+#: core/ui/lists/quickLinksList.service.js:219
+msgid "Cockpit"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:80
+msgid "Cockpit User"
+msgstr ""
+
+#: core/ui/navigation/breadcrumbs.html:8
+msgid "Collapse breadcrumbs"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:180
+msgid "Command state is invalid: {{violations}}"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.controller.js:23
+msgid "Complete Object"
+msgstr ""
+
+#: core/ui/properties/schemaPropertySelector.html:39
+msgid "Computed Property"
+msgstr ""
+
+#: core/ui/properties/computedPropertyConfigModal.html:2
+msgid "Computed property configuration"
+msgstr ""
+
+#: core/ui/services/docs.js:72
+msgid "Concepts Guide"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:67
+msgid "Config renderer"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:53
+msgid "Configure computed property"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:219
+msgid "Configure hardware"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:237
+msgid "Configure mobile"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:250
+msgid "Configure position"
+msgstr ""
+
+#: core/ui/views/askForPassword.html:13
+msgid "Confirm"
+msgstr ""
+
+#: core/ui/directives/binaryInput.js:131
+#: core/ui/services/groupsHierarchySvc.js:55
+#: core/ui/services/groupsHierarchySvc.js:87
+#: core/ui/user/selectUser.modal.html:4
+msgid "Confirm delete?"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:138
+msgid "Confirm new password"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:282
+msgid "Confirm password"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:129
+msgid "Confirm unassignment?"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:191
+msgid "Connection from server to device is established"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:192
+msgid "Connection from server to device is not established (not supported by device or no connectivity)"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:3
+msgid "Connection monitoring"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:172
+#: core/core/services/devices.js:799
+msgid "Connection not monitored"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:385
+msgid "Connection refused"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:51
+msgid "Connectivity"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:24
+msgid "Controls access as a support user"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:25
+msgid "Controls access in all scopes"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:20
+msgid "Controls access to audit logs."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:19
+msgid "Controls access to device alarms."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:23
+msgid "Controls access to device operations."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:21
+msgid "Controls access to events."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:18
+msgid "Controls access to managed objects in inventory."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:22
+msgid "Controls access to meausurements."
+msgstr ""
+
+#: core/ui/utils/copyToClipboard.directive.js:34
+msgid "Copied to clipboard"
+msgstr ""
+
+#: core/ui/controllers/editRetentionRule.js:31
+msgid "Corresponding data will be removed forever after {{maximumAge}} days (executed at night). Do you want to create this rule?"
+msgstr ""
+
+#: core/core/services/application.js:644
+msgid "Could not create application due to an error! Click \"More\" for details."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:541
+msgid "Could not create tenant! Tenant with given domain/URL already exists."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:267
+msgid "Could not find managed object with id '{{deviceId}}' in database!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:258
+msgid "Could not remove application assigned to other tenants!"
+msgstr ""
+
+#: core/ui/services/loginService.js:36
+msgid "Could not update phone number!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:196
+msgid "Could not update user '{{username}}'!"
+msgstr ""
+
+#: core/ui/views/addDynamicGroupModal.html:20
+msgid "Create"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:345
+msgid "Create CRITICAL alarm"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:354
+msgid "Create MAJOR alarm"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:363
+msgid "Create MINOR alarm"
+msgstr ""
+
+#: core/ui/views/alarmList.html:63
+msgid "Create Smart Rule"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:372
+msgid "Create WARNING alarm"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:84
+msgid "Create alarm if temperature was to low for 15 minutes"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:131
+msgid "Create alarm on not processed operation"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:164
+msgid "Create alarm when temperature below 0 degree"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:178
+msgid "Create alarm when temperature over 100 degree"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:397
+msgid "Create basic event"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:336
+msgid "Create battery measurement"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:192
+msgid "Create close relay operation when temperature readings over 100 degree"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:308
+msgid "Create custom measurement"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:406
+msgid "Create location update event"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:418
+msgid "Create location update event with device update"
+msgstr ""
+
+#: core/ui/services/util.js:205
+msgid "Create retention rule"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:319
+msgid "Create signal strength measurement"
+msgstr ""
+
+#: core/ui/views/addDynamicGroupModal.html:3
+#: core/ui/views/deviceList.html:23
+msgid "Create smart group"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:328
+msgid "Create temperature measurement"
+msgstr ""
+
+#: core/ui/directives/rdbDump.js:20
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr ""
+
+#: core/ui/views/map2-legend.html:2
+msgid "Critical"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:562
+msgid "Critical alarms"
+msgstr ""
+
+#: core/ui/views/rdbDump.html:17
+msgid "Current RDB snapshot"
+msgstr ""
+
+#: core/ui/user/editUser.controller.js:68
+msgid "Current password invalid!"
+msgstr ""
+
+#: core/ui/views/linearGauge.html:45
+msgid "Current value out of defined range."
+msgstr ""
+
+#: core/ui/directives/interval.js:20
+msgid "Custom"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:208
+msgid "Cycle detected for route {{route}}!"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:40
+msgid "DATE"
+msgstr ""
+
+#: core/ui/directives/aggregation.js:47
+msgid "Daily"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:8
+msgid "Data type"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:98
+msgid "Date/time"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:38
+msgid "Deactivate"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:38
+msgid "Deactivate owner"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:48
+#: core/ui/schemaForm/schemaPropertyEditor.html:81
+msgid "Default value"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:179
+msgid "Delegate"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:158
+msgid "Delegated by"
+msgstr ""
+
+#: core/ui/directives/binaryInput.js:133
+#: core/ui/services/deviceListColumns.js:617
+#: core/ui/services/groupsHierarchySvc.js:67
+#: core/ui/services/groupsHierarchySvc.js:99
+msgid "Delete"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:615
+msgid "Delete device"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:77
+msgid "Delete property"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:21
+msgid "Descending"
+msgstr ""
+
+#: core/core/services/deviceControl.js:88
+#: core/ui/views/rdbDump.html:28
+msgid "Description"
+msgstr ""
+
+#: core/ui/operations/operations-timeline.html:58
+#: core/ui/views/eventList.html:142
+msgid "Details"
+msgstr ""
+
+#: core/ui/lists/quickLinksList.service.js:176
+#: core/ui/user/rolesUiStrings.constant.js:47
+msgid "Device"
+msgstr ""
+
+#: core/ui/services/docs.js:77
+msgid "Device Guides"
+msgstr ""
+
+#: core/core/config.js:10
+msgid "Device ID must not contain spaces or slashes (\"/\")."
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/group.js:96
+msgid "Device added to group"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:48
+msgid "Device bootstrap"
+msgstr ""
+
+#: core/core/services/permissions.js:35
+#: core/ui/user/rolesUiStrings.constant.js:45
+msgid "Device control"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:175
+msgid "Device creation"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:74
+msgid "Device has been deleted!"
+msgstr ""
+
+#: core/core/services/application.js:70
+#: core/ui/lists/quickLinksList.service.js:200
+msgid "Device management"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:214
+msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translateServerMessage}}\""
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:6
+msgid "Device profile"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:401
+msgid "Device registration request with ID {{id}} already exists."
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/group.js:106
+msgid "Device removed from group"
+msgstr ""
+
+#: core/ui/views/auditList.html:79
+#: core/ui/views/auditList.html:82
+msgid "Device time"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:71
+msgid "Devicemanagement User"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:32
+msgid "Disabled"
+msgstr ""
+
+#: core/ui/lists/list-display-control.html:2
+msgid "Display as"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:205
+msgid "Display current temperature on device"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:56
+msgid "Do you really want to delete device \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:84
+msgid "Do you really want to delete group \"{{name}}\" and its sub-groups recursively? This operation is irreversible."
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:83
+msgid "Do you really want to delete group \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+#: core/ui/directives/binaryInput.js:132
+msgid "Do you really want to remove file \"{{name}}\"?"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:130
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr ""
+
+#: core/ui/user/editUser.controller.js:95
+msgid "Do you want to reload?"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:29
+msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:221
+msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:224
+msgid "Domain name is already in use by another tenant!"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:24
+msgid "Don't sort"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:141
+msgid "Done"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:65
+#: core/ui/views/downloadButton.html:1
+#: core/ui/views/downloadButton.html:2
+#: core/ui/views/measurementsReport.html:13
+msgid "Download"
+msgstr ""
+
+#: core/ui/views/downloadButton.html:3
+msgid "Downloading"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:67
+msgid "Downloading&hellip;"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:42
+#: core/ui/views/support.html:18
+msgid "E-mail"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:80
+msgid "E-mail address"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:63
+#: core/core/services/deviceControl.js:56
+msgid "EXECUTING"
+msgstr ""
+
+#: core/ui/services/util.js:205
+msgid "Edit retention rule"
+msgstr ""
+
+#: core/ui/services/util.js:189
+msgid "Edit user"
+msgstr ""
+
+#: core/ui/containers/header.html:104
+msgid "Enable support"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:225
+msgid "Enable two-factor authentication"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:31
+msgid "Enabled"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:41
+msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:272
+msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
+msgstr ""
+
+#: core/ui/notifications/alertDetail.html:2
+#: core/ui/views/alertDetail.html:2
+msgid "Error detail"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:243
+msgid "Error in statement {{moduleName}}:{{statementNumber}}! Incorrect syntax near: {{errorDetails}}"
+msgstr ""
+
+#: core/core/services/audits.js:85
+#: core/core/services/retentions.js:60
+msgid "Event"
+msgstr ""
+
+#: core/core/services/audits.js:84
+msgid "Event processing"
+msgstr ""
+
+#: core/core/services/permissions.js:32
+#: core/ui/controllers/eventList.js:160
+#: core/ui/controllers/eventList.js:168
+#: core/ui/user/rolesUiStrings.constant.js:42
+msgid "Events"
+msgstr ""
+
+#: core/ui/operations/operations-timeline.html:21
+#: core/ui/views/alarmList.html:37
+#: core/ui/views/eventList.html:127
+msgid "Expand"
+msgstr ""
+
+#: core/core/services/application.js:55
+msgid "External application"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:357
+msgid "External id for type '{{type}}' and value '{{value}}' already exists!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:251
+msgid "External id not found for type '{{type}}' and value '{{value}}'."
+msgstr ""
+
+#: core/ui/views/binaryInput.html:50
+msgid "External url"
+msgstr ""
+
+#: core/core/services/deviceControl.js:57
+msgid "FAILED"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:50
+msgid "FLAG"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:261
+msgid "Failed to extract certificate from PKCS12!"
+msgstr ""
+
+#: core/ui/directives/rdbDump.js:51
+msgid "Failed to retrieve RDB snapshot because of \"{{failureReason}}\"!"
+msgstr ""
+
+#: core/ui/directives/rdbDump.js:53
+msgid "Failed to retrieve RDB snapshot!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:264
+msgid "Failed to update domain at the platform."
+msgstr ""
+
+#: core/core/services/deviceControl.js:87
+msgid "Failure reason"
+msgstr ""
+
+#: core/core/services/application.js:71
+msgid "Fieldbus4"
+msgstr ""
+
+#: core/ui/itemSelector/itemSelector.html:16
+msgid "Filter"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:158
+msgid "Filter by maximum date"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:129
+msgid "Filter by maximum value"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:154
+msgid "Filter by minimum date"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:125
+msgid "Filter by minimum value"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:94
+msgid "Filter by pattern"
+msgstr ""
+
+#: core/ui/views/eventList.html:33
+#: core/ui/views/eventList.html:92
+msgid "Filter date range"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:3
+msgid "Filter options"
+msgstr ""
+
+#: core/ui/properties/schemaPropertySelector.html:7
+msgid "Filter properties"
+msgstr ""
+
+#: core/ui/user/userPicker.html:6
+msgid "Filter users"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/firmware.html:3
+msgid "Firmware"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/firmware.html:9
+msgid "Firmware version"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:61
+msgid "First name"
+msgstr ""
+
+#: core/ui/views/alarmList.html:91
+msgid "First occurrence"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:273
+msgid "Following mandatory fields should be included: {{fields}}"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:54
+msgid "Forgot password?"
+msgstr ""
+
+#: core/ui/services/docs.js:115
+msgid "Forum support"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.html:5
+msgid "Fragment"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:26
+msgid "Fragment type"
+msgstr ""
+
+#: core/ui/views/eventList.html:6
+#: core/ui/views/eventList.html:66
+msgid "From`date`"
+msgstr ""
+
+#: core/core/services/permissions.js:37
+msgid "Full access"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:35
+msgid "GPS tracks hidden"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:34
+msgid "GPS tracks visible"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:47
+msgid "GSM tracks hidden"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:46
+msgid "GSM tracks visible"
+msgstr ""
+
+#: core/ui/services/measurementsReport.js:114
+msgid "Generating report"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:430
+msgid "Get PENDING operations"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:214
+msgid "Get child device"
+msgstr ""
+
+#: core/ui/views/rdbDump.html:12
+msgid "Get the new RDB snapshot from device"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:72
+msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:74
+msgid "Global Manager"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:77
+msgid "Global Reader"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:83
+msgid "Global User Manager"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:27
+msgid "Global inventory permissions override Inventory role permissions. If you want to limit Inventory access, enable it only on inventory roles."
+msgstr ""
+
+#: core/core/services/audits.js:90
+msgid "Global role"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:282
+msgid "Global role \"{{name}}\" updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:288
+msgid "Global role \"{{name}}\" updated: {{updatesList}}"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:279
+msgid "Global role updated"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:79
+msgid "Go to OpenCellID and see location"
+msgstr ""
+
+#: core/ui/views/alarmList.html:107
+msgid "Go to device"
+msgstr ""
+
+#: core/ui/lists/list-display-control.component.js:46
+msgid "Grid"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:299
+msgid "Group"
+msgstr ""
+
+#: core/ui/services/groupsHierarchySvc.js:108
+msgid "Group has been deleted!"
+msgstr ""
+
+#: core/ui/controllers/addDynamicGroupModal.js:44
+msgid "Group name"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/groupSelectModal.html:6
+msgid "Group:&nbsp;"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/group.html:3
+msgid "Groups assignment"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/hardware.html:2
+msgid "Hardware"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:69
+msgid "Has full access to all deployed CEP modules and SmartRules"
+msgstr ""
+
+#: core/ui/lists/quickLinksList.service.js:233
+#: core/ui/services/docs.js:129
+msgid "Help & Service"
+msgstr ""
+
+#: core/ui/header/rightDrawer.html:22
+msgid "Help &amp; support"
+msgstr ""
+
+#: core/core/services/application.js:53
+msgid "Hosted application"
+msgstr ""
+
+#: core/ui/directives/aggregation.js:46
+msgid "Hourly"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:23
+msgid "ICCID"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:31
+msgid "ID"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:467
+#: core/ui/views/deviceDetailBasic/mobile.html:19
+msgid "IMEI"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:14
+msgid "IMSI"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:45
+msgid "INTEGER"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:39
+msgid "Identity"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.component.js:25
+msgid "Imperial"
+msgstr ""
+
+#: core/ui/directives/map2.js:434
+#: core/ui/views/map2-markerTemplate.html:8
+msgid "In this location since"
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.js:27
+msgid "Include lowercase characters (e.g. abcdef)"
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.js:35
+msgid "Include numbers (e.g. 123456)"
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.js:39
+msgid "Include symbols (e.g. !@#$%^)"
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.js:31
+msgid "Include uppercase characters (e.g. ABCDEF)"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:205
+msgid "Insert the code received via SMS"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:80
+msgid "Integer"
+msgstr ""
+
+#: core/core/config.js:23
+#: core/ui/services/loginService.js:35
+msgid "International phone number required, in the format +49 9 876 543 210."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:364
+msgid "Invalid credentials!"
+msgstr ""
+
+#: core/ui/services/loginService.js:30
+msgid "Invalid e-mail"
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:94
+msgid "Invalid email address."
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:66
+msgid "Invalid pattern."
+msgstr ""
+
+#: core/core/config.js:43
+msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
+msgstr ""
+
+#: core/core/services/audits.js:86
+#: core/core/services/permissions.js:33
+#: core/ui/user/rolesUiStrings.constant.js:40
+msgid "Inventory"
+msgstr ""
+
+#: core/core/services/audits.js:87
+msgid "Inventory role"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:370
+msgid "Inventory role \"{{name}}\" removed"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:379
+msgid "Inventory role \"{{name}}\" updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:367
+msgid "Inventory role removed"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:376
+msgid "Inventory role updated"
+msgstr ""
+
+#: core/ui/services/docs.js:87
+msgid "Java Developers Guide"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:68
+msgid "LAC"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:29
+#: core/ui/properties/schemaPropertySelector.html:21
+#: core/ui/schemaForm/schemaPropertyEditor.html:21
+msgid "Label"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:203
+msgid "Language"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:30
+msgid "Last communication"
+msgstr ""
+
+#: core/ui/directives/interval.js:12
+msgid "Last day"
+msgstr ""
+
+#: core/ui/directives/interval.js:9
+msgid "Last hour"
+msgstr ""
+
+#: core/core/services/devices.js:798
+msgid "Last message: {{date}}"
+msgstr ""
+
+#: core/ui/directives/interval.js:6
+msgid "Last minute"
+msgstr ""
+
+#: core/ui/directives/interval.js:18
+msgid "Last month"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:71
+msgid "Last name"
+msgstr ""
+
+#: core/ui/views/alarmList.html:98
+msgid "Last occurrence of this alarm (device time)."
+msgstr ""
+
+#: core/core/services/deviceStatus.js:170
+msgid "Last request from device to server:<br>{{date}}"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:46
+msgid "Last updated"
+msgstr ""
+
+#: core/ui/directives/interval.js:15
+msgid "Last week"
+msgstr ""
+
+#: core/ui/lists/list-display-control.component.js:52
+msgid "List"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:289
+msgid "List of 3 values per software"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:271
+msgid "List of supported operations"
+msgstr ""
+
+#: core/ui/views/loadmore.html:14
+msgid "Load more"
+msgstr ""
+
+#: core/ui/user/userPicker.html:17
+msgid "Loading users&hellip;"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:79
+msgid "Locate"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:75
+msgid "Location"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:198
+#: core/ui/views/coreLogin.html:220
+#: core/ui/views/coreLogin.html:51
+#: core/ui/views/coreLogin.html:86
+msgid "Login"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:218
+msgid "Login options"
+msgstr ""
+
+#: core/ui/containers/header.html:97
+msgid "Logout"
+msgstr ""
+
+#: core/core/services/alarms.js:54
+msgid "MAJOR"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:60
+msgid "MCC"
+msgstr ""
+
+#: core/core/services/alarms.js:53
+msgid "MINOR"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:64
+msgid "MNC"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:10
+msgid "MSISDN"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:55
+msgid "Maintenance off"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:54
+msgid "Maintenance on"
+msgstr ""
+
+#: core/ui/views/map2-legend.html:3
+msgid "Major"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:566
+msgid "Major alarms"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:391
+msgid "Managed object deleted"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:55
+msgid "Manager"
+msgstr ""
+
+#: core/ui/views/alarmList.html:129
+#: core/ui/views/alarmList.html:57
+msgid "Mark as resolved"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:53
+msgid "Max length: 1"
+msgid_plural "Max length: {{vm.field.attrs.maxlength}}"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:25
+msgid "Max value: {{vm.field.attrs.c8yMax}}"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:9
+msgid "Max value: {{vm.field.attrs.max}}"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:28
+#: core/ui/schemaForm/schemaPropertyEditor.html:138
+msgid "Maximum"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:74
+msgid "Maximum age (days)"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:419
+msgid "Maximum age cannot be bigger than 10 years."
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:38
+#: core/ui/schemaForm/schemaPropertyEditor.html:198
+msgid "Maximum length"
+msgstr ""
+
+#: core/core/services/retentions.js:63
+msgid "Measurement"
+msgstr ""
+
+#: core/core/services/permissions.js:34
+#: core/ui/user/rolesUiStrings.constant.js:41
+msgid "Measurements"
+msgstr ""
+
+#: core/ui/views/support.html:31
+msgid "Message"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:394
+msgid "Message with id \"{{messageId}}\" doesn't exist in SmartREST template with id \"{{templateId}}\""
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1068
+msgid "Messages"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1072
+msgid "Method"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.component.js:29
+msgid "Metric"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:21
+msgid "Min value: {{vm.field.attrs.c8yMin}}"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:5
+msgid "Min value: {{vm.field.attrs.min}}"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:23
+#: core/ui/schemaForm/schemaPropertyEditor.html:110
+msgid "Minimum"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:33
+#: core/ui/schemaForm/schemaPropertyEditor.html:169
+msgid "Minimum length"
+msgstr ""
+
+#: core/ui/views/map2-legend.html:4
+msgid "Minor"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:570
+msgid "Minor alarms"
+msgstr ""
+
+#: core/ui/directives/aggregation.js:45
+msgid "Minutely"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:3
+msgid "Mobile"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:211
+#: core/ui/views/deviceDetailBasic/hardware.html:7
+msgid "Model"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/firmware.html:13
+msgid "Module version"
+msgstr ""
+
+#: core/ui/notifications/alerts.html:8
+msgid "More"
+msgstr ""
+
+#: core/ui/directives/loadMore.js:33
+msgid "More data may be available"
+msgstr ""
+
+#: core/ui/header/action-bar.html:29
+msgid "More…"
+msgstr ""
+
+#: core/core/config.js:32
+msgid "Must be valid JSONPath expression."
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.js:77
+msgid "Must have at least {{length}} characters"
+msgstr ""
+
+#: core/core/services/simulator.js:33
+msgid "NEW"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:42
+msgid "NUMBER"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1070
+#: core/core/services/smartRestTemplates.js:1085
+#: core/ui/schemaForm/schemaPropertyEditor.html:5
+#: core/ui/services/deviceListColumns.js:158
+#: core/ui/views/deviceDetailBasic/basic.html:13
+#: core/ui/views/rdbDump.html:24
+#: core/ui/views/support.html:13
+msgid "Name"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/network.html:3
+msgid "Network"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:118
+msgid "New password"
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:82
+msgid "New password can't be the same as current one!"
+msgstr ""
+
+#: core/ui/views/listPagination/listPaginationControl.html:18
+msgid "Next page"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:416
+msgid "No LoRa provider settings are found. Please configure the connectivity settings."
+msgstr ""
+
+#: core/ui/views/rdbDump.html:20
+msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:578
+msgid "No alarms"
+msgstr ""
+
+#: core/ui/views/alarmList.html:165
+msgid "No alarms to display."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:407
+msgid "No communication with device since {{timestamp | absoluteDate}}!"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.component.js:21
+msgid "No conversion"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:413
+msgid "No data received from device within required interval."
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:182
+msgid "No delegation"
+msgstr ""
+
+#: core/ui/controllers/deviceList.js:30
+msgid "No devices to display."
+msgstr ""
+
+#: core/ui/views/auditList.html:3
+msgid "No entries to display."
+msgstr ""
+
+#: core/ui/views/eventList.html:107
+#: core/ui/views/eventList.html:108
+msgid "No events to display."
+msgstr ""
+
+#: core/ui/views/filePicker.html:39
+msgid "No file selected"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:7
+msgid "No file selected."
+msgstr ""
+
+#: core/ui/filteringSorting/filteredSortedList.controller.js:125
+msgid "No items to display!"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/groupSelectModal.html:17
+msgid "No items to display."
+msgstr ""
+
+#: core/ui/operations/operations-timeline.html:5
+msgid "No operations have been invoked yet."
+msgstr ""
+
+#: core/ui/views/map.html:13
+msgid "No position fragment in selected devices"
+msgstr ""
+
+#: core/ui/header/accessDeniedModal.html:6
+msgid "No request was denied."
+msgstr ""
+
+#: core/ui/directives/aggregation.js:44
+msgid "None"
+msgstr ""
+
+#: core/ui/views/map2-legend.html:6
+msgid "Normal"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:78
+#: core/ui/services/deviceListColumns.js:94
+msgid "Not monitored"
+msgstr ""
+
+#: core/ui/views/measurementsReport.html:10
+msgid "Note: report generation can take a long time to complete."
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:23
+msgid "Notes"
+msgstr ""
+
+#: core/ui/filteringSorting/filteredSortedList.controller.js:18
+msgid "Nothing found."
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:69
+msgid "Number"
+msgstr ""
+
+#: core/ui/views/alarmList.html:91
+msgid "Number of occurrences"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:55
+msgid "OBJECT ARRAY"
+msgstr ""
+
+#: core/ui/services/modal.js:72
+msgid "OK"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:53
+msgid "OPERATION STATUS"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:70
+#: core/ui/services/deviceListColumns.js:90
+msgid "Offline"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:66
+#: core/ui/services/deviceListColumns.js:86
+msgid "Online"
+msgstr ""
+
+#: core/ui/schemaForm/schemaPropertyEditor.html:15
+msgid "Only letters and digits are allowed!"
+msgstr ""
+
+#: core/core/config.js:14
+msgid "Only lowercase letters, digits and underscore character allowed in the first part of the URI! It must start with a letter, underscore only allowed in the middle. Must be a valid URI."
+msgstr ""
+
+#: core/core/config.js:47
+msgid "Only lowercase letters, digits and underscore character allowed! Must start with a letter, underscore only allowed in the middle, minimum 2 characters."
+msgstr ""
+
+#: core/ui/directives/map2.js:331
+msgid "Only showing {{count}} devices due to performance reasons"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.controller.js:20
+msgid "Only value"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:78
+msgid "OpenCellId"
+msgstr ""
+
+#: core/core/services/audits.js:88
+#: core/core/services/retentions.js:66
+msgid "Operation"
+msgstr ""
+
+#: core/core/services/deviceControl.js:437
+msgid "Operation cancelled by user."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:422
+msgid "Operation created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:428
+msgid "Operation created: status=\"{{status | translate}}\"."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:425
+msgid "Operation updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:323
+msgid "Operation updated: {{updatesList}}"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:58
+msgid "Operations: All"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:61
+msgid "Operations: Restart Device"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:30
+msgid "Operator"
+msgstr ""
+
+#: core/core/services/audits.js:89
+msgid "Option"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:437
+msgid "Option \"{{option}}\" created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:446
+msgid "Option \"{{option}}\" deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:434
+msgid "Option created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:443
+msgid "Option deleted"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:33
+msgid "Option management"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:95
+#: core/ui/services/deviceListColumns.js:190
+#: core/ui/services/deviceListColumns.js:234
+#: core/ui/services/deviceListColumns.js:278
+#: core/ui/services/deviceListColumns.js:445
+#: core/ui/services/deviceListColumns.js:487
+msgid "Or"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:37
+msgid "Own user management"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:100
+#: core/ui/views/deviceDetailBasic/basic.html:35
+msgid "Owner"
+msgstr ""
+
+#: core/core/services/simulator.js:35
+msgid "PAUSED"
+msgstr ""
+
+#: core/core/services/deviceControl.js:54
+msgid "PENDING"
+msgstr ""
+
+#: core/core/services/deviceRegistration.js:76
+msgid "PENDING ACCEPTANCE"
+msgstr ""
+
+#: core/ui/user/editUser.controller.js:96
+msgid "Page should be reloaded to correctly apply measurement units setting changes"
+msgstr ""
+
+#: core/ui/views/loadmore.html:21
+msgid "Page size"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:268
+#: core/ui/views/askForPassword.html:7
+#: core/ui/views/coreLogin.html:41
+#: core/ui/views/login.html:18
+#: core/ui/views/login.html:20
+msgid "Password"
+msgstr ""
+
+#: core/ui/services/loginService.js:26
+msgid "Password confirmation does not match"
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:86
+msgid "Password confirmation does not match."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:233
+msgid "Password is invalid! It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
+msgstr ""
+
+#: core/core/config.js:39
+msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+#: core/ui/services/loginService.js:24
+#: core/ui/services/loginService.js:27
+msgid "Password must have at least 8 characters and no more than 32."
+msgstr ""
+
+#: core/core/services/settings.js:471
+msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+#: core/ui/user/editUser.directive.js:98
+msgid "Password not good enough, password must be be stronger (green)."
+msgstr ""
+
+#: core/ui/services/loginService.js:41
+msgid "Password reset request has been sent. Please check your e-mail."
+msgstr ""
+
+#: core/ui/services/loginService.js:40
+msgid "Password successfully changed. You can now login with your new password."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:455
+msgid "Platform application cannot be added to, nor removed from any tenant."
+msgstr ""
+
+#: core/ui/components/passwordStrengthChecklist.html:2
+msgid "Please meet 4 out of 5 the conditions below"
+msgstr ""
+
+#: core/ui/forms/search.component.js:50
+msgid "Please type something to execute a search."
+msgstr ""
+
+#: core/ui/utils/copyToClipboard.directive.js:36
+msgid "Press Ctrl/Cmd+C to copy"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1073
+#: core/core/services/smartRestTemplates.js:1086
+msgid "Preview"
+msgstr ""
+
+#: core/ui/views/listPagination/listPaginationControl.html:5
+msgid "Previous page"
+msgstr ""
+
+#: core/ui/directives/filePicker.js:73
+msgid "Processing"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:2
+msgid "Properties"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:32
+#: core/ui/properties/schemaPropertySelector.html:24
+msgid "Property"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:174
+msgid "Provide your phone number"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:64
+msgid "Push connection: active"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:65
+#: core/core/services/deviceStatus.js:66
+msgid "Push connection: inactive"
+msgstr ""
+
+#: core/ui/header/rightDrawer.html:7
+msgid "Quick links"
+msgstr ""
+
+#: core/ui/views/rdbDump.html:5
+msgid "RDB snapshot"
+msgstr ""
+
+#: core/ui/views/rdbDump.html:32
+msgid "RDB snapshot file"
+msgstr ""
+
+#: core/ui/directives/rdbDump.js:47
+msgid "RDB snapshot has been stored in files repository!"
+msgstr ""
+
+#: core/ui/services/docs.js:82
+msgid "REST Developers Guide"
+msgstr ""
+
+#: core/core/services/simulator.js:34
+msgid "RUNNING"
+msgstr ""
+
+#: core/ui/notifications/alertDetail.html:31
+#: core/ui/views/alertDetail.html:21
+msgid "Raw error code"
+msgstr ""
+
+#: core/core/services/permissions.js:40
+msgid "Read"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:388
+msgid "Read timed out"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:64
+msgid "Reader"
+msgstr ""
+
+#: core/ui/directives/realtimeButton.js:19
+#: core/ui/realtime/realtimeSwitch.html:8
+#: core/ui/views/realtimebtn.html:8
+#: core/ui/views/realtimebtn2.html:7
+msgid "Realtime"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:52
+msgid "Received signal code power"
+msgstr ""
+
+#: core/ui/services/docs.js:97
+msgid "Reference Guide"
+msgstr ""
+
+#: core/ui/views/alarmList.html:20
+msgid "Refresh alarm list contents"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:345
+msgid "Registration date"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:43
+#: core/ui/schemaForm/schemaPropertyEditor.html:226
+msgid "Regular expression"
+msgstr ""
+
+#: core/ui/views/alarmList.html:24
+#: core/ui/views/eventList.html:56
+#: core/ui/views/refreshbtn.html:4
+msgid "Reload"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:47
+#: core/ui/views/login.html:26
+msgid "Remember me"
+msgstr ""
+
+#: core/ui/schemaForm/customFieldTypes/fileUpload.html:13
+#: core/ui/views/binaryInput.html:80
+#: core/ui/views/filePicker.html:44
+msgid "Remove"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:35
+msgid "Render type"
+msgstr ""
+
+#: core/core/services/application.js:54
+msgid "Repository"
+msgstr ""
+
+#: core/ui/containers/header.html:111
+msgid "Request support"
+msgstr ""
+
+#: core/ui/header/accessDeniedModal.html:3
+msgid "Requested data denied access"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:1
+#: core/ui/properties/schemaProperties.service.js:18
+#: core/ui/services/loginService.js:25
+msgid "Required"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:33
+msgid "Required interval"
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/availability.js:28
+msgid "Required interval must be a number and cannot be longer than a year!"
+msgstr ""
+
+#: core/ui/directives/deviceDetailBasic/availability.js:31
+msgid "Required interval must be a positive number!"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingColumnConfigModal.html:37
+#: core/ui/header/accessDeniedModal.html:20
+msgid "Reset"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:83
+msgid "Reset password"
+msgstr ""
+
+#: core/ui/operations/operations-timeline.html:73
+msgid "Response"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:1083
+msgid "Responses"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:49
+msgid "Retention rules"
+msgstr ""
+
+#: core/ui/directives/rdbDump.js:38
+msgid "Retrieve RDB snapshot"
+msgstr ""
+
+#: core/ui/views/alarmList.html:171
+msgid "Retrieving alarms…"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.html:18
+msgid "Return type"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/hardware.html:15
+msgid "Revision"
+msgstr ""
+
+#: core/core/services/deviceBulkControl.js:58
+msgid "SCHEDULED"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:51
+msgid "SEVERITY"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:39
+msgid "STRING"
+msgstr ""
+
+#: core/core/services/deviceControl.js:55
+msgid "SUCCESSFUL"
+msgstr ""
+
+#: core/ui/components/inplaceInput.html:32
+#: core/ui/user/editUser.modal.html:30
+#: core/ui/views/editRetentionRuleModal.html:11
+msgid "Save"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:195
+msgid "Save and continue"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/basic.html:100
+msgid "Save changes"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:227
+msgid "Schedule device restart every day at 1am"
+msgstr ""
+
+#: core/ui/views/binaryInputModal.html:5
+msgid "Search files"
+msgstr ""
+
+#: core/ui/forms/search.html:11
+msgid "Search for groups or assets…"
+msgstr ""
+
+#: core/ui/services/groupsHierarchyNavigator.js:197
+msgid "Search more"
+msgstr ""
+
+#: core/ui/properties/schemaPropertySelector.html:51
+#: core/ui/views/binaryInputModal.html:23
+#: core/ui/views/deviceDetailBasic/groupSelectModal.html:31
+msgid "Select"
+msgstr ""
+
+#: core/ui/views/binaryInputModal.html:2
+msgid "Select file"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:237
+msgid "Select location change event once for 60 seconds"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:13
+msgid "Select or search"
+msgstr ""
+
+#: core/ui/directives/deviceGroupSelector.js:13
+msgid "Select or search group"
+msgstr ""
+
+#: core/ui/properties/schemaPropertySelector.html:2
+msgid "Select properties"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:244
+msgid "Select temperature readings over 100 degree"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.html:5
+msgid "Select unit conversion"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:31
+#: core/ui/views/binaryInput.html:32
+msgid "Selected file is no longer available in the platform!"
+msgstr ""
+
+#: core/ui/directives/binaryInput.js:74
+msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}!"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.component.js:36
+msgid "Selected unit conversion will be used for displaying data. Choose \"No conversion\" to see original units sent by devices"
+msgstr ""
+
+#: core/ui/views/support.html:39
+msgid "Send"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:250
+msgid "Send alarms that are active since 30 minutes to email"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:74
+#: core/ui/directives/deviceDetailBasic/availability.js:22
+msgid "Send connection status unknown"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:72
+#: core/ui/directives/deviceDetailBasic/availability.js:20
+msgid "Send connection: not monitored"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:73
+#: core/ui/directives/deviceDetailBasic/availability.js:21
+msgid "Send connection: offline"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:71
+#: core/ui/directives/deviceDetailBasic/availability.js:19
+msgid "Send connection: online"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:221
+msgid "Send new code"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:248
+msgid "Send password reset link as e-mail"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:267
+msgid "Send sales to Zapier"
+msgstr ""
+
+#: core/core/services/cepModuleExamples.js:280
+msgid "Send simulator temperature to Zapier"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:255
+#: core/ui/views/deviceDetailBasic/hardware.html:11
+msgid "Serial number"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.html:9
+msgid "Series"
+msgstr ""
+
+#: core/ui/views/eventList.html:148
+msgid "Server creation time"
+msgstr ""
+
+#: core/ui/services/loginService.js:29
+msgid "Server error"
+msgstr ""
+
+#: core/ui/views/auditList.html:7
+msgid "Server time"
+msgstr ""
+
+#: core/ui/views/auditList.html:8
+msgid "Server time can be different from device times in other fields."
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:262
+msgid "Set configuration"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:277
+msgid "Set firmware"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:435
+msgid "Set operation to EXECUTING"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:443
+msgid "Set operation to FAILED"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:452
+msgid "Set operation to SUCCESSFUL"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:161
+msgid "Set password"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:301
+msgid "Set required availability"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:286
+msgid "Set software list"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:269
+msgid "Set supported operations"
+msgstr ""
+
+#: core/ui/views/alarmList.html:77
+msgid "Severity"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:86
+msgid "Shared User Manager"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:13
+#: core/ui/components/errorFeedbackCommonMessages.html:17
+msgid "Should be a valid number"
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:33
+msgid "Should be a valid regular expression"
+msgstr ""
+
+#: core/ui/properties/propertySelector.html:26
+#: core/ui/properties/schemaPropertySelector.html:18
+msgid "Show"
+msgstr ""
+
+#: core/ui/navigation/breadcrumbs.html:7
+msgid "Show all breadcrumbs"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:54
+msgid "Show checkboxes that are"
+msgstr ""
+
+#: core/ui/notifications/alertDetail.html:30
+#: core/ui/views/alertDetail.html:20
+msgid "Show details"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:330
+msgid "Show devices in group"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:371
+msgid "Show devices registered after"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:486
+msgid "Show devices with IMEI"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:558
+msgid "Show devices with active"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:98
+msgid "Show devices with maintenance status"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:233
+msgid "Show devices with model"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:189
+msgid "Show devices with name"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:82
+msgid "Show devices with push status"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:62
+msgid "Show devices with send status"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:277
+msgid "Show devices with serial number"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:444
+msgid "Show devices with system ID"
+msgstr ""
+
+#: core/ui/notifications/alertDetail.html:21
+#: core/ui/views/alertDetail.html:16
+msgid "Show error message"
+msgstr ""
+
+#: core/ui/navigation/navigatorNode.html:56
+msgid "Show more"
+msgstr ""
+
+#: core/ui/notifications/alertDetail.html:20
+#: core/ui/views/alertDetail.html:15
+msgid "Show summary"
+msgstr ""
+
+#: core/ui/controllers/deviceList.js:204
+msgid "Showing 1 child device"
+msgid_plural "Showing {{devices.length}} child devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/ui/controllers/deviceList.js:213
+msgid "Showing {{devices.length}}"
+msgstr ""
+
+#: core/ui/controllers/deviceList.js:208
+msgid "Showing {{devices.length}} items"
+msgstr ""
+
+#: core/ui/controllers/deviceList.js:214
+msgid "Showing {{devices.length}} of {{totalDevices}}"
+msgstr ""
+
+#: core/ui/views/login.html:28
+msgid "Sign in"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:48
+msgid "Signal quality"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/mobile.html:44
+msgid "Signal strength"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:461
+msgid "Simulator state is invalid: {{violations}}"
+msgstr ""
+
+#: core/core/config.js:55
+#: core/ui/components/errorFeedbackCommonMessages.html:49
+msgid "Slash, single or double dots and white space not allowed"
+msgstr ""
+
+#: core/core/services/audits.js:91
+msgid "Smart Rule"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:511
+msgid "Smart Rule \"{{name}}\" created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:535
+msgid "Smart Rule \"{{name}}\" deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:529
+msgid "Smart Rule \"{{name}}\" disabled"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:523
+msgid "Smart Rule \"{{name}}\" enabled"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:517
+msgid "Smart Rule \"{{name}}\" updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:496
+msgid "Smart Rule created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:508
+msgid "Smart Rule deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:505
+msgid "Smart Rule disabled"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:502
+msgid "Smart Rule enabled"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:499
+msgid "Smart Rule updated"
+msgstr ""
+
+#: core/ui/controllers/addDynamicGroupModal.js:62
+msgid "Smart group \"{{name}}\" has been created!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:490
+msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:56
+msgid "Source"
+msgstr ""
+
+#: core/core/services/deviceControl.js:89
+#: core/ui/services/deviceListColumns.js:23
+#: core/ui/views/alarmList.html:140
+#: core/ui/views/alarmList.html:82
+msgid "Status"
+msgstr ""
+
+#: core/ui/properties/schemaProperties.service.js:56
+msgid "String"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:78
+msgid "String does not match pattern: {{schema.pattern}}"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:75
+msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}!"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:72
+msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}!"
+msgstr ""
+
+#: core/ui/views/support.html:26
+msgid "Subject"
+msgstr ""
+
+#: core/ui/properties/computedPropertyConfigModal.html:16
+msgid "Submit"
+msgstr ""
+
+#: core/core/services/permissions.js:36
+msgid "Support"
+msgstr ""
+
+#: core/ui/views/support.html:4
+msgid "Support request"
+msgstr ""
+
+#: core/ui/services/support.js:78
+msgid "Support request sent"
+msgstr ""
+
+#: core/ui/containers/header.component.js:183
+msgid "Support user access activated"
+msgstr ""
+
+#: core/core/services/audits.js:92
+#: core/ui/views/deviceDetailBasic/basic.html:28
+msgid "System"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:425
+msgid "System ID"
+msgstr ""
+
+#: core/ui/views/linearGauge.html:33
+#: core/ui/views/silo.html:36
+msgid "Target"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:227
+msgid "Target URL {{targetUrl}} already used by another connector!"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:83
+msgid "Telephone"
+msgstr ""
+
+#: core/core/services/audits.js:93
+#: core/ui/views/coreLogin.html:102
+#: core/ui/views/coreLogin.html:21
+#: core/ui/views/coreLogin.html:70
+#: core/ui/views/login.html:6
+#: core/ui/views/login.html:8
+msgid "Tenant"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:550
+msgid "Tenant \"{{tenant}}\" activated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:559
+msgid "Tenant \"{{tenant}}\" created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:568
+msgid "Tenant \"{{tenant}}\" deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:577
+msgid "Tenant \"{{tenant}}\" suspended"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:586
+msgid "Tenant \"{{tenant}}\" updated: {{properties}}"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:89
+msgid "Tenant Manager"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:556
+msgid "Tenant activated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:565
+msgid "Tenant created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:574
+msgid "Tenant deleted"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:31
+msgid "Tenant management"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:32
+msgid "Tenant statistics"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:583
+msgid "Tenant suspended"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:593
+msgid "Tenant updated"
+msgstr ""
+
+#: core/ui/notifications/accessDenied.service.js:30
+msgid "The application requested data your user does not have access to. Please check the user menu for more details"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:692
+msgid "The chosen name is too long. Please try a shorter one."
+msgstr ""
+
+#: core/ui/services/loginService.js:32
+msgid "The code you entered is invalid. Please try again."
+msgstr ""
+
+#: core/ui/views/filePicker.html:3
+msgid "The file selected below is too large &ndash; size limit is {{vm.fileSizeLimit|bytes}}!"
+msgstr ""
+
+#: core/ui/views/filePicker.html:9
+msgid "The filename is too long."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:458
+msgid "The resource is no longer available!"
+msgstr ""
+
+#: core/ui/views/filePicker.html:6
+msgid "The selected file is not supported."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:689
+msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
+msgstr ""
+
+#: core/ui/services/loginService.js:37
+msgid "The verification code was already sent. For a new verification code, please click on the link above."
+msgstr ""
+
+#: core/ui/header/accessDeniedModal.html:8
+msgid "These url paths have been requested by the application but your user does not have access to them."
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:37
+msgid "This IP address is invalid"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:93
+msgid "This application is already assigned to tenant \"{{tenant}}\"!"
+msgstr ""
+
+#: core/ui/schemaForm/customFieldTypes/dateTimePicker.html:22
+msgid "This date is invalid."
+msgstr ""
+
+#: core/ui/components/errorFeedbackCommonMessages.html:45
+msgid "This external ID is not unique"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:81
+msgid "This field is required!"
+msgstr ""
+
+#: core/ui/schemaForm/customFieldTypes/dateTimePicker.html:24
+#: core/ui/user/editUser.directive.js:90
+msgid "This field is required."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:240
+msgid "This password has already been used earlier! Please choose a different one."
+msgstr ""
+
+#: core/ui/schemaForm/customFieldTypes/dateTimePicker.html:23
+msgid "This time is invalid."
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:58
+msgid "This will apply to data coming from specified device"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:38
+msgid "This will apply to data that has a type property."
+msgstr ""
+
+#: core/ui/views/audits.html:8
+#: core/ui/views/eventList.html:144
+msgid "Time"
+msgstr ""
+
+#: core/ui/views/eventList.html:22
+#: core/ui/views/eventList.html:80
+msgid "To`date`"
+msgstr ""
+
+#: core/ui/views/loadmore.html:23
+msgid "Toggle dropdown"
+msgstr ""
+
+#: core/ui/containers/header.html:11
+msgid "Toggle navigator"
+msgstr ""
+
+#: core/ui/realtime/realtimeSwitch.html:4
+#: core/ui/views/realtimebtn.html:4
+#: core/ui/views/realtimebtn2.html:4
+msgid "Toggle realtime"
+msgstr ""
+
+#: core/ui/containers/header.html:135
+msgid "Toggle side drawer"
+msgstr ""
+
+#: core/ui/header/action-bar.html:8
+msgid "Toggle toolbar"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:23
+msgid "Track hidden"
+msgstr ""
+
+#: core/ui/views/map2-markerTemplate.html:22
+msgid "Track visible"
+msgstr ""
+
+#: core/core/services/alarms.js:133
+#: core/core/services/events.js:64
+#: core/ui/schemaForm/schemaPropertyEditor.html:38
+#: core/ui/views/deviceDetailBasic/basic.html:18
+#: core/ui/views/editRetentionRuleDirective.html:36
+msgid "Type"
+msgstr ""
+
+#: core/ui/user/userUtil.service.js:59
+msgid "Type your password"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:48
+msgid "UNSIGNED"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:683
+msgid "Unable to get system option: '{{option}}'!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:677
+msgid "Unable to get tenant option: '{{option}}'!"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/group.html:19
+msgid "Unassign"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/group.html:17
+msgid "Unassign device"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:62
+msgid "Unchecked"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:166
+msgid "Undelegate"
+msgstr ""
+
+#: core/core/services/deviceStatus.js:209
+#: core/core/services/deviceStatus.js:76
+#: core/ui/directives/deviceDetailBasic/availability.js:24
+#: core/ui/services/deviceListColumns.js:102
+msgid "Under maintenance"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.html:3
+msgid "Unit conversion"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:74
+msgid "Unknown"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:381
+msgid "Update severity of existing alarm"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:42
+msgid "Upload"
+msgstr ""
+
+#: core/ui/views/binaryInput.html:10
+msgid "Upload, choose file or add an URL"
+msgstr ""
+
+#: core/ui/views/editRetentionRuleDirective.html:3
+msgid "Use * to allow any values."
+msgstr ""
+
+#: core/core/services/audits.js:94
+#: core/ui/views/audits.html:6
+#: core/ui/views/login.html:12
+msgid "User"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:599
+msgid "User \"{{name}}\" created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:608
+msgid "User \"{{name}}\" deleted"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:617
+msgid "User \"{{name}}\" updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:623
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] added"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:630
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] removed"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:637
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] added"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:644
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] removed"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:651
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] added"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:658
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] removed"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:665
+msgid "User '{{username}}' already exists!"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:596
+msgid "User created"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:605
+msgid "User deleted"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:36
+msgid "User management"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:38
+msgid "User management password reset"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:238
+msgid "User must reset password on next login"
+msgstr ""
+
+#: core/ui/containers/header.html:82
+msgid "User settings"
+msgstr ""
+
+#: core/ui/user/editUser.controller.js:108
+msgid "User successfully saved"
+msgstr ""
+
+#: core/ui/user/rolesUiStrings.constant.js:81
+msgid "User to work in Cockpit application. This does not include the access to any device data."
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:614
+msgid "User updated"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:671
+msgid "User with e-mail '{{email}}' already exists!"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:31
+#: core/ui/views/login.html:14
+msgid "Username"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:6
+msgid "Username (e.g. e-mail)"
+msgstr ""
+
+#: core/core/config.js:51
+msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
+msgstr ""
+
+#: core/ui/schemaForm/schemaPropertyEditor.html:56
+msgid "Validation rules"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.controller.js:21
+msgid "Value and unit"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:66
+msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}!"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:60
+msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}!"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:63
+msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}!"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:57
+msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}!"
+msgstr ""
+
+#: core/ui/schemaForm/schemaForm.directive.js:69
+msgid "Value {{viewValue}} is not a valid number!"
+msgstr ""
+
+#: core/ui/properties/lastMeasurementConfig.controller.js:22
+msgid "Value, unit and time"
+msgstr ""
+
+#: core/ui/views/coreLogin.html:214
+msgid "Verification code"
+msgstr ""
+
+#: core/ui/services/loginService.js:42
+msgid "Verification code SMS resent."
+msgstr ""
+
+#: core/ui/views/coreLogin.html:217
+msgid "Verify"
+msgstr ""
+
+#: core/ui/containers/header.html:124
+msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
+msgstr ""
+
+#: core/core/services/deviceRegistration.js:75
+msgid "WAITING FOR CONNECTION"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/network.html:9
+msgid "WAN IP address"
+msgstr ""
+
+#: core/core/services/alarms.js:52
+msgid "WARNING"
+msgstr ""
+
+#: core/ui/user/measurementUnitPreference.html:14
+msgid "Wait while settings are loaded&hellip;"
+msgstr ""
+
+#: core/ui/views/map2-legend.html:5
+msgid "Warning"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:574
+msgid "Warnings"
+msgstr ""
+
+#: core/ui/services/docs.js:92
+msgid "Web Developers Guide"
+msgstr ""
+
+#: core/ui/header/rightDrawer.html:4
+msgid "Welcome to {{vm.appName | humanizeAppName}}"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:228
+msgid "When activated, a verification code sent by SMS is required to complete authentication"
+msgstr ""
+
+#: core/ui/containers/header.component.js:184
+msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
+msgstr ""
+
+#: core/ui/containers/header.component.js:185
+msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
+msgstr ""
+
+#: core/ui/user/editUser.controller.js:164
+msgid "You are successfully disconnected from {{externalServiceName}}. Please login to your {{externalServiceName}} account, and also perform de-registration there."
+msgstr ""
+
+#: core/core/services/inventory.js:1513
+msgid "You don't have permission to retrieve owner"
+msgstr ""
+
+#: core/ui/services/measurementsReport.js:220
+msgid "You will receive emails with csv/excel files attached for {{count}} series."
+msgstr ""
+
+#: core/ui/services/loginService.js:31
+msgid "Your password is expired. Please set a new password."
+msgstr ""
+
+#: core/ui/services/loginService.js:28
+msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
+msgstr ""
+
+#: core/ui/user/userUtil.service.js:106
+msgid "Your password will expire {{expirationTime | relativeDate}}! Consider changing password now."
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:257
+#: core/core/services/smartRestTemplates.js:413
+#: core/core/services/smartRestTemplates.js:425
+msgid "accuracy"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:256
+#: core/core/services/smartRestTemplates.js:412
+#: core/core/services/smartRestTemplates.js:424
+msgid "altitude"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:295
+msgid "applications {{list}} added"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:301
+msgid "applications {{list}} removed"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:338
+msgid "battery value"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:322
+msgid "ber value"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:245
+msgid "cellId"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:264
+msgid "configuration"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:335
+msgid "description=\"{{description | translate}}\""
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:178
+#: core/core/services/smartRestTemplates.js:200
+msgid "device name"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:341
+msgid "device name=\"{{deviceName}}\""
+msgstr ""
+
+#: core/ui/views/alarmList.html:91
+msgid "device time"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:183
+#: core/core/services/smartRestTemplates.js:205
+msgid "device type"
+msgstr ""
+
+#: core/ui/user/editUser.directive.html:93
+#: core/ui/views/coreLogin.html:184
+msgid "e.g. +49 9 876 543 210"
+msgstr ""
+
+#: core/ui/views/deviceDetailBasic/availability.html:39
+msgid "e.g. 1"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:450
+msgid "e.g. 10300, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:492
+msgid "e.g. 46543432321, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:283
+msgid "e.g. 54321-123, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:239
+msgid "e.g. ModelName, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/services/deviceListColumns.js:195
+msgid "e.g. My Device, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/schemaForm/schemaPropertyEditor.html:232
+msgid "e.g. ^\\\\d{1,9}$"
+msgstr ""
+
+#: core/ui/filteringSorting/filteringSortingCollections.service.js:100
+msgid "e.g. myVal*, you can use * as wildcard character"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:347
+msgid "failure reason=\"{{failureReason | translateServerMessage}}\""
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:446
+msgid "failureReason"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:310
+#: core/core/services/smartRestTemplates.js:437
+#: core/core/services/smartRestTemplates.js:445
+#: core/core/services/smartRestTemplates.js:454
+msgid "fragment"
+msgstr ""
+
+#: core/ui/directives/durationInput.js:12
+#: core/ui/filters/duration.js:76
+msgid "hours"
+msgstr ""
+
+#: core/ui/services/docs.js:130
+msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:240
+msgid "iccid"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:239
+msgid "imei"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:241
+msgid "imsi"
+msgstr ""
+
+#: core/ui/filters/distance.js:7
+msgid "km"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:244
+msgid "lac"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:252
+#: core/core/services/smartRestTemplates.js:408
+#: core/core/services/smartRestTemplates.js:420
+msgid "latitude"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:254
+#: core/core/services/smartRestTemplates.js:410
+#: core/core/services/smartRestTemplates.js:422
+msgid "longitude"
+msgstr ""
+
+#: core/ui/filters/distance.js:8
+msgid "m"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:242
+msgid "mcc"
+msgstr ""
+
+#: core/ui/services/passwordStrengthCheckerFactory.js:21
+msgid "medium"
+msgstr ""
+
+#: core/ui/directives/durationInput.js:15
+#: core/ui/filters/duration.js:78
+#: core/ui/views/deviceDetailBasic/availability.html:47
+msgid "minutes"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:243
+msgid "mnc"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:226
+msgid "model"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:279
+#: core/core/services/smartRestTemplates.js:292
+msgid "name"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:455
+msgid "parameters"
+msgstr ""
+
+#: core/ui/views/passwordStrength.html:2
+msgid "password strength"
+msgstr ""
+
+#: core/ui/filters/humanizeAppName.js:26
+msgid "public"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:303
+msgid "required interval"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:230
+msgid "revision"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:307
+msgid "roles {{list}} added"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:313
+msgid "roles {{list}} removed"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:321
+msgid "rssi value"
+msgstr ""
+
+#: core/ui/directives/durationInput.js:18
+#: core/ui/filters/duration.js:73
+msgid "seconds"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:222
+msgid "serialNumber"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:311
+msgid "series"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:384
+#: core/core/services/smartRestTemplates.js:392
+msgid "severity"
+msgstr ""
+
+#: core/ui/locales/serverMessages.service.js:329
+msgid "status=\"{{status | translate}}\""
+msgstr ""
+
+#: core/ui/services/passwordStrengthCheckerFactory.js:27
+msgid "strong"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:330
+msgid "temperature value"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:348
+#: core/core/services/smartRestTemplates.js:357
+#: core/core/services/smartRestTemplates.js:366
+#: core/core/services/smartRestTemplates.js:375
+#: core/core/services/smartRestTemplates.js:400
+msgid "text"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:314
+#: core/core/services/smartRestTemplates.js:323
+#: core/core/services/smartRestTemplates.js:331
+#: core/core/services/smartRestTemplates.js:340
+#: core/core/services/smartRestTemplates.js:349
+#: core/core/services/smartRestTemplates.js:358
+#: core/core/services/smartRestTemplates.js:367
+#: core/core/services/smartRestTemplates.js:376
+#: core/core/services/smartRestTemplates.js:401
+msgid "time"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:347
+#: core/core/services/smartRestTemplates.js:356
+#: core/core/services/smartRestTemplates.js:365
+#: core/core/services/smartRestTemplates.js:374
+#: core/core/services/smartRestTemplates.js:383
+#: core/core/services/smartRestTemplates.js:391
+#: core/core/services/smartRestTemplates.js:399
+msgid "type"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:195
+msgid "unique child ID"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:313
+msgid "unit"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:281
+#: core/core/services/smartRestTemplates.js:294
+msgid "url"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:312
+msgid "value"
+msgstr ""
+
+#: core/core/services/smartRestTemplates.js:280
+#: core/core/services/smartRestTemplates.js:293
+msgid "version"
+msgstr ""
+
+#: core/ui/services/passwordStrengthCheckerFactory.js:16
+msgid "weak"
+msgstr ""
+
+#: core/ui/controllers/listPagination/listPagination.controller.js:37
+msgid "{{firstItem}} to {{lastItem}}"
+msgstr ""
+
+#: core/ui/controllers/eventList.js:161
+#: core/ui/controllers/eventList.js:169
+msgid "{{qty}} loaded"
+msgstr ""

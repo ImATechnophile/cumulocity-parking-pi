@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add software"
+msgstr "ソフトウェアを追加"
+
+msgid "Add software using the button on the toolbar."
+msgstr "ツールバーのボタンを使用してソフトウェアを追加"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete software"
+msgstr "ソフトウェアを削除"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Do you really want to remove software \"{{name}}\"?"
+msgstr "本当にソフトウェア \"{{name}}\" を削除しますか？"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Management"
+msgstr "管理"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No software to display."
+msgstr "表示できるソフトウェアはありません"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Software repository"
+msgstr "ソフトウェアリポジトリ"
+
+msgid "Software successfully added."
+msgstr "ソフトウェアは正常に追加されました"
+
+msgid "Software successfully removed."
+msgstr "ソフトウェアは正常に削除されました"
+
+msgid "Version"
+msgstr "バージョン"

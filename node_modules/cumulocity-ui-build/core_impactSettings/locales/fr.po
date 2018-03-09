@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Base URL"
+msgstr "URL de base"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Connectivity"
+msgstr "Connectivité"
+
+msgid "Credentials"
+msgstr "Identifiants"
+
+msgid "Credentials successfully removed!"
+msgstr "Identifiants supprimés avec succès."
+
+msgid "Credentials successfully updated!"
+msgstr "Identifiants actualisés avec succès!"
+
+msgid "Delete credentials"
+msgstr "Supprimer les informations d’identification"
+
+msgid "Deleting credentials will break connection to IMPACT instance. Are you sure you want to delete your IMPACT credentials?"
+msgstr "Supprimer les identifiants interrompt la connection à l'instance IMPACT. Etes-vous sûr de vouloir effacer vos identifiants IMPACT?"
+
+msgid "IMPACT group name prefix"
+msgstr "Préfixe du nom de groupe IMPACT"
+
+msgid "IMPACT provider settings"
+msgstr "Paramètres du fournisseur d'IMPACT"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Save credentials"
+msgstr "Enregistrer les informations d’identification"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "User"
+msgstr "Utilisateur"

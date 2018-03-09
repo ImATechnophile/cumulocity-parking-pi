@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Close relay {{relayNo}}"
+msgstr "リレー {{relayNo}} をクローズ"
+
+msgid "Failed to execute operation beacuse of reason: \"{{failureReason}}\"!"
+msgstr "以下の理由のため操作を実行できませんでした:  \"{{failureReason}}\" "
+
+msgid "Failed to execute operation!"
+msgstr "実行操作ができませんでした"
+
+msgid "Open relay {{relayNo}}"
+msgstr "オープンリレー {{relayNo}}"
+
+msgid "Operation not supported by this device"
+msgstr "このデバイスでサポートされていない操作です"
+
+msgid "Relay array control"
+msgstr "リレーアレイ制御"
+
+msgid "Remote control a device's relay array."
+msgstr "デバイスのリレーアレイを遠隔制御"
+
+msgid "Sent operation: \"{{description | translate}}\"!"
+msgstr "操作を送信しました: \"{{description | translate}}\""
+
+msgid "Successfully executed operation: \"{{description | translate}}\"!"
+msgstr "以下の操作が正常に実行されました：\"{{description | translate}}\""

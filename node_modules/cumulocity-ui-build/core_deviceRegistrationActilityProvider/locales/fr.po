@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Application key"
+msgstr "Clé de l'application"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Connectivity plan"
+msgstr "Plan de connectivité"
+
+msgid "Device EUI"
+msgstr "Device EUI"
+
+msgid "Device profiles"
+msgstr "Profils de périphérique"
+
+msgid "Device type"
+msgstr "Type d'appareil"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No connectivity plans with free slots available."
+msgstr "Pas de plans de connectivité avec des slots libres disponibles."
+
+msgid "No device profiles."
+msgstr "Aucun profil d’appareil."
+
+msgid "No device types configured. Create a LoRa device type using device database."
+msgstr "Aucun type d’appareil n'est configuré. Créer un type d’appareil LoRa à l'aide de la base de données de l'appareil."
+
+msgid "Only connectivity plans with free slots are displayed"
+msgstr "Seuls les plans de connectivité avec des machines avec des slots libres sont affichés"
+
+msgid "Select device profile"
+msgstr "Sélectionner le profil de l'appareil"
+
+msgid "Select device type"
+msgstr "Sélectionner le type d'appareil"
+
+msgid "Wait while provider settings are loaded&hellip;"
+msgstr "Attender que les paramètres du fournisseur soient chargés&hellip;"

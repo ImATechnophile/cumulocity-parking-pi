@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Accounts"
+msgstr "アカウント"
+
+msgid "All types"
+msgstr "すべてのタイプ"
+
+msgid "Apply filters"
+msgstr "フィルタを適用する"
+
+msgid "Audit logs"
+msgstr "監視ログ"
+
+msgid "Clear filters"
+msgstr "フィルタの解除"
+
+msgid "Date from"
+msgstr "開始日時"
+
+msgid "Date to"
+msgstr "終了日"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Who"
+msgstr "ユーザ"

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm software changes?"
+msgstr "¿Confirmar cambios de software?"
+
+msgid "Current firmware"
+msgstr "Firmware actual"
+
+msgid "Do you want to create a device operation to process the software changes? Please note that this operation is asynchronous."
+msgstr "¿Desea crear una operación de dispositivo para procesar los cambios de software? Tenga en cuenta que esta operación es asíncrona."
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Firmware to install"
+msgstr "Firmware para instalar"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No firmware information available"
+msgstr "No hay información de firmware disponible"
+
+msgid "No software available on the device"
+msgstr "No hay software disponible en el dispositivo"
+
+msgid "Operation to update firmware created"
+msgstr "Operación para actualizar el firmware creada"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Reset changes"
+msgstr "Restablecer cambios"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Software change operation created"
+msgstr "Operación de cambio de software creada"
+
+msgid "Software to install"
+msgstr "Software para instalar"
+
+msgid "Submit operation"
+msgstr "Enviar operación"
+
+msgid "Update device software."
+msgstr "Actualizar el software del dispositivo."
+
+msgid "Update firmware: {{firmwareName}} - {{firmwareVersion}}"
+msgstr "Actualizar firmware: {{firmwareName}} - {{firmwareVersion}}"
+
+msgid "Version"
+msgstr "Versión"

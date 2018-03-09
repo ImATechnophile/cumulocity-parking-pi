@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_impactSettings/impactSettings.html:10
+msgid "Base URL"
+msgstr ""
+
+#: core_impactSettings/impactSettings.component.js:61
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_impactSettings/impactSettings.module.js:15
+msgid "Connectivity"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:5
+msgid "Credentials"
+msgstr ""
+
+#: core_impactSettings/impactSettings.component.js:73
+msgid "Credentials successfully removed!"
+msgstr ""
+
+#: core_impactSettings/impactSettings.component.js:55
+msgid "Credentials successfully updated!"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:84
+msgid "Delete credentials"
+msgstr ""
+
+#: core_impactSettings/impactSettings.component.js:62
+msgid "Deleting credentials will break connection to IMPACT instance. Are you sure you want to delete your IMPACT credentials?"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:66
+msgid "IMPACT group name prefix"
+msgstr ""
+
+#: core_impactSettings/impactSettings.module.js:36
+msgid "IMPACT provider settings"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:47
+msgid "Password"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:94
+msgid "Save credentials"
+msgstr ""
+
+#: core_impactSettings/impactSettings.module.js:20
+msgid "Settings"
+msgstr ""
+
+#: core_impactSettings/impactSettings.html:28
+msgid "User"
+msgstr ""

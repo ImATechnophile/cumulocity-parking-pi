@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Add retention rule"
+msgstr "Datenhaltungsregel hinzufügen"
+
+msgid "Add rule"
+msgstr "Regel hinzufügen"
+
+msgid "Add your first retention rule by clicking below."
+msgstr "Fügen Sie Ihre erste Datenhaltungsregel hinzu, indem Sie unten klicken."
+
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Click to edit"
+msgstr "Klicken zum Bearbeiten"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Do you want to remove this rule?"
+msgstr "Möchten Sie diese Regel löschen?"
+
+msgid "Find out more on the <a c8y-guide-href=\"reference/retention-rules/\">Reference Guide</a>."
+msgstr "Erfahren Sie mehr im <a c8y-guide-href=\"reference/retention-rules/\">Reference Guide</a>."
+
+msgid "Fragment type"
+msgstr "Fragmenttyp"
+
+msgid "Management"
+msgstr "Verwaltung"
+
+msgid "Maximum age"
+msgstr "Maximales Alter"
+
+msgid "No retention rules to display."
+msgstr "Keine Datenhaltungsregeln vorhanden"
+
+msgid "Not editable"
+msgstr "Nicht editierbar"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "Remove"
+msgstr "Löschen"
+
+msgid "Retention rules"
+msgstr "Datenhaltungsregeln"
+
+msgid "Rule is removed successfully."
+msgstr "Regel erfolgreich gelöscht."
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "You need these roles to access retention rules: Retention Rule Read / Admin"
+msgstr "Sie brauchen die Berechtigung “Datenhaltung Lesen” zum Lesen bzw. “Datenhaltung Admin” zur Bearbeitung der Datenhaltungsregeln."
+
+msgid "days"
+msgstr "Tage"

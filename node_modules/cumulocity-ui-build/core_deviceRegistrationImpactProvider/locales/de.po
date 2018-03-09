@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Application key"
+msgstr "Anwendungsschlüssel"
+
+msgid "Application session key"
+msgstr "Anwendungssitzungsschlüssel"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Global application ID"
+msgstr "Globale Anwendungs-ID"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Identifier"
+msgstr "Bezeichnung"
+
+msgid "LWM2M"
+msgstr "LWM2M"
+
+msgid "Latitude"
+msgstr "Breitengrad"
+
+msgid "LoRa"
+msgstr "LoRa"
+
+msgid "Longitude"
+msgstr "Längengrad"
+
+msgid "M-Bus"
+msgstr "M-Bus"
+
+msgid "NB IoT-SGI"
+msgstr "NB IoT-SGI"
+
+msgid "Network provider name"
+msgstr "Name des Netzwerkanbieters"
+
+msgid "Network session key"
+msgstr "Netzwerksitzungsschlüssel"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Protocol"
+msgstr "Protokoll"
+
+msgid "Public key or identity"
+msgstr "Öffentlicher Schlüssel oder Identität"
+
+msgid "Secret key"
+msgstr "Geheimschlüssel"
+
+msgid "Select protocol"
+msgstr "Protokoll auswählen"
+
+msgid "Serial number"
+msgstr "Seriennummer"
+
+msgid "Stream URL"
+msgstr "Datenstrom-URL"
+
+msgid "Unique SGI interface identifier"
+msgstr "Einzigartiger SGI-Schnittstellenbezeichner"
+
+msgid "Video analytics"
+msgstr "Video-Analytik"
+
+msgid "Xirgo OBD"
+msgstr "Xirgo OBD"

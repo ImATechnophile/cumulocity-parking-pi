@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Close relay"
+msgstr "Fermer le relais"
+
+msgid "Failed to execute operation beacuse of reason: \"{{failureReason}}\"!"
+msgstr "L'exécution de l’opération a échouée à cause de : \" {{failureReason}} \" !"
+
+msgid "Failed to execute operation!"
+msgstr "L'exécution de l’opération a échouée!"
+
+msgid "Open relay"
+msgstr "Ouvrir relais"
+
+msgid "Operation not supported by this device"
+msgstr "Opération non supportée par cet appareil"
+
+msgid "Relay control"
+msgstr "Contrôle du relais"
+
+msgid "Remote control a device's relay switch."
+msgstr "Commander l’interrupteur de relais de l’appareil à distance."
+
+msgid "Sent operation: \"{{description | translate}}\"!"
+msgstr "Opération créée: \" {{description | translate}} \" !"
+
+msgid "Successfully executed operation: \"{{description | translate}}\"!"
+msgstr "Opération exécutée avec succès : \" {{description | translate}} \" !"

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 rule"
+msgid_plural "{{qty}} rules"
+msgstr[0] "{{qty}} 件のルール"
+
+msgid "Add module"
+msgstr "モジュールを追加"
+
+msgid "Add your first module by clicking below."
+msgstr "以下をクリックして最初のモジュールを追加してください"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "Append"
+msgstr "追加"
+
+msgid "Business rules"
+msgstr "ビジネスルール"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Changes not saved"
+msgstr "変更は保存されていません"
+
+msgid "Click to edit"
+msgstr "クリックして編集"
+
+msgid "Collapse"
+msgstr "折りたたむ"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Connected"
+msgstr "接続済み"
+
+msgid "Debugging and monitoring"
+msgstr "デバッグとモニタリング"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Deployed"
+msgstr "デプロイ済み"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Do you really want to remove the module \"{{moduleName}}\"?"
+msgstr "本当にモジュール \"{{moduleName}}\" を削除しますか？"
+
+msgid "Do you want to leave this page and discard the changes made?"
+msgstr "変更を破棄してこのページを離れますか？"
+
+msgid "ERROR"
+msgstr "エラー"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Event processing"
+msgstr "イベント処理"
+
+msgid "Event processing rules"
+msgstr "イベント処理ルール"
+
+msgid "Event processing rules examples"
+msgstr "イベント処理ルール例"
+
+msgid "Examples"
+msgstr "例"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Filter notifications"
+msgstr "フィルタ通知"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/administration/#event-processing\">User Guide</a>."
+msgstr "詳細については、<a c8y-guide-href=\"users-guide/administration/#event-processing\">ユーザーガイド</a>をご覧ください"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Last modified"
+msgstr "最終変更"
+
+msgid "Last modified: {{vm.module.lastModified | absoluteDate}}"
+msgstr "最終変更: {{vm.module.lastModified | absoluteDate}}"
+
+msgid "Metrics"
+msgstr "メトリック"
+
+msgid "Module \"{{name}}\" has been renamed!"
+msgstr "モジュール \"{{name}}\" の名前が変更されました"
+
+msgid "Module \"{{name}}\" has been saved successfully!"
+msgstr "モジュール \"{{name}}\"が正常に保存されました"
+
+msgid "New module"
+msgstr "新しいモジュール"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No event processing modules found"
+msgstr "利用可能なイベント処理モジュールが見つかりません"
+
+msgid "No metrics available"
+msgstr "利用可能なメトリックはありません"
+
+msgid "No notifications received yet"
+msgstr "受信した通知はまだありません"
+
+msgid "Not deployed"
+msgstr "未デプロイ"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Only letters, digits and underscore allowed, must not start with a digit!"
+msgstr "文字、数字、アンダースコア( _ )のみ使用できます。数字で始めることはできません"
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Search in examples"
+msgstr "例を検索"
+
+msgid "Source code"
+msgstr "ソースコード"
+
+msgid "Statement"
+msgstr "ステートメント"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "e.g. myModule01"
+msgstr "(例) myModule01"
+
+msgid "newmodule"
+msgstr "新しいモジュール"

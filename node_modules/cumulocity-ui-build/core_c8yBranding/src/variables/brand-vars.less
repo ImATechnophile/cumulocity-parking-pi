@@ -1,0 +1,84 @@
+//------------------------------------
+// BRAND LOGO
+//------------------------------------
+// Logo for login and loading
+@brand-logo-img: 'logo.svg';
+// height of the logo
+@brand-logo-height: 20%;
+// when set adds an image below login form.
+//As an example, check Trakerando branding
+@powered-by: "";
+// places a icon before app name.
+// should be 230px wide.
+@appLogo: "";
+@appLogo-height: 28%; // percentage - height / width * 100
+//When set, it replaces app name with image
+@appBranding: "";
+//------------------------------------
+// TYPOGRAPHY
+//------------------------------------
+@font-face {
+  font-family: "DIN";
+  src: url("@{font-path}DINWebPro.eot");
+  src: url("@{font-path}DINWebPro.eot?#iefix") format("embedded-opentype"),
+  url("@{font-path}DINWebPro.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("@{font-path}DINWebPro-Ita.eot");
+  src: url("@{font-path}DINWebPro-Ita.eot?#iefix") format("embedded-opentype"),
+  url("@{font-path}DINWebPro-Ita.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("@{font-path}DINWebPro-Bold.eot");
+  src: url("@{font-path}DINWebPro-Bold.eot?#iefix") format("embedded-opentype"),
+  url("@{font-path}DINWebPro-Bold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("@{font-path}DINWebPro-Light.eot");
+  src: url("@{font-path}DINWebPro-Light.eot?#iefix") format("embedded-opentype"),
+  url("@{font-path}DINWebPro-Light.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("@{font-path}DINWebPro-LightIta.eot");
+  src: url("@{font-path}DINWebPro-LightIta.eot?#iefix") format("embedded-opentype"),
+  url("@{font-path}DINWebPro-LightIta.woff") format("woff");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-family-sans-serif: "DIN",
+Helvetica,
+Arial,
+sans-serif;
+@font-family-serif: Georgia,
+"Times New Roman",
+Times,
+serif;
+@headings-font-family: inherit;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+@font-family-monospace: Menlo,
+Monaco,
+Consolas,
+"Courier New",
+monospace;
+@font-family-base: @font-family-sans-serif;
+// font size
+@font-size-base: 14px;
+@font-size-large: ceil((@font-size-base * 1.21)); // ~17px
+@font-size-small: ceil((@font-size-base * 0.85)); // ~12px

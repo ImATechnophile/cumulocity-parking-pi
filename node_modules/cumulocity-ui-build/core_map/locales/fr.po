@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Center map"
+msgstr "Centrez la carte"
+
+msgid "Clear geofence"
+msgstr "Effacer geofence"
+
+msgid "Displays a map with position markers for selected devices."
+msgstr "Affiche une carte avec des marqueurs de position pour les appareils sélectionnés."
+
+msgid "Double click to add points and set the area. Click and drag the points to adjust."
+msgstr "Double-cliquez dessus pour ajouter des points, puis la zone. Cliquez et faites glisser les points pour ajuster."
+
+msgid "Edit geofence"
+msgstr "Modifier Geofence"
+
+msgid "Enter address"
+msgstr "Entrez une adresse"
+
+msgid "Map"
+msgstr "Carte"
+
+msgid "Save"
+msgstr "Enregistrer"

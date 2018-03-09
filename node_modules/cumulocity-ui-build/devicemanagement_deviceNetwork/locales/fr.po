@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Address range"
+msgstr "Plage d'adresses"
+
+msgid "Auth type"
+msgstr "Type d'authentification"
+
+msgid "Configure DHCP settings"
+msgstr "Configurer les paramètres DHCP"
+
+msgid "Configure LAN settings"
+msgstr "Configurer les paramètres LAN"
+
+msgid "Configure WAN settings"
+msgstr "Configurer les paramètres WAN"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Domain name"
+msgstr "Nom de domaine"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "IP Address"
+msgstr "Adresse IP"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "MAC address"
+msgstr "Adresse MAC"
+
+msgid "Messaging provider must be configured to send WAN settings to device via SMS"
+msgstr "Fournisseur de messagerie doit être configuré pour envoyer des paramètres WAN à l’appareil via SMS"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Network"
+msgstr "Réseau"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "SIM status"
+msgstr "Statut SIM"
+
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+msgid "Save changes (SMS)"
+msgstr "Enregistrer les modifications (SMS)"
+
+msgid "Sent operation to apply DHCP settings."
+msgstr "Opération envoyée pour appliquer les paramètres DHCP."
+
+msgid "Sent operation to apply LAN settings."
+msgstr "Opération envoyée pour appliquer les paramètres LAN."
+
+msgid "Sent operation to apply WAN settings."
+msgstr "Opération envoyée pour appliquer les paramètres WAN."
+
+msgid "Subnet mask"
+msgstr "Masque de sous-réseau"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "e.g. 12:AB:34:CD:56:EF"
+msgstr "p. ex. 12:AB:34:CD:56:EF"
+
+msgid "e.g. 192.168.0.1"
+msgstr "p. ex. 192.168.0.1"
+
+msgid "e.g. 192.168.0.10"
+msgstr "p. ex. 192.168.0.10"
+
+msgid "e.g. 192.168.0.2"
+msgstr "p. ex. 192.168.0.2"
+
+msgid "e.g. 255.255.255.0"
+msgstr "par ex. 255.255.255.0"

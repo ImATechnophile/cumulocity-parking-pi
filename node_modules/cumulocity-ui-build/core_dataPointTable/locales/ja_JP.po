@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "A table display of a collection of data points"
+msgstr "データポイントのテーブル表示"
+
+msgid "Area"
+msgstr "エリア"
+
+msgid "Data points table"
+msgstr "データポイントテーブル"
+
+msgid "Date &amp; time"
+msgstr "データ&amp;時間"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Maximum"
+msgstr "最大値"
+
+msgid "Minimum"
+msgstr "最小値"
+
+msgid "Realtime"
+msgstr "リアルタイム"
+
+msgid "Red range: {{min}} … {{max}}"
+msgstr "障害範囲: {{min}} … {{max}}"
+
+msgid "Show date selection"
+msgstr "集計日時選択ボックスを表示"
+
+msgid "Yellow range: {{min}} … {{max}}"
+msgstr "注意範囲: {{min}} … {{max}}"

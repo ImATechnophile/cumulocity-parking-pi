@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_alarms/widget-config.html:37
+msgid "Add alarm type"
+msgstr ""
+
+#: core_alarms/index.js:10
+#: core_alarms/widget.config.js:15
+msgid "Alarm list"
+msgstr ""
+
+#: core_alarms/widget-config.html:23
+msgid "Alarm type"
+msgstr ""
+
+#: core_alarms/widget-config.html:66
+msgid "By active status"
+msgstr ""
+
+#: core_alarms/widget-config.html:84
+msgid "By severity"
+msgstr ""
+
+#: core_alarms/index.js:11
+#: core_alarms/widget.config.js:16
+msgid "Displays a list of alarms filtered by object, severity and status"
+msgstr ""
+
+#: core_alarms/widget-config.html:56
+msgid "Order"
+msgstr ""
+
+#: core_alarms/widget-config.html:71
+msgid "Order alarms by active status, severity, and time"
+msgstr ""
+
+#: core_alarms/widget-config.html:89
+msgid "Order alarms by severity and time"
+msgstr ""
+
+#: core_alarms/widget-config.html:96
+msgid "Please select at least one severity."
+msgstr ""
+
+#: core_alarms/widget-config.html:41
+msgid "Severities"
+msgstr ""
+
+#: core_alarms/widget-config.html:2
+msgid "Status"
+msgstr ""
+
+#: core_alarms/widget-config.html:16
+msgid "Types"
+msgstr ""

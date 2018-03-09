@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:43
+msgid "Address"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:104
+msgid "Application key"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:94
+msgid "Application session key"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpact.html:42
+msgid "Back"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:109
+msgid "Global application ID"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:244
+msgid "IMSI"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:234
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:62
+msgid "IP"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:33
+msgid "Identifier"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:129
+msgid "LWM2M"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:175
+msgid "Latitude"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:85
+msgid "LoRa"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:180
+msgid "Longitude"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:53
+msgid "M-Bus"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:225
+msgid "NB IoT-SGI"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:208
+msgid "Network provider name"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:99
+msgid "Network session key"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpact.html:55
+msgid "Next"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:239
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:67
+msgid "Port"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpact.html:6
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:28
+msgid "Protocol"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:138
+msgid "Public key or identity"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:143
+msgid "Secret key"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpact.html:15
+msgid "Select protocol"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:38
+msgid "Serial number"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:170
+msgid "Stream URL"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:249
+msgid "Unique SGI interface identifier"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:161
+msgid "Video analytics"
+msgstr ""
+
+#: core_deviceRegistrationImpactProvider/deviceRegistrationImpactProvider.service.js:199
+msgid "Xirgo OBD"
+msgstr ""

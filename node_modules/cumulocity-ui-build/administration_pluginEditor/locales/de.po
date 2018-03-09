@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "- Show all"
+msgstr "- Alle anzeigen"
+
+msgid "- Show all -"
+msgstr "- Alle anzeigen -"
+
+msgid "Add plugin"
+msgstr "Plugin hinzufügen"
+
+msgid "Application manifest updated!"
+msgstr "Anwendungsmanifest aktualisiert."
+
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Available plugins"
+msgstr "Verfügbare Plugins"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Do you really want to remove plugin \"{{pluginPackage.name || pluginName}}\"?"
+msgstr "Möchten Sie das Plugin \"{{pluginPackage.name || pluginName}}\" löschen?"
+
+msgid "Filter by category"
+msgstr "Nach Kategorie filtern"
+
+msgid "Filter…"
+msgstr "Filter..."
+
+msgid "Plugin \"{{pluginPackage.name || pluginName}}\" removed from application!"
+msgstr "Plugin \"{{pluginPackage.name || pluginName}}\" aus der Anwendung entfernt."
+
+msgid "Plugin already subscribed!"
+msgstr "Plugin bereits abonniert."
+
+msgid "Plugin successfully added to application!"
+msgstr "Plugin zur Anwendung hinzugefügt"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "Remove"
+msgstr "Löschen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Selected file is not a ZIP archive! Please choose appropriate file."
+msgstr "Die ausgewählte Datei ist keine Zip-Datei. Bitte wählen Sie eine Zip-Datei aus."
+
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+msgid "Subscribed plugins"
+msgstr "Abonnierte Plugins"
+
+msgid "Unsubscribe"
+msgstr "Abbestellen"
+
+msgid "Updating application"
+msgstr "Anwendung aktualisieren"
+
+msgid "Uploading archive"
+msgstr "Archivdatei wird hochgeladen"

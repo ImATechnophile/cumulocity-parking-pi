@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add software"
+msgstr "Añadir software"
+
+msgid "Add software using the button on the toolbar."
+msgstr "Añadir software utilizando el botón en la barra de herramientas."
+
+msgid "Back"
+msgstr "Atras"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delete software"
+msgstr "Eliminar software"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Do you really want to remove software \"{{name}}\"?"
+msgstr "¿Realmente desea eliminar el software \"{{name}}\"?"
+
+msgid "File"
+msgstr "Archivo"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Management"
+msgstr "Dirección"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No software to display."
+msgstr "No hay software para mostrar."
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Software repository"
+msgstr "Depósito de software"
+
+msgid "Software successfully added."
+msgstr "Software agregado exitosamente."
+
+msgid "Software successfully removed."
+msgstr "Software eliminado correctamente."
+
+msgid "Version"
+msgstr "Versión"

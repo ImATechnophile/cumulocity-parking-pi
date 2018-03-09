@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active, critical alarms"
+msgstr "Alarmas activas críticas"
+
+msgid "Browse the manual <a c8y-guide-href=\"users-guide/cockpit/\">here</a>."
+msgstr "Examine el manual <a c8y-guide-href=\"users-guide/cockpit/\">aquí</a>."
+
+msgid "Cockpit Welcome"
+msgstr "Cockpit bienvenido"
+
+msgid "Displays a welcome message for Cockpit"
+msgstr "Muestra un mensaje de bienvenida para Cockpit"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Recent alarms"
+msgstr "Alarmas recientes"
+
+msgid "Welcome to Cockpit application"
+msgstr "Bienvenido a la aplicación Cockpit"

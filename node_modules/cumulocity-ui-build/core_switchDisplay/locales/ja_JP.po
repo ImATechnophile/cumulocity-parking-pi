@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Add configuration"
+msgstr "構成を追加"
+
+msgid "At least one configuration needs to be added."
+msgstr "少なくとも１つの構成を追加する必要があります"
+
+msgid "Data point name"
+msgstr "データポイント名"
+
+msgid "Data point status"
+msgstr "データポイントステータス"
+
+msgid "Delete configuration"
+msgstr "構成を削除"
+
+msgid "Displays in realtime the status of any binary data point."
+msgstr "バイナリデータポイントのステータスをリアルタイムで表示"
+
+msgid "Inactive"
+msgstr "非アクティブ"
+
+msgid "Label for active"
+msgstr "アクティブのラベル"
+
+msgid "Label for inactive"
+msgstr "非アクティブのラベル"
+
+msgid "Managed object property"
+msgstr "管理対象オブジェクトのプロパティ"
+
+msgid "Save configuration"
+msgstr "構成を保存"
+
+msgid "Switch"
+msgstr "切り替える"
+
+msgid "Update configuration"
+msgstr "構成を更新"
+
+msgid "Value for active"
+msgstr "有効な値"
+
+msgid "Value for inactive"
+msgstr "無効な値"

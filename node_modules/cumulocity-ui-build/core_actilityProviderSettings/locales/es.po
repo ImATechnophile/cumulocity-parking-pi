@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Application EUI"
+msgstr "Aplicación EUI"
+
+msgid "Connectivity"
+msgstr "Conectividad"
+
+msgid ""
+"Credentials have already been provided.<br>\n"
+"          Click \"Replace credentials\" below to overwrite them."
+msgstr ""
+"Ya se han proporcionado las credenciales. <br>\n"
+"          Haga clic en “Reemplazar credenciales” para sobre escribirlas."
+
+msgid "Credentials successfully saved"
+msgstr "Credenciales guardadas con éxito"
+
+msgid "LoRa provider settings"
+msgstr "Ajustes del proveedor LoRa"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Profile ID"
+msgstr "ID del perfil"
+
+msgid "Replace credentials"
+msgstr "Reemplazar credenciales"
+
+msgid "Save credentials"
+msgstr "Guardar credenciales"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "There are no credentials provided yet. Please provide some."
+msgstr "Todavía no hay credenciales proporcionadas. Por favor proporcione algunas."
+
+msgid "Username"
+msgstr "Nombre de usuario"

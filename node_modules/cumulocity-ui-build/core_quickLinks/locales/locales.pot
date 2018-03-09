@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_quickLinks/component.controller.js:158
+msgid "Add device"
+msgstr ""
+
+#: core_quickLinks/component.controller.js:180
+msgid "Add group"
+msgstr ""
+
+#: core_quickLinks/component.controller.js:130
+msgid "Add user"
+msgstr ""
+
+#: core_quickLinks/views/deviceRegistration.html:24
+msgid "Close"
+msgstr ""
+
+#: core_quickLinks/component.controller.js:255
+msgid "Cockpit"
+msgstr ""
+
+#: core_quickLinks/views/deviceRegistration.html:21
+msgid "Create"
+msgstr ""
+
+#: core_quickLinks/controllers/deviceRegistration.js:25
+msgid "Create device"
+msgstr ""
+
+#: core_quickLinks/component.controller.js:201
+msgid "Device"
+msgstr ""
+
+#: core_quickLinks/views/deviceRegistration.html:7
+msgid "Device ID"
+msgstr ""
+
+#: core_quickLinks/views/deviceRegistration.html:15
+msgid "Device ID is required."
+msgstr ""
+
+#: core_quickLinks/component.controller.js:234
+msgid "Device management"
+msgstr ""
+
+#: core_quickLinks/controllers/deviceRegistration.js:18
+msgid "Device {{id}} is successfully registered."
+msgstr ""
+
+#: core_quickLinks/index.js:12
+msgid "Displays a panel with quick links"
+msgstr ""
+
+#: core_quickLinks/component.controller.js:270
+msgid "Help & Service"
+msgstr ""

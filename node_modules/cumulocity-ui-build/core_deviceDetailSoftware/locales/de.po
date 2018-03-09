@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Confirm software changes?"
+msgstr "Softwareänderungen speichern?"
+
+msgid "Current firmware"
+msgstr "Aktuelle Firmware"
+
+msgid "Do you want to create a device operation to process the software changes? Please note that this operation is asynchronous."
+msgstr "Möchten Sie die Softwareänderungen durchführen? Den Status der Änderungen können Sie unter “Steuerung” verfolgen."
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Firmware to install"
+msgstr "Zu installierende Firmware"
+
+msgid "Install"
+msgstr "Installieren"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No firmware information available"
+msgstr "Keine Firmware-Daten verfügbar."
+
+msgid "No software available on the device"
+msgstr "Keine Software-Daten auf diesem Gerät verfügbar."
+
+msgid "Operation to update firmware created"
+msgstr "Firmware-Upgrade wird durchgeführt"
+
+msgid "Remove"
+msgstr "Löschen"
+
+msgid "Reset changes"
+msgstr "Änderungen zurücksetzen"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Software change operation created"
+msgstr "Softwareänderung gesendet."
+
+msgid "Software to install"
+msgstr "Zu installierende Software"
+
+msgid "Submit operation"
+msgstr "Kommando senden"
+
+msgid "Update device software."
+msgstr "Gerätesoftware aktualisieren"
+
+msgid "Update firmware: {{firmwareName}} - {{firmwareVersion}}"
+msgstr "Firmware aktualisieren: {{firmwareName}} - {{firmwareVersion}}"
+
+msgid "Version"
+msgstr "Version"

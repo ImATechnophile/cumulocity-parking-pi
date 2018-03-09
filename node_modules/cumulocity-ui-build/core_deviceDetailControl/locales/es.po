@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Array of Relays"
+msgstr "Matriz de retransmisiones"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Created operation: \"{{opDescription | translate}}\"!"
+msgstr "¡Se ha creado la operación \"{{opDescription | translate}}\"!"
+
+msgid "Off"
+msgstr "Desactivado"
+
+msgid "On"
+msgstr "On"
+
+msgid "Relay"
+msgstr "Retrasmisión"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "Restart device"
+msgstr "Reiniciar dispositivo"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Send an operation to restart the device. The process of restart can be monitored under the operations of the device."
+msgstr "Envíe una operación para reiniciar el dispositivo. El proceso de reinicio puede controlarse en las operaciones del dispositivo."
+
+msgid "Send an operation to show a particular message to the device. The device behavior is device dependent."
+msgstr "Envíe una operación para mostrar un mensaje concreto al dispositivo. El comportamiento del dispositivo es dependiente del dispositivo."
+
+msgid "Send an operation to start or stop device internal tracing. Result of tracing is device dependent, it can generate more events or generate a file inside the device."
+msgstr "Envíe una operación para iniciar o detener el seguimiento interno del dispositivo. Resultado del rastreo es dispositivo dependiente, puede generar más eventos o generar un archivo dentro del dispositivo."
+
+msgid "Send an operation to switch a relay on or off."
+msgstr "Envíe una operación para cambiar un retransmisión de encendido o apagado."
+
+msgid "Send an operation to switch an array of relays on or off."
+msgstr "Envíe una operación para cambiar una matriz de retransmisiones de encendido o apagado."
+
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+msgid "Send message \"{{msg}}\""
+msgstr "Enviar mensaje “{{msg}}”"
+
+msgid "Trace status"
+msgstr "Estado de trazado"
+
+msgid "Trace status to {{traceState}}"
+msgstr "Estado de trazado {{traceState}}"
+
+msgid "Update relay status to {{relayStatus}}"
+msgstr "Actualizar estado de retransmisión a {{relayStatus}}"

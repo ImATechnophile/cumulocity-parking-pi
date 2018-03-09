@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "- Show all"
+msgstr "- すべてを表示"
+
+msgid "- Show all -"
+msgstr "- すべてを表示 -"
+
+msgid "Add plugin"
+msgstr "プラグインを追加"
+
+msgid "Application manifest updated!"
+msgstr "アプリケーションのマニフェストが更新されました"
+
+msgid "Are you sure?"
+msgstr "本当に実行しますか？"
+
+msgid "Available plugins"
+msgstr "利用可能なプラグイン"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Do you really want to remove plugin \"{{pluginPackage.name || pluginName}}\"?"
+msgstr "本当にプラグイン \"{{pluginPackage.name || pluginName}}\" を削除しますか？"
+
+msgid "Filter by category"
+msgstr "カテゴリで絞り込む"
+
+msgid "Filter…"
+msgstr "フィルタ…"
+
+msgid "Plugin \"{{pluginPackage.name || pluginName}}\" removed from application!"
+msgstr "プラグイン \"{{pluginPackage.name || pluginName}}\"がアプリケーションから削除されました"
+
+msgid "Plugin already subscribed!"
+msgstr "プラグインは既に登録済みです"
+
+msgid "Plugin successfully added to application!"
+msgstr "プラグインがアプリケーションに正常に追加されました"
+
+msgid "Plugins"
+msgstr "プラグイン"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Selected file is not a ZIP archive! Please choose appropriate file."
+msgstr "選択したファイルはZIPアーカイブではありません。適切なファイルを選択してください"
+
+msgid "Subscribe"
+msgstr "登録"
+
+msgid "Subscribed plugins"
+msgstr "登録済みプラグイン"
+
+msgid "Unsubscribe"
+msgstr "登録解除"
+
+msgid "Updating application"
+msgstr "アプリケーションを更新中"
+
+msgid "Uploading archive"
+msgstr "アーカイブをアップロード中"

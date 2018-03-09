@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "(file size up to {{maxFileSizeKB}} KB)"
+msgstr "(Dateigröße maximal {{maxFileSizeKB}} KB)"
+
+msgid "Display a single image selected from the user's computer."
+msgstr "Zeigt ein Bild an, dass der Benutzer auf seinem Computer ausgewählt hat"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Selected file has invalid extension!"
+msgstr "Die ausgewählte Datei hat eine ungültige Endung."
+
+msgid "Selected file is too large!"
+msgstr "Ausgewählte Datei ist zu groß."

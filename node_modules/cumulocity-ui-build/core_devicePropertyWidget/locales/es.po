@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Fragments"
+msgstr "Fragmentos"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Table of device properties, e.g. name, type or notes."
+msgstr "Tabla de propiedades del dispositivo, por ejemplo nombre, tipo o notas."

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "<strong>No data filters defined.</strong><br>Data filters define the set of data to be forwarded. You must set at least one filter."
+msgstr "<strong>データフィルタが定義されていません。</strong><br>データフィルタは転送されるデータセットを定義します。少なくとも1つのフィルタを設定する必要があります。"
+
+msgid "API"
+msgstr "API"
+
+msgid "Accept"
+msgstr "承認"
+
+msgid "Accept operation completed successfully!"
+msgstr "承認操作は正常に完了しました"
+
+msgid "Accept to finish data subscription setup, discard to remove it."
+msgstr "データサブスクリプションのセットアップの終了を承認し、破棄して削除します"
+
+msgid "Accepted"
+msgstr "承認されました"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add a data subscription by clicking below."
+msgstr "以下をクリックしデータサブスクリプションを追加"
+
+msgid "Add data connector"
+msgstr "データコネクタを追加"
+
+msgid "Add data subscription"
+msgstr "データサブスクリプションを追加"
+
+msgid "Add filter"
+msgstr "フィルタを追加"
+
+msgid "Add your first data connector by clicking below."
+msgstr "以下をクリックして最初のデータコネクタを追加してください"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "All groups and devices"
+msgstr "すべてのグループとデバイス"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Connection established"
+msgstr "接続が確立されました"
+
+msgid "Connector is working"
+msgstr "コネクタは動作しています"
+
+msgid "Connector name updated!"
+msgstr "コネクタ名が変更されました"
+
+msgid "Connector not bootstrapped but suspended by source tenant"
+msgstr "コネクタはブートストラップされていませんが、ソーステナントによって中断されています"
+
+msgid "Connector not bootstrapped yet"
+msgstr "コネクタはまだブートストラップされていません"
+
+msgid "Connector removed!"
+msgstr "コネクタが削除されました"
+
+msgid "Connector saved!"
+msgstr "コネクタが保存されました"
+
+msgid "Connector successfully deleted!"
+msgstr "コネクタは正常に削除されました"
+
+msgid "Connector suspended by source tenant"
+msgstr "コネクタはソーステナントによって中断されました"
+
+msgid "Copy all fragments"
+msgstr "すべてのフラグメントをコピー"
+
+msgid "Copy: all"
+msgstr "コピー: すべて"
+
+msgid "Copy: standard only"
+msgstr "コピー: スタンダードのみ"
+
+msgid "Copy: {{fragments}}"
+msgstr "コピー: {{fragments}}"
+
+msgid "Create new subscription"
+msgstr "新しいサブスクリプションを作成"
+
+msgid "Data broker"
+msgstr "データブローカ"
+
+msgid "Data connectors"
+msgstr "データコネクタ"
+
+msgid "Data filters"
+msgstr "データフィルタ"
+
+msgid "Data subscriptions"
+msgstr "データサブスクリプション"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Discard"
+msgstr "破棄する"
+
+msgid "Discard operation completed successfully!"
+msgstr "破棄操作は正常に完了しました"
+
+msgid "Do you really want to delete connector \"{{name}}\"?"
+msgstr "本当にコネクタ \"{{name}}\" を削除しますか？"
+
+msgid "Do you really want to delete subscription \"{{connectorName}}\"?"
+msgstr "本当にサブスクリプション \"{{connectorName}}\" を削除しますか？"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "Duplicate of {{name}}"
+msgstr "{{name}}の複製"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Enable or disable data subscription"
+msgstr "データサブスクリプションを有効または無効にする"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Filter: none"
+msgstr "フィルタ: なし"
+
+msgid "Filter: {{fragments}}"
+msgstr "フィルタ: {{fragments}}"
+
+msgid "Filters"
+msgstr "フィルタ"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/overview/\">User guide</a>."
+msgstr "詳細は <a c8y-guide-href=\"users-guide/overview/\">ユーザガイド</a>　を参照してください"
+
+msgid "Fragment"
+msgstr "フラグメント"
+
+msgid "Fragments to copy"
+msgstr "コピーするフラグメント"
+
+msgid "Fragments to filter"
+msgstr "フィルタリングするフラグメント"
+
+msgid "Group or device"
+msgstr "グループまたはデバイス"
+
+msgid "Inactive"
+msgstr "非アクティブ"
+
+msgid "Insert code provided by source tenant."
+msgstr "ソーステナントによって提供されたコードを挿入"
+
+msgid "Insert security code"
+msgstr "セキュリティコードを挿入"
+
+msgid "Inventory structure synchronization in progress"
+msgstr "インベントリ構造の同期が進行中です"
+
+msgid "Managed objects"
+msgstr "管理対象オブジェクト"
+
+msgid "Measurements"
+msgstr "計測値"
+
+msgid "New data connector"
+msgstr "新しいデータコネクタ"
+
+msgid "New data subscription"
+msgstr "新しいデータサブスクリプション"
+
+msgid "New subscription code registered successfully!"
+msgstr "新しいサブスクリプションコードが正常に登録されました"
+
+msgid "No data connectors to display."
+msgstr "表示できるデータ接続はありません"
+
+msgid "No data subscriptions to display."
+msgstr "表示できるデータサブスクリプションはありません"
+
+msgid "Pending acceptance"
+msgstr "承認待ち"
+
+msgid "Register new subscription"
+msgstr "新しいサブスクリプションを登録"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Security code"
+msgstr "セキュリティコード"
+
+msgid "Security code will be requested on the target tenant to establish connection."
+msgstr "接続を確立するために、対象テナントにセキュリティコードの要求が送信されます"
+
+msgid "Select at least one"
+msgstr "少なくとも1つを選択してください"
+
+msgid "Source tenant status"
+msgstr "ソーステナントステータス"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Subscribed devices are charged as normal devices."
+msgstr "登録済みのデバイスは通常のデバイスとして課金されます"
+
+msgid "Subscription in destination tenant disabled"
+msgstr "宛先テナントのサブスクリプションが無効です"
+
+msgid "Subscription in destination tenant disabled and then connector suspended by source tenant"
+msgstr "宛先テナントのサブスクリプションが無効なため、ソーステナントによってコネクタが一時停止されています"
+
+msgid "Subscription registration"
+msgstr "サブスクリプション登録"
+
+msgid "Subscription removed successfully!"
+msgstr "サブスクリプションは正常に削除されました"
+
+msgid "Target URL for data connector"
+msgstr "データコネクタの対象のURL"
+
+msgid "The target Url did not accept the connection yet"
+msgstr "対象URLはまだ接続を承認していません"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Type filter"
+msgstr "タイプフィルタ"
+
+msgid "Valid url is required."
+msgstr "有効なURLが必要です"
+
+msgid "Waiting"
+msgstr "待機中"
+
+msgid "Waiting for connection"
+msgstr "接続待ち"
+
+msgid "Waiting for data subscription setup to complete…"
+msgstr "データサブスクリプションのセットアップが完了するのを待っています..."
+
+msgid "activating"
+msgstr "有効化中"
+
+msgid "active"
+msgstr "アクティブ"
+
+msgid "disabled"
+msgstr "無効"
+
+msgid "e.g. Forwarding measurements"
+msgstr "(例) 測定値を転送"
+
+msgid "e.g. My connector"
+msgstr "(例) My connector"
+
+msgid "e.g. c8y_FragmentToCopy"
+msgstr "(例) c8y_FragmentToCopy"
+
+msgid "e.g. c8y_FragmentToFilter"
+msgstr "(例) c8y_FragmentToFilter"
+
+msgid "e.g. c8y_Linux"
+msgstr "(例) c8y_Linux"
+
+msgid "e.g. https://target-tenant.com"
+msgstr "(例) https://target-tenant.com"
+
+msgid "enabled"
+msgstr "有効"
+
+msgid "pending"
+msgstr "保留中"
+
+msgid "suspended"
+msgstr "中断中"
+
+msgid "waiting"
+msgstr "待機中"
+
+msgid "{{status | translate}} using code {{code}}"
+msgstr "{{status | translate}} 使用中のコード {{code}}"

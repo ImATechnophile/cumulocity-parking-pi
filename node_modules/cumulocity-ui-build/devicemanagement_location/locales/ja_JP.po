@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add location"
+msgstr "位置を追加"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Address could not be found!"
+msgstr "住所が見つかりません"
+
+msgid "Altitude"
+msgstr "高度"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Center map"
+msgstr "地図の中心"
+
+msgid "Current location"
+msgstr "現在地"
+
+msgid "Device location may be set by the device itself, or manually in the platform"
+msgstr "デバイスの位置は、デバイス自体で設定することも、プラットフォーム内で手動で設定することもできます"
+
+msgid "Displays a map with device position marker"
+msgstr "地図上にデバイス位置をマーカーで表示"
+
+msgid "Edit location"
+msgstr "位置を編集"
+
+msgid "Find lat/long by address"
+msgstr "住所による緯度/経度の検索"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Location successfully saved!"
+msgstr "位置が正常に保存されました"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "Save"
+msgstr "保存"

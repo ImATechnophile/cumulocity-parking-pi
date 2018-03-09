@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: cockpit_dataPointExplorerUI/index.js:14
+#: cockpit_dataPointExplorerUI/index.js:21
+msgid "Data explorer"
+msgstr ""

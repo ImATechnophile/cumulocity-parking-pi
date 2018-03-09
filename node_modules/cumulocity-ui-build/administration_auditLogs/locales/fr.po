@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Accounts"
+msgstr "Comptes"
+
+msgid "All types"
+msgstr "Tous les types"
+
+msgid "Apply filters"
+msgstr "Appliquer les filtres"
+
+msgid "Audit logs"
+msgstr "Journal d'audit"
+
+msgid "Clear filters"
+msgstr "Effacer les filtres"
+
+msgid "Date from"
+msgstr "Date initiale"
+
+msgid "Date to"
+msgstr "Date jusqu’à"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "Who"
+msgstr "Qui"

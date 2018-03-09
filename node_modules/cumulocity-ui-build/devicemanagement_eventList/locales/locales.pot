@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_eventList/index.js:16
+#: devicemanagement_eventList/index.js:22
+#: devicemanagement_eventList/index.js:8
+msgid "Events"
+msgstr ""
+
+#: devicemanagement_eventList/index.js:7
+msgid "Overviews"
+msgstr ""

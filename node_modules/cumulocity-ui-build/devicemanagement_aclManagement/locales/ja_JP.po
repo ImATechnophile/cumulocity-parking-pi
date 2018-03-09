@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add permission"
+msgstr "アクセス権限を追加"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Check user permission"
+msgstr "ユーザのアクセス権限を確認"
+
+msgid "Check user permissions section allows you to verify permissions granted to selected user for the device also inherited from parent devices or assinged to user group. Granted permission section allows you to check and manage permissions for the device."
+msgstr "ユーザのアクセス権限の確認セクションでは、親デバイスから継承された、またはユーザグループに割り当てられたデバイスに対して、選択したユーザに与えられたアクセス権限を確認できます。 与えられたアクセス権限セクションでは、デバイスのアクセス権限を確認および管理できます"
+
+msgid "GROUP"
+msgstr "グループ"
+
+msgid "Granted permission"
+msgstr "与えられたアクセス権限"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Has right to"
+msgstr "権利があります"
+
+msgid "New permission"
+msgstr "新しいアクセス権限"
+
+msgid "No permissions for user."
+msgstr "ユーザのアクセス権限がありません"
+
+msgid "Permissions"
+msgstr "アクセス権限"
+
+msgid "Permissions successfully updated"
+msgstr "アクセス権限が正常に更新されました"
+
+msgid "Read"
+msgstr "読み取り"
+
+msgid "Read and write"
+msgstr "読み書き"
+
+msgid "Remove permission"
+msgstr "アクセス権限を削除"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select or search"
+msgstr "選択または検索"
+
+msgid "Select or search user"
+msgstr "ユーザを選択または検索"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "この機能は非推奨です。 まだ完全に機能していますが、アクセス権限を設定するため、新しい<a href=\"/apps/administration#roles\">ロール</a>機能を使用するべきです"
+
+msgid "USER"
+msgstr "ユーザ"
+
+msgid "User"
+msgstr "ユーザ"
+
+msgid "Write"
+msgstr "書き込み"
+
+msgid "all types of objects"
+msgstr "すべてのタイプのオブジェクト"
+
+msgid "any"
+msgstr "すべて"
+
+msgid "fragment"
+msgstr "フラグメント"
+
+msgid "with"
+msgstr "with"

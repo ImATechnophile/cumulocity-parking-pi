@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_infoGauge/infoGaugeWidget.config.html:2
+msgid "Data point for gauge"
+msgstr ""
+
+#: core_infoGauge/infoGaugeWidget.config.html:10
+msgid "Data point for labels"
+msgstr ""
+
+#: core_infoGauge/infoGaugeWidget.config.html:18
+msgid "Decimal places"
+msgstr ""
+
+#: core_infoGauge/infoGauge.service.js:26
+msgid "Info gauge"
+msgstr ""
+
+#: core_infoGauge/infoGauge.service.js:27
+msgid "Radial gauge and mutiple label and value pairs for data points"
+msgstr ""

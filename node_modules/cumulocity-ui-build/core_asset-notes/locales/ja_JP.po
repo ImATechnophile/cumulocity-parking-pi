@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Asset notes"
+msgstr "アセットノート"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Displays editable asset notes."
+msgstr "編集可能なアセットノートを表示する"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "No notes yet!"
+msgstr "まだノートがありません"
+
+msgid "Notes saved successfully!"
+msgstr "ノートは正常に保存されました"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "{{vm.notes.lastUpdated | absoluteDate}} by {{vm.notes.user}}"
+msgstr "{{vm.notes.user}}による{{vm.notes.lastUpdated | absoluteDate}}"

@@ -1,0 +1,28 @@
+.style{
+  font-style: oblique;
+  font-size: 24px;
+  /*color:#5107ff;*/
+  /*text-shadow: 3px 2px red;*/
+}
+	
+.input-group.md-form.form-sm.form-2 input {
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+.input-group.md-form.form-sm.form-2 input.grey-border  {
+    border: 1px solid #e9ecef;
+}
+.input-group input[type=text]:focus:not([readonly]) {
+    box-shadow: none;
+}
+.form-2 .input-group-text {
+    border: 1px solid #e9ecef;
+}
+.rwstyle{
+  font-size: 18px !important;
+}
+.thstyle{
+  font-size: 20px !important;
+}
+

@@ -1,0 +1,48 @@
+.roles-asset-tree-list {
+  margin: 20px 0;
+}
+
+.role-asset-tree-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  align-items: center;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  justify-content: flex-start;
+  &:nth-child(even) {
+    background-color: @gray-lighter;
+  }
+}
+
+.role-asset-tree-item_group {
+  flex: 0 0 140px;
+  padding-left: 5px;
+  max-width: 140px;
+  @media(min-width: @screen-sm-min) {
+    flex: 0 0 220px;
+    max-width: 220px;
+  }
+}
+
+.role-asset-tree-item_selector {
+  flex: 0 0 calc(~' 100% - 140px');
+  max-width: calc(~' 100% - 140px');
+  @media(min-width: @screen-sm-min) {
+    flex: 0 0 calc(~' 100% - 220px');
+    max-width: calc(~' 100% - 220px');
+  }
+  .c8y-child-assets-selector>.btn {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background-color: transparent;
+  }
+  @media(max-width:@screen-xs-max) {
+    .dropdown-menu {
+      right: 0;
+      left: auto;
+    }
+  }
+}

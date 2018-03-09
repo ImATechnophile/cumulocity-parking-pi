@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Displays the number of devices which are online or have critical alarms"
+msgstr "Muestra el número de dispositivos que estén conectados o tienen alarmas críticas"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Online"
+msgstr "En línea"
+
+msgid "With critical alarms"
+msgstr "Con alarmas críticas"

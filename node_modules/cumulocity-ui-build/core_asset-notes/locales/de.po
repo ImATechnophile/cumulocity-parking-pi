@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Asset notes"
+msgstr "Asset-Anmerkungen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Displays editable asset notes."
+msgstr "Zeigt die editierbaren Asset-Anmerkungen an"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "No notes yet!"
+msgstr "Noch keine Anmerkungen vorhanden."
+
+msgid "Notes saved successfully!"
+msgstr "Anmerkungen erfolgreich hinzugefügt."
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "{{vm.notes.lastUpdated | absoluteDate}} by {{vm.notes.user}}"
+msgstr "{{vm.notes.lastUpdated | absoluteDate}} von {{vm.notes.user}}"

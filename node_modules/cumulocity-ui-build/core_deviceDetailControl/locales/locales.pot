@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceDetailControl/views/control.html:60
+msgid "Array of Relays"
+msgstr ""
+
+#: core_deviceDetailControl/index.js:12
+msgid "Control"
+msgstr ""
+
+#: core_deviceDetailControl/controllers/control.js:97
+msgid "Created operation: \"{{opDescription | translate}}\"!"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:15
+#: core_deviceDetailControl/views/control.html:50
+msgid "Off"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:14
+#: core_deviceDetailControl/views/control.html:49
+msgid "On"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:42
+msgid "Relay"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:32
+msgid "Restart"
+msgstr ""
+
+#: core_deviceDetailControl/controllers/control.js:58
+#: core_deviceDetailControl/views/control.html:25
+msgid "Restart device"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:86
+msgid "Send"
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:28
+msgid "Send an operation to restart the device. The process of restart can be monitored under the operations of the device."
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:80
+msgid "Send an operation to show a particular message to the device. The device behavior is device dependent."
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:10
+msgid "Send an operation to start or stop device internal tracing. Result of tracing is device dependent, it can generate more events or generate a file inside the device."
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:45
+msgid "Send an operation to switch a relay on or off."
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:63
+msgid "Send an operation to switch an array of relays on or off."
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:77
+msgid "Send message"
+msgstr ""
+
+#: core_deviceDetailControl/controllers/control.js:83
+msgid "Send message \"{{msg}}\""
+msgstr ""
+
+#: core_deviceDetailControl/views/control.html:7
+msgid "Trace status"
+msgstr ""
+
+#: core_deviceDetailControl/controllers/control.js:49
+msgid "Trace status to {{traceState}}"
+msgstr ""
+
+#: core_deviceDetailControl/controllers/control.js:68
+msgid "Update relay status to {{relayStatus}}"
+msgstr ""

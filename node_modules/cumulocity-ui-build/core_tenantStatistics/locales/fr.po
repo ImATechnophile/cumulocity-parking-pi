@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 tenant"
+msgid_plural "{{$count}} tenants"
+msgstr[0] "1 gérant"
+msgstr[1] "{{$count}} gérants"
+
+msgid "API requests"
+msgstr "Appels d’API"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Creation time"
+msgstr "Date de création"
+
+msgid "Device API requests"
+msgstr "Appels d'API de l'appareil"
+
+msgid "Devices"
+msgstr "Appareils"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Export CSV"
+msgstr "Exporter CSV"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "From`date`"
+msgstr "De"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "No tenants to display."
+msgstr "Aucun gérant à afficher."
+
+msgid "Number of devices, including child devices"
+msgstr "Nombre d’appareils, y compris les appareils enfants"
+
+msgid "Number of root devices, excluding child devices"
+msgstr "Nombre d’appareils racine, à l'exclusion des appareils enfants"
+
+msgid "Parent tenant"
+msgstr "Gérant parent"
+
+msgid "Reload"
+msgstr "Recharger"
+
+msgid "Root devices"
+msgstr "Appareils de racine"
+
+msgid "Statistic period:"
+msgstr "Période statistique:"
+
+msgid "Storage"
+msgstr "Stockage"
+
+msgid "Storage (MB)"
+msgstr "Stockage (MB)"
+
+msgid "Storage quota"
+msgstr "Quota de stockage"
+
+msgid "Storage quota (MB)"
+msgstr "Quota de stockage (MB)"
+
+msgid "Subscribed applications"
+msgstr "Applications souscrites"
+
+msgid "Tenants"
+msgstr "Gérants"
+
+msgid "Tenants usage statistics"
+msgstr "Statistiques d’utilisation de gérants"
+
+msgid "To`date`"
+msgstr "À"
+
+msgid "Usage statistics"
+msgstr "Statistiques d’utilisation"
+
+msgid "When a storage quota is set, total used storage over storage quota is displayed"
+msgstr "Quand un quota de stockage est défini, le stockage total utilisé plus que le quota de stockage est affichée"

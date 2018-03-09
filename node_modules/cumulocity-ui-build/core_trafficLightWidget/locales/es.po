@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Please choose a device and complete the mapping for all light states."
+msgstr "Elija un dispositivo y complete la asignación para todos los estados."
+
+msgid "Property"
+msgstr "Propiedad"
+
+msgid "Select device property"
+msgstr "Seleccione propiedad del dispositivo"
+
+msgid "Select fieldbus property"
+msgstr "Seleccione propiedad de bus de campo"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "States mapping"
+msgstr "Estados del mapeo"
+
+msgid "The value of the selected data point or property must be one of the following to have the respective light on: true, 1, any non-empty string or any non-null number."
+msgstr "El valor del punto de datos seleccionado o la propiedad debe ser uno de los siguientes pasos para tener la luz correspondiente en: verdad, 1, cualquier número no nulo o cualquier cadena no vacía."
+
+msgid "Traffic light"
+msgstr "Semáforo"
+
+msgid "Visualizes traffic light based on the states of a device"
+msgstr "Visualiza la luz de tráfico basada en los Estados de un dispositivo"
+
+msgid "green"
+msgstr "green"
+
+msgid "red"
+msgstr "rojo"
+
+msgid "yellow"
+msgstr "amarillo"

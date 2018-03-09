@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:66
+msgid "Confirm delete?"
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:5
+msgid "Credentials"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:75
+msgid "Credentials successfully deleted"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:59
+msgid "Credentials successfully updated"
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:36
+msgid "Delete"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:67
+msgid "Deleting credentials will lock out any users with SMS-based two-factors authentication, and disable the SMS-based smart rules and device communication. Are you sure you want to delete your OpenIT credentials?"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:50
+#: administration_SMSGatewayForm/index.js:11
+msgid "OpenIT credentials"
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:23
+msgid "Password"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:95
+msgid "Please enter your OpenIT credentials. These credentials are used for {{uses}}."
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:9
+msgid "Please enter your credentials from your SMS provider.  This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:45
+msgid "Save"
+msgstr ""
+
+#: administration_SMSGatewayForm/index.js:10
+msgid "Settings"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:102
+msgid "This field is required!"
+msgstr ""
+
+#: administration_SMSGatewayForm/views/smsGateway.html:11
+msgid "Username"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:94
+msgid "and"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:91
+msgid "sending SMSs in smart rules"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:92
+msgid "the communication with some devices"
+msgstr ""
+
+#: administration_SMSGatewayForm/controllers/smsGateway.js:90
+msgid "two-factors authentication"
+msgstr ""

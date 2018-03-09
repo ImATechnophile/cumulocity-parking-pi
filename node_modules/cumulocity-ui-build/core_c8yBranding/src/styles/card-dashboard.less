@@ -1,0 +1,105 @@
+.card.card-dashboard {
+  >.card-inner-scroll {
+    position: relative;
+    height: calc(~'100% - 40px');
+    &.has-footer {
+      height: calc(~'100% - 104px');
+    }
+    >.component-map {
+      position: relative;
+      z-index: 11;
+      height: 100%;
+    }
+  }
+  >.fixed-header {
+    .table {
+      margin-bottom: 0;
+    }
+    +.card-inner-scroll {
+      height: calc(~'100% - 90px');
+    }
+    &.datepicker {
+      padding-top: 5px;
+      +.card-inner-scroll {
+        height: calc(~'100% - 137px');
+      }
+    }
+  }
+  >.card-header-actions-no-title+.card-inner-scroll {
+    height: 100%;
+  }
+  .card {
+    margin-bottom: 0;
+
+    .box-shadow(none);
+    .card-inner-scroll {
+      overflow: visible;
+    }
+  }
+  .card-header-actions {
+    .header-actions {
+      color: @navbar-default-link-color;
+      .optionsBtn:not(.open) {
+        color: currentColor;
+        opacity: .3;
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+    &:hover {
+      .header-actions {
+        .optionsBtn {
+          opacity: 1; //color:@navbar-default-link-color!important;
+        }
+        .drag-handle {
+          opacity: 1;
+        }
+      }
+    }
+    .open .c8y-dropdown {
+      color: @navbar-default-link-color!important;
+    }
+  }
+  .card-inner-scroll {
+    >* {
+      padding-top: 0px;
+    }
+    >[c8y-html-widget]>table,
+    .table {
+      margin: 0;
+      td:first-child,
+      th:first-child {
+        padding-left: 15px;
+      }
+      td:last-child,
+      th:last-child {
+        padding-right: 15px;
+      }
+    }
+  }
+  group-assignment {
+    display: block;
+    height: 100%;
+    background-color: @gray-lighter;
+  }
+}
+
+.grid-stack-item .card+.ui-resizable-handle {
+  // right: 30px;
+  // bottom: 30px;
+  margin-bottom: -8px;
+}
+
+.grid-stack>.grid-stack-item>.grid-stack-item-content {
+  right: 0!important;
+  bottom: 0!important;
+  left: 0!important;
+  overflow: visible!important;
+}
+
+@media(max-width: @screen-sm-min) {
+  .grid-stack-item {
+    margin-bottom: 0!important;
+  }
+}

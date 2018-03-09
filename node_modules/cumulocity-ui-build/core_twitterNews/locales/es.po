@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Displays tweets from Twitter's embedded timeline widget"
+msgstr "Muestra tweets del widget de calendario integrado de Twitter"
+
+msgid "No borders"
+msgstr "Sin bordes"
+
+msgid "No footer"
+msgstr "No pie de página"
+
+msgid "No header"
+msgstr "Sin Cabecera"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "Twitter news"
+msgstr "Noticias de Twitter"
+
+msgid "Twitter's username"
+msgstr "Nombre de usuario de Twitter"
+
+msgid "Twitter's widget ID"
+msgstr "ID del widget de Twitter"
+
+msgid "You can obtain Twitter's widget ID from <a href=\"https://twitter.com/settings/widgets\">Widgets Settings</a>."
+msgstr "Puede obtener widget ID de Twitter de <a href=\"https://twitter.com/settings/widgets\">Configuración de Widgets</a>."

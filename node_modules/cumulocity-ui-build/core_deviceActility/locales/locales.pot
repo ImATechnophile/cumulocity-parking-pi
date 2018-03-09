@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceActility/deviceActility.module.js:48
+msgid "Confirm deprovisioning?"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:46
+msgid "Delete"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:34
+msgid "Delete device without deprovisioning"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:25
+msgid "Deprovision"
+msgstr ""
+
+#: core_deviceActility/deviceActility.module.js:14
+msgid "Deprovision device"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:13
+msgid "Deprovision device from ThingPark"
+msgstr ""
+
+#: core_deviceActility/actilityUI.provider.js:73
+msgid "Device has been deleted!"
+msgstr ""
+
+#: core_deviceActility/actilityUI.provider.js:65
+#: core_deviceActility/deviceActility.module.js:53
+msgid "Device has been deprovisioned!"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:21
+#: core_deviceActility/actilityDeviceCard.html:42
+msgid "Including child devices of this device"
+msgstr ""
+
+#: core_deviceActility/actilityDeviceCard.html:5
+msgid "LoRa device"
+msgstr ""

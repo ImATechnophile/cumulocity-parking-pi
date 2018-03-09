@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add device"
+msgstr "デバイスを追加"
+
+msgid "Add group"
+msgstr "グループを追加"
+
+msgid "Add user"
+msgstr "ユーザを追加"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Cockpit"
+msgstr "コックピット"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Create device"
+msgstr "デバイスを作成"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device ID"
+msgstr "デバイスID"
+
+msgid "Device ID is required."
+msgstr "デバイスIDが必要です"
+
+msgid "Device management"
+msgstr "デバイス管理"
+
+msgid "Device {{id}} is successfully registered."
+msgstr "デバイス {{id}} は正常に登録されました"
+
+msgid "Displays a panel with quick links"
+msgstr "クイックリンクのパネルを表示"
+
+msgid "Help & Service"
+msgstr "ヘルプ ＆ サービス"

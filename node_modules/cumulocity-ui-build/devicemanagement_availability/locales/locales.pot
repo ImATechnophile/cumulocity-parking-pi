@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_availability/views/availability-pie.html:5
+msgid "Availability"
+msgstr ""
+
+#: devicemanagement_availability/controllers/availability.js:19
+msgid "Availability percentage is based on the number of critical alarms raised and resolved."
+msgstr ""
+
+#: devicemanagement_availability/index.js:23
+msgid "Devices"
+msgstr ""
+
+#: devicemanagement_availability/controllers/availability.js:10
+msgid "Last day"
+msgstr ""
+
+#: devicemanagement_availability/controllers/availability.js:12
+msgid "Last month"
+msgstr ""
+
+#: devicemanagement_availability/views/availability-graph.html:5
+#: devicemanagement_availability/views/detail.html:44
+msgid "Last month operability"
+msgstr ""
+
+#: devicemanagement_availability/controllers/availability.js:11
+msgid "Last week"
+msgstr ""
+
+#: devicemanagement_availability/controllers/availability.js:20
+msgid "Operability chart displays how many devices had their average availability on particular level in the last month."
+msgstr ""
+
+#: devicemanagement_availability/index.js:24
+#: devicemanagement_availability/index.js:40
+#: devicemanagement_availability/index.js:9
+msgid "Service monitoring"
+msgstr ""
+
+#: devicemanagement_availability/views/detail.html:8
+msgid "availability"
+msgstr ""
+
+#: devicemanagement_availability/views/availability-graph.html:21
+#: devicemanagement_availability/views/availability-pie.html:26
+#: devicemanagement_availability/views/detail.html:22
+#: devicemanagement_availability/views/detail.html:59
+msgid "true"
+msgstr ""

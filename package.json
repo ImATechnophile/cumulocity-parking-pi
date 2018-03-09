@@ -1,0 +1,14 @@
+{
+  "name": "modifyingbranding",
+  "version": "1.0.0",
+  "description": "Editing less files and favicons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saravana",
+  "license": "ISC",
+  "dependencies": {
+  "cumulocity-ui-build": "http://resources.cumulocity.com/webapps/ui/8.21.0.tar.gz"
+  }
+}

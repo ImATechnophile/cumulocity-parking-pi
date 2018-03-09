@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add resource"
+msgstr "Ajouter une ressource"
+
+msgid "BOOLEAN"
+msgstr "BOOLEAN"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Date created"
+msgstr "Date créée"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Device protocol updated"
+msgstr "Protocole d’appareil actualisé"
+
+msgid "Do you want to remove the resource with the id \"{{id}}\""
+msgstr "Voulez-vous supprimer la ressource avec l'ID \"{{id}}\""
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Expand"
+msgstr "Élargir"
+
+msgid "FLOAT"
+msgstr "FLOAT"
+
+msgid "Functionalities"
+msgstr "Fonctionnalités"
+
+msgid "IMPACT"
+msgstr "IMPACT"
+
+msgid "INTEGER"
+msgstr "ENTIER"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Instance type"
+msgstr "Type d'instance"
+
+msgid "Last update"
+msgstr "Dernière actualisation"
+
+msgid "Multiple"
+msgstr "Multiple"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No resources to display. Click below to add."
+msgstr "Aucune ressource à afficher. Cliquez ci-dessous pour ajouter."
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Remove resource?"
+msgstr "Supprimer la ressource?"
+
+msgid "Resource successfully removed"
+msgstr "Ressource supprimée avec succès"
+
+msgid "Resources"
+msgstr "Ressources"
+
+msgid "STRING"
+msgstr "CHAINE"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Single"
+msgstr "Seule"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unit"
+msgstr "Unité"

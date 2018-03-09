@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Create report"
+msgstr "Créer un rapport"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Do you really want to remove report \"{{name}}\"?"
+msgstr "Voulez-vous vraiment supprimer le rapport \" {{name}} \" ?"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit report"
+msgstr "Modifier le rapport"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New report"
+msgstr "Nouveau rapport"
+
+msgid "Remove report"
+msgstr "Supprimer le rapport"
+
+msgid "Report successfully removed!"
+msgstr "Rapport correctement supprimé !"
+
+msgid "Reports"
+msgstr "Rapports"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Select or search icon"
+msgstr "Sélectionner ou chercher l'icône"

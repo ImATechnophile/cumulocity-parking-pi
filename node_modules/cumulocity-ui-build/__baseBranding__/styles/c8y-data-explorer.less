@@ -1,0 +1,115 @@
+.checkBG(@check) when not (@check=inherit) {
+  padding: @margin-base;
+  .form-control:not(:focus),
+  .c8y-select-wrapper {
+    background-color: transparent;
+    color: inherit;
+  }
+}
+
+.c8y-data-explorer {
+  background-color: @data-explorer-bg;
+  color: @data-explorer-color;
+  margin-top: 10px;
+  .checkBG(@data-explorer-bg);
+}
+
+c8y-chart {
+  z-index: 10;
+}
+
+.top-chart-bar {
+  justify-content: space-between;
+  margin: -3px 0;
+  +hr {
+    margin: 10px -@card-padding;
+    +.chart-container {
+      top: 100px!important;
+      @media(min-width: @screen-sm-min) {
+        top: 75px!important;
+      }
+      @media(min-width: @screen-md-min) {
+        top: 30px!important;
+      }
+    }
+  }
+  .measurement-icon-bar-wrapper {
+    flex: 0 0 90px;
+  }
+  c8y-item-selector {
+    display: none;
+    max-width: 170px;
+    @media(min-width: @screen-md-min) {
+      max-width: 240px;
+    }
+    .c8y-child-assets-selector {
+      >.btn {
+        .form-control();
+        .input-sm();
+        padding: 5px 26px 5px 5px!important;
+      }
+    }
+  }
+  &.has-data-selector {
+    c8y-item-selector {
+      display: block;
+    }
+  }
+}
+
+// inside dashboard widgets
+.card-dashboard {
+  .top-chart-bar {
+    margin: 0;
+  }
+  c8y-measurements-icon-bar {
+    width: 100%;
+  }
+  .top-chart-bar {
+    padding-left: @card-padding;
+    padding-right: @card-padding;
+    +hr {
+      display: none;
+    }
+    c8y-item-selector {
+      max-width: 170px;
+    }
+  }
+}
+
+.has-aggregation .measurement-icon-bar .c8y-realtime {
+  display: none;
+}
+
+.c8y-timelines-chart,
+.chart-container {
+  svg {
+    padding: 0;
+  }
+}
+
+//.fragment-chart
+.measurements-tab .fragment-chart {
+  .realtime-form {
+    text-align: right;
+  }
+}
+
+@media(min-width: @screen-sm-min) {
+  .measurements-tab .fragment-chart {
+    .realtime-form {
+      position: absolute;
+      top: 10px;
+      right: @card-padding;
+    }
+    .top-chart-bar+hr {
+      display: none;
+    }
+  }
+}
+
+.tab-pane {
+  .realtime-form {
+    float: right;
+  }
+}

@@ -1,0 +1,1100 @@
+// speed up fa-spin
+.fa-spin {
+  webkit-animation: fa-spin 1s infinite linear;
+  animation: fa-spin 1s infinite linear;
+}
+
+//extra class for mastercard icon
+.fa-cc-master:before {
+  content: "\f1f1";
+}
+
+
+/*
+  Icon Font: c8yicon
+*/
+
+
+/*=========================================
+  NEW ICONS
+  ------------------------------------------
+  new icons, besides being added as .c8y-icon-**:before,
+  should also be added as descendants of:
+  • .dashboard-theme-dark & .dashboard-theme-branded  -> using the font file
+  • .c8y-icon-duocolor -> using a svg file
+  • .c8y-icon-white -> using a svg file
+  ========================================= */
+
+@font-face {
+  font-family: "c8yicon";
+  src: url("@{icon-font-path}c8yicon.eot");
+  src: url("@{icon-font-path}c8yicon.eot?#iefix") format("embedded-opentype"),
+  url("@{icon-font-path}c8yicon.woff") format("woff"),
+  url("@{icon-font-path}c8yicon.ttf") format("truetype"),
+  url("@{icon-font-path}c8yicon.svg#c8yicon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "c8yicon";
+    src: url("@{icon-font-path}c8yicon.svg#c8yicon") format("svg");
+  }
+}
+
+.c8y-icon {
+  display: inline-block;
+  font-family: "c8yicon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  width: 1.1em;
+}
+
+.c8y-icon-add-user:before {
+  content: "\f100";
+}
+
+.c8y-icon-administration:before {
+  content: "\f101";
+}
+
+.c8y-icon-alarm:before {
+  content: "\f102";
+}
+
+.c8y-icon-alert-idle:before {
+  content: "\f103";
+}
+
+.c8y-icon-archive:before {
+  content: "\f104";
+}
+
+.c8y-icon-atom:before {
+  content: "\f12f";
+}
+
+.c8y-icon-bulb:before {
+  content: "\f130";
+}
+
+.c8y-icon-c8y:before {
+  content: "\f105";
+}
+
+.c8y-icon-c8y-data:before {
+  content: "\f12e";
+}
+
+.c8y-icon-c8y-engine:before {
+  content: "\f106";
+}
+
+.c8y-icon-c8y-support:before {
+  content: "\f107";
+}
+
+.c8y-icon-calendar:before {
+  content: "\f139";
+}
+
+.c8y-icon-chart:before {
+  content: "\f13a";
+}
+
+.c8y-icon-cockpit:before {
+  content: "\f108";
+}
+
+.c8y-icon-connector-in:before {
+  content: "\f132";
+}
+
+.c8y-icon-connector-out:before {
+  content: "\f133";
+}
+
+.c8y-icon-data-explorer:before {
+  content: "\f10b";
+}
+
+.c8y-icon-data-points:before {
+  content: "\f10c";
+}
+
+.c8y-icon-device:before {
+  content: "\f10d";
+}
+
+.c8y-icon-device-connect:before {
+  content: "\f10e";
+}
+
+.c8y-icon-device-control:before {
+  content: "\f10f";
+}
+
+.c8y-icon-device-management:before {
+  content: "\f110";
+}
+
+.c8y-icon-device-protocols:before {
+  content: "\f134";
+}
+
+.c8y-icon-energy:before {
+  content: "\f111";
+}
+
+.c8y-icon-enterprise:before {
+  content: "\f112";
+}
+
+.c8y-icon-event-processing:before {
+  content: "\f113";
+}
+
+.c8y-icon-events:before {
+  content: "\f114";
+}
+
+.c8y-icon-fieldbus:before {
+  content: "\f115";
+}
+
+.c8y-icon-find-map:before {
+  content: "\f136";
+}
+
+.c8y-icon-group:before {
+  content: "\f116";
+}
+
+.c8y-icon-group-add:before {
+  content: "\f117";
+}
+
+.c8y-icon-group-open:before {
+  content: "\f118";
+}
+
+.c8y-icon-group-remote:before {
+  content: "\f119";
+}
+
+.c8y-icon-group-remote-inactive:before {
+  content: "\f11a";
+}
+
+.c8y-icon-group-remote-open:before {
+  content: "\f11b";
+}
+
+.c8y-icon-group-smart:before {
+  content: "\f11c";
+}
+
+.c8y-icon-group-smart-open:before {
+  content: "\f11d";
+}
+
+.c8y-icon-java:before {
+  content: "\f135";
+}
+
+.c8y-icon-location:before {
+  content: "\f11e";
+}
+
+.c8y-icon-mobile-add:before {
+  content: "\f11f";
+}
+
+.c8y-icon-mobile-config:before {
+  content: "\f120";
+}
+
+.c8y-icon-modules:before {
+  content: "\f121";
+}
+
+.c8y-icon-notification:before {
+  content: "\f13b";
+}
+
+.c8y-icon-parking:before {
+  content: "\f137";
+}
+
+.c8y-icon-report:before {
+  content: "\f122";
+}
+
+.c8y-icon-rocket:before {
+  content: "\f131";
+}
+
+.c8y-icon-saas:before {
+  content: "\f13c";
+}
+
+.c8y-icon-security:before {
+  content: "\f123";
+}
+
+.c8y-icon-shield:before {
+  content: "\f13d";
+}
+
+.c8y-icon-simulator:before {
+  content: "\f124";
+}
+
+.c8y-icon-smart-rest:before {
+  content: "\f125";
+}
+
+.c8y-icon-smart-rules:before {
+  content: "\f126";
+}
+
+.c8y-icon-sub-tenants:before {
+  content: "\f127";
+}
+
+.c8y-icon-tenant-policies:before {
+  content: "\f128";
+}
+
+.c8y-icon-tools:before {
+  content: "\f129";
+}
+
+.c8y-icon-tracking:before {
+  content: "\f12a";
+}
+
+.c8y-icon-usage-statistics:before {
+  content: "\f12b";
+}
+
+.c8y-icon-user:before {
+  content: "\f12c";
+}
+
+.c8y-icon-users:before {
+  content: "\f12d";
+}
+
+.c8y-icon-waste-bin:before {
+  content: "\f138";
+}
+
+.c8y-icon-duocolor:not(.fa),
+.c8y-icon-white:not(.fa) {
+  &.c8y-icon {
+    display: inline-block;
+    position: relative;
+    width: 1em;
+    height: 1em;
+    vertical-align: top;
+    &:before {
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      bottom: 0;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      content: '';
+    }
+  }
+}
+
+//----------------------------------
+.c8y-icon-duocolor {
+  &:not(.fa) {
+    &.c8y-icon-add-user:before {
+      content: '';
+      background-image: url('@{icon-path}add-user.svg');
+    }
+    &.c8y-icon-administration:before {
+      content: '';
+      background-image: url('@{icon-path}administration.svg');
+    }
+    &.c8y-icon-alarm:before {
+      content: '';
+      background-image: url('@{icon-path}alarm.svg');
+    }
+    &.c8y-icon-alert-idle:before {
+      content: '';
+      background-image: url('@{icon-path}alert-idle.svg');
+    }
+    &.c8y-icon-archive:before {
+      content: '';
+      background-image: url('@{icon-path}archive.svg');
+    }
+    &.c8y-icon-atom:before {
+      content: '';
+      background-image: url('@{icon-path}atom.svg');
+    }
+    &.c8y-icon-bulb:before {
+      content: '';
+      background-image: url('@{icon-path}bulb.svg');
+    }
+    &.c8y-icon-c8y:before {
+      content: '';
+      background-image: url('@{icon-path}c8y.svg');
+    }
+    &.c8y-icon-c8y-data:before {
+      content: '';
+      background-image: url('@{icon-path}c8y-data.svg');
+    }
+    &.c8y-icon-c8y-engine:before {
+      content: '';
+      background-image: url('@{icon-path}c8y-engine.svg');
+    }
+    &.c8y-icon-c8y-support:before {
+      content: '';
+      background-image: url('@{icon-path}c8y-support.svg');
+    }
+    &.c8y-icon-calendar:before {
+      content: '';
+      background-image: url('@{icon-path}calendar.svg');
+    }
+    &.c8y-icon-chart:before {
+      content: '';
+      background-image: url('@{icon-path}chart.svg');
+    }
+    &.c8y-icon-cockpit:before {
+      content: '';
+      background-image: url('@{icon-path}cockpit.svg');
+    }
+    &.c8y-icon-connector-in:before {
+      content: '';
+      background-image: url('@{icon-path}connector-in.svg');
+    }
+    &.c8y-icon-connector-out:before {
+      content: '';
+      background-image: url('@{icon-path}connector-out.svg');
+    }
+    &.c8y-icon-data-explorer:before {
+      content: '';
+      background-image: url('@{icon-path}data-explorer.svg');
+    }
+    &.c8y-icon-data-points:before {
+      content: '';
+      background-image: url('@{icon-path}data-points.svg');
+    }
+    &.c8y-icon-device:before {
+      content: '';
+      background-image: url('@{icon-path}device.svg');
+    }
+    &.c8y-icon-device-connect:before {
+      content: '';
+      background-image: url('@{icon-path}device-connect.svg');
+    }
+    &.c8y-icon-device-control:before {
+      content: '';
+      background-image: url('@{icon-path}device-control.svg');
+    }
+    &.c8y-icon-device-management:before {
+      content: '';
+      background-image: url('@{icon-path}device-management.svg');
+    }
+    &.c8y-icon-device-protocols:before {
+      content: '';
+      background-image: url('@{icon-path}device-protocols.svg');
+    }
+    &.c8y-icon-energy:before {
+      content: '';
+      background-image: url('@{icon-path}energy.svg');
+    }
+    &.c8y-icon-enterprise:before {
+      content: '';
+      background-image: url('@{icon-path}enterprise.svg');
+    }
+    &.c8y-icon-event-processing:before {
+      content: '';
+      background-image: url('@{icon-path}event-processing.svg');
+    }
+    &.c8y-icon-events:before {
+      content: '';
+      background-image: url('@{icon-path}events.svg');
+    }
+    &.c8y-icon-fieldbus:before {
+      content: '';
+      background-image: url('@{icon-path}fieldbus.svg');
+    }
+    &.c8y-icon-find-map:before {
+      content: '';
+      background-image: url('@{icon-path}find-map.svg');
+    }
+    &.c8y-icon-group:before {
+      content: '';
+      background-image: url('@{icon-path}group.svg');
+    }
+    &.c8y-icon-group-add:before {
+      content: '';
+      background-image: url('@{icon-path}group-add.svg');
+    }
+    &.c8y-icon-group-open:before {
+      content: '';
+      background-image: url('@{icon-path}group-open.svg');
+    }
+    &.c8y-icon-group-remote:before {
+      content: '';
+      background-image: url('@{icon-path}group-remote.svg');
+    }
+    &.c8y-icon-group-remote-open:before {
+      content: '';
+      background-image: url('@{icon-path}group-remote-open.svg');
+    }
+    &.c8y-icon-group-remote-inactive:before {
+      content: '';
+      background-image: url('@{icon-path}group-remote-inactive.svg');
+    }
+    &.c8y-icon-group-smart:before {
+      content: '';
+      background-image: url('@{icon-path}group-smart.svg');
+    }
+    &.c8y-icon-group-smart-open:before {
+      content: '';
+      background-image: url('@{icon-path}group-smart-open.svg');
+    }
+    &.c8y-icon-java:before {
+      content: '';
+      background-image: url('@{icon-path}java.svg');
+    }
+    &.c8y-icon-location:before {
+      content: '';
+      background-image: url('@{icon-path}location.svg');
+    }
+    &.c8y-icon-mobile-add:before {
+      content: '';
+      background-image: url('@{icon-path}mobile-add.svg');
+    }
+    &.c8y-icon-mobile-config:before {
+      content: '';
+      background-image: url('@{icon-path}mobile-config.svg');
+    }
+    &.c8y-icon-modules:before {
+      content: '';
+      background-image: url('@{icon-path}modules.svg');
+    }
+    &.c8y-icon-notification:before {
+      content: '';
+      background-image: url('@{icon-path}notification.svg');
+    }
+    &.c8y-icon-parking:before {
+      content: '';
+      background-image: url('@{icon-path}parking.svg');
+    }
+    &.c8y-icon-report:before {
+      content: '';
+      background-image: url('@{icon-path}report.svg');
+    }
+    &.c8y-icon-rocket:before {
+      content: '';
+      background-image: url('@{icon-path}rocket.svg');
+    }
+    &.c8y-icon-saas:before {
+      content: '';
+      background-image: url('@{icon-path}saas.svg');
+    }
+    &.c8y-icon-security:before {
+      content: '';
+      background-image: url('@{icon-path}security.svg');
+    }
+    &.c8y-icon-shield:before {
+      content: '';
+      background-image: url('@{icon-path}shield.svg');
+    }
+    &.c8y-icon-simulator:before {
+      content: '';
+      background-image: url('@{icon-path}simulator.svg');
+    }
+    &.c8y-icon-smart-rest:before {
+      content: '';
+      background-image: url('@{icon-path}smart-rest.svg');
+    }
+    &.c8y-icon-smart-rules:before {
+      content: '';
+      background-image: url('@{icon-path}smart-rules.svg');
+    }
+    &.c8y-icon-sub-tenants:before {
+      content: '';
+      background-image: url('@{icon-path}sub-tenants.svg');
+    }
+    &.c8y-icon-tenant-policies:before {
+      content: '';
+      background-image: url('@{icon-path}tenant-policies.svg');
+    }
+    &.c8y-icon-tools:before {
+      content: '';
+      background-image: url('@{icon-path}tools.svg');
+    }
+    &.c8y-icon-tracking:before {
+      content: '';
+      background-image: url('@{icon-path}tracking.svg');
+    }
+    &.c8y-icon-usage-statistics:before {
+      content: '';
+      background-image: url('@{icon-path}usage-statistics.svg');
+    }
+    &.c8y-icon-user:before {
+      content: '';
+      background-image: url('@{icon-path}user.svg');
+    }
+    &.c8y-icon-users:before {
+      content: '';
+      background-image: url('@{icon-path}users.svg');
+    }
+    &.c8y-icon-waste-bin:before {
+      content: '';
+      background-image: url('@{icon-path}waste-bin.svg');
+    }
+  }
+}
+
+//----------------------------------
+.c8y-icon-white {
+  &.c8y-icon-add-user:before {
+    content: '';
+    background-image: url('@{icon-white-path}add-user.svg');
+  }
+  &.c8y-icon-administration:before {
+    content: '';
+    background-image: url('@{icon-white-path}administration.svg');
+  }
+  &.c8y-icon-alarm:before {
+    content: '';
+    background-image: url('@{icon-white-path}alarm.svg');
+  }
+  &.c8y-icon-alert-idle:before {
+    content: '';
+    background-image: url('@{icon-white-path}alert-idle.svg');
+  }
+  &.c8y-icon-archive:before {
+    content: '';
+    background-image: url('@{icon-white-path}archive.svg');
+  }
+  &.c8y-icon-atom:before {
+    content: '';
+    background-image: url('@{icon-white-path}atom.svg');
+  }
+  &.c8y-icon-bulb:before {
+    content: '';
+    background-image: url('@{icon-white-path}bulb.svg');
+  }
+  &.c8y-icon-c8y:before {
+    content: '';
+    background-image: url('@{icon-white-path}c8y.svg');
+  }
+  &.c8y-icon-c8y-data:before {
+    content: '';
+    background-image: url('@{icon-white-path}c8y-data.svg');
+  }
+  &.c8y-icon-c8y-engine:before {
+    content: '';
+    background-image: url('@{icon-white-path}c8y-engine.svg');
+  }
+  &.c8y-icon-c8y-support:before {
+    content: '';
+    background-image: url('@{icon-white-path}c8y-support.svg');
+  }
+  &.c8y-icon-calendar:before {
+    content: '';
+    background-image: url('@{icon-white-path}calendar.svg');
+  }
+  &.c8y-icon-chart:before {
+    content: '';
+    background-image: url('@{icon-white-path}chart.svg');
+  }
+  &.c8y-icon-cockpit:before {
+    content: '';
+    background-image: url('@{icon-white-path}cockpit.svg');
+  }
+  &.c8y-icon-connector-in:before {
+    content: '';
+    background-image: url('@{icon-white-path}connector-in.svg');
+  }
+  &.c8y-icon-connector-out:before {
+    content: '';
+    background-image: url('@{icon-white-path}connector-out.svg');
+  }
+  &.c8y-icon-data-explorer:before {
+    content: '';
+    background-image: url('@{icon-white-path}data-explorer.svg');
+  }
+  &.c8y-icon-data-points:before {
+    content: '';
+    background-image: url('@{icon-white-path}data-points.svg');
+  }
+  &.c8y-icon-device:before {
+    content: '';
+    background-image: url('@{icon-white-path}device.svg');
+  }
+  &.c8y-icon-device-connect:before {
+    content: '';
+    background-image: url('@{icon-white-path}device-connect.svg');
+  }
+  &.c8y-icon-device-control:before {
+    content: '';
+    background-image: url('@{icon-white-path}device-control.svg');
+  }
+  &.c8y-icon-device-management:before {
+    content: '';
+    background-image: url('@{icon-white-path}device-management.svg');
+  }
+  &.c8y-icon-device-protocols:before {
+    content: '';
+    background-image: url('@{icon-white-path}device-protocols.svg');
+  }
+  &.c8y-icon-energy:before {
+    content: '';
+    background-image: url('@{icon-white-path}energy.svg');
+  }
+  &.c8y-icon-enterprise:before {
+    content: '';
+    background-image: url('@{icon-white-path}enterprise.svg');
+  }
+  &.c8y-icon-event-processing:before {
+    content: '';
+    background-image: url('@{icon-white-path}event-processing.svg');
+  }
+  &.c8y-icon-events:before {
+    content: '';
+    background-image: url('@{icon-white-path}events.svg');
+  }
+  &.c8y-icon-fieldbus:before {
+    content: '';
+    background-image: url('@{icon-white-path}fieldbus.svg');
+  }
+  &.c8y-icon-find-map:before {
+    content: '';
+    background-image: url('@{icon-white-path}find-map.svg');
+  }
+  &.c8y-icon-group:before {
+    content: '';
+    background-image: url('@{icon-white-path}group.svg');
+  }
+  &.c8y-icon-group-add:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-add.svg');
+  }
+  &.c8y-icon-group-open:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-open.svg');
+  }
+  &.c8y-icon-group-remote:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-remote.svg');
+  }
+  &.c8y-icon-group-remote-open:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-remote-open.svg');
+  }
+  &.c8y-icon-group-remote-inactive:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-remote-inactive.svg');
+  }
+  &.c8y-icon-group-smart:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-smart.svg');
+  }
+  &.c8y-icon-group-smart-open:before {
+    content: '';
+    background-image: url('@{icon-white-path}group-smart-open.svg');
+  }
+  &.c8y-icon-java:before {
+    content: '';
+    background-image: url('@{icon-white-path}java.svg');
+  }
+  &.c8y-icon-location:before {
+    content: '';
+    background-image: url('@{icon-white-path}location.svg');
+  }
+  &.c8y-icon-mobile-add:before {
+    content: '';
+    background-image: url('@{icon-white-path}mobile-add.svg');
+  }
+  &.c8y-icon-mobile-config:before {
+    content: '';
+    background-image: url('@{icon-white-path}mobile-config.svg');
+  }
+  &.c8y-icon-modules:before {
+    content: '';
+    background-image: url('@{icon-white-path}modules.svg');
+  }
+  &.c8y-icon-notification:before {
+    content: '';
+    background-image: url('@{icon-white-path}notification.svg');
+  }
+  &.c8y-icon-parking:before {
+    content: '';
+    background-image: url('@{icon-white-path}parking.svg');
+  }
+  &.c8y-icon-report:before {
+    content: '';
+    background-image: url('@{icon-white-path}report.svg');
+  }
+  &.c8y-icon-rocket:before {
+    content: '';
+    background-image: url('@{icon-white-path}rocket.svg');
+  }
+  &.c8y-icon-saas:before {
+    content: '';
+    background-image: url('@{icon-white-path}saas.svg');
+  }
+  &.c8y-icon-security:before {
+    content: '';
+    background-image: url('@{icon-white-path}security.svg');
+  }
+  &.c8y-icon-shield:before {
+    content: '';
+    background-image: url('@{icon-white-path}shield.svg');
+  }
+  &.c8y-icon-simulator:before {
+    content: '';
+    background-image: url('@{icon-white-path}simulator.svg');
+  }
+  &.c8y-icon-smart-rest:before {
+    content: '';
+    background-image: url('@{icon-white-path}smart-rest.svg');
+  }
+  &.c8y-icon-smart-rules:before {
+    content: '';
+    background-image: url('@{icon-white-path}smart-rules.svg');
+  }
+  &.c8y-icon-sub-tenants:before {
+    content: '';
+    background-image: url('@{icon-white-path}sub-tenants.svg');
+  }
+  &.c8y-icon-tenant-policies:before {
+    content: '';
+    background-image: url('@{icon-white-path}tenant-policies.svg');
+  }
+  &.c8y-icon-tools:before {
+    content: '';
+    background-image: url('@{icon-white-path}tools.svg');
+  }
+  &.c8y-icon-tracking:before {
+    content: '';
+    background-image: url('@{icon-white-path}tracking.svg');
+  }
+  &.c8y-icon-usage-statistics:before {
+    content: '';
+    background-image: url('@{icon-white-path}usage-statistics.svg');
+  }
+  &.c8y-icon-user:before {
+    content: '';
+    background-image: url('@{icon-white-path}user.svg');
+  }
+  &.c8y-icon-users:before {
+    content: '';
+    background-image: url('@{icon-white-path}users.svg');
+  }
+  &.c8y-icon-waste-bin:before {
+    content: '';
+    background-image: url('@{icon-white-path}waste-bin.svg');
+  }
+}
+
+// override in dashboards
+.dashboard.dashboard-theme-branded,
+.dashboard.dashboard-theme-dark {
+  .c8y-icon {
+    opacity: .8;
+  }
+  .c8y-icon-add-user:before {
+    content: "\f100"!important;
+    background-image: none;
+  }
+  .c8y-icon-administration:before {
+    content: "\f101"!important;
+    background-image: none;
+  }
+  .c8y-icon-alarm:before {
+    content: "\f102"!important;
+    background-image: none;
+  }
+  .c8y-icon-alert-idle:before {
+    content: "\f103"!important;
+    background-image: none;
+  }
+  .c8y-icon-archive:before {
+    content: "\f104"!important;
+    background-image: none;
+  }
+  .c8y-icon-atom:before {
+    content: "\f12f"!important;
+    background-image: none;
+  }
+  .c8y-icon-bulb:before {
+    content: "\f130"!important;
+    background-image: none;
+  }
+  .c8y-icon-c8y:before {
+    content: "\f105"!important;
+    background-image: none;
+  }
+  .c8y-icon-c8y-data:before {
+    content: "\f12e"!important;
+    background-image: none;
+  }
+  .c8y-icon-c8y-engine:before {
+    content: "\f106"!important;
+    background-image: none;
+  }
+  .c8y-icon-c8y-support:before {
+    content: "\f107"!important;
+    background-image: none;
+  }
+  .c8y-icon-calendar:before {
+    content: "\f139"!important;
+    background-image: none;
+  }
+  .c8y-icon-chart:before {
+    content: "\f13a"!important;
+    background-image: none;
+  }
+  .c8y-icon-cockpit:before {
+    content: "\f108"!important;
+    background-image: none;
+  }
+  .c8y-icon-connector-in:before {
+    content: "\f132"!important;
+    background-image: none;
+  }
+  .c8y-icon-connector-out:before {
+    content: "\f133"!important;
+    background-image: none;
+  }
+  .c8y-icon-data-explorer:before {
+    content: "\f10b"!important;
+    background-image: none;
+  }
+  .c8y-icon-data-points:before {
+    content: "\f10c"!important;
+    background-image: none;
+  }
+  .c8y-icon-device:before {
+    content: "\f10d"!important;
+    background-image: none;
+  }
+  .c8y-icon-device-connect:before {
+    content: "\f10e"!important;
+    background-image: none;
+  }
+  .c8y-icon-device-control:before {
+    content: "\f10f"!important;
+    background-image: none;
+  }
+  .c8y-icon-device-management:before {
+    content: "\f110"!important;
+    background-image: none;
+  }
+  .c8y-icon-device-protocols:before {
+    content: "\f134"!important;
+    background-image: none;
+  }
+  .c8y-icon-energy:before {
+    content: "\f111"!important;
+    background-image: none;
+  }
+  .c8y-icon-enterprise:before {
+    content: "\f112"!important;
+    background-image: none;
+  }
+  .c8y-icon-event-processing:before {
+    content: "\f113"!important;
+    background-image: none;
+  }
+  .c8y-icon-events:before {
+    content: "\f114"!important;
+    background-image: none;
+  }
+  .c8y-icon-fieldbus:before {
+    content: "\f115"!important;
+    background-image: none;
+  }
+  .c8y-icon-find-map:before {
+    content: "\f136"!important;
+    background-image: none;
+  }
+  .c8y-icon-group:before {
+    content: "\f116"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-add:before {
+    content: "\f117"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-open:before {
+    content: "\f118"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-remote:before {
+    content: "\f119"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-remote-inactive:before {
+    content: "\f11a"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-remote-open:before {
+    content: "\f11b"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-smart:before {
+    content: "\f11c"!important;
+    background-image: none;
+  }
+  .c8y-icon-group-smart-open:before {
+    content: "\f11d"!important;
+    background-image: none;
+  }
+  .c8y-icon-java:before {
+    content: "\f135"!important;
+    background-image: none;
+  }
+  .c8y-icon-location:before {
+    content: "\f11e"!important;
+    background-image: none;
+  }
+  .c8y-icon-mobile-add:before {
+    content: "\f11f"!important;
+    background-image: none;
+  }
+  .c8y-icon-mobile-config:before {
+    content: "\f120"!important;
+    background-image: none;
+  }
+  .c8y-icon-modules:before {
+    content: "\f121"!important;
+    background-image: none;
+  }
+  .c8y-icon-notification:before {
+    content: "\f13b"!important;
+    background-image: none;
+  }
+  .c8y-icon-parking:before {
+    content: "\f137"!important;
+    background-image: none;
+  }
+  .c8y-icon-report:before {
+    content: "\f122"!important;
+    background-image: none;
+  }
+  .c8y-icon-rocket:before {
+    content: "\f131"!important;
+    background-image: none;
+  }
+  .c8y-icon-saas:before {
+    content: "\f13c"!important;
+    background-image: none;
+  }
+  .c8y-icon-security:before {
+    content: "\f123"!important;
+    background-image: none;
+  }
+  .c8y-icon-shield:before {
+    content: "\f13d"!important;
+    background-image: none;
+  }
+  .c8y-icon-simulator:before {
+    content: "\f124"!important;
+    background-image: none;
+  }
+  .c8y-icon-smart-rest:before {
+    content: "\f125"!important;
+    background-image: none;
+  }
+  .c8y-icon-smart-rules:before {
+    content: "\f126"!important;
+    background-image: none;
+  }
+  .c8y-icon-sub-tenants:before {
+    content: "\f127"!important;
+    background-image: none;
+  }
+  .c8y-icon-tenant-policies:before {
+    content: "\f128"!important;
+    background-image: none;
+  }
+  .c8y-icon-tools:before {
+    content: "\f129"!important;
+    background-image: none;
+  }
+  .c8y-icon-tracking:before {
+    content: "\f12a"!important;
+    background-image: none;
+  }
+  .c8y-icon-usage-statistics:before {
+    content: "\f12b"!important;
+    background-image: none;
+  }
+  .c8y-icon-user:before {
+    content: "\f12c"!important;
+    background-image: none;
+  }
+  .c8y-icon-users:before {
+    content: "\f12d"!important;
+    background-image: none;
+  }
+  .c8y-icon-waste-bin:before {
+    content: "\f138"!important;
+    background-image: none;
+  }
+}
+
+.app-noicon {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border-radius: 4px;
+  background-color: @gray-medium-dark;
+  color: white;
+  overflow: hidden;
+  margin-top: 0;
+  font-size: 21px;
+  line-height: 41px;
+  text-transform: capitalize;
+  text-align: center;
+  >span {
+    display: inline-block;
+    overflow: hidden;
+  }
+}
+
+.app-title {
+  margin: 0;
+  .c8y-icon {
+    font-size: 150%;
+    width: 1.5em;
+  }
+}
+
+.dot {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border-radius: 50%;
+  background-color: @brand-primary;
+  color: white;
+  font-size: 24px;
+  line-height: 54px;
+  text-align: center;
+  margin: 1px 0;
+}

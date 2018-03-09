@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add or remove <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "Agregue o elimine <a href=\"#/roles\">roles</a> y configure sus permisos."
+
+msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "Agregue o elimine <a href=\"#/users\">usuarios</a> y/o funciones y configure sus permisos."
+
+msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
+msgstr "Agregue o elimine <a href=\"#/users\">usuarios</a> configure sus permisos."
+
+msgid "Application settings"
+msgstr "Configuración de la aplicación"
+
+msgid "Applications"
+msgstr "Aplicacio­nes"
+
+msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
+msgstr "Cambie la <a href=\"#/applicationsettings\">configuración de la aplicación</a>."
+
+msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
+msgstr "Configure su propio<a href=\"#/eventprocessing\"> procesamiento de reglas y acciones</a>."
+
+msgid "Event processing"
+msgstr "Procesamiento de eventos"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+msgid "Roles"
+msgstr "Roles"
+
+msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
+msgstr "Suscribase a aplicaciones y <a href=\"#/applications\">configure</a> sus propias aplicaciones."
+
+msgid "Usage statistics"
+msgstr "Estadísticas de uso"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Welcome to Administration"
+msgstr "Bienvenido a administración"
+
+msgid "With this application you can"
+msgstr "Con esta aplicación se puede"

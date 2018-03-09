@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_oauth/views/index.html:8
+msgid "Login"
+msgstr ""
+
+#: core_oauth/views/index.html:3
+msgid "Refresh token"
+msgstr ""
+
+#: core_oauth/controllers/oauth.js:114
+msgid "Token successfully saved"
+msgstr ""
+
+#: core_oauth/controllers/oauth.js:156
+msgid "oAuth"
+msgstr ""

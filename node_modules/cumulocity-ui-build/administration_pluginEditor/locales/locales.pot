@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.controller.js:44
+msgid "- Show all"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:62
+msgid "- Show all -"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.html:41
+msgid "Add plugin"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.controller.js:123
+msgid "Application manifest updated!"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:105
+msgid "Are you sure?"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:28
+msgid "Available plugins"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:35
+msgid "Categories"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:16
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:60
+msgid "Category"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:106
+msgid "Do you really want to remove plugin \"{{pluginPackage.name || pluginName}}\"?"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.html:4
+msgid "Filter by category"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:44
+msgid "Filter…"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:112
+msgid "Plugin \"{{pluginPackage.name || pluginName}}\" removed from application!"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.controller.js:112
+msgid "Plugin already subscribed!"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:95
+msgid "Plugin successfully added to application!"
+msgstr ""
+
+#: administration_pluginEditor/index.js:11
+msgid "Plugins"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.html:31
+msgid "Remove"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:70
+msgid "Save"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:79
+msgid "Selected file is not a ZIP archive! Please choose appropriate file."
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:56
+msgid "Subscribe"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:7
+msgid "Subscribed plugins"
+msgstr ""
+
+#: administration_pluginEditor/smartAppPluginEditor/smartAppPluginEditor.html:12
+msgid "Unsubscribe"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:90
+msgid "Updating application"
+msgstr ""
+
+#: administration_pluginEditor/paasPluginEditor/paasPluginEditor.controller.js:83
+msgid "Uploading archive"
+msgstr ""

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add or remove <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "<a href=\"#/roles\">ロール</a> を追加または削除し、アクセス権限を確認"
+
+msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "<a href=\"#/users\">ユーザ</a>と<a href=\"#/roles\">ロール</a>を追加あるいは削除し、アクセス権限を確認"
+
+msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
+msgstr " <a href=\"#/users\">ユーザ</a>を追加または削除し、アクセス権限を確認"
+
+msgid "Application settings"
+msgstr "アプリケーション設定"
+
+msgid "Applications"
+msgstr "アプリケーション"
+
+msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
+msgstr "<a href=\"#/applicationsettings\">アプリケーション設定</a>を変更できます。"
+
+msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
+msgstr "<a href=\"#/eventprocessing\">独自の処理ルールとアクション</a>を設定できます。"
+
+msgid "Event processing"
+msgstr "イベント処理"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Quick links"
+msgstr "クイックリンク"
+
+msgid "Roles"
+msgstr "ロール"
+
+msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
+msgstr "アプリケーションを登録し、独自のアプリケーションを<a href=\"#/applications\">セットアップ</a>できます。"
+
+msgid "Usage statistics"
+msgstr "使用状況の統計"
+
+msgid "Users"
+msgstr "ユーザ"
+
+msgid "Welcome to Administration"
+msgstr "管理へようこそ"
+
+msgid "With this application you can"
+msgstr "このアプリケーションでは、"

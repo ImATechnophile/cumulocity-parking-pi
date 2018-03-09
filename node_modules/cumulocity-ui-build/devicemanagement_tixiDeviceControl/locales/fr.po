@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Could not get measurements from device because of \"{{failureReason}}\"!"
+msgstr "L'obtention des mesures de l’appareil a échouée à cause de \" {{failureReason}} \" !"
+
+msgid "Could not get measurements from device!"
+msgstr "L'obtention des mesures de l’appareil a échouée!"
+
+msgid "Could not initiate measurement poll because of \"{{failureReason}}\"!"
+msgstr "L’initialisation de la mesure sondage a échoué à cause de \" {{failureReason}} \" !"
+
+msgid "Could not initiate measurement poll!"
+msgstr "L’initialisation de la sondage mesure a échoué!"
+
+msgid "Get measurements"
+msgstr "Obtenir des mesures"
+
+msgid "Getting measurements from device..."
+msgstr "Obtenir les mesures de l’appareil…"
+
+msgid "Got measurements from device."
+msgstr "A obtenu des mesures de l’appareil."
+
+msgid "Initiate measurement poll"
+msgstr "Lancer le sondage des mesures"
+
+msgid "Initiated measurement poll."
+msgstr "Sondage des mesure lancé."
+
+msgid "Initiating measurement poll..."
+msgstr "Lancement du sondage des mesures en cours..."

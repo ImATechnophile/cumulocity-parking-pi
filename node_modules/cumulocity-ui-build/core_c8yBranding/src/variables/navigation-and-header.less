@@ -1,0 +1,57 @@
+
+
+//toogle animation time and type
+@open-menu-time-type: .4s ease-in-out;
+
+// HEADER
+//---------------------------------------
+
+@header-app-name:                 @gray;
+@headerColor:                     white;
+@header-bar-height:               @headerHeight;
+@header-text-color:               @gray-medium-dark;//fade(@gray-medium-dark, 40%);
+@header-border-color:             fade(@gray-medium-dark, 5%);
+@header-text-color-hover:         darken(@header-text-color, 15%);//@gray-medium-dark;
+@header-active-color:             darken(@gray-medium-dark, 15%);
+@header-box-shadow:               0 1px 1px fade(black,10%);
+
+
+
+// NAVIGATOR
+//---------------------------------------
+
+@navColor:                        @gray-darker;
+@navColorHeader:                  transparent;
+@navigatorWidth:                  230px;
+@headerHeight:                    @margin-base * 3;
+@navigator-text-color:            @body-background-color;
+@navigator-title-color:           white;
+@navigator-font-family:           @font-family-sans-serif;
+@navigator-font-size:             13px;
+@navigator-separator-color:       @gray-darker;
+@navigator-active-color:          white;
+@navigator-active-bg:             @brand-primary;
+@navigator-title-height:          45px;
+
+// when set adds a gradient in navbar and header
+@grad-top:                        "";
+@grad-bottom:                     "";
+
+
+
+// RIGHT DRAWER
+//---------------------------------------
+
+@drawer-bg:                       @navColor;
+@drawer-color:                    @gray-light;
+@drawer-separator-color-light:    lighten(@navigator-separator-color, 5%);
+@drawer-separator-color-dark:     darken(@navigator-separator-color, 5%);
+@drawer-hover:                    fade(white, 5%);
+@drawer-legend:                   @legend-color;
+
+/* change the icons used. Options:
+'white'for using the white + brand color version
+'duo'for using the dark + brand color version
+'none' to use the single c8y-icon-duocolor*/
+
+@drawer-c8y-icon:                 'white';

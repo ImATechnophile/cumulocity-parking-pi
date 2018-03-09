@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_switchDisplay/controller/switchDisplayConfigCtrl.js:20
+msgid "Active"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:37
+msgid "Add configuration"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:45
+msgid "At least one configuration needs to be added."
+msgstr ""
+
+#: core_switchDisplay/views/config.html:5
+msgid "Data point name"
+msgstr ""
+
+#: core_switchDisplay/index.js:10
+msgid "Data point status"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:28
+msgid "Delete configuration"
+msgstr ""
+
+#: core_switchDisplay/index.js:11
+msgid "Displays in realtime the status of any binary data point."
+msgstr ""
+
+#: core_switchDisplay/controller/switchDisplayConfigCtrl.js:21
+msgid "Inactive"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:13
+msgid "Label for active"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:15
+msgid "Label for inactive"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:4
+msgid "Managed object property"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:32
+msgid "Save configuration"
+msgstr ""
+
+#: core_switchDisplay/controller/switchDisplayConfigCtrl.js:16
+msgid "Switch"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:25
+msgid "Update configuration"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:12
+msgid "Value for active"
+msgstr ""
+
+#: core_switchDisplay/views/config.html:14
+msgid "Value for inactive"
+msgstr ""

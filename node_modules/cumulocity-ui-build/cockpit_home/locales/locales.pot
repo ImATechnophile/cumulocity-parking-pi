@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: cockpit_home/index.js:34
+msgid "Active, critical alarms"
+msgstr ""
+
+#: cockpit_home/views/welcome.html:3
+msgid "Browse the manual <a c8y-guide-href=\"users-guide/cockpit/\">here</a>."
+msgstr ""
+
+#: cockpit_home/index.js:80
+msgid "Cockpit Welcome"
+msgstr ""
+
+#: cockpit_home/index.js:81
+msgid "Displays a welcome message for Cockpit"
+msgstr ""
+
+#: cockpit_home/index.js:74
+msgid "Home"
+msgstr ""
+
+#: cockpit_home/index.js:52
+msgid "Map"
+msgstr ""
+
+#: cockpit_home/index.js:43
+msgid "Recent alarms"
+msgstr ""
+
+#: cockpit_home/index.js:25
+#: cockpit_home/views/welcome.html:2
+msgid "Welcome to Cockpit application"
+msgstr ""

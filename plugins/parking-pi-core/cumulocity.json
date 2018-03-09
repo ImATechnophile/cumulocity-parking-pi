@@ -1,0 +1,19 @@
+{
+  "name": "Parking Devices",
+  "description": "Monitering asserts",
+  "ngModules": [
+  "device"
+  ],
+  "js": [
+  "Global/GlobalModule.js",
+  "Global/GlobalConfig.js",
+  "Device/DeviceController.js",
+  "Child/ChildController.js",
+  "Location/LocationController.js",
+  "Manage/ManageController.js",
+  "Health/HealthController.js"
+  ],
+  "imports": [],
+  "css": ["Device/device.css","Child/child.css","Manage/manage.css","Health/health.css"],
+  "copy": ["Images"]
+}

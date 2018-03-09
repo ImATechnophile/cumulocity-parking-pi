@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Add configuration"
+msgstr "Konfiguration hinzufügen"
+
+msgid "At least one configuration needs to be added."
+msgstr "Es muss mindestens eine Konfiguration hinzugefügt werden."
+
+msgid "Data point name"
+msgstr "Datenpunktname"
+
+msgid "Data point status"
+msgstr "Datenpunktstatus"
+
+msgid "Delete configuration"
+msgstr "Konfiguration löschen"
+
+msgid "Displays in realtime the status of any binary data point."
+msgstr "Zeigt den Status eines binären Datenpunkts in Echtzeit an"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Label for active"
+msgstr "Beschriftung, wenn aktiv"
+
+msgid "Label for inactive"
+msgstr "Beschriftung, wenn inaktiv"
+
+msgid "Managed object property"
+msgstr "Objekteigenschaft"
+
+msgid "Save configuration"
+msgstr "Konfiguration speichern"
+
+msgid "Switch"
+msgstr "Schalten"
+
+msgid "Update configuration"
+msgstr "Konfiguration aktualisieren"
+
+msgid "Value for active"
+msgstr "Wert, wenn aktiv"
+
+msgid "Value for inactive"
+msgstr "Wert, wenn inaktiv"

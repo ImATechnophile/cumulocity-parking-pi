@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Could not get measurements from device because of \"{{failureReason}}\"!"
+msgstr "Messwerte konnten vom Gerät nicht angefordert werden: \"{{failureReason}}\""
+
+msgid "Could not get measurements from device!"
+msgstr "Messwerte konnten vom Gerät nicht angefordert werden."
+
+msgid "Could not initiate measurement poll because of \"{{failureReason}}\"!"
+msgstr "Polling konnte nicht eingeschaltet werden: \"{{failureReason}}\""
+
+msgid "Could not initiate measurement poll!"
+msgstr "Polling konnte nicht eingeschaltet werden."
+
+msgid "Get measurements"
+msgstr "Messdaten abfragen"
+
+msgid "Getting measurements from device..."
+msgstr "Messwerte werden vom Gerät abgefragt…"
+
+msgid "Got measurements from device."
+msgstr "Messwerte vom Gerät erhalten."
+
+msgid "Initiate measurement poll"
+msgstr "Polling einschalten"
+
+msgid "Initiated measurement poll."
+msgstr "Polling ist eingeschaltet."
+
+msgid "Initiating measurement poll..."
+msgstr "Polling wird eingeschaltet"

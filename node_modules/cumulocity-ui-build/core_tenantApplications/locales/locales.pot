@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_tenantApplications/index.js:17
+msgid "Applications"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:64
+msgid "Availability"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:26
+msgid "Available applications"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:59
+msgid "Expand"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:32
+msgid "Filter…"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:41
+#: core_tenantApplications/views/index.html:66
+msgid "Owner"
+msgstr ""
+
+#: core_tenantApplications/controllers/main.js:62
+msgid "Show all"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:9
+msgid "Subscribed applications"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:2
+msgid "Tenants"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:65
+msgid "Type"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:56
+msgid "subscribe"
+msgstr ""
+
+#: core_tenantApplications/views/index.html:16
+msgid "unsubscribe"
+msgstr ""

@@ -1,0 +1,595 @@
+// fullscreen dashboards
+:-webkit-full-screen:not(:root) {
+  .navigator,
+  .header {
+    display: none;
+  }
+  .mcontainer {
+    margin-left: 0!important;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: @body-bg;
+    &:before {
+      position: fixed; //z-index: -1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: block;
+      content: '';
+      opacity: 0.1;
+      background-image: @body-background-pattern;
+      background-image: none;
+    }
+    >.container-fluid {
+      padding-top: 80px;
+    }
+  }
+  .c8y-toolbar {
+    top: 0!important;
+    left: 0!important;
+  }
+  .dashboard {
+    width: 100vw;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 1085!important;
+    overflow-y: auto;
+    padding-top: 30px!important;
+    padding-bottom: 80px!important;
+    margin: 0!important;
+  }
+  .has-tabs {
+    display: none;
+  }
+  .c8y-toolbar-spacer {
+    height: 50px;
+  }
+}
+
+:-moz-full-screen:not(:root) {
+  position: fixed;
+  z-index: 100;
+  .navigator,
+  .header {
+    display: none;
+  }
+  .mcontainer {
+    margin-left: 0!important;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: @body-bg;
+    &:before {
+      position: fixed; //z-index: -1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: block;
+      content: '';
+      opacity: 0.1;
+      background-image: @body-background-pattern;
+      background-image: none\9;
+    }
+    >.container-fluid {
+      padding-top: 80px;
+    }
+  }
+  .c8y-toolbar {
+    top: 0!important;
+    left: 0!important;
+  }
+  .dashboard {
+    width: 100vw;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 1085!important;
+    overflow-y: auto;
+    padding-top: 30px!important;
+    padding-bottom: 80px!important;
+    margin: 0!important;
+  }
+  .has-tabs {
+    display: none;
+  }
+  .c8y-toolbar-spacer {
+    height: 50px;
+  }
+}
+
+:-ms-fullscreen:not(:root) {
+  .navigator,
+  .header {
+    display: none;
+  }
+  .c8y-toolbar-spacer {
+    height: 50px;
+  }
+  .mcontainer {
+    margin-left: 0!important;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: @body-bg;
+    &:before {
+      position: fixed; //z-index: -1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: block;
+      content: '';
+      opacity: 0.1;
+      background-image: @body-background-pattern;
+      background-image: none\9;
+    }
+    >.container-fluid {
+      padding-top: 80px;
+    }
+  }
+  .c8y-toolbar {
+    top: 0!important;
+    left: 0!important;
+  }
+  .dashboard {
+    width: 100vw;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 1085!important;
+    overflow-y: auto;
+    padding-top: 30px!important;
+    padding-bottom: 80px!important;
+    margin: 0!important;
+  }
+  .has-tabs {
+    display: none;
+  }
+}
+
+:fullscreen:not(:root) {
+  .navigator,
+  .header {
+    display: none;
+  }
+  .c8y-toolbar-spacer {
+    height: 50px;
+  }
+  .mcontainer {
+    margin-left: 0!important;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: @body-bg;
+    &:before {
+      position: fixed; //z-index: -1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      display: block;
+      content: '';
+      opacity: 0.1;
+      background-image: @body-background-pattern;
+      background-image: none\9;
+    }
+    >.container-fluid {
+      padding-top: 80px;
+    }
+  }
+  .c8y-toolbar {
+    top: 0!important;
+    left: 0!important;
+  }
+  .dashboard {
+    width: 100vw;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 1085!important;
+    overflow-y: auto;
+    padding-top: 30px!important;
+    padding-bottom: 80px!important;
+    margin: 0!important;
+  }
+  .has-tabs {
+    display: none;
+  }
+}
+
+.make-c8y-dashboard-theme( @dashboard-theme;
+@dashboard-container-bg;
+@dashboard-bg;
+@dashboard-color;
+@dashboard-border-color;
+@dashboard-header-color) {
+  .container-fluid .dashboard-theme-@{dashboard-theme} {
+    background-color: @dashboard-container-bg;
+  }
+  .dashboard-theme-@{dashboard-theme} {
+    margin: 0 0 -40px;
+    padding: 0 0 30px;
+    color: @dashboard-color;
+    .welcome &,
+    [name^="home"] &,
+    [name^="report"] & {
+      border-top: 0;
+      padding-top: 0;
+    }
+    @media(min-width: @screen-sm-min) {
+      margin: 0 -30px -40px;
+      padding: 0 30px 30px;
+    }
+  }
+  .dashboard-theme-@{dashboard-theme} .card,
+  body .dashboard .card.card-dashboard.panel-content-@{dashboard-theme},
+  body .dashboard .card.card-dashboard.panel-content-@{dashboard-theme} .card.card-dashboard {
+    background-color: @dashboard-bg;
+    color: @dashboard-color;
+    fill: @dashboard-color;
+    .card {
+      color: @dashboard-color;
+      fill: @dashboard-color;
+      .text-muted {
+        color: @dashboard-header-color;
+      }
+      .expanded {
+        color: @gray-text;
+        .text-muted {
+          color: @text-muted;
+        }
+        a {
+          color: @link-color!important;
+        }
+      }
+      .timeline-item-content {
+        [class*="col-xs-"],
+        [class*="col-sm-"],
+        [class*="col-md-"],
+        [class*="col-lg-"] {
+          width: 100%;
+        }
+      }
+    }
+    .popover-content {
+      color: @gray-text;
+    }
+    &when (@dashboard-theme=transparent) {
+      box-shadow: none;
+      .card-header-actions:after {
+        display: none;
+      }
+      .card-inner-scroll:before {
+        display: none;
+      }
+      label,
+      label.small {
+        color: @gray;
+      }
+    }
+    &when (@dashboard-theme=branded) {
+      .card-inner-scroll {
+        a:not(.btn):not(.dropdown-toogle) {
+          color: @dashboard-color;
+        }
+        .dropdown .dropdown-menu a {
+          color: @navbar-default-link-color;
+        }
+      }
+      .card .c8y-empty-state p {
+        color: white;
+      }
+      .table>thead:first-child>tr:first-child>th {
+        color: @dashboard-color;
+      }
+      label,
+      label.small {
+        color: @dashboard-color;
+      }
+    }
+    &when (@dashboard-theme=dark) {
+      .card .c8y-empty-state p {
+        color: white;
+      }
+      .table>thead:first-child>tr:first-child>th {
+        color: @dashboard-color;
+      }
+      label,
+      label.small {
+        color: @dashboard-color;
+      }
+    }
+    &when not(@dashboard-theme=light) {
+      .text-muted {
+        color: @dashboard-header-color;
+      }
+    }
+    .card-inner-scroll .card {
+      background-color: transparent;
+    }
+    .table {
+      td {
+        border-color: @dashboard-border-color;
+      }
+    }
+    .card-header-actions {
+      color: @dashboard-header-color;
+      border-color: @dashboard-border-color;
+      .header-actions {
+        color: @dashboard-header-color;
+      }
+      .card-title,
+      .card-title>span {
+        color: @dashboard-header-color;
+      }
+      +.card-inner-scroll:before {
+        background-color: @dashboard-bg;
+      }
+    }
+    .card-actions {
+      .btn-link {
+        color: @dashboard-header-color;
+        opacity: .3;
+        &:hover {
+          opacity: 1;
+        }
+      }
+    } // charts
+    c8y-chart .axis {
+      fill: @dashboard-color;
+      line {
+        stroke: currentColor;
+      }
+      path {
+        stroke: @dashboard-color;
+      }
+      text {
+        fill: @dashboard-color!important;
+      }
+      &when (@dashboard-theme=transparent) {
+        path {
+          stroke: currentColor!important;
+        }
+        text {
+          fill: currentColor!important;
+        }
+      }
+    }
+    .meausurements2 c8y-measurements-icon-bar {
+      color: @dashboard-color;
+    }
+    .gauge-svg svg #mask {
+      fill: @dashboard-bg;
+    }
+    .gauge-svg svg path.track {
+      stroke: @dashboard-color;
+      opacity: .15;
+    }
+    .gauge-legend,
+    .gauge-legend label {
+      color: @dashboard-color;
+    }
+    .label-value-unit-gauge {
+      .center-label,
+      .center-value,
+      .center-unit {
+        fill: @dashboard-color;
+      }
+    }
+  }
+  body .dashboard-preview-slot {
+    padding: 30px;
+    margin: 0!important;
+    .card.card-dashboard {
+      position: relative;
+      padding-bottom: 35%;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      margin: 15px!important;
+    }
+    &.dashboard-theme-@{dashboard-theme} {
+      background-color: @dashboard-container-bg;
+    }
+    &when (@dashboard-theme=light) {
+      background-color: @body-bg;
+      position: relative;
+      &:before {
+        position: absolute; //z-index: -1;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        display: block;
+        content: '';
+        opacity: 0.1;
+        background-image: @body-background-pattern; //background-image: none;
+      }
+    }
+    &when (@dashboard-theme=transparent) {
+      box-shadow: none;
+      .card-header-actions:after {
+        display: none;
+      }
+      .card-inner-scroll:before {
+        display: none;
+      }
+    }
+    &when (@dashboard-theme=branded) {
+      .card-inner-scroll {
+        a:not(.btn):not(.dropdown-toogle) {
+          color: @dashboard-color;
+        }
+        .dropdown .dropdown-menu a {
+          color: @navbar-default-link-color;
+        }
+      }
+    }
+    &when not(@dashboard-theme=light) {
+      .text-muted {
+        color: @dashboard-header-color;
+      }
+    }
+    &.panel-content-@{dashboard-theme} {
+      .card.card-dashboard {
+        background-color: @dashboard-bg;
+        color: @dashboard-color;
+        &when (@dashboard-theme=transparent) {
+          box-shadow: none;
+        }
+        .card-header-actions .card-title,
+        .card-header-actions .card-title>span {
+          color: @dashboard-header-color;
+        }
+        &when not(@dashboard-theme=light) {
+          .text-muted {
+            color: @dashboard-header-color;
+          }
+          .card-actions .dropdown .dropdown-toogle,
+          .card-actions,
+          .card-actions .btn-link {
+            color: @dashboard-header-color;
+            opacity: 1;
+          }
+        }
+        .table {
+          td {
+            border-color: @dashboard-border-color;
+          }
+        } // charts
+        c8y-chart .axis {
+          fill: @dashboard-color;
+          line {
+            stroke: @dashboard-color;
+          }
+        }
+        .meausurements2 c8y-measurements-icon-bar {
+          color: @dashboard-color;
+        }
+      }
+    }
+  } // / preview-slot
+}
+
+// generic
+.card.card-dashboard {
+  .table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: fade(black, 5%);
+  }
+}
+
+// title hidden
+.card.card-dashboard {
+  .panel-title-hidden &,
+  .dashboard-preview-slot.panel-title-hidden,
+  &.panel-title-hidden {
+    .card-header-actions {
+      border: 0;
+      z-index: 10;
+      height: 0;
+      &:after {
+        display: none;
+      }
+      >* {
+        display: none;
+      }
+      >.header-actions {
+        display: flex;
+        border-left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 10;
+      }
+      +.card-inner-scroll {
+        top: 0;
+        z-index: 9; //padding-top: @card-padding;
+        height: 100%;
+        &.has-footer {
+          height: calc(~'100% - 65px');
+        }
+        &:before {
+          display: none;
+        }
+        .leaflet-top .leaflet-control {
+          margin-top: 30px;
+        }
+      }
+    }
+  }
+}
+
+// title overlay
+.card.card-dashboard {
+  .panel-title-overlay &,
+  .dashboard-preview-slot.panel-title-overlay &,
+  &.panel-title-overlay {
+    .card-header-actions {
+      border: 0;
+      z-index: 10;
+      position: absolute;
+      width: 100%;
+      &:after {
+        display: none;
+      }
+      .card-header-title {
+        min-height: 40px;
+      }
+      >.header-actions {
+        display: flex;
+        border-left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 10;
+      }
+      +.card-inner-scroll {
+        top: 0;
+        z-index: 9;
+        height: 100%;
+        &:before {
+          display: none;
+        }
+        .leaflet-top .leaflet-control {
+          margin-top: 30px;
+        }
+      }
+    }
+  }
+}
+
+//title border
+.card.card-dashboard {
+  .panel-title-border &,
+  .dashboard-preview-slot.panel-title-border &,
+  &.panel-title-border {
+    .card-header-actions {
+      border-top: 1px solid transparent;
+      border-bottom-width: 1px;
+      border-bottom-style: solid;
+      z-index: 10;
+      &:after {
+        display: none;
+      }
+      +.card-inner-scroll {
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+// Light - default
+.make-c8y-dashboard-theme(@dashboard-theme-light, @dashboard-light-container-bg, @dashboard-light-bg, @dashboard-light-color, @dashboard-light-border-color, @dashboard-light-header-color);
+// DARK
+.make-c8y-dashboard-theme(@dashboard-theme-dark, @dashboard-dark-container-bg, @dashboard-dark-bg, @dashboard-dark-color, @dashboard-dark-border-color, @dashboard-dark-header-color);
+// BRAND
+.make-c8y-dashboard-theme(@dashboard-theme-brand, @dashboard-brand-container-bg, @dashboard-brand-bg, @dashboard-brand-color, @dashboard-brand-border-color, @dashboard-brand-header-color);
+// transparent
+.make-c8y-dashboard-theme(@dashboard-theme-transparent, @dashboard-transparent-container-bg, @dashboard-transparent-bg, @dashboard-transparent-color, @dashboard-transparent-border-color, @dashboard-transparent-header-color);

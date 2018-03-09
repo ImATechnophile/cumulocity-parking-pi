@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Address range"
+msgstr "Adressbereich"
+
+msgid "Auth type"
+msgstr "Authentifizierungstyp"
+
+msgid "Configure DHCP settings"
+msgstr "DHCP-Parameter setzen"
+
+msgid "Configure LAN settings"
+msgstr "LAN-Parameter setzen"
+
+msgid "Configure WAN settings"
+msgstr "WAN-Parameter setzen"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Disabled"
+msgstr "Abgeschaltet"
+
+msgid "Domain name"
+msgstr "Domain-Name"
+
+msgid "Enabled"
+msgstr "Eingeschaltet"
+
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "MAC address"
+msgstr "MAC-Adresse"
+
+msgid "Messaging provider must be configured to send WAN settings to device via SMS"
+msgstr "Ein SMS-Dienst muss konfiguriert sein, damit die WAN-Einstellungen per SMS an das Gerät versendet werden können."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "SIM status"
+msgstr "SIM-Status"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Save changes (SMS)"
+msgstr "Änderungen speichern (SMS)"
+
+msgid "Sent operation to apply DHCP settings."
+msgstr "Setze DHCP-Einstellungen"
+
+msgid "Sent operation to apply LAN settings."
+msgstr "Setze LAN-Einstellungen"
+
+msgid "Sent operation to apply WAN settings."
+msgstr "Setze WAN-Einstellungen"
+
+msgid "Subnet mask"
+msgstr "Subnetzmaske"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "e.g. 12:AB:34:CD:56:EF"
+msgstr "z. B. 12:AB:34:CD:56:EF"
+
+msgid "e.g. 192.168.0.1"
+msgstr "z. B. 192.168.0.1"
+
+msgid "e.g. 192.168.0.10"
+msgstr "z. B. 192.168.0.10"
+
+msgid "e.g. 192.168.0.2"
+msgstr "z. B. 192.168.0.2"
+
+msgid "e.g. 255.255.255.0"
+msgstr "z. B. 255.255.255.0"

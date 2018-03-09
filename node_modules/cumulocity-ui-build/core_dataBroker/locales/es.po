@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "<strong>No data filters defined.</strong><br>Data filters define the set of data to be forwarded. You must set at least one filter."
+msgstr "<strong>No se han definido filtros de datos.</strong> Los filtros de datos definen el conjunto de datos que se van a reenviar. Debe establecer al menos un filtro."
+
+msgid "API"
+msgstr "API"
+
+msgid "Accept"
+msgstr "Aceptar"
+
+msgid "Accept operation completed successfully!"
+msgstr "¡Aceptar operación completada correctamente!"
+
+msgid "Accept to finish data subscription setup, discard to remove it."
+msgstr "Acepte para finalizar la instalación de suscripción de datos, deséchela para quitarla."
+
+msgid "Accepted"
+msgstr "Aceptado"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add a data subscription by clicking below."
+msgstr "Agregar una suscripción de datos haciendo clic a continuación."
+
+msgid "Add data connector"
+msgstr "Agregar conector de datos"
+
+msgid "Add data subscription"
+msgstr "Agregar suscripción de datos"
+
+msgid "Add filter"
+msgstr "Agregar filtro"
+
+msgid "Add your first data connector by clicking below."
+msgstr "Agregue su primer conector de datos haciendo clic a continuación."
+
+msgid "Alarms"
+msgstr "Alarmas"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "All groups and devices"
+msgstr "Todos los grupos y dispositivos"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Connection established"
+msgstr "Conexión establecida"
+
+msgid "Connector is working"
+msgstr "El conector está funcionando"
+
+msgid "Connector name updated!"
+msgstr "¡Nombre del conector actualizado!"
+
+msgid "Connector not bootstrapped but suspended by source tenant"
+msgstr "El conector no se inicia pero se suspende por el inquilino de origen"
+
+msgid "Connector not bootstrapped yet"
+msgstr "Conector no iniciado todavía"
+
+msgid "Connector removed!"
+msgstr "¡Conector quitado!"
+
+msgid "Connector saved!"
+msgstr "¡Conector guardado!"
+
+msgid "Connector successfully deleted!"
+msgstr "¡Conector eliminado con éxito!"
+
+msgid "Connector suspended by source tenant"
+msgstr "Conector suspendido por origen del inquilino"
+
+msgid "Copy all fragments"
+msgstr "Copiar todos los fragmentos"
+
+msgid "Copy: all"
+msgstr "Copiar: todas"
+
+msgid "Copy: standard only"
+msgstr "Copiar: sólo estándar"
+
+msgid "Copy: {{fragments}}"
+msgstr "Copiar: {{fragments}}"
+
+msgid "Create new subscription"
+msgstr "Crear nueva suscripción"
+
+msgid "Data broker"
+msgstr "Broker de datos"
+
+msgid "Data connectors"
+msgstr "Conectores de datos"
+
+msgid "Data filters"
+msgstr "Filtros de datos"
+
+msgid "Data subscriptions"
+msgstr "Suscripciones de datos"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Discard"
+msgstr "Descartar"
+
+msgid "Discard operation completed successfully!"
+msgstr "¡Descartar la operación completada con éxito!"
+
+msgid "Do you really want to delete connector \"{{name}}\"?"
+msgstr "¿Realmente desea eliminar el conector \"{{name}}”?"
+
+msgid "Do you really want to delete subscription \"{{connectorName}}\"?"
+msgstr "¿Realmente desea eliminar suscripción \"{{connectorName}}\"?"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Duplicate of {{name}}"
+msgstr "Duplicado de {{name}}"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Enable or disable data subscription"
+msgstr "Activar o desactivar la suscripción de datos"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Filter: none"
+msgstr "Filtro: ninguno"
+
+msgid "Filter: {{fragments}}"
+msgstr "Filtro: {{fragments}}"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/overview/\">User guide</a>."
+msgstr "Obtenga más información en la <a c8y-guide-href=\"users-guide/overview/\">guía del usuario</a>."
+
+msgid "Fragment"
+msgstr "Fragmento"
+
+msgid "Fragments to copy"
+msgstr "Fragmentos para copiar"
+
+msgid "Fragments to filter"
+msgstr "Fragmentos para filtrar"
+
+msgid "Group or device"
+msgstr "Grupo o dispositivo"
+
+msgid "Inactive"
+msgstr "Inactivo"
+
+msgid "Insert code provided by source tenant."
+msgstr "Insertar el código proporcionado por el inquilino de origen."
+
+msgid "Insert security code"
+msgstr "Inserte el código de seguridad"
+
+msgid "Inventory structure synchronization in progress"
+msgstr "Estructura de sincronización de inventario en curso"
+
+msgid "Managed objects"
+msgstr "Objetos administrados"
+
+msgid "Measurements"
+msgstr "Estadísticas"
+
+msgid "New data connector"
+msgstr "Nuevo conector de datos"
+
+msgid "New data subscription"
+msgstr "Nueva suscripción de datos"
+
+msgid "New subscription code registered successfully!"
+msgstr "¡Nuevo código de suscripción registrado con éxito!"
+
+msgid "No data connectors to display."
+msgstr "Sin conectores de datos para mostrar."
+
+msgid "No data subscriptions to display."
+msgstr "No hay suscripciones para mostrar."
+
+msgid "Pending acceptance"
+msgstr "Aceptación pendiente"
+
+msgid "Register new subscription"
+msgstr "Registrar nueva suscripción"
+
+msgid "Reload"
+msgstr "Actualizar"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Security code"
+msgstr "Código de seguridad"
+
+msgid "Security code will be requested on the target tenant to establish connection."
+msgstr "El código de seguridad se solicitará al inquilino de destino para establecer la conexión."
+
+msgid "Select at least one"
+msgstr "Selecciona al menos uno"
+
+msgid "Source tenant status"
+msgstr "Estado de inquilino de fuente"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Subscribed devices are charged as normal devices."
+msgstr "Los dispositivos suscritos se cargan como dispositivos normales."
+
+msgid "Subscription in destination tenant disabled"
+msgstr "Suscripción en el inquilino de destino deshabilitada"
+
+msgid "Subscription in destination tenant disabled and then connector suspended by source tenant"
+msgstr "Suscripción en el inquilino de destino deshabilitada y, a continuación, conector suspendido por el inquilino de origen"
+
+msgid "Subscription registration"
+msgstr "Registrar suscripción"
+
+msgid "Subscription removed successfully!"
+msgstr "¡Suscripción eliminada correctamente!"
+
+msgid "Target URL for data connector"
+msgstr "Dirección URL de destino para el conector de datos"
+
+msgid "The target Url did not accept the connection yet"
+msgstr "La dirección URL de destino no acepta la conexión todavía"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Type filter"
+msgstr "Escribir filtro"
+
+msgid "Valid url is required."
+msgstr "Se requiere una URL válida."
+
+msgid "Waiting"
+msgstr "En espera"
+
+msgid "Waiting for connection"
+msgstr "A la espera de conexión"
+
+msgid "Waiting for data subscription setup to complete…"
+msgstr "Esperando a que se complete la instalación de la suscripción de datos …"
+
+msgid "activating"
+msgstr "activando"
+
+msgid "active"
+msgstr "activo"
+
+msgid "disabled"
+msgstr "deshabilitado"
+
+msgid "e.g. Forwarding measurements"
+msgstr "por ejemplo, las mediciones de expedición"
+
+msgid "e.g. My connector"
+msgstr "por ejemplo, mi conector"
+
+msgid "e.g. c8y_FragmentToCopy"
+msgstr "por ejemplo, c8y_FragmentToCopy"
+
+msgid "e.g. c8y_FragmentToFilter"
+msgstr "por ejemplo, c8y_FragmentToFilter"
+
+msgid "e.g. c8y_Linux"
+msgstr "por ejemplo, c8y_Linux"
+
+msgid "e.g. https://target-tenant.com"
+msgstr "por ejemplo https://target-tenant.com"
+
+msgid "enabled"
+msgstr "activado"
+
+msgid "pending"
+msgstr "pendiente"
+
+msgid "suspended"
+msgstr "suspendido"
+
+msgid "waiting"
+msgstr "esperando"
+
+msgid "{{status | translate}} using code {{code}}"
+msgstr "{{status | translate}} usando código {{code}}"

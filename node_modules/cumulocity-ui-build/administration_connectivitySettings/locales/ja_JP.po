@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Connectivity"
+msgstr "接続"
+
+msgid "Connectivity credentials successfully updated"
+msgstr "接続資格情報が更新されました"
+
+msgid "Failed to connect using given credentials"
+msgstr "指定した資格情報を使用して接続ができませんでした"
+
+msgid "In order to see the 'Connectivity' tab in device details, the user needs to have 'Read' permission for 'Connectivity'. To change SIM card status and send text messages, the user needs to have 'Admin' permission for 'Connectivity'."
+msgstr "デバイスの詳細の \"接続\" タブを表示するには、ユーザに \"接続\" の \"読み取り\" 権限が必要です。 SIMカードのステータスを変更してテキストメッセージを送信するには、 \"接続\" の \"管理者\" 権限が必要です"
+
+msgid "License key"
+msgstr "ライセンスキー"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "SIM provider settings"
+msgstr "SIMプロバイダ設定"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "ユーザ名"

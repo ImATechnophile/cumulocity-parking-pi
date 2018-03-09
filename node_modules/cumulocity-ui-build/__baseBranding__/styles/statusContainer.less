@@ -1,0 +1,31 @@
+.statusContainer {
+  position: relative;
+  display: inline-block;
+  font-size: 14px;
+  .sendStatus {
+    display: block;
+    margin: -0.3em auto -0.4em;
+    padding-left: 2px; //position: absolute;
+  }
+  .pushStatus {
+    display: block;
+    margin: 0 auto;
+    padding-right: 2px;
+  }
+  .pushStatus.statusUnknown {
+    color: lighten(@gray, 25);
+  }
+  .maintenanceStatus {
+    display: block;
+    margin: 0 auto;
+    line-height: 1;
+  }
+}
+
+.status-toggle {
+  .c8y-switch+a {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 34px;
+  }
+}

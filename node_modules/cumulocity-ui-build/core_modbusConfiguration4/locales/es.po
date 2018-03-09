@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add OPCUA device"
+msgstr "Añadir dispositivo OPCUA"
+
+msgid "Add {{mode}} device"
+msgstr "Añadir {{mode}} dispositivo"
+
+msgid "Adding"
+msgstr "Añadiendo"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Addresses from 248 up to 254 are not allowed."
+msgstr "No se permiten direcciones de 248 a 254."
+
+msgid "Baud rate"
+msgstr "Velocidad de baudios"
+
+msgid "CAN Bus"
+msgstr "CAN Bus"
+
+msgid "CAN Bus communication"
+msgstr "Comunicación CAN Bus"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Data bits"
+msgstr "Dits de datos"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Device successfully deleted!"
+msgstr "¡Dispositivo eliminado correctamente!"
+
+msgid "Device type"
+msgstr "Tipo de dispositivo"
+
+msgid "Directory path"
+msgstr "Ruta de directorio"
+
+msgid "Do you really want to remove device \"{{name}}\" with id {{id}}?"
+msgstr "¿Realmente desea quitar el dispositivo “{{name}}” with id {{id}}?"
+
+msgid "Failed to add new child device."
+msgstr "Error al agregar nuevo dispositivo de infantil."
+
+msgid "IP address"
+msgstr "Dirección IP"
+
+msgid "Modbus"
+msgstr "Modbus"
+
+msgid "Modbus communication"
+msgstr "Comunicación Modbus"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "New child device has been added!"
+msgstr "¡Se ha añadido el nuevo dispositivo infantil!"
+
+msgid "OPCUA"
+msgstr "OPCUA"
+
+msgid "OPCUA communication"
+msgstr "Comunicación OPCUA"
+
+msgid "Only natural numbers allowed!"
+msgstr "¡Sólo números naturales permitidos!"
+
+msgid "Operation to apply settings has been sent!"
+msgstr "¡Operación para aplicar la configuración ha sido enviada!"
+
+msgid "Parity"
+msgstr "Paridad"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Polling rate"
+msgstr "Tasa de sondeo"
+
+msgid "Polling rate should be equal to or smaller than transmit rate!"
+msgstr "¡Tasa de sondeo debe ser igual o menor que la velocidad de transmisión!"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+msgid "Select a device type…"
+msgstr "Seleccionar un tipo de dispositivo…"
+
+msgid "Serial communication"
+msgstr "Comunicación en serie"
+
+msgid "Set CAN Bus configuration"
+msgstr "Establecer la configuración Bus CAN"
+
+msgid "Set modbus configuration"
+msgstr "Establecer configuración modbus"
+
+msgid "Set serial configuration"
+msgstr "Establecer configuración de serie"
+
+msgid "Stop bits"
+msgstr "Detener bits"
+
+msgid "The IP address format is invalid!"
+msgstr "¡El formato de dirección IP no es válido!"
+
+msgid "The URL format is invalid! The only supported protocols are http, https and opc.tcp."
+msgstr "El formato de dirección URL no es válido. Los únicos protocolos soportados son http, https y opc.tcp."
+
+msgid "These addresses are already in use!"
+msgstr "¡Esa dirección está ya en uso!"
+
+msgid "This address is already in use!"
+msgstr "¡La dirección ya está en uso!"
+
+msgid "This field is required!"
+msgstr "¡Este campo es requerido!"
+
+msgid "Transmit rate"
+msgstr "Tasa de transmisión"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "seconds"
+msgstr "segundos"

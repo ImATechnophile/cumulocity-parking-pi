@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_asset-notes/assetNotes.module.js:12
+msgid "Asset notes"
+msgstr ""
+
+#: core_asset-notes/assetNotes.html:65
+msgid "Cancel"
+msgstr ""
+
+#: core_asset-notes/assetNotes.module.js:13
+msgid "Displays editable asset notes."
+msgstr ""
+
+#: core_asset-notes/assetNotes.html:14
+#: core_asset-notes/assetNotes.html:26
+msgid "Edit"
+msgstr ""
+
+#: core_asset-notes/assetNotes.html:11
+msgid "No notes yet!"
+msgstr ""
+
+#: core_asset-notes/assetNotes.component.js:50
+msgid "Notes saved successfully!"
+msgstr ""
+
+#: core_asset-notes/assetNotes.html:56
+msgid "Save"
+msgstr ""
+
+#: core_asset-notes/assetNotes.html:33
+msgid "{{vm.notes.lastUpdated | absoluteDate}} by {{vm.notes.user}}"
+msgstr ""

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Enforce that all passwords are \"strong\" (green)"
+msgstr "Nur starke (grüne) Passwörter zulassen."
+
+msgid "Limit validity for"
+msgstr "Gültigkeit begrenzen für"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password expiration"
+msgstr "Passwort abgelaufen."
+
+msgid "Password settings updated successfully!"
+msgstr "Passworteinstellungen erfolgreich geändert."
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "default 0 = unlimited validity"
+msgstr "Standardwert “0” bedeutet uneingeschränkte Gültigkeit"

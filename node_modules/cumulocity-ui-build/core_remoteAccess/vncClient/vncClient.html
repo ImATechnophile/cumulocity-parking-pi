@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>noVNC</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script>
+      var INCLUDE_URI;
+      var NO_VNC_INCLUDE;
+      INCLUDE_URI = NO_VNC_INCLUDE = isDev() ? 'node_modules/noVnc/include/' : '';
+      var LODASH_INCLUDE = isDev() ? 'node_modules/lodash/dist/' : '';
+
+      loadCss('base.css', NO_VNC_INCLUDE);
+      loadJs('lodash.min.js', LODASH_INCLUDE);
+      loadJs('util.js', NO_VNC_INCLUDE);
+      startVncClient();
+
+      function isDev() {
+        var hostname = location.hostname;
+        return hostname === 'localhost' || hostname === '127.0.0.1';
+      }
+
+      function loadCss(css, basePath) {
+        var link = document.createElement('link');
+        link.href = (basePath || '') + css;
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        link.media = 'screen,print';
+        document.getElementsByTagName('head')[0].appendChild(link);
+      }
+
+      function loadJs(js, basePath) {
+        var script = document.createElement('script');
+        script.src = (basePath || '') + js;
+        document.getElementsByTagName('head')[0].appendChild(script);
+      }
+
+      function startVncClient() {
+        window.setTimeout(function () {
+          if (window.Util) {
+            loadJs('vncClient.js');
+          } else {
+            startVncClient();
+          }
+        }, 10);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="noVNC_container">
+      <div id="noVNC_status_bar" class="noVNC_status_bar" style="margin-top: 0px;">
+        <table border=0 width="100%">
+          <tr>
+            <td>
+              <div id="noVNC_status" style="position: relative; height: auto;">
+                Loading
+              </div>
+            </td>
+            <td width="1%">
+              <div id="noVNC_buttons">
+                <input type=button value="Send Ctrl+Alt+Del" id="sendCtrlAltDelButton">
+                <span id="noVNC_xvp_buttons">
+                  <input type=button value="Shutdown" id="xvpShutdownButton">
+                  <input type=button value="Reboot" id="xvpRebootButton">
+                  <input type=button value="Reset" id="xvpResetButton">
+                </span>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <canvas id="noVNC_canvas" width="640px" height="20px">
+        Canvas not supported.
+      </canvas>
+    </div>
+  </body>
+</html>

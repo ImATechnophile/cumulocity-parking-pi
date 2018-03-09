@@ -1,0 +1,29 @@
+{
+  "name": "Examples",
+  "comment": "Release with additional example plugins",
+  "replaceImports": {
+    "core/c8yBranding": "editing/myBranding" 
+  },
+  "applications": [
+    {
+      "contextPath": "administration",
+      "addImports": [
+        "editing/myplugin"
+      ]
+    },
+    {
+      "contextPath": "devicemanagement",
+      "addImports": [
+        "editing/myplugin", 
+        "editing/deviceContact" 
+      ]
+    },
+    {
+      "contextPath": "cockpit",
+      "addImports": [ 
+        "editing/myplugin", 
+        "editing/iconmap" 
+      ]
+    }
+  ]
+}

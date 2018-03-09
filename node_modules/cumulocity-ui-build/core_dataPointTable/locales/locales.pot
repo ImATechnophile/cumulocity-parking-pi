@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_dataPointTable/index.js:15
+msgid "A table display of a collection of data points"
+msgstr ""
+
+#: core_dataPointTable/dataPointTable.controller.js:22
+msgid "Area"
+msgstr ""
+
+#: core_dataPointTable/index.js:14
+msgid "Data points table"
+msgstr ""
+
+#: core_dataPointTable/views/dataPointTable.html:6
+msgid "Date &amp; time"
+msgstr ""
+
+#: core_dataPointTable/views/dataPointTable.html:10
+msgid "Device"
+msgstr ""
+
+#: core_dataPointTable/dataPointTable.controller.js:21
+msgid "Maximum"
+msgstr ""
+
+#: core_dataPointTable/dataPointTable.controller.js:20
+msgid "Minimum"
+msgstr ""
+
+#: core_dataPointTable/views/realtimeRadioButton.html:3
+msgid "Realtime"
+msgstr ""
+
+#: core_dataPointTable/dataPointTable.controller.js:296
+msgid "Red range: {{min}} … {{max}}"
+msgstr ""
+
+#: core_dataPointTable/views/widgetConfig.html:23
+msgid "Show date selection"
+msgstr ""
+
+#: core_dataPointTable/dataPointTable.controller.js:301
+msgid "Yellow range: {{min}} … {{max}}"
+msgstr ""

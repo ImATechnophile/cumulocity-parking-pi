@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Displays tweets from Twitter's embedded timeline widget"
+msgstr "Twitterの組み込みタイムラインウィジェットからツイートを表示"
+
+msgid "No borders"
+msgstr "枠なし"
+
+msgid "No footer"
+msgstr "フッターなし"
+
+msgid "No header"
+msgstr "ヘッダーなし"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "Twitter news"
+msgstr "Twitterニュース"
+
+msgid "Twitter's username"
+msgstr "Twitterのユーザ名"
+
+msgid "Twitter's widget ID"
+msgstr "TwitterのウィジェットID"
+
+msgid "You can obtain Twitter's widget ID from <a href=\"https://twitter.com/settings/widgets\">Widgets Settings</a>."
+msgstr "TwitterのウィジェットIDは<a href=\"https://twitter.com/settings/widgets\">ウィジェット設定</a>から取得できます"

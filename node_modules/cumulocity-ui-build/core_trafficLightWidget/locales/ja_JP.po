@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Please choose a device and complete the mapping for all light states."
+msgstr "デバイスを選択して、すべてのライトの状態のマッピングを完了してください"
+
+msgid "Property"
+msgstr "プロパティ"
+
+msgid "Select device property"
+msgstr "デバイスプロパティを選択"
+
+msgid "Select fieldbus property"
+msgstr "フィールドバスプロパティを選択"
+
+msgid "State"
+msgstr "状態"
+
+msgid "States mapping"
+msgstr "状態マッピング"
+
+msgid "The value of the selected data point or property must be one of the following to have the respective light on: true, 1, any non-empty string or any non-null number."
+msgstr "選択したデータポイントもしくはプロパティは、ライトをオンにするため、以下のいずれかの数値にする必要があります: true, 1, 空でない文字列、もしくはNULLでない数字"
+
+msgid "Traffic light"
+msgstr "信号機"
+
+msgid "Visualizes traffic light based on the states of a device"
+msgstr "デバイスの状態を信号機として視覚化する"
+
+msgid "green"
+msgstr "緑"
+
+msgid "red"
+msgstr "赤"
+
+msgid "yellow"
+msgstr "黄"

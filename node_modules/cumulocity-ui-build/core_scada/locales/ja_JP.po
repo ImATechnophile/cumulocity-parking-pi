@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Assign device property"
+msgstr "デバイスプロパティを割り当てる"
+
+msgid "Assign fieldbus property"
+msgstr "フィールドバスプロパティを割り当てる"
+
+msgid "Clear mapping"
+msgstr "マッピングをクリア"
+
+msgid "Current value"
+msgstr "現在の値"
+
+msgid "Display a configurable SVG."
+msgstr "設定可能なSVGファイルを表示"
+
+msgid ""
+"For placeholder to be recognized it needs to be used at least once\n"
+"        in curly braces with no other expression, e.g. <var ng-non-bindable=\"\">{{placeholderName}}</var>.\n"
+"        Then you can use this placeholderName in bindings handled by Angular.\n"
+"        There are also predefined functions available:"
+msgstr ""
+"プレースホルダを認識させるには、少なくとも1回、中括弧でその他の式を含まずに\n"
+"        使用される必要があります。(例) <var ng-non-bindable=\"\">{{placeholderName}}</var>.\n"
+"        そして、Angularで扱われるバインディングで、このplaeceholderNameを使用できるようになります。\n"
+"        事前定義された関数も使用可能です:"
+
+msgid "Invalid SVG"
+msgstr "無効なSVGファイルです"
+
+msgid "Mapped to"
+msgstr "マッピング"
+
+msgid "Placeholder"
+msgstr "プレースホルダ"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Target"
+msgstr "ターゲット"
+
+msgid "Toggle help text"
+msgstr "ヘルプテキスト表示/非表示"
+
+msgid "You need to choose a device and fill all mappings to be able to preview an SVG."
+msgstr "SVGをプレビューするには、デバイスを選択してすべてのマッピングを入力する必要があります"
+
+msgid "takes alarms status object and returns a CSS class that can be used for styling: none, warning, minor, major, critical, e.g."
+msgstr "(例) アラームステータスオブジェクトを取得し、スタイリングに使用できるCSSクラスを返します: none, warning, minor, major, critical"
+
+msgid "takes device's id and redirects user to device details view, e.g."
+msgstr "(例) デバイスのIDを取得し、ユーザーをデバイス詳細ビューにリダイレクトします"
+
+msgid "takes group's id and redirects user to group details view, e.g."
+msgstr "(例) グループのIDを取得し、ユーザーをグループ詳細ビューにリダイレクトします"

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_twitterNews/index.js:11
+msgid "Displays tweets from Twitter's embedded timeline widget"
+msgstr ""
+
+#: core_twitterNews/views/config.html:30
+msgid "No borders"
+msgstr ""
+
+#: core_twitterNews/views/config.html:23
+msgid "No footer"
+msgstr ""
+
+#: core_twitterNews/views/config.html:16
+msgid "No header"
+msgstr ""
+
+#: core_twitterNews/views/config.html:37
+msgid "Transparent"
+msgstr ""
+
+#: core_twitterNews/index.js:10
+msgid "Twitter news"
+msgstr ""
+
+#: core_twitterNews/views/config.html:3
+msgid "Twitter's username"
+msgstr ""
+
+#: core_twitterNews/views/config.html:7
+msgid "Twitter's widget ID"
+msgstr ""
+
+#: core_twitterNews/views/config.html:10
+msgid "You can obtain Twitter's widget ID from <a href=\"https://twitter.com/settings/widgets\">Widgets Settings</a>."
+msgstr ""

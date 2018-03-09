@@ -1,0 +1,16 @@
+
+<div class="container" ng-app="device" ng-controller="childcontroller" >
+<div class="row text-center mt-5 mb-5">
+  <div class="col-sm-3" ng-repeat="info in ReDist track by $index">
+    <div class="card">
+      <h5  class="card-header text-success">{{info.childName}}</h5>
+      <div class="card-body">
+        <img class="card-img-top" src={{info.childImage}} alt="Card image cap">
+      </div>
+      <span class="card-footer">CheckIn /out Time:{{info.childTime}}</span>
+    </div>
+  </div>
+</div>
+</div>
+
+

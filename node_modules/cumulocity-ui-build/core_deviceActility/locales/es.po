@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm deprovisioning?"
+msgstr "¿Confirmar procesos?"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delete device without deprovisioning"
+msgstr "Borrar dispositivo sin desprovisión"
+
+msgid "Deprovision"
+msgstr "Deprovisión"
+
+msgid "Deprovision device"
+msgstr "Dispositivo deprovision"
+
+msgid "Deprovision device from ThingPark"
+msgstr "Dispositivo de deprovision de ThingPark"
+
+msgid "Device has been deleted!"
+msgstr "¡Dispositivo ha sido borrado!"
+
+msgid "Device has been deprovisioned!"
+msgstr "¡Dispositivo ha sido desprovisto!"
+
+msgid "Including child devices of this device"
+msgstr "Incluyendo dispositivos infantiles de este dispositivo"
+
+msgid "LoRa device"
+msgstr "Dispositivo LoRa"

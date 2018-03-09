@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add device"
+msgstr "Añadir dispositivo"
+
+msgid "Add group"
+msgstr "Añadir grupo"
+
+msgid "Add user"
+msgstr "Añadir usuario"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Cockpit"
+msgstr "Cockpit"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Create device"
+msgstr "Crear dispositivo"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Device ID"
+msgstr "Identificación"
+
+msgid "Device ID is required."
+msgstr "ID de dispositivo es necesaria."
+
+msgid "Device management"
+msgstr "Gestión de dispositivos"
+
+msgid "Device {{id}} is successfully registered."
+msgstr "Dispositivo de {{id}} está registrado correctamente."
+
+msgid "Displays a panel with quick links"
+msgstr "Muestra un panel con enlaces rápidos"
+
+msgid "Help & Service"
+msgstr "Ayuda y servicio"

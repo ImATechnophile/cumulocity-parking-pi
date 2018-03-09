@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add configuration snapshot"
+msgstr "構成スナップショットを追加"
+
+msgid "Apply configuration snapshot"
+msgstr "構成スナップショットを適用"
+
+msgid "Apply new snapshot"
+msgstr "新しいスナップショットを適用"
+
+msgid "Choose a configuration..."
+msgstr "構成を選択..."
+
+msgid "Configuration"
+msgstr "構成"
+
+msgid "Configuration has been reloaded!"
+msgstr "構成がリロードされました"
+
+msgid "Configuration has been saved!"
+msgstr "構成が保存されました"
+
+msgid "Configuration snapshot"
+msgstr "構成スナップショット"
+
+msgid "Configuration snapshot file"
+msgstr "構成スナップショットファイル"
+
+msgid "Configuration snapshot has been applied!"
+msgstr "構成スナップショットが適用されました"
+
+msgid "Configuration snapshot has been stored in configuration repository!"
+msgstr "構成スナップショットは構成リポジトリに格納されています"
+
+msgid "Configuration update"
+msgstr "構成の更新"
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr "操作: \"{{description | translate}}\" を作成しました"
+
+msgid "Current snapshot"
+msgstr "現在のスナップショット"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Failed to apply configuration snapshot because of \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\" のため構成スナップショットを適用できませんでした"
+
+msgid "Failed to apply configuration snapshot!"
+msgstr "構成スナップショットを適用できませんでした"
+
+msgid "Failed to reload configuration because of: \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\" のため構成をリロードできませんでした"
+
+msgid "Failed to reload configuration!"
+msgstr "構成のリロードができませんでした"
+
+msgid "Failed to retrieve configuration snapshot because of \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\" のため構成スナップショットの読み出しができませんでした"
+
+msgid "Failed to retrieve configuration snapshot!"
+msgstr "構成スナップショットの読み出しができませんでした"
+
+msgid "Failed to save configuration because of: \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\" のため構成を保存できませんでした"
+
+msgid "Failed to save configuration!"
+msgstr "構成の保存ができませんでした"
+
+msgid "For device type: {{deviceType}}"
+msgstr "デバイスタイプ: {{deviceType}}"
+
+msgid "Get new snapshot from device"
+msgstr "デバイスから新しいスナップショットを取得"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No snapshot assigned to this device. Get current snapshot from device or put new one from repository."
+msgstr "このデバイスに割り当てられたスナップショットはありません。 デバイスから現在のスナップショットを取得するか、リポジトリから新しいスナップショットを作成してください"
+
+msgid "Open in repository"
+msgstr "リポジトリで開く"
+
+msgid "Put new snapshot to device"
+msgstr "デバイスへの新しいスナップショットの追加"
+
+msgid "Putting new snapshot to device"
+msgstr "デバイスへの新しいスナップショットの追加中"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Requested current configuration"
+msgstr "現在の構成をリクエスト"
+
+msgid "Retrieve configuration snapshot"
+msgstr "構成スナップショットを取得"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Saving"
+msgstr "保存中"
+
+msgid "Select configuration repository entry to be used"
+msgstr "使用されている構成リポジトリエントリを選択"
+
+msgid "Snapshot assigned on"
+msgstr "割り当てられたスナップショット"
+
+msgid "The snapshot with the id {{deviceConfigId}} is assigned to the device but the configuration can't be found in the repository."
+msgstr "{{deviceConfigId}}というIDのスナップショットはデバイスに割り当てられていますが、リポジトリで設定が見つかりません"
+
+msgid "Type independent"
+msgstr "独立したタイプ"

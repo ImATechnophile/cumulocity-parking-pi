@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Create report"
+msgstr "レポートを作成"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Do you really want to remove report \"{{name}}\"?"
+msgstr "本当にレポート \"{{name}}\" を削除しますか？"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit report"
+msgstr "レポートを編集"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "New report"
+msgstr "新しいレポート"
+
+msgid "Remove report"
+msgstr "レポートを削除"
+
+msgid "Report successfully removed!"
+msgstr "レポートは正常に削除されました"
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select or search icon"
+msgstr "アイコンを選択または検索"

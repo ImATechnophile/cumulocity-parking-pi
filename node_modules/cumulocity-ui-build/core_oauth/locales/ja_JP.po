@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Refresh token"
+msgstr "トークンを更新"
+
+msgid "Token successfully saved"
+msgstr "トークンは正常に保存されました"
+
+msgid "oAuth"
+msgstr "oAuth"

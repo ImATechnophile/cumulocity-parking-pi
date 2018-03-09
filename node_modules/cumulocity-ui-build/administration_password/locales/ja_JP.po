@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Enforce that all passwords are \"strong\" (green)"
+msgstr "パスワード強度を\"強\"（緑色）のみとする"
+
+msgid "Limit validity for"
+msgstr "有効期限"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Password expiration"
+msgstr "パスワードの有効期限"
+
+msgid "Password settings updated successfully!"
+msgstr "パスワードの設定が正常に更新されました"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "days"
+msgstr "日"
+
+msgid "default 0 = unlimited validity"
+msgstr "デフォルト値 0 = 制限なし"

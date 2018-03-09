@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "ADMIN"
+msgstr "管理者"
+
+msgid "ALARM"
+msgstr "アラーム"
+
+msgid "AUDIT"
+msgstr "監視"
+
+msgid "EVENT"
+msgstr "イベント"
+
+msgid "MANAGED_OBJECT"
+msgstr "MANAGED_OBJECT"
+
+msgid "MEASUREMENT"
+msgstr "測定"
+
+msgid "OPERATION"
+msgstr "操作"
+
+msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission. Note that to have access to an object, user has to have access to all its fragments. Use an asterisk (*) to grant permission to any object's fragment type."
+msgstr "アクセス権限を与えるオブジェクトのフラグメントタイプ(例 : c8y_IsDevice)。 オブジェクトにアクセスするには、ユーザはそのオブジェクトのすべてのフラグメントにアクセスできる必要があります。 あらゆるオブジェクトのフラグメントタイプにアクセス権限を与えるには、アスタリスク（*）を使用してください"
+
+msgid "Permission"
+msgstr "アクセス権限"
+
+msgid "READ"
+msgstr "読み取り"
+
+msgid "SUPPORT"
+msgstr "サポート"
+
+msgid "Scope"
+msgstr "範囲"
+
+msgid "Select or search"
+msgstr "選択または検索"
+
+msgid "Type"
+msgstr "タイプ"

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add permission"
+msgstr "Añadir permiso"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Check user permission"
+msgstr "Comprobar permiso de usuario"
+
+msgid "Check user permissions section allows you to verify permissions granted to selected user for the device also inherited from parent devices or assinged to user group. Granted permission section allows you to check and manage permissions for the device."
+msgstr "Compruebe la sección de permisos de usuario le permite verificar los permisos concedidos al usuario seleccionado para el dispositivo también heredado de los dispositivos primarios o asignado al grupo de usuarios. La sección de permisos concedida le permite verificar y administrar permisos para el dispositivo."
+
+msgid "GROUP"
+msgstr "GRUPO"
+
+msgid "Granted permission"
+msgstr "Permiso concedido"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Has right to"
+msgstr "Tiene derecho a"
+
+msgid "New permission"
+msgstr "Nuevo permiso"
+
+msgid "No permissions for user."
+msgstr "No hay permisos para usuario."
+
+msgid "Permissions"
+msgstr "Permisos"
+
+msgid "Permissions successfully updated"
+msgstr "Permisos actualizados correctamente"
+
+msgid "Read"
+msgstr "Leer"
+
+msgid "Read and write"
+msgstr "Lea y escriba"
+
+msgid "Remove permission"
+msgstr "Quitar permiso"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Select or search"
+msgstr "Seleccionar o buscar"
+
+msgid "Select or search user"
+msgstr "Seleccionar o buscar usuario"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "Esta característica es obsoleta. Aunque sigue siendo completamente funcional más bien debe usar <a href=\"/apps/administration#roles\">Roles</a> para establecer los permisos."
+
+msgid "USER"
+msgstr "USUARIO"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Write"
+msgstr "Escribir"
+
+msgid "all types of objects"
+msgstr "todos los tipos de objetos"
+
+msgid "any"
+msgstr "cualquier"
+
+msgid "fragment"
+msgstr "fragmento"
+
+msgid "with"
+msgstr "con"

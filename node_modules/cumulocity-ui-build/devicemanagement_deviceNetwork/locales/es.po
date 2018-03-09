@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Address range"
+msgstr "Rango de direcciones"
+
+msgid "Auth type"
+msgstr "Tipo de autenticación"
+
+msgid "Configure DHCP settings"
+msgstr "Configurar opciones DHCP"
+
+msgid "Configure LAN settings"
+msgstr "Configurar configuración LAN"
+
+msgid "Configure WAN settings"
+msgstr "Configurar opciones WAN"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Disabled"
+msgstr "Desactivado"
+
+msgid "Domain name"
+msgstr "Nombre del dominio"
+
+msgid "Enabled"
+msgstr "Activado"
+
+msgid "IP Address"
+msgstr "Dirección IP"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "MAC address"
+msgstr "Dirección MAC"
+
+msgid "Messaging provider must be configured to send WAN settings to device via SMS"
+msgstr "El proveedor de mensajería debe configurarse para enviar configuración WAN al dispositivo a través de SMS"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Network"
+msgstr "Red"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "SIM status"
+msgstr "Estado de la SIM"
+
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+msgid "Save changes (SMS)"
+msgstr "Guardar cambios (SMS)"
+
+msgid "Sent operation to apply DHCP settings."
+msgstr "Enviar operación para aplicar configuración DCHP."
+
+msgid "Sent operation to apply LAN settings."
+msgstr "Enviar operación para aplicar configuración LAN."
+
+msgid "Sent operation to apply WAN settings."
+msgstr "Enviar operación para aplicar configuración WAN."
+
+msgid "Subnet mask"
+msgstr "Máscara de subred"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "e.g. 12:AB:34:CD:56:EF"
+msgstr "por ejemplo, 12:AB:34:CD:56:EF"
+
+msgid "e.g. 192.168.0.1"
+msgstr "por ejemplo, 192.168.0.1"
+
+msgid "e.g. 192.168.0.10"
+msgstr "por ejemplo. 192.168.0.10"
+
+msgid "e.g. 192.168.0.2"
+msgstr "por ejemplo, 192.168.0.2"
+
+msgid "e.g. 255.255.255.0"
+msgstr "por ejemplo, 255.255.255.0"

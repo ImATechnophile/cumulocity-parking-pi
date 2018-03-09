@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Credentials"
+msgstr "資格情報"
+
+msgid "Credentials successfully deleted"
+msgstr "資格情報は正常に削除されました"
+
+msgid "Credentials successfully updated"
+msgstr "資格情報は正常に更新されました"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Deleting credentials will lock out any users with SMS-based two-factors authentication, and disable the SMS-based smart rules and device communication. Are you sure you want to delete your OpenIT credentials?"
+msgstr "資格情報を削除すると、SMSベースの二要素認証によるユーザはすべてロックアウトされ、SMSベースのスマートルールとデバイス通信が無効になります。 OpenIT資格情報を削除してもよろしいですか？"
+
+msgid "OpenIT credentials"
+msgstr "OpenIT資格情報"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Please enter your OpenIT credentials. These credentials are used for {{uses}}."
+msgstr "OpenITの資格情報を入力してください。 この資格情報は{{uses}}に使用されます"
+
+msgid "Please enter your credentials from your SMS provider.  This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
+msgstr "SMSプロバイダの資格情報を入力してください。 これによりSMSサービスを利用するプラットフォーム機能が有効になります。（例: 二要素認証やユーザ通知）"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "Username"
+msgstr "ユーザ名"
+
+msgid "and"
+msgstr "および"
+
+msgid "sending SMSs in smart rules"
+msgstr "スマートルールにSMSを送信中"
+
+msgid "the communication with some devices"
+msgstr "一部のデバイスとの通信"
+
+msgid "two-factors authentication"
+msgstr "二要素認証"

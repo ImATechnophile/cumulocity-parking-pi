@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceControlMessage/controllers/deviceControlMessageWidget.js:53
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr ""
+
+#: core_deviceControlMessage/views/deviceControlMessageWidget.html:5
+msgid "Message"
+msgstr ""
+
+#: core_deviceControlMessage/index.js:10
+msgid "Message sending"
+msgstr ""
+
+#: core_deviceControlMessage/views/deviceControlMessageWidget.html:2
+msgid "Operation not supported by this device"
+msgstr ""
+
+#: core_deviceControlMessage/index.js:11
+msgid "Remotely send a message to a device"
+msgstr ""
+
+#: core_deviceControlMessage/views/deviceControlMessageWidget.html:7
+msgid "Send"
+msgstr ""
+
+#: core_deviceControlMessage/controllers/deviceControlMessageWidget.js:47
+msgid "Send message \"{{msg}}\""
+msgstr ""

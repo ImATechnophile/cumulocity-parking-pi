@@ -1,0 +1,85 @@
+// body used to override default styles
+body {
+  @import "selectize/plugins/drag_drop";
+  @import "selectize/plugins/dropdown_header";
+  @import "selectize/plugins/optgroup_columns";
+  @import "selectize/plugins/remove_button";
+  @import "selectize/selectize.less";
+  @import "angular-ui-select/select.less";
+  .form-control.selectize-control.single.ng-invalid-required.ng-touched {
+    .selectize-input {
+      border-color: @brand-danger;
+      &:after {
+        opacity: 0;
+      }
+    }
+  }
+}
+
+body>.ui-select-container {
+  z-index: 1050;
+}
+
+.selectize-container {
+  .form-control.selectize-control.open {
+    position: relative;
+    &:before {
+      position: absolute;
+      top: -15px;
+      right: -15px;
+      left: -15px;
+      z-index: 0;
+      height: 15px;
+      border: @selectize-border;
+      border-bottom: 0;
+      background-color: white;
+      content: '';
+
+      .box-shadow(0 20px 15px fade(black, 10%));
+    }
+    .selectize-input {
+      position: relative;
+      z-index: 10;
+    }
+  }
+  label {
+    position: relative;
+    z-index: 5;
+    +.form-control.selectize-control.open:before {
+      top: -30px;
+      height: 30px;
+    }
+  }
+}
+
+.ui-select-match {
+  position: absolute;
+  top: 5px;
+  overflow: hidden;
+  padding-right: 40px;
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.ui-select-choices {
+  opacity: 1 !important;
+}
+
+.ui-select-choices.ng-hide {
+  opacity: 0 !important;
+}
+
+input.ui-select-search[placeholder] {
+  overflow: hidden;
+  padding-right: 20px !important;
+  text-overflow: ellipsis;
+}
+
+.ui-select-choices-row-inner,
+.ui-select-choices-row-inner>* {
+  overflow: hidden;
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

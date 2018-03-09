@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_auditLogs/index.js:15
+msgid "Accounts"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:9
+msgid "All types"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:52
+msgid "Apply filters"
+msgstr ""
+
+#: administration_auditLogs/index.js:16
+#: administration_auditLogs/list.controller.js:17
+msgid "Audit logs"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:59
+msgid "Clear filters"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:18
+msgid "Date from"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:34
+msgid "Date to"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:55
+msgid "Filter"
+msgstr ""
+
+#: administration_auditLogs/views/filter.html:46
+msgid "Who"
+msgstr ""

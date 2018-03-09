@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Application EUI"
+msgstr "Application EUI"
+
+msgid "Connectivity"
+msgstr "Connectivity"
+
+msgid ""
+"Credentials have already been provided.<br>\n"
+"          Click \"Replace credentials\" below to overwrite them."
+msgstr ""
+"Zugangsdaten wurden bereits eingestellt. <br>\n"
+"\tKlicken Sie unten auf \"Zugangsdaten ersetzen”, um sie zu überschreiben."
+
+msgid "Credentials successfully saved"
+msgstr "Zugangsdaten erfolgreich gespeichert."
+
+msgid "LoRa provider settings"
+msgstr "LoRa-Betreibereinstellungen"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Profile ID"
+msgstr "Profil-ID"
+
+msgid "Replace credentials"
+msgstr "Zugangsdaten ersetzen"
+
+msgid "Save credentials"
+msgstr "Zugangsdaten speichern"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "There are no credentials provided yet. Please provide some."
+msgstr "Es wurden noch keine Zugangsdaten konfiguriert. Bitte geben Sie Zugangsdaten ein."
+
+msgid "Username"
+msgstr "Benutzername"

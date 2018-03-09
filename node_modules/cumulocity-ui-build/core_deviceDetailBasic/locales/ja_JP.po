@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Inventory update operation created!"
+msgstr "インベントリ更新操作が作成されました"
+
+msgid "Inventory update operation executed successfully!"
+msgstr "インベントリ更新操作は正常に実行されました"
+
+msgid "Inventory update operation failed with reason: {{failureReason}}!"
+msgstr "インベントリ更新操作が以下の理由で失敗しました：{{failureReason}}"
+
+msgid "Inventory update operation failed!"
+msgstr "インベントリ更新操作が失敗しました"
+
+msgid "Request inventory update"
+msgstr "インベントリ更新をリクエスト"

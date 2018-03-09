@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: cockpit_smartRulesUI/index.js:75
+msgid "Configuration"
+msgstr ""
+
+#: cockpit_smartRulesUI/index.js:76
+msgid "Global Smart Rules"
+msgstr ""
+
+#: cockpit_smartRulesUI/index.js:67
+msgid "Info"
+msgstr ""

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Allow insecure use of elements and attributes"
+msgstr "Permitir el uso inseguro de elementos y atributos"
+
+msgid "Display custom HTML code"
+msgstr "Mostrar código HTML personalizado"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML code"
+msgstr "Código HTML"
+
+msgid "Toggle help text"
+msgstr "Alternar texto de ayuda"
+
+msgid "You can use the following variables in your HTML code:"
+msgstr "Puede utilizar las siguientes variables en su código HTML:"
+
+msgid "children of current device or group, you can access their properties e.g."
+msgstr "dispositivo infantil actual o grupo, puede acceder a sus propiedades por ejemplo."
+
+msgid "current device or group, you can access its properties e.g."
+msgstr "dispositivo actual o grupo, puede acceder a sus propiedades por ejemplo."
+
+msgid "number of device groups"
+msgstr "número de grupos de dispositivos"
+
+msgid "number of devices"
+msgstr "número de dispositivos"
+
+msgid "number of devices with critical alarm status"
+msgstr "número de dispositivos con el estado de alarma crítica"
+
+msgid "number of online devices"
+msgstr "número de dispositivos en línea"
+
+msgid "number of users"
+msgstr "número de usuarios"

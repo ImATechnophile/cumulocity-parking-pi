@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add permission"
+msgstr "Ajouter une permission"
+
+msgid "Add widget"
+msgstr "Ajouter un widget"
+
+msgid "Add widget to dashboard"
+msgstr "Ajouter un widget au tableau de bord"
+
+msgid "Apply dashboard to all devices of type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "Appliquer le tableau de bord à tous les appareils de type <i>{{dashboard.deviceTypeValue}}</i>"
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+msgid "Border"
+msgstr "Bordure"
+
+msgid "Bottom margin"
+msgstr "Marge inférieure"
+
+msgid "Branded"
+msgstr "Marqué"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Content style"
+msgstr "Style du contenu"
+
+msgid "Copy dashboard"
+msgstr "Copier le tableau de bord"
+
+msgid "Create dashboard"
+msgstr "Créer un tableau de bord"
+
+msgid "Create widget"
+msgstr "Créer un widget"
+
+msgid "Customize widget style"
+msgstr "Personnaliser le style de widget"
+
+msgid "Dark"
+msgstr "Foncé"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Dashboard copied. Navigate to the desired device and select \"Paste dashboard\""
+msgstr "Tableau de bord copié. Naviguez à l’appareil désiré et sélectionnez \" Coller le tableau de bord \""
+
+msgid "Dashboard copied. Navigate to the desired group and select \"Paste dashboard\""
+msgstr "Tableau de bord copié. Naviguez vers le groupe désiré et sélectionnez \" Coller le tableau de bord \""
+
+msgid "Dashboard default"
+msgstr "Tableau de bord par défaut"
+
+msgid "Dashboard info"
+msgstr "Infos du tableau de bord"
+
+msgid "Dashboard layout"
+msgstr "Mise en page du tableau de bord"
+
+msgid "Dashboard theme"
+msgstr "Thème de tableau de bord"
+
+msgid "Dashboard visible to all users"
+msgstr "Tableau de bord visible à tous les utilisateurs"
+
+msgid "Default widget header style"
+msgstr "Style de l'en-tête du widget par défaut"
+
+msgid "Default widget margin"
+msgstr "Marge de widget par défaut"
+
+msgid "Device dashboards can only be copied into a device."
+msgstr "Tableaux de bord de l’appareil peut seulement être copiés dans un appareil."
+
+msgid "Do you want to remove the dashboard named \"{{name}}\" from all devices of the type \"{{deviceTypeValue}}\"?"
+msgstr "Voulez-vous supprimer le tableau de bord \" {{name}} \" de tous les appareils de type \" {{deviceTypeValue}} \" ?"
+
+msgid "Do you want to remove the dashboard named \"{{name}}\"?"
+msgstr "Voulez-vous supprimer le tableau de bord \" {{name}} \" ?"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit dashboard"
+msgstr "Modifier le tableau de bord"
+
+msgid "Edit widget"
+msgstr "Modifier un widget"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">User Guide</a>."
+msgstr "Pour en savoir plus sur le <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">Guide de l’utilisateur</a>."
+
+msgid "Full screen"
+msgstr "Plein écran"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Group dashboards can only be copied into a group."
+msgstr "Tableaux de bord de groupe peut uniquement être copié dans un groupe."
+
+msgid "Header style"
+msgstr "Style de l'en-tête"
+
+msgid "Hidden"
+msgstr "Masqué"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Left margin"
+msgstr "Marge gauche"
+
+msgid "Light"
+msgstr "Léger"
+
+msgid "Location in navigation"
+msgstr "Lieu de navigation"
+
+msgid "Lock"
+msgstr "Verrouiller"
+
+msgid "Lock/unlock this dashboard"
+msgstr "Verrouiller/débloquer ce tableau de bord"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "Menu label"
+msgstr "Etiquette du menu"
+
+msgid "Menu label to display in submenu when dashboard is attached"
+msgstr "Étiquette du menu pour afficher dans le sous-menu lorsque le tableau de bord est attaché"
+
+msgid "No widgets to display."
+msgstr "Aucun widget à afficher."
+
+msgid "Only dashboards from devices or groups can be copied"
+msgstr "Seuls les tableaux de bord des appareils ou des groupes peuvent être copiés"
+
+msgid "Only dashboards with widgets referencing the current device can be copied."
+msgstr "Seuls les tableaux de bord avec des widgets référençant l’appareil actuel peuvent être copiés."
+
+msgid "Only dashboards with widgets referencing the current group can be copied."
+msgstr "Seuls les tableaux de bord avec des widgets référençant le groupe actuel peuvent être copiés."
+
+msgid "Order in navigation menu (10000 first, -10000 last)"
+msgstr "Ordonner dans le menu de navigation (10000 en premier, -10000 en dernier)"
+
+msgid "Overlay"
+msgstr "Superposition"
+
+msgid "Permission"
+msgstr "Permission"
+
+msgid "Please add widgets to this dashboard."
+msgstr "S’il vous plaît ajoutez des widgets à ce tableau de bord."
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Print screen of {{name}}"
+msgstr "Capture d’écran de {{name}}"
+
+msgid "REPORT"
+msgstr "RAPPORT"
+
+msgid "Regular"
+msgstr "Régulier"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Remove dashboard"
+msgstr "Supprimer du tableau de bord"
+
+msgid "Restore dashboard"
+msgstr "Restaurer le tableau de bord"
+
+msgid "Restore default dashboard"
+msgstr "Restauration de tableau de bord par défaut"
+
+msgid "Right margin"
+msgstr "Marge droite"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Select content style"
+msgstr "Sélectionner le style de contenu"
+
+msgid "Select dashboard"
+msgstr "Sélectionner le tableau de bord"
+
+msgid "Select header style"
+msgstr "Sélectionner le style d'en-tête"
+
+msgid "Select or search"
+msgstr "Sélectionner ou rechercher"
+
+msgid "Select or search icon"
+msgstr "Sélectionner ou chercher l'icône"
+
+msgid "Select report"
+msgstr "Sélectionner un rapport"
+
+msgid "Select theme"
+msgstr "Sélectionner un thème"
+
+msgid "Select widget"
+msgstr "Sélectionner un Widget"
+
+msgid "Send dashboard via e-mail"
+msgstr "Envoyer le tableau de bord par e-mail"
+
+msgid "Send via e-mail"
+msgstr "envoyer par e-mail"
+
+msgid "Target assets or devices"
+msgstr "Actifs de cible ou d’appareil"
+
+msgid "There are no dashboards available"
+msgstr "Il n’y a aucun tableaux de bord disponible"
+
+msgid "This dashboard is shared between all devices of the type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "Ce tableau de bord est partagée entre tous les appareils de la type <i>{{dashboard.deviceTypeValue}}</i>"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "Cette fonctionnalité est désapprouvée. Bien qu’il soit toujours pleinement fonctionnel, vous devez plutôt utiliser la nouvelle fonctionnalité <a href=\"/apps/administration#roles\">rôles</a> pour définir des permissions."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Toggle full screen"
+msgstr "Passage en mode plein écran"
+
+msgid "Top margin"
+msgstr "Marge au dessus"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Unlock"
+msgstr "Déverouiller"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Widget example content."
+msgstr "Contenu d’exemple de widget."
+
+msgid "Widget margins"
+msgstr "Marges de widget"
+
+msgid "Widget title"
+msgstr "Titre du Widget"
+
+msgid "Your dashboard is locked now."
+msgstr "Votre tableau de bord est maintenant verrouillé."
+
+msgid "Your dashboard is unlocked now."
+msgstr "Votre tableau de bord est maintenant déverrouillé."
+
+msgid "no description"
+msgstr "pas de description"

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add configuration snapshot"
+msgstr "Ajouter une configuration"
+
+msgid "Apply configuration snapshot"
+msgstr "Appliquer une configuration"
+
+msgid "Apply new snapshot"
+msgstr "Appliquer une nouvelle configuration"
+
+msgid "Choose a configuration..."
+msgstr "Choisir une configuration..."
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "Configuration has been reloaded!"
+msgstr "Configuration a été rechargée !"
+
+msgid "Configuration has been saved!"
+msgstr "Configuration a été enregistrée!"
+
+msgid "Configuration snapshot"
+msgstr "Configuration"
+
+msgid "Configuration snapshot file"
+msgstr "Configuration fichier de configuration"
+
+msgid "Configuration snapshot has been applied!"
+msgstr "Configuration appliquée !"
+
+msgid "Configuration snapshot has been stored in configuration repository!"
+msgstr "Configuration stockée dans l’archive de configuration !"
+
+msgid "Configuration update"
+msgstr "Configuration actualisée"
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr "Opération crée: \" {{description | translate}} \" !"
+
+msgid "Current snapshot"
+msgstr "Configuration active"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Failed to apply configuration snapshot because of \"{{failureReason}}\"!"
+msgstr "L'application de la configuration a échouée en raison de \" {{failureReason}} \" !"
+
+msgid "Failed to apply configuration snapshot!"
+msgstr "L'application de la configuration a échouée !"
+
+msgid "Failed to reload configuration because of: \"{{failureReason}}\"!"
+msgstr "Le rechargement de la configuration a échoué à cause de : \" {{failureReason}} \" !"
+
+msgid "Failed to reload configuration!"
+msgstr "Le rechargement de la configuration a échoué !"
+
+msgid "Failed to retrieve configuration snapshot because of \"{{failureReason}}\"!"
+msgstr "La récupération de la configuration a échouée en raison de \" {{failureReason}} \" !"
+
+msgid "Failed to retrieve configuration snapshot!"
+msgstr "La récupération de la configuration a échouée !"
+
+msgid "Failed to save configuration because of: \"{{failureReason}}\"!"
+msgstr "La sauvegarde de la configuration a échouée à cause de : \" {{failureReason}} \" !"
+
+msgid "Failed to save configuration!"
+msgstr "La sauvegarde de la configuration a échouée !"
+
+msgid "For device type: {{deviceType}}"
+msgstr "Pour le type d’appareil : {{deviceType}}"
+
+msgid "Get new snapshot from device"
+msgstr "Obtenir la nouvelle configuration de l’appareil"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No snapshot assigned to this device. Get current snapshot from device or put new one from repository."
+msgstr "Aucune configuration assigné à cet appareil. Obtenez la configuration actuelle de l'appareil ou utilisez une configuration archivé."
+
+msgid "Open in repository"
+msgstr "Ouvrir dans un archive"
+
+msgid "Put new snapshot to device"
+msgstr "Ajoutez la nouvelle configuration à l’appareil"
+
+msgid "Putting new snapshot to device"
+msgstr "Ajout de la nouvelle configuration à l’appareil en cours"
+
+msgid "Reload"
+msgstr "Recharger"
+
+msgid "Requested current configuration"
+msgstr "Configuration actuelle demandée"
+
+msgid "Retrieve configuration snapshot"
+msgstr "Récupérer la configuration"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Saving"
+msgstr "En train d’enregister"
+
+msgid "Select configuration repository entry to be used"
+msgstr "Sélectionner l'entrée du archive de configuration à utiliser"
+
+msgid "Snapshot assigned on"
+msgstr "Configuration assignée sur"
+
+msgid "The snapshot with the id {{deviceConfigId}} is assigned to the device but the configuration can't be found in the repository."
+msgstr "La configuration avec l’id {{deviceConfigId}} est assignée à l’unité, mais la configuration ne peut pas être trouvée dans le archive."
+
+msgid "Type independent"
+msgstr "Type indépendant"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:47
+msgid "Active, critical alarms"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:167
+msgid "Battery: level"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:197
+msgid "CPU: workload"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:156
+msgid "Device and communication"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:84
+msgid "Device data"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:307
+msgid "Device status"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:317
+msgid "Group assignment"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:16
+msgid "Info"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:74
+msgid "Location"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:255
+msgid "Memory: total"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:187
+msgid "Memory: used"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:327
+msgid "Message of the day"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:245
+msgid "Network: download"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:207
+msgid "Network: upload"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:226
+msgid "Signal: BER"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:236
+msgid "Signal: ECN0"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:217
+msgid "Signal: RCSP"
+msgstr ""
+
+#: core_device-info-dashboard/device-info-dashboard.module.js:177
+msgid "Signal: RSSI"
+msgstr ""

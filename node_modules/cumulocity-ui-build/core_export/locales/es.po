@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add from datapoint"
+msgstr "Agregar desde el punto de datos"
+
+msgid "Add predefined"
+msgstr "Añadir predefinido"
+
+msgid "Add report"
+msgstr "Añadir informe"
+
+msgid "Add schedule"
+msgstr "Añadir horario"
+
+msgid "Add your first report using the button below."
+msgstr "Añada su primer informe utilizando el siguiente botón."
+
+msgid "Alarms"
+msgstr "Alarmas"
+
+msgid "Apply the selected action to the group of checked rows"
+msgstr "Aplicar la acción seleccionada al grupo de filas marcadas"
+
+msgid "Clone"
+msgstr "Clonar"
+
+msgid "Clone of {{config}}"
+msgstr "Clon de {{config}}"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Create configuration"
+msgstr "Crear configuración"
+
+msgid "Custom"
+msgstr "Personalizar"
+
+msgid "Delete property"
+msgstr "Eliminar la propiedad"
+
+msgid "Do you really want to remove configuration \"{{name}}\"?"
+msgstr "¿Realmente desea eliminar la configuración \"{{name}}”?"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Export \"{{name}}\" report and send it via e-mail"
+msgstr "Exportar “{{nombre}}” informar y enviar por correo electrónico"
+
+msgid "Export of \"{{name}}\" report"
+msgstr "Informe \"{{name}}\" a exportar"
+
+msgid "Export request accepted, you will receive an e-mail."
+msgstr "Exportación solicitud aceptada, usted recibirá un correo electrónico."
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "File type"
+msgstr "Tipo de archivo"
+
+msgid "Filters"
+msgstr "Filtros"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#reporting\">User Guide</a>."
+msgstr "Saber más sobre la <a c8y-guide-href=\"users-guide/cockpit/#reporting\">Guía del usuario</a>."
+
+msgid "From"
+msgstr "De"
+
+msgid "From:"
+msgstr "De:"
+
+msgid "Last month"
+msgstr "Último mes"
+
+msgid "Last week"
+msgstr "Semana pasada"
+
+msgid "Last year"
+msgstr "Último año"
+
+msgid "Managed objects"
+msgstr "Objetos administrados"
+
+msgid "Measurements"
+msgstr "Estadísticas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No reports to display."
+msgstr "No hay informes para mostrar."
+
+msgid "Object to export"
+msgstr "Objeto a exportar"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Path"
+msgstr "Ruta"
+
+msgid "Please provide e-mail in user settings in order to use export functionality."
+msgstr "Por favor proporcione el correo electrónico en configuración del usuario para utilizar la funcionalidad de exportación."
+
+msgid "Properties"
+msgstr "Propiedades"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Report configuration saved!"
+msgstr "¡Configuración de informe guardada!"
+
+msgid "Report details"
+msgstr "Reportar detalles"
+
+msgid "Reporting"
+msgstr "Informes"
+
+msgid "Reports"
+msgstr "Informes"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save &amp; close"
+msgstr "Guardar &amp; Cerrar"
+
+msgid "Schedule export"
+msgstr "Exportar programación"
+
+msgid "Scheduled exports"
+msgstr "Exportaciones programadas"
+
+msgid "This field is required!"
+msgstr "¡Este campo es requerido!"
+
+msgid "Time range"
+msgstr "Rango de tiempo"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "To:"
+msgstr "Para:"
+
+msgid "Up to 120 characters allowed!"
+msgstr "¡Hasta 120 caracteres permitidos!"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "You can add schedules once you saved report configuration."
+msgstr "Puede añadir calendarios una vez guardada la configuración de informe."
+
+msgid "You will receive download links by email."
+msgstr "Usted recibirá los links de descarga por correo."
+
+msgid "You will receive separate e-mail for each selected type of data."
+msgstr "Usted recibirá un correo electrónico por separado para cada tipo de datos seleccionado."

@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Credentials"
+msgstr "Credenciales"
+
+msgid "Credentials successfully deleted"
+msgstr "Credenciales eliminadas correctamente"
+
+msgid "Credentials successfully updated"
+msgstr "Credenciales actualizadas correctamente"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Deleting credentials will lock out any users with SMS-based two-factors authentication, and disable the SMS-based smart rules and device communication. Are you sure you want to delete your OpenIT credentials?"
+msgstr "Eliminar credenciales bloqueará los usuarios con la autenticación de dos factores basados en SMS y desactivará las Smart Rules basadas en SMS y comunicación del dispositivo. ¿Está seguro que desea eliminar las credenciales OpenIT?"
+
+msgid "OpenIT credentials"
+msgstr "OpenIT credenciales"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Please enter your OpenIT credentials. These credentials are used for {{uses}}."
+msgstr "Por favor, introduzca sus credenciales de OpenIT. Estas credenciales se utilizan para {{uses}}."
+
+msgid "Please enter your credentials from your SMS provider.  This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
+msgstr "Introduzca sus credenciales de su proveedor de SMS. Esto habilita las funciones de plataforma que utilizan servicios de SMS (por ejemplo, autenticación de dos factores y notificaciones de usuario)."
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "This field is required!"
+msgstr "¡Este campo es requerido!"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "and"
+msgstr "y"
+
+msgid "sending SMSs in smart rules"
+msgstr "envío de SMSs en Smart Rules"
+
+msgid "the communication with some devices"
+msgstr "la comunicación con algunos dispositivos"
+
+msgid "two-factors authentication"
+msgstr "autenticación de dos factores"

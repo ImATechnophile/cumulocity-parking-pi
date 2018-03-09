@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add retention rule"
+msgstr "データ保持ルールを追加"
+
+msgid "Add rule"
+msgstr "ルールを追加"
+
+msgid "Add your first retention rule by clicking below."
+msgstr "以下をクリックして最初のデータ保持ルールを追加してください"
+
+msgid "Are you sure?"
+msgstr "本当に実行しますか？"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Click to edit"
+msgstr "クリックして編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Do you want to remove this rule?"
+msgstr "このルールを削除しますか？"
+
+msgid "Find out more on the <a c8y-guide-href=\"reference/retention-rules/\">Reference Guide</a>."
+msgstr "詳細については、<a c8y-guide-href=\"reference/retention-rules/\">リファレンスガイド</a>をご覧ください"
+
+msgid "Fragment type"
+msgstr "フラグメントタイプ"
+
+msgid "Management"
+msgstr "管理"
+
+msgid "Maximum age"
+msgstr "最大保持期間"
+
+msgid "No retention rules to display."
+msgstr "表示できるデータ保持ルールはありません"
+
+msgid "Not editable"
+msgstr "編集不可"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Retention rules"
+msgstr "データ保持ルール"
+
+msgid "Rule is removed successfully."
+msgstr "ルールは正常に削除されました"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "You need these roles to access retention rules: Retention Rule Read / Admin"
+msgstr "データ保持ルールにアクセスするには以下のロールが必要です： データ保持ルール読み取り / 管理者"
+
+msgid "days"
+msgstr "日"

@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Bill validator"
+msgstr "Validador de billetes"
+
+msgid "Cashless 1"
+msgstr "Cashless 1"
+
+msgid "Cashless 2"
+msgstr "Cashless 2"
+
+msgid "Coin changer"
+msgstr "Cambiador de monedas"
+
+msgid "Confirm Free vend mode?"
+msgstr "¿Confirmar modo vend libre?"
+
+msgid "DDCMP on RS232 #1"
+msgstr "DDCMP en RS232 #1"
+
+msgid "DDCMP on RS232 #2"
+msgstr "DDCMP en RS232 #2"
+
+msgid "DEX on RS232 #1"
+msgstr "DEX en RS232 #1"
+
+msgid "DEX on RS232 #2"
+msgstr "DEX en RS232 #2"
+
+msgid "Device related log information will be shown under \"<b>Events</b>\"."
+msgstr "Dispositivos relacionados con la información de registro aparecerá en \"<b>eventos</b>\"."
+
+msgid "Disable MDB sniffer mode"
+msgstr "Desactivar el modo sniffer de MDB"
+
+msgid "Executive"
+msgstr "Ejecutivo"
+
+msgid "Force not to use display"
+msgstr "No forzar a usar pantalla"
+
+msgid "Free vend"
+msgstr "Vend libre"
+
+msgid "MDB"
+msgstr "MDB"
+
+msgid "Maximum Credit"
+msgstr "Crédito máximo"
+
+msgid "Operate as MDB Communications Gateway"
+msgstr "Funcionar como puerta de enlace de comunicación MDB"
+
+msgid "Operation created"
+msgstr "Operación creada"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Protocol"
+msgstr "Protocolo"
+
+msgid "Remote cashless"
+msgstr "Cashless remoto"
+
+msgid "Request device Log"
+msgstr "Solicitar registro del dispositivo"
+
+msgid "Request device log"
+msgstr "Solicitar registro de dispositivo"
+
+msgid "Sales Configuration"
+msgstr "Configuración de ventas"
+
+msgid "Serial #1"
+msgstr "Serie #1"
+
+msgid "Serial #2"
+msgstr "Serie #2"
+
+msgid "Set max credit to"
+msgstr "Establecer máximo crédito para"
+
+msgid "Set protocol"
+msgstr "Establecer protocolo"
+
+msgid "Sielaff CGW variant of Communications Gateway"
+msgstr "Variante Sielaff CGW de Communications Gateway"
+
+msgid "Sielaff OLM2 variant of Communications Gateway"
+msgstr "Sielaff OLM2 variante de Communications Gateway"
+
+msgid "This setting will enable all the products to be retrieved without payment. Are you sure you want to activate Free vend?"
+msgstr "Este ajuste permitirá recuperar todos los productos sin pago. ¿Estás seguro de que quieres activar Free vend?"
+
+msgid "Update Maximum Credit"
+msgstr "Actualizar crédito máximo"
+
+msgid "Update protocol configuration"
+msgstr "Configuración del Protocolo de actualización"
+
+msgid "Update vending machine"
+msgstr "Actualizar la máquina expendedora"
+
+msgid "Use DDCMP list #2, RS232 #2"
+msgstr "Usar DDCMP lista #2, #2 RS232"
+
+msgid "Use DDCMP list 2 on RS232 #1"
+msgstr "Utilizar lista DDCMP 2 RS232 # 1"
+
+msgid "Use FTL File Id 2 (default 1)"
+msgstr "Utilizar Id de archivo FTL 2 (por defecto 1)"
+
+msgid "Use Reset Counters"
+msgstr "Usar contadores de reinicio"
+
+msgid "Use enhanced DDCMP @ 2400 on RS232 #1"
+msgstr "Uso mejorado DDCMP @ 2400 en RS232 #1"
+
+msgid "Use enhanced DDCMP @ 2400 on RS232 #2"
+msgstr "Uso mejorado DDCMP @ 2400 en RS232 #2"
+
+msgid "VMC supports undefined credit"
+msgstr "VMC admite crédito indefinido"
+
+msgid "Vending Machine Settings"
+msgstr "Configuración de la máquina expendedora"
+
+msgid "Vendme"
+msgstr "Vendme"
+
+msgid "cents"
+msgstr "céntimos"

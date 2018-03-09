@@ -1,0 +1,229 @@
+// Contextual colors
+.text-muted {
+  color: @text-muted;
+}
+
+.text-primary {
+  .text-emphasis-variant(@brand-primary);
+}
+
+.text-primary-light {
+  .text-emphasis-variant(@brand-primary-light);
+}
+
+.text-complementary {
+  .text-emphasis-variant(@brand-complementary);
+}
+
+.text-success {
+  .text-emphasis-variant(@state-success-text);
+}
+
+.text-info {
+  .text-emphasis-variant(@brand-info);
+}
+
+.text-warning {
+  .text-emphasis-variant(@state-warning-text);
+}
+
+.text-danger {
+  .text-emphasis-variant(@state-danger-text);
+}
+
+.text-white {
+  .text-emphasis-variant(white);
+}
+
+.text-gray-darker {
+  .text-emphasis-variant( @gray-darker );
+}
+
+.text-gray-dark {
+  .text-emphasis-variant( @gray-dark );
+}
+
+.text-gray-medium-dark {
+  .text-emphasis-variant( @gray-medium-dark );
+}
+
+.text-gray-medium {
+  .text-emphasis-variant( @gray-medium );
+}
+
+.text-gray {
+  .text-emphasis-variant( @gray );
+}
+
+.text-gray-light {
+  .text-emphasis-variant( @gray-light );
+}
+
+.text-gray-lighter {
+  .text-emphasis-variant( @gray-lighter );
+}
+
+.text-gray-white {
+  .text-emphasis-variant( @gray-white );
+}
+
+// Contextual backgrounds
+// For now we'll leave these alongside the text classes until v4 when we can
+.bg-primary {
+  color: #fff;
+
+  .bg-variant(@brand-primary);
+}
+
+.bg-primary-light {
+  .bg-variant(@brand-primary-light);
+}
+
+.bg-success {
+  .bg-variant(@state-success-bg);
+}
+
+.bg-info {
+  .bg-variant(@state-info-bg);
+}
+
+.bg-warning {
+  .bg-variant(@state-warning-bg);
+}
+
+.bg-danger {
+  .bg-variant(@state-danger-bg);
+}
+
+.bg-complementary {
+  color: white;
+
+  .bg-variant(@brand-complementary);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-success.active {
+  color: white;
+
+  .bg-variant(@brand-success);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-info.active {
+  color: white;
+
+  .bg-variant(@brand-info);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-warning.active {
+  color: white;
+
+  .bg-variant(@brand-warning);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-dark-warning {
+  color: white;
+
+  .bg-variant(@dark-warning);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-dark-danger {
+  color: white;
+
+  .bg-variant(@dark-danger);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-danger.active {
+  color: white;
+
+  .bg-variant(@brand-danger);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+// grays
+.bg-gray-darker {
+  color: white;
+
+  .bg-variant(@gray-darker);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-gray-dark {
+  color: white;
+
+  .bg-variant(@gray-dark);
+}
+
+.bg-gray-medium-dark {
+  color: white;
+
+  .bg-variant(@gray-medium-dark);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-gray-medium {
+  color: white;
+
+  .bg-variant(@gray-medium);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-gray {
+  color: white;
+
+  .bg-variant(@gray);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+
+.bg-gray-light {
+  .bg-variant(@gray-light);
+}
+
+.bg-gray-lighter {
+  .bg-variant(@gray-lighter);
+}
+
+.bg-gray-white {
+  .bg-variant(@gray-white);
+}
+
+.bg-white {
+  .bg-variant(white);
+}

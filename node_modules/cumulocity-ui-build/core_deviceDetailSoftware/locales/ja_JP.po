@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm software changes?"
+msgstr "ソフトウェアの変更の確認"
+
+msgid "Current firmware"
+msgstr "現在のファームウェア"
+
+msgid "Do you want to create a device operation to process the software changes? Please note that this operation is asynchronous."
+msgstr "ソフトウェアの変更を行うデバイス操作を作成しますか？ この操作は非同期であることに注意してください"
+
+msgid "Firmware"
+msgstr "ファームウェア"
+
+msgid "Firmware to install"
+msgstr "インストールするファームウェア"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No firmware information available"
+msgstr "利用可能なファームウェア情報はありません"
+
+msgid "No software available on the device"
+msgstr "このデバイスで使用可能なソフトウェアはありません"
+
+msgid "Operation to update firmware created"
+msgstr "ファームウェアを更新する操作が作成されました"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Reset changes"
+msgstr "変更をリセット"
+
+msgid "Software"
+msgstr "ソフトウェア"
+
+msgid "Software change operation created"
+msgstr "ソフトウェア変更操作が作成されました"
+
+msgid "Software to install"
+msgstr "インストールするソフトウェア"
+
+msgid "Submit operation"
+msgstr "操作を送信"
+
+msgid "Update device software."
+msgstr "デバイスソフトウェアを更新"
+
+msgid "Update firmware: {{firmwareName}} - {{firmwareVersion}}"
+msgstr "ファームウェアを更新: {{firmwareName}} - {{firmwareVersion}}"
+
+msgid "Version"
+msgstr "バージョン"

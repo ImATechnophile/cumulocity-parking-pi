@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_firmwareList/views/index.html:73
+msgid "Add a firmware using the button on the toolbar."
+msgstr ""
+
+#: core_firmwareList/views/index.html:28
+msgid "Add firmware"
+msgstr ""
+
+#: core_firmwareList/views/index.html:167
+msgid "Back"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:91
+msgid "Cancel"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:87
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:90
+msgid "Delete"
+msgstr ""
+
+#: core_firmwareList/views/index.html:96
+msgid "Delete firmware"
+msgstr ""
+
+#: core_firmwareList/views/index.html:116
+msgid "Details"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:93
+msgid "Do you really want to remove firmware \"{{name}}\"?"
+msgstr ""
+
+#: core_firmwareList/views/index.html:147
+#: core_firmwareList/views/index.html:50
+msgid "File"
+msgstr ""
+
+#: core_firmwareList/views/index.html:10
+msgid "Filter"
+msgstr ""
+
+#: core_firmwareList/index.js:7
+msgid "Firmware"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:26
+#: core_firmwareList/index.js:11
+msgid "Firmware repository"
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:114
+msgid "Firmware successfully added."
+msgstr ""
+
+#: core_firmwareList/controllers/firmwareList.js:99
+msgid "Firmware successfully removed."
+msgstr ""
+
+#: core_firmwareList/index.js:10
+msgid "Management"
+msgstr ""
+
+#: core_firmwareList/views/index.html:132
+#: core_firmwareList/views/index.html:37
+msgid "Name"
+msgstr ""
+
+#: core_firmwareList/views/index.html:72
+msgid "No firmwares to display."
+msgstr ""
+
+#: core_firmwareList/views/index.html:156
+#: core_firmwareList/views/index.html:57
+msgid "Save"
+msgstr ""
+
+#: core_firmwareList/views/index.html:107
+#: core_firmwareList/views/index.html:140
+#: core_firmwareList/views/index.html:44
+msgid "Version"
+msgstr ""

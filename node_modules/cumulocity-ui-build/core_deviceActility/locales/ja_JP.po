@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm deprovisioning?"
+msgstr "プロビジョニング解除の確認"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete device without deprovisioning"
+msgstr "プロビジョン解除をせずにデバイスを削除"
+
+msgid "Deprovision"
+msgstr "プロビジョン解除"
+
+msgid "Deprovision device"
+msgstr "プロビジョン解除デバイス"
+
+msgid "Deprovision device from ThingPark"
+msgstr "ThingParkからプロビジョン解除されたデバイス"
+
+msgid "Device has been deleted!"
+msgstr "デバイスが削除されました"
+
+msgid "Device has been deprovisioned!"
+msgstr "デバイスがプロビジョン解除されました"
+
+msgid "Including child devices of this device"
+msgstr "このデバイスの子デバイスを含む"
+
+msgid "LoRa device"
+msgstr "LoRaデバイス"

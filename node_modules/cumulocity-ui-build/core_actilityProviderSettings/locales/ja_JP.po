@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Application EUI"
+msgstr "アプリケーションEUI"
+
+msgid "Connectivity"
+msgstr "接続"
+
+msgid ""
+"Credentials have already been provided.<br>\n"
+"          Click \"Replace credentials\" below to overwrite them."
+msgstr ""
+"資格情報は既に存在しています。<br>\n"
+"          上書きするには以下の\"資格情報を置き換え\"をクリックしてください"
+
+msgid "Credentials successfully saved"
+msgstr "資格情報は正常に保存されました"
+
+msgid "LoRa provider settings"
+msgstr "LoRaプロバイダの設定"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Profile ID"
+msgstr "プロファイルID"
+
+msgid "Replace credentials"
+msgstr "資格情報を置き換え"
+
+msgid "Save credentials"
+msgstr "資格情報を保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "There are no credentials provided yet. Please provide some."
+msgstr "まだ資格情報が登録されていません。 資格情報を登録してください"
+
+msgid "Username"
+msgstr "ユーザ名"

@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 rule"
+msgid_plural "{{qty}} rules"
+msgstr[0] "1 regla"
+msgstr[1] "{{qty}} reglas"
+
+msgid "Add module"
+msgstr "Añadir módulo"
+
+msgid "Add your first module by clicking below."
+msgstr "Añada su primer módulo haciendo clic a continuación."
+
+msgid "Alarms"
+msgstr "Alarmas"
+
+msgid "Append"
+msgstr "Anexar"
+
+msgid "Business rules"
+msgstr "Reglas de negocio"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Changes not saved"
+msgstr "No se han guardado los cambios"
+
+msgid "Click to edit"
+msgstr "Click para editar"
+
+msgid "Collapse"
+msgstr "Colapso"
+
+msgid "Confirm delete?"
+msgstr "¿Confirmar borrado?"
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Debugging and monitoring"
+msgstr "Depuración y control"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Deployed"
+msgstr "Desplegado"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Do you really want to remove the module \"{{moduleName}}\"?"
+msgstr "¿Realmente desea eliminar el módulo \"{{moduleName}}\"?"
+
+msgid "Do you want to leave this page and discard the changes made?"
+msgstr "¿Quieres salir de esta página y descartar los cambios realizados?"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Event processing"
+msgstr "Procesamiento de eventos"
+
+msgid "Event processing rules"
+msgstr "Reglas de procesamiento de evento"
+
+msgid "Event processing rules examples"
+msgstr "Ejemplos de reglas de procesamiento de evento"
+
+msgid "Examples"
+msgstr "Ejemplos"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Filter notifications"
+msgstr "Filtrar notificaciones"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/administration/#event-processing\">User Guide</a>."
+msgstr "Averigüe más sobre el campo <a c8y-guide-href=\"users-guide/administration/#event-processing\">User Guide</a>."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Last modified"
+msgstr "Última modificación"
+
+msgid "Last modified: {{vm.module.lastModified | absoluteDate}}"
+msgstr "Última modificación: {{vm.module.lastModified | absoluteDate}}"
+
+msgid "Metrics"
+msgstr "Estadísticas"
+
+msgid "Module \"{{name}}\" has been renamed!"
+msgstr "¡Módulo “{{name}}” ha sido renombrado!"
+
+msgid "Module \"{{name}}\" has been saved successfully!"
+msgstr "¡Módulo “{{name}}” se ha guardado con éxito!"
+
+msgid "New module"
+msgstr "Nuevo módulo"
+
+msgid "No"
+msgstr "No"
+
+msgid "No event processing modules found"
+msgstr "Sin módulos de procesamiento de evento encontrados"
+
+msgid "No metrics available"
+msgstr "Sin estadísticas disponibles"
+
+msgid "No notifications received yet"
+msgstr "No hay notificaciones aún recibidas"
+
+msgid "Not deployed"
+msgstr "No implementado"
+
+msgid "Notifications"
+msgstr "Notificaciones"
+
+msgid "Only letters, digits and underscore allowed, must not start with a digit!"
+msgstr "Sólo letras, dígitos y subrayado permitido, ¡no debe empezar con un dígito!"
+
+msgid "Pending"
+msgstr "Pendiente"
+
+msgid "Preview"
+msgstr "Visualizar"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Search in examples"
+msgstr "Buscar en ejemplos"
+
+msgid "Source code"
+msgstr "Código fuente"
+
+msgid "Statement"
+msgstr "Estado de Cuenta"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "e.g. myModule01"
+msgstr "por ejemplo, myModule01"
+
+msgid "newmodule"
+msgstr "nuevo modulo"

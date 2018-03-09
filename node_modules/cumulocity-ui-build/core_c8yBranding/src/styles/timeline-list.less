@@ -1,0 +1,193 @@
+.timeline-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  .timeline-item-date {
+    margin-right: 35px;
+    width: 40px;
+    font-size: 10px;
+    line-height: 1;
+  }
+  >div,
+  >li {
+    position: relative; //margin-bottom: 10px;
+    &::before {
+      position: absolute;
+      top: 0;
+      bottom: 1px;
+      left: 53px;
+      border: 1px dotted @gray-light;
+      content: '';
+      transition: top .35s linear;
+    }
+    &.expanded::before {
+      transition: none; //top:0;
+      //bottom: -15%;
+    }
+    &:first-child {
+      &::before {
+        top: 50%;
+      }
+    }
+    &:last-child {
+      &::before {
+        bottom: 50%;
+      }
+    }
+    &:after {
+      position: absolute;
+      top: 50%;
+      left: 48px;
+      z-index: 10;
+      margin: -6px 0 0;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background-color: @gray-light;
+      content: '';
+      transition: background 0.5s linear;
+
+      .box-shadow(inset 0 1px 2px fade(black, 30%));
+    }
+    &.active {
+      &:after {
+        background-color: @brand-primary;
+      }
+      .timeline-item-content {
+        border-color: @brand-primary;
+        .list-item-actions {
+          &:before {
+            display: inline-block;
+            margin-top: 13px;
+            margin-right: 10px;
+            padding: .2em .6em 0;
+            border-radius: 10px;
+            background-color: @brand-primary;
+            color: white;
+            content: 'Active';
+            font-weight: bold;
+            font-size: 12px;
+          }
+          .dropdown {
+            display: none;
+          }
+        }
+        &:before {
+          left: -13px;
+          margin-top: -13px;
+          border-width: 13px 13px 13px 0;
+          border-color: transparent @brand-primary transparent transparent;
+        }
+        &:after {
+          left: -10px;
+        }
+      }
+    }
+  }
+  .timeline-item-content {
+    position: relative;
+    flex: 1 1 0%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: @margin-sm @card-padding;
+    min-height: 40px;
+    border: 2px solid white;
+    background-color: white;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+    word-wrap: break-word;
+    transition: background 0.5s linear, border 0.5s linear;
+    &:before {
+      position: absolute;
+      top: 50%;
+      left: -12px;
+      margin-top: -10px;
+      width: 0;
+      height: 0;
+      border-width: 10px 10px 10px 0;
+      border-style: solid;
+      border-color: transparent fade(black, 5%) transparent transparent;
+      content: '';
+    }
+    &:after {
+      position: absolute;
+      top: 50%;
+      left: -11px;
+      margin-top: -10px;
+      width: 0;
+      height: 0;
+      border-width: 10px 10px 10px 0;
+      border-style: solid;
+      border-color: transparent white transparent transparent;
+      content: '';
+      transition: border 0.5s linear;
+    }
+    .list-item-icon {
+      align-self: flex-start;
+    }
+    .list-item-icon,
+    .list-item-icon .fa {
+      font-size: 20px;
+    }
+    .list-item-body {
+      flex: 1 1 100%;
+      word-break: break-all; //this is added because of IE11 
+    }
+  }
+  .expanded {
+    .timeline-item-date {
+      font-weight: bold;
+    }
+    &:after {
+      background-color: @brand-primary;
+    }
+    .timeline-item-content {
+      border-color: @gray-white;
+      background-color: @gray-white;
+      &:after {
+        border-color: transparent @gray-white transparent transparent;
+      }
+    }
+  }
+  &.list-condensed {
+    .timeline-item-content {
+      margin: 0 0 1px;
+    }
+  }
+}
+
+@media(min-width: @screen-sm-min) {
+  .timeline-list {
+    .timeline-item-date {
+      width: 60px;
+    }
+    >li,
+    >div {
+      &::before {
+        left: 73px;
+      }
+      &::after {
+        left: 68px;
+      }
+    }
+  }
+}
+
+.timeline-list-item {
+  &.ng-enter {
+    opacity: 0;
+    transition: background 1s linear .5s, opacity .5s linear;
+    &.ng-enter-active {
+      opacity: 1;
+    }
+    &:after {
+      background-color: @realtime-added-element-color;
+    }
+    .timeline-item-content {
+      border-color: lighten(@realtime-added-element-color, 24%);
+      background-color: lighten(@realtime-added-element-color, 24%);
+      &:after {
+        border-color: transparent lighten(@realtime-added-element-color, 24%) transparent transparent;
+      }
+    }
+  }
+}

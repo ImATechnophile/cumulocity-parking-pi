@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Application key"
+msgstr "アプリケーションキー"
+
+msgid "Application session key"
+msgstr "アプリケーションセッションキー"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Global application ID"
+msgstr "グローバルアプリケーションID"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Identifier"
+msgstr "ID"
+
+msgid "LWM2M"
+msgstr "LWM2M"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "LoRa"
+msgstr "LoRa"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "M-Bus"
+msgstr "M-Bus"
+
+msgid "NB IoT-SGI"
+msgstr "NB IoT-SGI"
+
+msgid "Network provider name"
+msgstr "ネットワークプロバイダ名"
+
+msgid "Network session key"
+msgstr "ネットワークセッションキー"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "Port"
+msgstr "ポート"
+
+msgid "Protocol"
+msgstr "プロトコル"
+
+msgid "Public key or identity"
+msgstr "公開鍵またはアイデンティティ"
+
+msgid "Secret key"
+msgstr "秘密鍵"
+
+msgid "Select protocol"
+msgstr "プロトコルを選択"
+
+msgid "Serial number"
+msgstr "シリアル番号"
+
+msgid "Stream URL"
+msgstr "ストリームURL"
+
+msgid "Unique SGI interface identifier"
+msgstr "一意なSGIインターフェースID"
+
+msgid "Video analytics"
+msgstr "動画解析"
+
+msgid "Xirgo OBD"
+msgstr "Xirgo OBD"

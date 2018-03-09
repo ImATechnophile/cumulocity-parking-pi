@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_htmlWidget/views/config.html:42
+msgid "Allow insecure use of elements and attributes"
+msgstr ""
+
+#: core_htmlWidget/index.js:11
+msgid "Display custom HTML code"
+msgstr ""
+
+#: core_htmlWidget/index.js:10
+msgid "HTML"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:3
+msgid "HTML code"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:4
+msgid "Toggle help text"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:8
+msgid "You can use the following variables in your HTML code:"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:16
+msgid "children of current device or group, you can access their properties e.g."
+msgstr ""
+
+#: core_htmlWidget/views/config.html:12
+msgid "current device or group, you can access its properties e.g."
+msgstr ""
+
+#: core_htmlWidget/views/config.html:24
+msgid "number of device groups"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:20
+msgid "number of devices"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:32
+msgid "number of devices with critical alarm status"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:36
+msgid "number of online devices"
+msgstr ""
+
+#: core_htmlWidget/views/config.html:28
+msgid "number of users"
+msgstr ""

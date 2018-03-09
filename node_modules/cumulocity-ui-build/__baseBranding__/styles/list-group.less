@@ -1,0 +1,330 @@
+//
+// List groups
+// --------------------------------------------------
+// Base class
+//
+// Easily usable on <ul>, <ol>, or <div>.
+.list-group {
+  position: relative; // No need to set list-style: none; since .list-group-item is block level
+  margin-bottom: 20px;
+  padding-left: 0; // reset padding because ul and ol
+}
+
+// Individual list items
+//
+// Use on `li`s or `div`s within the `.list-group` parent.
+.list-group-item {
+  position: relative;
+  display: block;
+  margin-bottom: -1px;
+  padding: 8px @card-padding;
+  min-height: @margin-base * 2; // Place the border on the list items and negative margin up for better styling
+  width: 100%; // realtime animation
+  border: 1px solid @list-group-border;
+  background-color: @list-group-bg;
+  &.ng-enter {
+    background-color: fade(@brand-complementary, 10%);
+  }
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// remove list group margin and list-group-item left and right borders inside panels and cards
+.card,
+.panel,
+.modal-content {
+  .list-group {
+    margin-bottom: 0;
+    .list-group-item {
+      border-right: 0;
+      border-left: 0;
+      &:not(.active):not(.expanded) {
+        background-color: transparent;
+      }
+    }
+    a.list-group-item:not(.active),
+    button.list-group-item:not(.active) {
+      &:hover {
+        background-color: @list-group-hover-bg;
+      }
+    }
+  }
+}
+
+.list-group-links {
+  button.list-group-item,
+  a.list-group-item {
+    position: relative;
+    padding-right: @margin-base*2;
+    background-color: inherit;
+    color: inherit;
+    &:hover,
+    &:focus {
+      background-color: @list-group-hover-bg;
+      color: inherit;
+    }
+    &::after {
+      position: absolute;
+      top: 50%;
+      right: @margin-base;
+      display: inline-block;
+      color: inherit;
+      content: "\f054";
+      font: normal normal normal 14px/1 FontAwesome;
+      font-size: inherit;
+      -webkit-transform: translate(0, -50%);
+      transform: translate(0, -50%);
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  }
+}
+
+// Interactive list items
+//
+// Use anchor or button elements instead of `li`s or `div`s to create interactive items.
+// Includes an extra `.active` modifier class for showing selected items.
+a.list-group-item,
+button.list-group-item {
+  color: @list-group-link-color;
+  .list-group-item-heading {
+    color: @list-group-link-heading-color;
+  } // Hover state
+  &:hover,
+  &:focus {
+    outline: none;
+    background-color: @list-group-hover-bg;
+    color: @list-group-link-hover-color;
+    text-decoration: none;
+  }
+}
+
+button.list-group-item {
+  width: 100%;
+  text-align: left;
+}
+
+.list-group-item {
+  // Disabled state
+  &.disabled,
+  &.disabled:hover,
+  &.disabled:focus {
+    background-color: @list-group-disabled-bg;
+    color: @list-group-disabled-color;
+    cursor: @cursor-disabled; // Force color to inherit for custom content
+    .list-group-item-heading {
+      color: inherit;
+    }
+    .list-group-item-text {
+      color: @list-group-disabled-text-color;
+    }
+  } // Active class on item itself, not parent
+  &.active,
+  &.active:hover,
+  &.active:focus {
+    z-index: 2; // Place active items above their siblings for proper border styling
+    border-color: darken(@list-group-active-border, 7.5%);
+    border-right: 0; // Force color to inherit for custom content
+    border-left: 0;
+    background-color: @list-group-active-bg;
+    color: @list-group-active-color;
+    .list-group-item-heading,
+    .list-group-item-heading>small,
+    .list-group-item-heading>.small {
+      color: inherit;
+    }
+    .list-group-item-text {
+      color: @list-group-active-text-color;
+    }
+  }
+}
+
+// Contextual variants
+//
+// Add modifier classes to change text and background color on individual items.
+// Organizationally, this must come after the `:hover` states.
+.list-group-item-variant(success;
+@state-success-bg;
+@state-success-text);
+.list-group-item-variant(info;
+@state-info-bg;
+@state-info-text);
+.list-group-item-variant(warning;
+@state-warning-bg;
+@state-warning-text);
+.list-group-item-variant(danger;
+@state-danger-bg;
+@state-danger-text);
+// Custom content options
+//
+// Extra classes for creating well-formatted content within `.list-group-item`s.
+.list-group-item-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.list-group-item-text {
+  margin-bottom: 0;
+  line-height: 1.3;
+}
+
+.list-group-item {
+  &.flex-row {
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row wrap;
+  }
+  &.collapsible,
+  .collapsible {
+    .transition(all .25s ease);
+    &.expanded {
+      z-index: 10;
+      background-color: @gray-white;
+    }
+    .collapse {
+      width: 100%;
+    }
+  }
+}
+
+.list-item-icon {
+  display: inline-block;
+  flex: 0 0 30px;
+  margin-bottom: -1px;
+  padding-top: 1px;
+  width: 30px;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.list-item-body {
+  flex: 1 1 0%;
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.list-item-icon+.list-item-body {
+  max-width: calc(~'100% - 30px');
+}
+
+.list-item-actions+.list-item-icon+.list-item-body {
+  max-width: calc(~'100% - 55px');
+  .collapsible & {
+    max-width: calc(~'100% - 95px');
+  }
+}
+
+.list-item-actions+.list-item-checkbox+.list-item-icon+.list-item-body {
+  max-width: calc(~'100% - 85px');
+  .collapsible & {
+    max-width: calc(~'100% - 125px');
+  }
+}
+
+.list-item-actions+.list-item-body {
+  max-width: calc(~'100% - 25px');
+  .collapsible & {
+    max-width: calc(~'100% - 65px');
+  }
+}
+
+.list-item-actions+.list-item-switch+.list-item-colorpicker+.list-item-body {
+  max-width: calc(~'100% - 100px');
+  .collapsible & {
+    max-width: calc(~'100% - 140px');
+  }
+}
+
+.list-item-switch {
+  flex: 0 0 48px;
+  width: 48px;
+  .c8y-switch {
+    margin: 1px 0 -10px 0;
+    min-height: 23px;
+    input[type="checkbox"]+span {
+      top: 0;
+    }
+  }
+}
+
+.list-item-colopicker {
+  flex: 0 0 30px;
+  width: 30px;
+}
+
+.list-item-actions {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: flex;
+  flex-flow: row wrap;
+  max-width: 80px;
+  text-align: right;
+  .btn+.btn {
+    margin: 0;
+  }
+  >.has-error {
+    position: absolute;
+    left: -10px;
+    height: 40px;
+    color: @brand-danger;
+    font-size: 14px;
+    line-height: 40px;
+  }
+  >.btn-link,
+  .settings>.dropdown-toggle {
+    order: 100;
+    padding: 6px;
+    width: 40px;
+    height: 40px;
+    color: @gray-medium-dark;
+    font-size: 14px;
+    opacity: .3;
+    .transition(all .25s ease);
+    &:hover,
+    &:focus {
+      outline: none;
+      text-decoration: none;
+      opacity: 1;
+    }
+  }
+}
+
+.list-item-checkbox {
+  flex: 0 0 30px;
+  .c8y-checkbox.input-sm {
+    height: 20px;
+    line-height: 20px;
+  }
+  &~.list-item-body {
+    align-self: center;
+  }
+}
+
+.list-item-colorpicker {
+  position: relative;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 30px;
+  -ms-flex: 0 0 30px;
+  flex: 0 0 30px;
+  text-align: center;
+  .minicolors {
+    margin: 0 auto;
+    min-height: 20px;
+    width: 20px;
+    .minicolors-swatch {
+      width: 20px;
+      border: 0;
+    }
+    .minicolors-swatch-color {
+      top: 0;
+      bottom: 0;
+      border-radius: 14px;
+    }
+  }
+  +.list-item-body {
+    padding-top: 3px;
+  }
+}

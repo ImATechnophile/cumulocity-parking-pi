@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_trafficLightWidget/states-mapping.html:57
+msgid "Please choose a device and complete the mapping for all light states."
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:8
+msgid "Property"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:40
+msgid "Select device property"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:48
+msgid "Select fieldbus property"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:6
+msgid "State"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:2
+msgid "States mapping"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.html:11
+msgid "The value of the selected data point or property must be one of the following to have the respective light on: true, 1, any non-empty string or any non-null number."
+msgstr ""
+
+#: core_trafficLightWidget/index.js:15
+msgid "Traffic light"
+msgstr ""
+
+#: core_trafficLightWidget/index.js:16
+msgid "Visualizes traffic light based on the states of a device"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.component.js:68
+msgid "green"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.component.js:66
+msgid "red"
+msgstr ""
+
+#: core_trafficLightWidget/states-mapping.component.js:67
+msgid "yellow"
+msgstr ""

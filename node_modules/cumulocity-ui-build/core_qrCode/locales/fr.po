@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Popup window failed to open. Please confirm your browser settings."
+msgstr "Fenêtre pop-up n’a pas pu ouvrir. Confirmez les paramètres de votre navigateur."
+
+msgid "Print QR code"
+msgstr "Imprimer le QR code"
+
+msgid "Print QR codes"
+msgstr "Imprimer les QR codes"
+
+msgid "QR code"
+msgstr "QR code"

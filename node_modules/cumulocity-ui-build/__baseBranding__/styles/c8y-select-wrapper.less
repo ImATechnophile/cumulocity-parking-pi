@@ -1,0 +1,93 @@
+.c8y-select-wrapper {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  background-color: white;
+  .input-group & {
+    display: table-cell;
+  }
+  &:after {
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    z-index: 100;
+    display: inline-block;
+    color: inherit;
+    content: "\f0d7";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    transform: translate(0, 0);
+    pointer-events: none;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    .translate(0, -50%);
+  }
+  span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border: @input-border-width solid @input-border;
+  } // has-error styling
+  .has-error & {
+    .form-control {
+      color: @state-danger-text;
+    }
+    >span {
+      border-color: @state-danger-text;
+    }
+    &::after {
+      color: @state-danger-text;
+    }
+  }
+  select[disabled]+span {
+    z-index: 102;
+  }
+  fieldset[disabled] & {
+    background-color: @input-bg-disabled;
+    color: @text-muted;
+    select {
+      cursor: not-allowed;
+    }
+    select+span {
+      z-index: 102;
+    }
+  }
+  select,
+  select.form-control {
+    position: relative;
+    z-index: 100;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 7px 33px 7px 12px;
+    min-width: 84px;
+    width: 110%!important;
+    outline: none;
+    border: 0;
+    background: none;
+    text-indent: 0.01px;
+    text-overflow: ellipsis;
+    font-weight: inherit;
+    line-height: 1.2;
+    -webkit-appearance: none;
+    -moz-appearance: window;
+    &::-ms-expand {
+      display: none;
+    }
+    &:focus {
+      outline: none;
+      +span {
+        border-color: @input-border-focus;
+      }
+    }
+  }
+}
+
+.form-inline {
+  .c8y-select-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}

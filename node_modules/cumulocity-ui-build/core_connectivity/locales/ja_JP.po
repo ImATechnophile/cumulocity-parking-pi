@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activated"
+msgstr "有効化済み"
+
+msgid "Activation ready"
+msgstr "アクティベーション準備"
+
+msgid "Audit logs"
+msgstr "監視ログ"
+
+msgid "Changed"
+msgstr "変更されました"
+
+msgid "Connectivity"
+msgstr "接続"
+
+msgid "Customer"
+msgstr "カスタマー"
+
+msgid "Data usage (KB)"
+msgstr "データ使用量(KB)"
+
+msgid "Data usage (MB)"
+msgstr "データ使用量(MB)"
+
+msgid "Date received"
+msgstr "受信したデータ"
+
+msgid "Date sent"
+msgstr "送信したデータ"
+
+msgid "Deactivated"
+msgstr "無効化済み"
+
+msgid "Duration"
+msgstr "継続時間"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Fixed IP address"
+msgstr "固定IPアドレス"
+
+msgid "From"
+msgstr "開始日"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "In session"
+msgstr "セッション中"
+
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgid "Message text"
+msgstr "メッセージテキスト"
+
+msgid "Message type"
+msgstr "メッセージタイプ"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Purged"
+msgstr "パージ済み"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Replaced"
+msgstr "置き換え済み"
+
+msgid "Retired"
+msgstr "引退した"
+
+msgid "SIM details"
+msgstr "SIMの詳細"
+
+msgid "SIM status"
+msgstr "SIMステータス"
+
+msgid "SIM status successfully changed"
+msgstr "SIMステータスは正常に変更されました"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SMS ID"
+msgstr "SMS ID"
+
+msgid "SMS successfully sent"
+msgstr "SMSは正常に送信されました"
+
+msgid "SMS usage"
+msgstr "SMS使用量"
+
+msgid "Send"
+msgstr "送信先"
+
+msgid "Send SMS"
+msgstr "SMSを送信"
+
+msgid "Sent from"
+msgstr "送信開始日"
+
+msgid "Sent to"
+msgstr "送信終了日"
+
+msgid "Session IP address"
+msgstr "セッションIPアドレス"
+
+msgid "Session start"
+msgstr "セッション開始"
+
+msgid "Sessions"
+msgstr "セッション"
+
+msgid "Started"
+msgstr "開始済み"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Test ready"
+msgstr "テスト準備完了"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "To"
+msgstr "終了日時"
+
+msgid "Trial"
+msgstr "トライアル"
+
+msgid "Voice usage"
+msgstr "音声の使用"
+
+msgid "Who"
+msgstr "ユーザ"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid ""
+"{{type}} usage this month to date ({{thisMonthStart}} - {{today}})\n"
+"Usage for last month ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"
+msgstr ""
+"{{type}} 今月の使用状況 ({{thisMonthStart}} - {{today}})\n"
+"先月の使用状況 ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"

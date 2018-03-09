@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Center map"
+msgstr "地図の中心"
+
+msgid "Clear geofence"
+msgstr "ジオフェンスをクリア"
+
+msgid "Displays a map with position markers for selected devices."
+msgstr "選択されたデバイスの位置を地図上にマーカーで表示"
+
+msgid "Double click to add points and set the area. Click and drag the points to adjust."
+msgstr "ダブルクリックしてポイントを追加し、エリアを設定します。 追加したポイントをクリックしドラッグして調整します"
+
+msgid "Edit geofence"
+msgstr "ジオフェンスを編集"
+
+msgid "Enter address"
+msgstr "アドレスを入力"
+
+msgid "Map"
+msgstr "地図"
+
+msgid "Save"
+msgstr "保存"

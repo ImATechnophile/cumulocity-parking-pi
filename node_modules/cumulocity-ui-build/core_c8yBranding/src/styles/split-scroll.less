@@ -1,0 +1,106 @@
+.split-scroll {
+  position: relative;
+  height: calc(~'100vh - 160px');
+}
+
+.scroll-column {
+  display: flex;
+  flex-flow: column nowrap;
+  .inner-scroll {
+    overflow-y: auto;
+    order: 0;
+    max-height: calc(~'100vh - 197px');
+  }
+  &.has-footer {
+    .inner-scroll {
+      max-height: calc(~'100vh - 227px');
+    }
+  }
+  .scroll-column-footer {
+    padding: 15px 0 0 0;
+    .btn-add-block {
+      margin-bottom: 0;
+    }
+  }
+}
+
+@media(max-width: @screen-sm-max) {
+  .split-scroll {
+    .scroll-column+.scroll-column {
+      position: absolute;
+      top: 0;
+      bottom: -15px;
+      left: 0;
+      z-index: 10;
+      padding: 0;
+      width: 100%;
+      .card {
+        min-height: 100%;
+      }
+    }
+    .c8y-nav-stacked .c8y-stacked-item {
+      margin-right: 0;
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+
+@media(min-width: @screen-sm-min) {
+  .container-fluid {
+    .split-scroll {
+      height: calc(~'100vh - 120px');
+    }
+    .scroll-column .inner-scroll {
+      max-height: calc(~'100vh - 170px');
+    }
+    .scroll-column.has-footer {
+      .inner-scroll {
+        max-height: calc(~'100vh - 187px');
+      }
+    }
+  }
+  .split-scroll .scroll-column+.scroll-column {
+    bottom: 0;
+  }
+  .page-tabs-horizontal~.container-fluid {
+    .split-scroll {
+      height: calc(~'100vh - 200px');
+    }
+    .scroll-column .inner-scroll {
+      max-height: calc(~'100vh - 252px');
+    }
+    .scroll-column.has-footer {
+      .inner-scroll {
+        max-height: calc(~'100vh - 267px');
+      }
+    }
+  }
+}
+
+@media(min-width: @screen-md-min) {
+  .container-fluid {
+    .scroll-column .inner-scroll {
+      max-height: calc(~'100vh - 120px');
+    }
+  }
+  .scroll-column {
+    .scroll-column-footer {
+      padding-right: 30px;
+    }
+  }
+  .page-tabs-horizontal~.container-fluid {
+    .split-scroll {
+      height: calc(~'100vh - 200px');
+    }
+    .scroll-column .inner-scroll {
+      max-height: calc(~'100vh - 200px');
+    }
+    .scroll-column.has-footer {
+      .inner-scroll {
+        max-height: calc(~'100vh - 267px');
+      }
+    }
+  }
+}

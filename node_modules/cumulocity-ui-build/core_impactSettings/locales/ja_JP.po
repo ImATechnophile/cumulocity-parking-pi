@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Base URL"
+msgstr "ベースURL"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Connectivity"
+msgstr "接続"
+
+msgid "Credentials"
+msgstr "資格情報"
+
+msgid "Credentials successfully removed!"
+msgstr "資格情報は正常に削除されました"
+
+msgid "Credentials successfully updated!"
+msgstr "資格情報は正常に更新されました"
+
+msgid "Delete credentials"
+msgstr "資格情報を削除"
+
+msgid "Deleting credentials will break connection to IMPACT instance. Are you sure you want to delete your IMPACT credentials?"
+msgstr "資格情報を削除すると、IMPACTインスタンスへの接続が切断されます。 IMPACT資格情報を削除してもよろしいですか？"
+
+msgid "IMPACT group name prefix"
+msgstr "IMPACTグループ名接頭語"
+
+msgid "IMPACT provider settings"
+msgstr "IMPACTプロバイダ設定"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Save credentials"
+msgstr "資格情報を保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "User"
+msgstr "ユーザ"
