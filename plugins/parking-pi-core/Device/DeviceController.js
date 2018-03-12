@@ -9,30 +9,36 @@
   function DevicesController(
     $scope,
     $q,
-    c8yInventory,
-    c8yBinary
+    c8yInventory
   ) {
-    $scope.all=[];
-    var getDevicesAndBinaries = {
-      devices: getDevicesWithLocation(),
-      binaries: c8yBinary.list({})
+    $scope.entire=[];
+    var getDevicesFromInventory = {
+      devices: getRequiredDevices()
     };
-    $q.all(getDevicesAndBinaries).then(placeTypes);
+    $q.all(getDevicesFromInventory).then(IterateIt);
 
-    function getDevicesWithLocation() {
+    function getRequiredDevices() {
       var filters = {fragmentType: 'c8y_Position' };
       return c8yInventory.list(filters);
     }
 
-    function placeTypes(devicesAndBinaries) {
-      console.log("placeTypes");
-      console.log(devicesAndBinaries.devices);
-      angular.forEach(devicesAndBinaries.devices, function(device){
-      console.log(device);
-      angular.forEach(device, function(value,key){
-      console.log(key + ': ' + value);
-     
-    });
+    function IterateIt(fullData) {
+      angular.forEach(fullData.devices, function(device){
+      var pos = device.c8y_Position;
+      var details={
+        serialNo: $scope.entire.length+1,
+        lat: pos.lat,
+        lng: pos.lng,
+        name: device.name,
+        deviceId:device.id
+      };
+      if (device.c8y_Connection) {
+        details.status = device.c8y_Connection.status;
+      }
+      else{
+        details.status = "UNKNOWN";
+      }
+      $scope.entire.push(details);
      
     });
   }
