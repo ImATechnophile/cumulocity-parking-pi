@@ -12,7 +12,7 @@
     display: block;
 }
 .text-success {
-    color: #28a745!important;
+    color: #06749b!important;
 }
 .card-header {
     padding: .75rem 1.25rem;
@@ -89,8 +89,8 @@
 }
 .fa {
     display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
+    /*font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;*/
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

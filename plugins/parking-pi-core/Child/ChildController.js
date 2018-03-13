@@ -14,18 +14,18 @@
     c8yAlert
   ) {
     function load() {
-      c8yDevices.detail($routeParams.deviceId).then(function (res) {
-        var device = res.data;
-        $scope.device.id = device.id;
-        $scope.device.location=device.c8y_Position;
-        c8yDevices.listChildren(device.id).then(function (children) {
+      //c8yDevices.detail($routeParams.deviceId).then(function (res) {
+       // var device = res.data;
+        //$scope.device.id = device.id;
+        //$scope.device.location=device.c8y_Position;
+        c8yDevices.listChildren($routeParams.deviceId).then(function (children) {
         var childrenIDs = _.map(children, 'id');
         if(childrenIDs.length !=0){
-          $scope.childrenNames = _.map(children, 'name');
+         // $scope.childrenNames = _.map(children, 'name');
           var childrenNames=_.map(children, 'name');
           for (var i = 0;i<=childrenIDs.length - 1;i++) {
 
-            var x={};
+           // var x={};
             var filter = {
             device: childrenIDs[i],
             fragment: 'c8y_DistanceMeasurement',
@@ -34,6 +34,7 @@
             var realtime = true;
             c8yMeasurements.latest(filter, realtime)
               .then(function (latestMeasurement) {
+                var x={};
                 //entrycount+=1;
                 //console.log("entrycoun:"+entrycount);
                 var latestMeasurement = latestMeasurement;
@@ -42,11 +43,13 @@
                // for(var j=0;j<y.length;j++){
                //   console.log("No: "+ y[j]);
                 //}
-                //console.log($scope.latestMeasurement);
+                console.log(latestMeasurement);
                 //console.log("this is latestMeasurement");
                 var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
                 var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
                 var RequiredDist=value+unit;
+                //console.log("RequiredDist");
+                //console.log(RequiredDist);
                 //var reT=latestMeasurement.time;
                 x.childTime=latestMeasurement.time;
                 //x.childType=latestMeasurement.type;
@@ -60,17 +63,17 @@
                 }
                 if(entrycount<y.length){
                   x.childName=y[entrycount];
-                  console.log("leng: "+y[entrycount]);
+                  //console.log("leng: "+y[entrycount]);
                   entrycount+=1;
                 }
                 $scope.ReDist.push(x);
                 //$scope.ReDist.push(RequiredDist);
                 //$scope.ReTime.push(latestMeasurement.time);
                 
-                console.log("length: "+ $scope.ReDist.length);
-                console.log("arr: "+ $scope.ReDist);
-                console.log($scope.ReDist);
-                console.log("above arr");
+                //console.log("length: "+ $scope.ReDist.length);
+                //console.log("arr: "+ $scope.ReDist);
+                //console.log($scope.ReDist);
+                //console.log("above arr");
                 
                 //console.log($scope.RequiredDist);
                 //console.log("objtime: "+reT);
@@ -84,11 +87,11 @@
         });
 
         
-      });
+      //});
     }
 
     var entrycount=0;
-    $scope.device = {};
+    //$scope.device = {};
     $scope.ReDist=[];
    // $scope.ReTime=[];
     load();
