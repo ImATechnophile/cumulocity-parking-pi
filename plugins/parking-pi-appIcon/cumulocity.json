@@ -1,0 +1,13 @@
+{
+  "name": "icon",
+  "description": "Icon for an app",
+  "ngModules": [
+  "c8y.ui"
+  ],
+  "js": [
+  "Global/icon.js"
+  ],
+  "imports": [],
+  "css": [],
+  "copy": []
+}

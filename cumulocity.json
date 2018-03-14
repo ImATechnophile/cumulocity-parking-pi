@@ -8,6 +8,7 @@
   "imports": [
     "parking_pi/parking-pi-branding",
     "parking_pi/parking-pi-core",
-    "parking_pi/info"
+    "parking_pi/info",
+    "parking_pi/parking-pi-appIcon"
   ]
 }
