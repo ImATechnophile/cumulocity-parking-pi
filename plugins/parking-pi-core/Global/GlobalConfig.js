@@ -8,7 +8,8 @@
   /* @ngInject */
   function configure(
     c8yNavigatorProvider,
-    c8yViewsProvider
+    c8yViewsProvider,
+    c8yTitleProvider
   ) {
     c8yNavigatorProvider.addNavigation({ // adds a menu item to the navigator with ...
       name: 'Parking Devices', // ... the name *"hello"*
@@ -53,6 +54,31 @@
       priority: 1006,
       templateUrl: ':::PLUGIN_PATH:::/Health/health.html',
       controller: 'healthcontroller'
+    });
+
+      c8yTitleProvider.addTitle('/DevicesInfo/:deviceId', {
+      data: ['$routeParams', 'c8yDevices', function ($routeParams, c8yDevices) {
+        var deviceId = $routeParams.deviceId;
+        if (!deviceId) {
+          return {};
+        }
+        return c8yDevices.detailCached(deviceId).then(function (res) {
+          return {
+            title: res.data.name,
+            subtitle: ''
+          };
+        });
+      }]
+    });
+
+      c8yTitleProvider.addTitle('/DevicesInfo', {
+      data: [function () {
+        return {
+            title: 'Parking Devices',
+            subtitle: ''
+          };
+        
+      }]
     });
 
 
