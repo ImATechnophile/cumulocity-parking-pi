@@ -18,7 +18,7 @@
     $q.all(getDevicesFromInventory).then(IterateIt);
 
     function getRequiredDevices() {
-      var filters = {fragmentType: 'c8y_Position' };
+      var filters = {type: 'c8y_ParkingPi' };
       return c8yInventory.list(filters);
     }
 

@@ -13,6 +13,12 @@
     c8yMeasurements,
     c8yAlert
   ) {
+
+    function onFailure() {
+      c8yAlert.danger('No child devices for this device');
+    }
+
+
     function load() {
       //c8yDevices.detail($routeParams.deviceId).then(function (res) {
        // var device = res.data;
@@ -23,6 +29,7 @@
         if(childrenIDs.length !=0){
          // $scope.childrenNames = _.map(children, 'name');
           var childrenNames=_.map(children, 'name');
+          console.log("name: "+childrenNames);
           for (var i = 0;i<=childrenIDs.length - 1;i++) {
 
            // var x={};
@@ -81,8 +88,7 @@
           }
         }
         else{
-          $scope.EmptyDiv=true;
-          $scope.justMessage="Ooops!! No child devices";
+          onFailure();
         }
         });
 
