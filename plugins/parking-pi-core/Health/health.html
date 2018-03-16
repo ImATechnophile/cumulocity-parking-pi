@@ -1,11 +1,11 @@
 <div ng-app="device" ng-controller="healthcontroller" class="row text-center mt-5 mb-5">
-  <div class="col-sm-3" ng-repeat="name in childrenNames">
+  <div class="col-sm-3" ng-repeat="info in ReDist">
     <div class="card">
-      <h5  class="card-header text-primary">{{name}}</h5>
+      <h5  class="card-header text-primary">{{info.childName}}</h5>
       <div class="card-body">
         <img class="card-img-top" src="parking_pi_parking-pi-core/Images/ultrasonic.jpg" alt="Card image cap">
       </div>
-      <span class="card-footer">Out of Range</span>
+      <span class="card-footer">{{info.status}}</span>
     </div>
   </div>
 </div>

@@ -84,9 +84,6 @@
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
 }
-.fa-power-off, .fa-wrench {
-    font-size: 36px;
-}
 .fa {
     display: inline-block;
     /*font: normal normal normal 14px/1 FontAwesome;
@@ -107,6 +104,11 @@
     background-image: none;
     border-color: #28a745;
 }
+
+.butybtn{
+    padding: 5.375rem 5.75rem;
+}
+
 .btn {
     display: inline-block;
     font-weight: 400;
@@ -118,7 +120,6 @@
     -ms-user-select: none;
     user-select: none;
     border: 1px solid transparent;
-    padding: .375rem .75rem;
     font-size: 1rem;
     line-height: 1.5;
     border-radius: .25rem;
@@ -157,4 +158,7 @@ button, input, optgroup, select, textarea {
     content: "\f011";
 }
 
+.butyfa-power-off, .butyfa-wrench {
+    font-size: 75px;
+}
 

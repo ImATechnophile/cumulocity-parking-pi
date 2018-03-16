@@ -25,7 +25,7 @@
     });
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
-      name: 'Child devices',
+      name: 'Child Devices',
       icon: 'code-fork',
       priority: 1009,
       templateUrl: ':::PLUGIN_PATH:::/Child/child.html',
@@ -33,7 +33,7 @@
     });
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
-      name: 'location',
+      name: 'Parking location',
       icon: 'location-arrow',
       priority: 1008,
       templateUrl: ':::PLUGIN_PATH:::/Location/location.html',
@@ -41,7 +41,7 @@
     });
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
-      name: 'Managing',
+      name: 'Manage Parking',
       icon: 'c8y-device-control',
       priority: 1007,
       templateUrl: ':::PLUGIN_PATH:::/Manage/manage.html',
@@ -49,7 +49,7 @@
     });
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
-      name: 'Health-Check',
+      name: 'Device Health',
       icon: 'heart',
       priority: 1006,
       templateUrl: ':::PLUGIN_PATH:::/Health/health.html',
