@@ -27,11 +27,43 @@
       var pos = device.c8y_Position;
       var details={
         serialNo: $scope.entire.length+1,
-        lat: pos.lat,
-        lng: pos.lng,
+       // lat: pos.lat,
+        //lng: pos.lng,
         name: device.name,
         deviceId:device.id
       };
+
+
+
+
+
+
+
+      var latlng = {lat: parseFloat(pos.lat), lng: parseFloat(pos.lng)};
+      var geocoder = new google.maps.Geocoder;
+      geocoder.geocode({'location': latlng}, function(results, status) {
+          if (status === 'OK') {
+            if (results[0]) {
+              console.log(results[0]);
+              //infowindow.setContent(results[0].formatted_address);
+              details.location=results[0].formatted_address;
+            } else {
+              window.alert('No results found');
+            }
+          } else {
+            window.alert('Geocoder failed due to: ' + status);
+          }
+        });
+
+
+
+
+
+
+
+
+
+      
       if (device.c8y_Connection) {
         //details.status = device.c8y_Connection.status;
         console.log(typeof(device.c8y_Connection.status));
