@@ -11,7 +11,8 @@
     $routeParams,
     c8yDevices,
     c8yMeasurements,
-    c8yAlert
+    c8yAlert,
+    $filter
   ) {
 
     function onFailure(message) {
@@ -61,16 +62,23 @@
                 }
                 else
                 {
-                var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
+               // var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
                 var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                var RequiredDist=value+unit;
+                var requiredDist=value;
+                var sensorTime=latestMeasurement.time;
+                console.log(sensorTime);
+                console.log(typeof(sensorTime));
+                var convert = $filter('date')(new Date(sensorTime.split('-').join('/')), "d/M/yyyy 'at' h:mm a");
+                console.log("new date"+convert);
                //x.childTime=latestMeasurement.time;_.isEmpty({ 'a': 1 });
                
-               if(RequiredDist<="200.45cm"){
+               if(requiredDist<="200.45"){
                   x.status="OK";
+                  x.style="text-success";
                 }
                 else{
                   x.status="OUT OF SERVICE";
+                  x.style="text-danger";
                 }
                 if(entrycount<y.length){
                   x.childName=y[entrycount];

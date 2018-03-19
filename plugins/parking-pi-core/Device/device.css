@@ -19,6 +19,10 @@
 .form-2 .input-group-text {
     border: 1px solid #e9ecef;
 }
+.table-logo {
+    padding-left: 13px;
+    font-size: 18px;
+}
 /*.rwstyle{
   font-size: 18px !important;
 }

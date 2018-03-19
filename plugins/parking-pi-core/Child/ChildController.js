@@ -65,19 +65,21 @@
                 }
                 else
                 {
-                var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
+                //var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
                 var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                var RequiredDist=value+unit;
+                var RequiredDist=value;
+                //console.log("only value :"+RequiredDist);
+
                 console.log("name: "+childrenNames);
                 console.log("id: "+childrenIDs);
                //x.childTime=latestMeasurement.time;_.isEmpty({ 'a': 1 });
                
-               if(RequiredDist<="200.45cm"){
+               if(RequiredDist<=80){
                   x.childImage="parking_pi_parking-pi-core/Images/car.png";
                   x.childTime="Parked At :"+latestMeasurement.time;
                 }
                 else{
-                  x.childImage="parking_pi_parking-pi-core/Images/empty2.png";
+                  x.childImage="parking_pi_parking-pi-core/Images/empty8.png";
                   x.childTime=" Last Checkout:"+latestMeasurement.time;
                 }
                 if(entrycount<y.length){
@@ -85,11 +87,13 @@
                   console.log("inside");
                   console.log(y[entrycount]);
                   console.log(childrenIDs[entrycount]);
+                  console.log(RequiredDist);
+                  console.log(latestMeasurement.time);
                   console.log("outside");
                   entrycount+=1;
                 }
                 $scope.ReDist.push(x);
-                console.log($scope.ReDist);
+                //console.log($scope.ReDist);
               }
               
             });
@@ -100,15 +104,16 @@
 
     var entrycount=0;
     $scope.ReDist=[];
+    //load();
 
-    function onloadTimer(){
-      $interval(function () {
-                    //Display the current time.
-                    load();
-                }, 5000);
+   function onloadTimer(){
+     $interval(function () {
+                   
+                   load();
+               }, 5000);
 
-    }
-    onloadTimer();
+   }
+   onloadTimer();
     
     
 

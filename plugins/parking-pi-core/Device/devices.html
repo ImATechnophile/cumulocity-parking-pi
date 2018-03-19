@@ -28,8 +28,8 @@
                     <td class="rwstyle">{{CU.serialNo}}</td>
                     <td class="rwstyle" ng-model="DeviceName">{{CU.name}}</td>
                     <td class="rwstyle">{{CU.lat}} , {{CU.lng}} </td>
-                    <td class="rwstyle">{{CU.status}}</td>
-                    <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()">View Details</a></td>
+                    <td class="rwstyle"><a><i class="fa {{CU.status}} table-logo" aria-hidden="true"></i></a></td>
+                    <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()"><i class="fa fa-eye table-logo" aria-hidden="true"></i></a></td>
                 </tr>
             </tbody>
         </table>

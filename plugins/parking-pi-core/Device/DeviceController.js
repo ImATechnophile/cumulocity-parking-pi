@@ -33,10 +33,19 @@
         deviceId:device.id
       };
       if (device.c8y_Connection) {
-        details.status = device.c8y_Connection.status;
+        //details.status = device.c8y_Connection.status;
+        console.log(typeof(device.c8y_Connection.status));
+        console.log(device.c8y_Connection.status);
+        if(device.c8y_Connection.status=="DISCONNECTED")
+        {
+          details.status = "fa-power-off text-danger";
+        }
+        else{
+          details.status = "fa-plug text-success";
+        }
       }
       else{
-        details.status = "UNKNOWN";
+        details.status = "fa-wrench text-warning";
       }
       $scope.entire.push(details);
      
