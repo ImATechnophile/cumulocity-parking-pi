@@ -40,13 +40,13 @@
       controller: 'locationcontroller'
     });
 
-      c8yViewsProvider.when('/DevicesInfo/:deviceId', {
+      /*c8yViewsProvider.when('/DevicesInfo/:deviceId', {
       name: 'Manage Parking',
       icon: 'c8y-device-control',
       priority: 1007,
       templateUrl: ':::PLUGIN_PATH:::/Manage/manage.html',
       controller: 'managecontroller'
-    });
+    });*/
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
       name: 'Device Health',

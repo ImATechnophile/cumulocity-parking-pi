@@ -76,7 +76,7 @@
     color: #dc3545!important;
 }
 .text-warning {
-     color: #d78407!important; 
+     color: #d78407!important;
 }
 .text-success {
     color: #28a745!important;
@@ -158,7 +158,7 @@ button, input, optgroup, select, textarea {
     content: "\f011";
 }
 
-.butyfa-power-off, .butyfa-wrench {
+.button-magnify {
     font-size: 75px;
 }
 
