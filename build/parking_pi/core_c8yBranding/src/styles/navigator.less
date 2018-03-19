@@ -1,0 +1,438 @@
+// mixin to check is there's a logo to navigator's title
+.checkLogo(@checkLogo) when not (@checkLogo="") {
+  background-image: url(@checkLogo);
+  padding-top: @appLogo-height;
+  padding-bottom: 0;
+  overflow: hidden;
+  background-size: 100%;
+  background-position: center 5px;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: auto;
+  z-index: 100;
+  line-height: 2.85;
+  .c8y-icon,
+  .app-noicon {
+    display: none!important;
+  }
+  span {
+    display: block;
+  }
+  br {
+    display: none;
+  }
+}
+
+// change the logo according to the lightness of the navigator background
+.checkLightness(@color) when (lightness(@color) <=50%) {
+  .c8y-icon-white();
+}
+
+// mixin to check is there's a logo to replace navigator's title
+.checkBranding(@checkLogo) when not (@checkLogo="") {
+  text-indent: -1000px;
+  overflow: hidden;
+  height: 0;
+}
+
+// mixin to ajust navigatorContent top position when using a logo
+.adjustOnTopLogo(@checkLogo) when not(@checkLogo="") {
+  top: @navigator-title-height + (@navigatorWidth * (@appLogo-height/100));
+}
+
+.adjustHeaderHeight(@checkLogo) when not(@checkLogo="") {
+  top: (@navigatorWidth * (@appLogo-height/100));
+}
+
+// mixin to apply gradient in navigator
+.checkVerticalGradient(@color1;
+@color2) when not (@color1="") {
+  #gradient>.vertical(@start-color: @color1;
+  @end-color: @color2);
+}
+
+// mixin to apply gradient in navigator
+.checkHorizontalGradient(@color1;
+@color2) when not (@color1="") {
+  #gradient>.horizontal(@start-color: @color1;
+  @end-color: @color2);
+}
+
+
+/* Navigator */
+
+.navigator {
+  position: fixed;
+  z-index: (@zindex-navbar + 1);
+  top: 0;
+  bottom: 0;
+  left: -(@navigatorWidth + 10);
+  width: @navigatorWidth;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  color: @navigator-text-color;
+  background: @navColor;
+  font-family: @navigator-font-family;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  .transition(left @open-menu-time-type);
+  .checkVerticalGradient(@grad-top;
+  @grad-bottom); //.translate(-(@navigatorWidth));
+  &.open {
+    left: 0;
+  }
+  &::-webkit-scrollbar {
+    width: 4px;
+    /* for vertical scrollbars */
+    height: 4px;
+    /* for horizontal scrollbars */
+  }
+  &.minheight {
+    height: @headerHeight;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.navigator .title {
+  font-size: 16px;
+  font-weight: 200;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: inline-block;
+  margin: 0;
+  white-space: nowrap;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: center;
+  color: @navigator-title-color;
+  background-color: @navColorHeader;
+  z-index: 100;
+  line-height: 1;
+  padding: 8px 15px;
+  min-height: @margin-base * 5;
+  .c8y-icon+span,
+  .app-noicon+span {
+    display: block;
+  }
+  .c8y-icon {
+    font-size: 280%;
+    margin-bottom: 10px;
+    .checkLightness(@navColor); //.checkLightness(@navColorHeader);
+  }
+  .app-noicon {
+    width: 46px;
+    height: 46px;
+    line-height: 51px;
+    background-color: white;
+    color: @gray-medium;
+    margin-top: 8px;
+    margin-bottom: 6px;
+  }
+  .checkLogo(@appLogo);
+  .checkBranding(@appBranding);
+}
+
+.navigator .form-control {
+  opacity: 0.3;
+  &:focus {
+    opacity: 1;
+  }
+}
+
+.navigator .input-group-btn {
+  .btn-default {
+    padding: 6px 12px;
+    opacity: 0.5;
+    color: @gray-darker;
+    &:hover {
+      opacity: 1;
+      color: @gray-darker;
+    }
+  }
+  &.open {
+    .btn-default {
+      opacity: 1;
+    }
+  }
+}
+
+.navigatorBtn {
+  display: none;
+  float: left;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+// Navigator content
+.navigatorContent {
+  position: absolute;
+  top: @margin-base * 5;
+  right: 0;
+  bottom: 23px;
+  left: 0;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  z-index: 10;
+  list-style: none;
+  .adjustOnTopLogo(@appLogo);
+  .adjustHeaderHeight(@appBranding);
+  ul {
+    list-style: none;
+  }
+  .children {
+    margin: 0;
+    padding: 0;
+    .link.active:after {
+      border-width: 14px 0 15px 10px;
+    } // Remove the blue border
+    // border-left: 3px solid fade(@brand-primary, 50%);
+    .children {
+      border-left: 0;
+    }
+    li {
+      background-color: fade(@gray, 2%);
+      >.link {
+        z-index: 0;
+        padding: 5px 5px 4px 25px;
+        span {
+          display: inline-block;
+          overflow: hidden;
+          max-width: 75%;
+          vertical-align: middle;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          flex: 0 0 auto;
+        }
+        &:focus {
+          outline: none;
+        }
+      }
+      li>.link {
+        padding-left: 35px;
+      }
+      li li>.link {
+        padding-left: 45px;
+      }
+      li li li>.link {
+        padding-left: 55px;
+      }
+      li li li li>.link {
+        padding-left: 65px;
+      }
+      li li li li li>.link {
+        padding-left: 75px;
+      }
+      li li li li li li>.link {
+        padding-left: 85px;
+      }
+    }
+  }
+  >c8y-ui-navigator-node>li>.link {
+    padding: 9px 5px 9px 15px;
+  }
+  .link {
+    font-size: @navigator-font-size;
+    position: relative;
+    display: flex;
+    flex-flow: row nowrap;
+    text-decoration: none;
+    color: @navigator-text-color;
+    &:before {
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 100%;
+      content: '';
+      background-color: @navigator-active-bg;
+      .transition(all .2s ease);
+    }
+    &:after {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 0;
+      content: '';
+      border-width: 15px 0 15px 0;
+      border-style: solid;
+      border-color: transparent transparent transparent @gray-lighter;
+      .transition(all .2s ease);
+    }
+    &.parent {
+      font-size: @navigator-font-size * 0.93; //line-height: 10px;
+      position: relative;
+      padding: 11px 5px 11px 15px;
+      text-transform: uppercase;
+      color: @navigator-text-color;
+      &:hover {
+        color: @navigator-text-color;
+        background-color: transparent;
+        &:after {
+          border-width: 19px 0 19px 10px;
+        }
+      }
+      .icon {
+        font-size: 1em;
+        display: inline-block;
+        color: @brand-primary;
+      }
+      .fa-plus {
+        float: right;
+        margin-right: 10px;
+        .rotate(45deg);
+      }
+      &.closed {
+        opacity: .8;
+        .icon {
+          opacity: .8;
+        }
+        .fa-plus {
+          .rotate(0);
+        }
+        &.active {
+          color: @navigator-active-color;
+          .icon {
+            color: @navigator-active-color;
+          }
+          .fa-plus {
+            margin-right: 0;
+          }
+        }
+      }
+      &.active {
+        color: @navigator-active-color;
+        .icon {
+          color: @navigator-active-color;
+        }
+        .fa-plus {
+          margin-right: 0;
+        }
+        &:after {
+          border-width: 19px 0 19px 10px;
+        }
+        +.children {
+          border-left-color: @navigator-active-bg;
+        }
+      }
+    }
+  }
+  .link {
+    &:hover {
+      color: @navigator-text-color;
+      background-color: fade(@gray, 5%);
+      &:after {
+        right: 0;
+        left: 0;
+        border-width: 15px 0 15px 10px;
+        border-left-color: @navigator-active-bg;
+        .transition(all 0s ease);
+      }
+    }
+    &.active {
+      margin-right: 10px;
+      color: @navigator-active-color;
+      &:before {
+        width: 100%;
+        .transition(all .2s ease);
+      }
+      &:after {
+        left: 100%;
+        border-width: 19px 0 19px 10px;
+        border-left-color: @navigator-active-bg;
+        .transition(all .2s ease);
+      }
+    }
+  }
+  .slot {
+    position: relative;
+    z-index: 0;
+    color: white;
+    border-top: 1px solid lighten(@navigator-separator-color, 3%);
+    border-bottom: 1px solid darken(@navigator-separator-color, 3%);
+    .slot:last-child {
+      border-bottom: 0;
+    }
+    .loadingIndicator {
+      position: absolute;
+      top: 50%;
+      right: 10px;
+      margin-top: -8px;
+      opacity: 0.3;
+    }
+    .statusContainer {
+      font-size: 14px;
+      display: inline-block;
+      position: relative;
+      width: 20px;
+      height: 14px;
+      .sendStatus,
+      .pushStatus {
+        position: absolute;
+      }
+      .sendStatus {
+        margin-top: -2px;
+      }
+      .pushStatus {
+        margin-top: 7px;
+      }
+    }
+  }
+  .editing {
+    opacity: 1;
+    color: #fff !important;
+    background-color: @brand-primary !important;
+  }
+  .icon {
+    font-size: 16px;
+    display: inline-block;
+    width: 16px;
+    margin-right: 5px;
+    text-align: center;
+  }
+  .empty,
+  .showMore {
+    font-size: 0.93em;
+    opacity: 0.6;
+    font-style: italic;
+  }
+  .link.empty:hover {
+    background-color: transparent;
+    opacity: 0.8;
+  }
+}
+
+// EDIT MODE
+.editMode {
+  .navigatorContent .link {
+    opacity: 0.5;
+    cursor: default;
+    &:hover,
+    &.active {
+      background-color: transparent;
+      color: fade(@navigator-text-color, 50%);
+    }
+  }
+}
+
+.powered-by {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 11px;
+  background: @navColor;
+  p {
+    margin: 4px;
+    height: 15px;
+    text-align: center;
+    color: fadeout(contrast(@navColor), 70%);
+  }
+}
+
+
+/* end Navigator */

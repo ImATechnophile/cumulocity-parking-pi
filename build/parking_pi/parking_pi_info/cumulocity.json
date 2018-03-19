@@ -1,0 +1,1 @@
+{"name":"Animated test","description":"About author","ngModules":["info"],"js":["main.js"],"version":"1.0.0","compatibility":{"app":"parking_pi","contextPath":"info","rootContextPath":"parking_pi/info"},"contextPath":"parking_pi_info"}

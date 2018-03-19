@@ -1,0 +1,3361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "\"{{field}}\" must be less than or equal to {{maxValue}}"
+msgstr "\"{{field}}\" は {{maxValue}} 以下である必要があります"
+
+msgid "\"{{field}}\" must not be null"
+msgstr "\"{{field}}\" はNULL値にすることはできません"
+
+msgid "\"{{field}}\" should not be null"
+msgstr "\"{{field}}\" をNULL値にすることはできません"
+
+msgid "\"{{field}}\" should not contain null values"
+msgstr "\"{{field}}\"　にはNULL値を含めることはできません"
+
+msgid "({{paging.more}} left)"
+msgstr "({{paging.more}} 左)"
+
+msgid ""
+"<b>Drop file here</b><br>\n"
+"          or click to browse your computer."
+msgstr ""
+"<b>ここにファイルをドロップ</b><br>\n"
+"            もしくはお使いのコンピュータから参照してください"
+
+msgid "<no name>"
+msgstr "<名前がありません>"
+
+msgid "ACCEPTED"
+msgstr "承認済み"
+
+msgid "ACKNOWLEDGED"
+msgstr "承認済み"
+
+msgid "ACKNOWLEDGED by: {{ackBy}} {{ackTimeFromNow}}"
+msgstr "{{ackBy}} {{ackTimeFromNow}} から承認済み"
+
+msgid "ACTIVE"
+msgstr "アクティブ"
+
+msgid "ACTIVE: triggered {{alarmTimeFromNow}}"
+msgstr "アラーム発生時期 {{alarmTimeFromNow}}"
+
+msgid "ALARM STATUS"
+msgstr "アラームステータス"
+
+msgid "API"
+msgstr "API"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "ARRAY"
+msgstr "ARRAY"
+
+msgid "Access denied requests"
+msgstr "アクセスが拒否されたリクエスト"
+
+msgid "Access is denied!"
+msgstr "アクセスが拒否されました"
+
+msgid "Access is denied."
+msgstr "アクセスが拒否されました"
+
+msgid "Access technology"
+msgstr "アクセス技術"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Acknowledge"
+msgstr "承認する"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Activate"
+msgstr "有効化"
+
+msgid "Activate user"
+msgstr "ユーザを有効化"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Active alarms status"
+msgstr "アクティブなアラームステータス"
+
+msgid "Activity"
+msgstr "アクティビティ"
+
+msgid "Add action"
+msgstr "アクションを追加"
+
+msgid "Add device"
+msgstr "デバイスを追加"
+
+msgid "Add file"
+msgstr "ファイルを追加"
+
+msgid "Add group"
+msgstr "グループを追加"
+
+msgid "Add property"
+msgstr "プロパティを追加"
+
+msgid "Add to group"
+msgstr "グループに追加"
+
+msgid "Add user"
+msgstr "ユーザを追加"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Address range"
+msgstr "アドレスの範囲"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Agent config"
+msgstr "エージェントの構成"
+
+msgid "Alarm"
+msgstr "アラーム"
+
+msgid "Alarm count 3 months"
+msgstr "過去3ヵ月間のアラーム数"
+
+msgid "Alarm count today"
+msgstr "本日のアラーム数"
+
+msgid "Alarm created"
+msgstr "アラームが作成されました"
+
+msgid "Alarm status changed to \"{{status}}\"."
+msgstr "アラームステータスは \"{{status}}\" に変わりました"
+
+msgid "Alarm type"
+msgstr "アラームタイプ"
+
+msgid "Alarm updated"
+msgstr "アラームが更新されました"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "All devices"
+msgstr "デバイス一覧"
+
+msgid "Allow support user access"
+msgstr "サポートユーザのアクセスを許可"
+
+msgid "Allows for CREATE, UPDATE and DELETE actions"
+msgstr "作成、更新、削除のアクションを許可"
+
+msgid "Also delete all devices inside this group and its sub-groups."
+msgstr "同時に、このグループとサブグループ内のすべてのデバイスも削除する"
+
+msgid "Also delete child devices of this device."
+msgstr "同時に、このデバイスのすべての子デバイスも削除する"
+
+msgid "Altitude"
+msgstr "高度"
+
+msgid "An error has occurred, contact support."
+msgstr "エラーが発生しました。サポートに連絡してください"
+
+msgid "An error has occurred. Please try again later."
+msgstr "エラーが発生しました。しばらく待って再度実行してください"
+
+msgid "And before"
+msgstr "デバイス登録日 - 以下の日時まで"
+
+msgid "And sort"
+msgstr "並び替え"
+
+msgid "Application"
+msgstr "アプリケーション"
+
+msgid "Application management"
+msgstr "アプリケーション管理"
+
+msgid "Application subscriptions management"
+msgstr "アプリケーションサブスクリプション管理"
+
+msgid "Application with given name already exists!"
+msgstr "その名前のアプリケーションは既に存在しています"
+
+msgid "Application with the following values ({{valuesList}}, contextPath={{contextPath}}) already exists!"
+msgstr "この値({{valuesList}}, contextPath={{contextPath}})のアプリケーションは既に存在しています"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Are you sure?"
+msgstr "本当に実行しますか？"
+
+msgid "Ascending"
+msgstr "昇順"
+
+msgid "At least 1 data point must be selected"
+msgstr "少なくとも1つのデータポイントを選択してください"
+
+msgid "Attachment"
+msgstr "添付ファイル"
+
+msgid "Audit"
+msgstr "監視"
+
+msgid "Audits"
+msgstr "監視"
+
+msgid "Auth type"
+msgstr "認証タイプ"
+
+msgid "Authentication failed! User account is locked."
+msgstr "認証に失敗しました。ユーザアカウントはロックされています"
+
+msgid "Availability"
+msgstr "稼働率"
+
+msgid "Availability monitoring record"
+msgstr "稼働率監視記録"
+
+msgid "Band"
+msgstr "バンド"
+
+msgid "Batch operations"
+msgstr "バッチ操作"
+
+msgid "Beware that e-mail is required to reset password"
+msgstr "パスワードリセット時に、Eメールアドレスが必要となることにご注意ください"
+
+msgid "Boolean"
+msgstr "ブール値"
+
+msgid "Browse"
+msgstr "閲覧する"
+
+msgid "Bulk operation cancelled by user."
+msgstr "ユーザにより一括操作はキャンセルされました"
+
+msgid "Bulk operation delay must be greater than {{minSeconds}} seconds!"
+msgstr "一括操作の遅延は{{minSeconds}}秒以上でなければなりません"
+
+msgid "Bulk operations"
+msgstr "一括操作"
+
+msgid "CANCELLED"
+msgstr "キャンセル済み"
+
+msgid "CEP Manager"
+msgstr "CEPマネージャー"
+
+msgid "CEP management"
+msgstr "CEP管理"
+
+msgid "CEP module \"{{name}}\" created"
+msgstr "CEPモジュール  \"{{name}}\"  が作成されました"
+
+msgid "CEP module \"{{name}}\" deleted"
+msgstr "CEPモジュール \"{{name}}\" が削除されました"
+
+msgid "CEP module \"{{name}}\" updated"
+msgstr "CEPモジュール \"{{name}}\" が更新されました"
+
+msgid "CEP module created"
+msgstr "CEPモジュールが作成されました"
+
+msgid "CEP module deleted"
+msgstr "CEPモジュールが削除されました"
+
+msgid "CEP module updated"
+msgstr "CEPモジュールが更新されました"
+
+msgid "CLEARED"
+msgstr "解決済み"
+
+msgid "CLEARED: was active for {{alarmDuration}}"
+msgstr "解決済み : アクティブ期間 {{alarmDuration}}"
+
+msgid "COMPLETED SUCCESSFULLY"
+msgstr "正常に完了"
+
+msgid "COMPLETED WITH FAILURES"
+msgstr "失敗を伴って完了"
+
+msgid "CRITICAL"
+msgstr "クリティカル"
+
+msgid "Can access and modify the full user hierarchy"
+msgstr "すべてのユーザ階層にアクセスおよび修正ができます"
+
+msgid "Can create new user as his own sub-users and manage this"
+msgstr "自分のサブユーザとして新しいユーザを作成でき、これを管理することができます"
+
+msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
+msgstr "アプリケーション、テナントオプション、データ保持ルールなどテナント全体の構成を管理できます"
+
+msgid "Can read all data from all devices"
+msgstr "すべてのデバイスからすべてのデータを読み取ることができます"
+
+msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
+msgstr "アセットのすべてのデータを読み取り、すべてのインベントリデータを管理できますが、操作を実行することはできません。また、アラームを認識して解決済みにしたり、 ダッシュボードの作成や更新をしたりできます"
+
+msgid "Can read all data of the asset."
+msgstr "アセットのすべてのデータを読み込むことができます"
+
+msgid "Can read and write all data from all devices"
+msgstr "すべてのデバイスからすべてのデータを読み取り、書き込むことができます"
+
+msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
+msgstr "デバイスに操作を送信して、アセットをリモート管理することができます。 これには、例えば、リモート構成、ソフトウェア更新などが含まれます"
+
+msgid "Can restart devices."
+msgstr "デバイスを再起動することができます"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancel password change"
+msgstr "パスワードの変更をキャンセル"
+
+msgid "Cannot activate a certificate which is either expired or not yet valid!"
+msgstr "有効期限が切れているか、有効ではない証明書を有効にすることはできません"
+
+msgid "Cannot add group as its own child."
+msgstr "グループを子として追加することはできません"
+
+msgid "Cannot be greater than 3650 days."
+msgstr "最大は3650日です"
+
+msgid "Cannot change password: provided token is invalid!"
+msgstr "パスワードを変更できません：字句が無効です"
+
+msgid "Cannot deploy module '{{moduleName}}'! Compilation failed in expression '{{expression}}': incorrect syntax near '{{syntaxError}}'!"
+msgstr "モジュール '{{moduleName}}'をデプロイできません。式 '{{expression}}'でコンパイルに失敗しました： '{{syntaxError}}'の近くの構文に誤りがあります"
+
+msgid "Cannot deploy module {{errorMessage}}"
+msgstr "モジュール {{errorMessage}} をデプロイできません"
+
+msgid "Cannot enable custom domain. DNS is setup incorrectly!"
+msgstr "カスタムドメインを有効にできません。DNSが正しく設定されていません"
+
+msgid "Cannot execute bulk operation on empty group. Group with id \"{{groupId}}\" has no child assets!"
+msgstr "空のグループに対して一括操作は実行できません。 ID \"{{groupId}}\" のグループに子アセットがありません"
+
+msgid "Cannot execute bulk operation on empty group. Smart group with id \"{{groupId}}\" has no child assets!"
+msgstr "空のグループに対して一括操作は実行できません。 ID \"{{groupId}}\" のスマートグループに子アセットがありません"
+
+msgid "Cannot introduce cyclic ownership dependency!"
+msgstr "所有関係の巡回依存は認められていません"
+
+msgid "Cannot reschedule bulk operation. All its operations are already successful."
+msgstr "一括操作を変更することはできません。 すべての操作は既に正常に終了しています"
+
+msgid "Cannot reset password for user with such e-mail: e-mail not found!"
+msgstr "以下のEメールアドレスのユーザのパスワードをリセットできません：Eメールアドレスが見つかりません"
+
+msgid "Cannot update/delete application binary via this endpoint"
+msgstr "このエンドポイント経由でアプリケーションバイナリを更新または削除することはできません"
+
+msgid "Cannot use a reserved SQL keyword '{{tenantId}}' as domain!"
+msgstr "予約済みSQLキーワード '{{tenantId}}'をドメインとして使用することはできません"
+
+msgid "Cell ID"
+msgstr "セルID"
+
+msgid "Cellular WAN"
+msgstr "セルラーWAN"
+
+msgid "Change"
+msgstr "変更"
+
+msgid "Change log"
+msgstr "ログを変更"
+
+msgid "Change page size {{pageSize}}"
+msgstr "ページサイズ{{pageSize}}を変更"
+
+msgid "Change parameter"
+msgstr "パラメータを変更"
+
+msgid "Change password"
+msgstr "パスワードを変更"
+
+msgid "Change the severities of alarms based on activity time"
+msgstr "アクティビティ時間に基づいてアラームの重大度を変更"
+
+msgid "Changes"
+msgstr "変更"
+
+msgid "Changes successfully saved!"
+msgstr "変更は正常に保存されました"
+
+msgid "Check Fresenius TDMS server IP"
+msgstr "Fresenius TDMSサーバーIPを確認"
+
+msgid "Check Fresenius TDMS server port"
+msgstr "Fresenius TDMSサーバーポートを確認"
+
+msgid "Check MQTT enablement"
+msgstr "MQTTの実施可能要件を確認"
+
+msgid "Check MQTT keepalive interval"
+msgstr "MQTTのキープアライブ間隔を確認"
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr "TCS:BUSプライグインが使用可能かどうか確認"
+
+msgid "Checked"
+msgstr "チェック済み"
+
+msgid "Child device creation"
+msgstr "子デバイスを作成"
+
+msgid "Choose"
+msgstr "選択"
+
+msgid "Choose date"
+msgstr "日付を選択"
+
+msgid "Choose file"
+msgstr "ファイルを選択"
+
+msgid "Choose group"
+msgstr "グループを選択"
+
+msgid "Choose language"
+msgstr "言語を選択"
+
+msgid "Choose owner…"
+msgstr "オーナーを選択"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "City code"
+msgstr "郵便番号"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Clear All Logfiles"
+msgstr "すべてのログファイルをクリア"
+
+msgid "Clear System Logfiles"
+msgstr "システムログファイルをクリア"
+
+msgid "Clear date range"
+msgstr "日付範囲をクリア"
+
+msgid "Clear device credentials"
+msgstr "デバイス資格情報をクリア"
+
+msgid "Clear existing alarm"
+msgstr "既存のアラームをクリア"
+
+msgid "Clear filters"
+msgstr "フィルタの解除"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Cockpit"
+msgstr "コックピット"
+
+msgid "Cockpit User"
+msgstr "コックピットユーザ"
+
+msgid "Collapse breadcrumbs"
+msgstr "階層リンクを折りたたむ"
+
+msgid "Command state is invalid: {{violations}}"
+msgstr "コマンドの状態が無効です: {{violations}}"
+
+msgid "Communication mode"
+msgstr "通信モード"
+
+msgid "Complete Object"
+msgstr "完全なオブジェクト"
+
+msgid "Computed Property"
+msgstr "計算プロパティ"
+
+msgid "Computed property configuration"
+msgstr "計算プロパティ構成"
+
+msgid "Concepts Guide"
+msgstr "コンセプトガイド"
+
+msgid "Config"
+msgstr "構成"
+
+msgid "Config Eifeler Vacotec server port"
+msgstr "Eifeler Vacotecサーバーポート構成"
+
+msgid "Config Fresenius TDMS server IP"
+msgstr "Fresenius TDMSサーバーIP構成"
+
+msgid "Config Fresenius TDMS server port"
+msgstr "Fresenius TDMSサーバーポート構成"
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr "MQTTキープアライブ間隔構成 [秒]"
+
+msgid "Config renderer"
+msgstr "レンダリング構成"
+
+msgid "Configuration snapshot"
+msgstr "構成スナップショット"
+
+msgid "Configure computed property"
+msgstr "計算プロパティを設定"
+
+msgid "Configure debouncing alarm text"
+msgstr "デバウンスアラームテキストを設定"
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr "GPIO <N> [秒]のデバウンス間隔を設定"
+
+msgid "Configure hardware"
+msgstr "ハードウェアを設定"
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr "SMSモードでのステータスレポートの間隔を設定[秒]"
+
+msgid "Configure mobile"
+msgstr "モバイルを設定"
+
+msgid "Configure position"
+msgstr "位置を設定"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Confirm new password"
+msgstr "新しいパスワードの確認"
+
+msgid "Confirm password"
+msgstr "パスワードの確認"
+
+msgid "Confirm unassignment?"
+msgstr "割り当て解除の確認"
+
+msgid "Connection"
+msgstr "接続"
+
+msgid "Connection from server to device is established"
+msgstr "サーバからデバイスへの接続が確立しました"
+
+msgid "Connection from server to device is not established (not supported by device or no connectivity)"
+msgstr "サーバからデバイスへの接続が確立されていません（デバイスでサポートされていないか接続されていません）"
+
+msgid "Connection monitoring"
+msgstr "接続の監視"
+
+msgid "Connection not monitored"
+msgstr "接続は監視されていません"
+
+msgid "Connection refused"
+msgstr "接続が拒否されました"
+
+msgid "Connection type"
+msgstr "接続タイプ"
+
+msgid "Connectivity"
+msgstr "接続"
+
+msgid "Controls access as a support user"
+msgstr "サポートユーザとしてのアクセスを制御します"
+
+msgid "Controls access in all scopes"
+msgstr "全スコープへのアクセスを制御します"
+
+msgid "Controls access to audit logs."
+msgstr "監査ログへのアクセスを制御します"
+
+msgid "Controls access to device alarms."
+msgstr "デバイスアラームへのアクセスを制御します"
+
+msgid "Controls access to device operations."
+msgstr "デバイス操作へのアクセスを制御します"
+
+msgid "Controls access to events."
+msgstr "イベントへのアクセスを制御します"
+
+msgid "Controls access to managed objects in inventory."
+msgstr "インベントリ内の管理対象オブジェクトへのアクセスを制御します"
+
+msgid "Controls access to meausurements."
+msgstr "計測値へのアクセスを制御します"
+
+msgid "Copied to clipboard"
+msgstr "クリップボードにコピーされました"
+
+msgid "Corresponding data will be removed forever after {{maximumAge}} days (executed at night). Do you want to create this rule?"
+msgstr "対応するデータは{{maximumAge}}日後に完全に削除されます（夜間に実行されます）。 このルールを作成しますか？"
+
+msgid "Could not create application due to an error! Click \"More\" for details."
+msgstr "エラーのためアプリケーションを作成できませんでした。 詳細については、 \"詳細\" をクリックしてください"
+
+msgid "Could not create tenant! Tenant with given domain/URL already exists."
+msgstr "テナントを作成できませんでした。 指定されたドメイン/ URLを持つテナントは既に存在しています"
+
+msgid "Could not find managed object with id '{{deviceId}}' in database!"
+msgstr "データベースにID \"{{deviceId}}\" の管理対象オブジェクトが見つかりませんでした"
+
+msgid "Could not remove application assigned to other tenants!"
+msgstr "他のテナントに割り当てられたアプリケーションを削除できませんでした"
+
+msgid "Could not update phone number!"
+msgstr "電話番号を更新できませんでした"
+
+msgid "Could not update user '{{username}}'!"
+msgstr "ユーザ'{{username}}'を更新できませんでした"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Create CRITICAL alarm"
+msgstr "クリティカルアラームを作成"
+
+msgid "Create MAJOR alarm"
+msgstr "メジャーアラームを作成"
+
+msgid "Create MINOR alarm"
+msgstr "マイナーアラームを作成"
+
+msgid "Create Smart Rule"
+msgstr "スマートルールを作成"
+
+msgid "Create WARNING alarm"
+msgstr "警告アラームを作成"
+
+msgid "Create alarm if temperature was to low for 15 minutes"
+msgstr "15分間温度が低下したとき、アラームを作成"
+
+msgid "Create alarm on not processed operation"
+msgstr "操作が進行されない時アラームを作成"
+
+msgid "Create alarm when temperature below 0 degree"
+msgstr "温度が0度を下回ったとき、アラームを作成"
+
+msgid "Create alarm when temperature over 100 degree"
+msgstr "温度が100度を上回ったとき、アラームを作成"
+
+msgid "Create basic event"
+msgstr "基本イベントを作成"
+
+msgid "Create battery measurement"
+msgstr "バッテリー測定を作成"
+
+msgid "Create close relay operation when temperature readings over 100 degree"
+msgstr "100度を超える温度の読み取り時に、リレーをクローズする動作を作成"
+
+msgid "Create custom measurement"
+msgstr "カスタム測定を作成"
+
+msgid "Create location update event"
+msgstr "位置更新イベントを作成"
+
+msgid "Create location update event with device update"
+msgstr "デバイス更新時に位置更新イベントを作成"
+
+msgid "Create retention rule"
+msgstr "データ保持ルールを作成"
+
+msgid "Create signal strength measurement"
+msgstr "信号強度測定を作成"
+
+msgid "Create smart group"
+msgstr "スマートグループを作成"
+
+msgid "Create temperature measurement"
+msgstr "温度測定を作成"
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr "操作: \"{{description | translate}}\" を作成しました"
+
+msgid "Creation time"
+msgstr "作成日時"
+
+msgid "Critical"
+msgstr "クリティカル"
+
+msgid "Critical alarms"
+msgstr "クリティカルアラーム"
+
+msgid "Current RDB snapshot"
+msgstr "現在のRDBスナップショット"
+
+msgid "Current band"
+msgstr "現在のバンド"
+
+msgid "Current operator"
+msgstr "現在のオペレータ"
+
+msgid "Current password invalid!"
+msgstr "パスワードが無効です"
+
+msgid "Current value out of defined range."
+msgstr "現在の値が定義範囲外です"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Custom properties"
+msgstr "カスタムプロパティ"
+
+msgid "Cycle data connection status"
+msgstr "周期データ接続ステータス"
+
+msgid "Cycle detected for route {{route}}!"
+msgstr "ルート{{route}}のサイクルが検出されました"
+
+msgid "DATE"
+msgstr "日付"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "DHCPサーバー"
+
+msgid "DNS 1"
+msgstr "DNS 1"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Daily"
+msgstr "1日ごと"
+
+msgid "Data logging"
+msgstr "データロギング"
+
+msgid "Data type"
+msgstr "データタイプ"
+
+msgid "Date/time"
+msgstr "日時"
+
+msgid "Deactivate"
+msgstr "無効化"
+
+msgid "Deactivate owner"
+msgstr "所有者の無効化"
+
+msgid "Default AT Commands"
+msgstr "デフォルトのATコマンド"
+
+msgid "Default value"
+msgstr "デフォルト値"
+
+msgid "Delegate"
+msgstr "権限委譲"
+
+msgid "Delegated by"
+msgstr "権限委譲元ユーザ"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete Active Jobs"
+msgstr "アクティブジョブを削除"
+
+msgid "Delete device"
+msgstr "デバイスを削除"
+
+msgid "Delete property"
+msgstr "プロパティを削除"
+
+msgid "Descending"
+msgstr "降順"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device Control"
+msgstr "デバイス制御"
+
+msgid "Device Guides"
+msgstr "デバイスガイド"
+
+msgid "Device ID must not contain spaces or slashes (\"/\")."
+msgstr "デバイスIDには、スペースやスラッシュ（ \"/\" ）を使用しないでください"
+
+msgid "Device Info"
+msgstr "デバイス情報"
+
+msgid "Device added to group"
+msgstr "グループに追加されたデバイス"
+
+msgid "Device bootstrap"
+msgstr "デバイスブートストラップ"
+
+msgid "Device config"
+msgstr "デバイス構成"
+
+msgid "Device control"
+msgstr "デバイス制御"
+
+msgid "Device creation"
+msgstr "デバイスの作成"
+
+msgid "Device has been deleted!"
+msgstr "デバイスが削除されました"
+
+msgid "Device info"
+msgstr "デバイス情報"
+
+msgid "Device management"
+msgstr "デバイス管理"
+
+msgid "Device name"
+msgstr "デバイス名"
+
+msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translateServerMessage}}\""
+msgstr "デバイス名: \"{{deviceName}}\", アラームテキスト: \"{{alarmText | translateServerMessage}}\""
+
+msgid "Device profile"
+msgstr "デバイスプロファイル"
+
+msgid "Device registration request with ID {{id}} already exists."
+msgstr "ID {{id}} のデバイス登録リクエストは既に存在しています"
+
+msgid "Device removed from group"
+msgstr "グループからデバイスが削除されました"
+
+msgid "Device setting"
+msgstr "デバイス設定"
+
+msgid "Device time"
+msgstr "デバイス時間"
+
+msgid "Devicemanagement User"
+msgstr "デバイス管理ユーザ"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Display current temperature on device"
+msgstr "デバイスの現在の温度を表示"
+
+msgid "Display selected roaming network"
+msgstr "選択したローミングネットワークを表示"
+
+msgid "Do you really want to delete device \"{{name}}\"? This operation is irreversible."
+msgstr "本当にデバイス \"{{name}}\" を削除しますか？ この操作は元に戻せません"
+
+msgid "Do you really want to delete group \"{{name}}\" and its sub-groups recursively? This operation is irreversible."
+msgstr "本当にグループ \"{{name}}\" とそのサブグループを再帰的に削除しますか？ この操作は元に戻せません"
+
+msgid "Do you really want to delete group \"{{name}}\"? This operation is irreversible."
+msgstr "本当にグループ \"{{name}}\" を削除しますか？ この操作は元に戻せません"
+
+msgid "Do you really want to remove file \"{{name}}\"?"
+msgstr "本当にファイル \"{{name}}\" を削除しますか？"
+
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr "本当にデバイス \"{{name}}\" の割り当てを解除しますか？"
+
+msgid "Do you want to reload?"
+msgstr "リロードしますか？"
+
+msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
+msgstr "パターン{{vm.field.attrs.ngPattern.toString()}}と一致していません"
+
+msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
+msgstr "アップロードされた証明書のドメイン名が、使用されているものと異なります。 新しい証明書をアップロードする前にカスタムドメインを無効にしてください"
+
+msgid "Domain name is already in use by another tenant!"
+msgstr "ドメイン名はすでに別のテナントによって使用されています"
+
+msgid "Don't sort"
+msgstr "ソートしない"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Downloading"
+msgstr "ダウンロード中"
+
+msgid "Downloading&hellip;"
+msgstr "ダウンロード中&hellip;"
+
+msgid "E-mail"
+msgstr "Eメール"
+
+msgid "E-mail address"
+msgstr "Eメールアドレス"
+
+msgid "ECN0"
+msgstr "ECN0"
+
+msgid "EXECUTING"
+msgstr "実行中"
+
+msgid "Edit retention rule"
+msgstr "データ保持ルールを編集"
+
+msgid "Edit user"
+msgstr "ユーザを編集"
+
+msgid "Enable support"
+msgstr "サポートを有効にする"
+
+msgid "Enable two-factor authentication"
+msgstr "二要素認証を有効にする"
+
+msgid "Enable/disable MQTT communication"
+msgstr "MQTT通信を有効または無効にする"
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr "TCS:BUSプラグインを有効/無効にする"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "End"
+msgstr "終了"
+
+msgid "Enquire battery level info"
+msgstr "バッテリーレベル情報を照会"
+
+msgid "Enquire device release info"
+msgstr "デバイスリリース情報を照会"
+
+msgid "Enquire presentation info"
+msgstr "プレゼンテーション情報を照会"
+
+msgid "Enquire serial number"
+msgstr "シリアルナンバーを照会"
+
+msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
+msgstr "有効な国際電話番号を入力してください。有効な形式は+49 9 876 543 210です"
+
+msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
+msgstr "有効な国際電話番号を入力してください。使用可能な形式は+49 9 876 543 210です"
+
+msgid "Error detail"
+msgstr "エラー詳細"
+
+msgid "Error in statement {{moduleName}}:{{statementNumber}}! Incorrect syntax near: {{errorDetails}}"
+msgstr "ステートメント{{moduleName}}:{{statementNumber}}でエラーがあります。{{errorDetails}}の近くの構文が正しくありません"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Event (no Parameter)"
+msgstr "イベント（パラメータなし）"
+
+msgid "Event (with Parameter)"
+msgstr "イベント (パラメータあり)"
+
+msgid "Event count 3 months"
+msgstr "過去3ヵ月のイベント数"
+
+msgid "Event count today"
+msgstr "本日のイベント数"
+
+msgid "Event processing"
+msgstr "イベント処理"
+
+msgid "Event type"
+msgstr "イベントタイプ"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Execute command template"
+msgstr "コマンドテンプレートを実行"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "External application"
+msgstr "外部アプリケーション"
+
+msgid "External id for type '{{type}}' and value '{{value}}' already exists!"
+msgstr "型 \"{{type}}\" と値  \"{{value}}\" の外部IDは既に存在します"
+
+msgid "External id not found for type '{{type}}' and value '{{value}}'."
+msgstr "タイプ  \"{{type}}\" と値  \"{{value}}\" の外部IDが見つかりません"
+
+msgid "External reference"
+msgstr "外部参照"
+
+msgid "External url"
+msgstr "外部URL"
+
+msgid "FAILED"
+msgstr "失敗"
+
+msgid "FLAG"
+msgstr "フラグ"
+
+msgid "Factory Reset"
+msgstr "工場出荷時リセット"
+
+msgid "Factory reset"
+msgstr "工場出荷時リセット"
+
+msgid "Failed to extract certificate from PKCS12!"
+msgstr "PKCS12から証明書を抽出できませんでした"
+
+msgid "Failed to retrieve RDB snapshot because of \"{{failureReason}}\"!"
+msgstr " \"{{failureReason}}\" のためRDBスナップショットの読み出しができませんでした"
+
+msgid "Failed to retrieve RDB snapshot!"
+msgstr "RDBスナップショットの読み出しができませんでした"
+
+msgid "Failed to update domain at the platform."
+msgstr "プラットフォームでドメインを更新できませんでした"
+
+msgid "Failure reason"
+msgstr "失敗理由"
+
+msgid "Fieldbus4"
+msgstr "フィールドバス4"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Filter by maximum date"
+msgstr "最大の日付で絞り込む"
+
+msgid "Filter by maximum value"
+msgstr "最大値で絞り込む"
+
+msgid "Filter by minimum date"
+msgstr "最小の日付で絞り込む"
+
+msgid "Filter by minimum value"
+msgstr "最小値で絞り込む"
+
+msgid "Filter by pattern"
+msgstr "パターンで絞り込む"
+
+msgid "Filter date range"
+msgstr "フィルタのデータレンジ"
+
+msgid "Filter options"
+msgstr "フィルタオプション"
+
+msgid "Filter properties"
+msgstr "プロパティを絞り込む"
+
+msgid "Filter users"
+msgstr "ユーザを絞り込む"
+
+msgid "Firmware"
+msgstr "ファームウェア"
+
+msgid "Firmware version"
+msgstr "ファームウェアバージョン"
+
+msgid "First name"
+msgstr "名"
+
+msgid "First occurrence"
+msgstr "初回発生日時 "
+
+msgid "Following mandatory fields should be included: {{fields}}"
+msgstr "以下の必須フィールドを含む必要があります: {{fields}}"
+
+msgid "Forgot password?"
+msgstr "パスワードをお忘れですか？"
+
+msgid "Forum support"
+msgstr "フォーラムサポート"
+
+msgid "Fragment"
+msgstr "フラグメント"
+
+msgid "Fragment type"
+msgstr "フラグメントタイプ"
+
+msgid "From`date`"
+msgstr "開始日"
+
+msgid "Full access"
+msgstr "フルアクセス"
+
+msgid "GPIO"
+msgstr "GPIO"
+
+msgid "GPIO Pin"
+msgstr "GPIOピン"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "GPS tracks hidden"
+msgstr "GPSトラックの非表示"
+
+msgid "GPS tracks visible"
+msgstr "GPSトラックの表示"
+
+msgid "GSM tracks hidden"
+msgstr "GSMトラックの非表示"
+
+msgid "GSM tracks visible"
+msgstr "GSMトラックの表示"
+
+msgid "Generating report"
+msgstr "レポート生成中"
+
+msgid "Get Cinterion information"
+msgstr "シンテリオンの情報を取得"
+
+msgid "Get Config"
+msgstr "構成を取得"
+
+msgid "Get DHCP lease time [seconds]"
+msgstr "DHCPリース時間を取得[秒]"
+
+msgid "Get Device Serial Number"
+msgstr "デバイスのシリアル番号を取得"
+
+msgid "Get EVENTS Database"
+msgstr "イベントデータベースを取得"
+
+msgid "Get GPIO notify mode"
+msgstr "GPIO通知モードを取得"
+
+msgid "Get GPIO status"
+msgstr "GPIOステータスを取得"
+
+msgid "Get GPS enable"
+msgstr "GPSを有効にする"
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr "I/Oピンのアナログ入力を取得[V]"
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr "I/OピンのアナログRAW電圧を取得[V]"
+
+msgid "Get I/O pin capability"
+msgstr "I/Oピン特性を取得"
+
+msgid "Get I/O pin digital input"
+msgstr "I/Oピンのデジタル入力を取得"
+
+msgid "Get I/O pin digital input threshold"
+msgstr "I/Oピンのデジタル入力のしきい値を取得"
+
+msgid "Get I/O pin hardware gain"
+msgstr "I/Oピンのハードウェアゲイン値を取得"
+
+msgid "Get I/O pin mode"
+msgstr "I/Oピンモードを取得"
+
+msgid "Get I/O pin scale"
+msgstr "I/Oピンのスケールを取得"
+
+msgid "Get IMSI"
+msgstr "IMSIを取得"
+
+msgid "Get ISP Database"
+msgstr "ISPデータベースを取得"
+
+msgid "Get LOG Database"
+msgstr "LOGデータベースを取得"
+
+msgid "Get MTU"
+msgstr "MTUを取得"
+
+msgid "Get Metric"
+msgstr "メトリックを取得"
+
+msgid "Get PARAM Database"
+msgstr "PARAMデータベースを取得"
+
+msgid "Get PENDING operations"
+msgstr "保留中の操作を取得"
+
+msgid "Get PROCCFG Database"
+msgstr "PROCCFGデータベースを取得"
+
+msgid "Get SCHEDULE Database"
+msgstr "スケジュールデータベースを取得"
+
+msgid "Get SIM status"
+msgstr "SIMステータスを取得"
+
+msgid "Get TEMPLATE Database"
+msgstr "テンプレートデータベースを取得"
+
+msgid "Get Time"
+msgstr "時刻を取得"
+
+msgid "Get USER Database"
+msgstr "ユーザデータベースを取得"
+
+msgid "Get actual ADC in mV"
+msgstr "mV単位で実際のADC値を取得"
+
+msgid "Get actual date and time of RTC"
+msgstr "RTCの実際の日時を取得"
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr "エージェントのGPIO間隔を取得[秒]"
+
+msgid "Get agent GPS interval [seconds]"
+msgstr "エージェントのGPS間隔を取得[秒]"
+
+msgid "Get agent connection server"
+msgstr "エージェントの接続サーバーを取得"
+
+msgid "Get agent connection timeout [seconds]"
+msgstr "エージェントの接続タイムアウトを取得[秒]"
+
+msgid "Get agent enable"
+msgstr "エージェントを有効にする"
+
+msgid "Get agent log level"
+msgstr "エージェントのログレベルを取得"
+
+msgid "Get agent modbus port"
+msgstr "エージェントのModbusポートを取得"
+
+msgid "Get agent network timeout [seconds]"
+msgstr "エージェントのネットワークタイムアウトを取得[秒]"
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr "エージェントの再接続間隔を取得[秒]"
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr "エージェントの信号強度測定間隔を取得[秒]"
+
+msgid "Get agent status"
+msgstr "エージェントのステータスを取得"
+
+msgid "Get all module events"
+msgstr "すべてのモジュールイベントを取得"
+
+msgid "Get child device"
+msgstr "子デバイスを取得"
+
+msgid "Get command template"
+msgstr "コマンドテンプレートを取得"
+
+msgid "Get current receiver number"
+msgstr "現在の受信者番号を取得"
+
+msgid "Get detailed Cinterion information"
+msgstr "詳細なシンテリオン情報を取得"
+
+msgid "Get device chipset"
+msgstr "デバイスチップセットを取得"
+
+msgid "Get device user"
+msgstr "デバイスユーザを取得"
+
+msgid "Get firmware and hardware version"
+msgstr "ファームウェアおよびハードウェアバージョンを取得"
+
+msgid "Get installed firmware"
+msgstr "インストール済みのファームウェアを取得"
+
+msgid "Get internal temperature of chip"
+msgstr "チップの内部温度を取得"
+
+msgid "Get list of files stored on device"
+msgstr "デバイスに保存されているファイルのリストを取得"
+
+msgid "Get network update interval [seconds]"
+msgstr "ネットワークの更新間隔を取得[秒]"
+
+msgid "Get operator selection info"
+msgstr "オペレーターの選択情報を取得"
+
+msgid "Get power source and voltage"
+msgstr "電源と電圧を取得"
+
+msgid "Get power supply voltage"
+msgstr "電源電圧を取得"
+
+msgid "Get pullup voltage [volts]"
+msgstr "プルアップ電圧を取得[V]"
+
+msgid "Get reconnect delay [seconds]"
+msgstr "再接続の遅延を取得[秒]"
+
+msgid "Get reconnect retries"
+msgstr "再接続の再試行を取得"
+
+msgid "Get serial baud rate"
+msgstr "シリアルボーレートを取得"
+
+msgid "Get serial port mode"
+msgstr "シリアルポートモードを取得"
+
+msgid "Get signal strength"
+msgstr "信号強度を取得"
+
+msgid "Get sim pin"
+msgstr "SIMピンを取得"
+
+msgid "Get sim protection"
+msgstr "SIM保護を取得"
+
+msgid "Get supported serial baud rates"
+msgstr "サポートされているシリアルボーレートを取得"
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr "システムリソースの測定間隔を取得[秒]"
+
+msgid "Get the new RDB snapshot from device"
+msgstr "デバイスから新しいRDBスナップショットを取得"
+
+msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
+msgstr "一括操作とデバイス管理アプリケーションにアクセスできます。これには、デバイスのデータへのアクセス権は含まれません"
+
+msgid "Global Manager"
+msgstr "グローバルマネージャー"
+
+msgid "Global Reader"
+msgstr "グローバルリーダー"
+
+msgid "Global User Manager"
+msgstr "グローバルユーザマネージャー"
+
+msgid "Global inventory permissions override Inventory role permissions. If you want to limit Inventory access, enable it only on inventory roles."
+msgstr "グローバルインベントリのアクセス権限はインベントリロールのアクセス権限よりも優先されます。インベントリのアクセスを制限する場合は、インベントリロールでのみ有効にします"
+
+msgid "Global role"
+msgstr "グローバルロール"
+
+msgid "Global role \"{{name}}\" updated"
+msgstr "グローバルロール\"{{name}}\"が更新されました"
+
+msgid "Global role \"{{name}}\" updated: {{updatesList}}"
+msgstr "グローバルロール\"{{name}}\"が更新されました: {{updatesList}}"
+
+msgid "Global role updated"
+msgstr "グローバルロールが更新されました"
+
+msgid "Go to OpenCellID and see location"
+msgstr "OpenCellIDに移動して位置を確認"
+
+msgid "Go to device"
+msgstr "デバイスへ移動"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Group has been deleted!"
+msgstr "グループが削除されました"
+
+msgid "Group name"
+msgstr "グループ名"
+
+msgid "Group:&nbsp;"
+msgstr "グループ:&nbsp;"
+
+msgid "Groups assignment"
+msgstr "グループの割り当て"
+
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgid "Has full access to all deployed CEP modules and SmartRules"
+msgstr "すべてのデプロイ済みCEPモジュールおよびスマートルールへのアクセス権があります"
+
+msgid "Help & Service"
+msgstr "ヘルプ ＆ サービス"
+
+msgid "Help &amp; support"
+msgstr "ヘルプ ＆ サポート"
+
+msgid "Hosted application"
+msgstr "ホストされたアプリケーション"
+
+msgid "Hourly"
+msgstr "1時間ごと"
+
+msgid "I/O and PLC"
+msgstr "I/O & PLC"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMEI"
+msgstr "IMEI"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "INTEGER"
+msgstr "整数"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Identity"
+msgstr "アイデンティティ"
+
+msgid "Imperial"
+msgstr "インペリアル"
+
+msgid "In this location since"
+msgstr "以下の日時からこの位置にいます"
+
+msgid "Include lowercase characters (e.g. abcdef)"
+msgstr "小文字を含む（例: abcdef）"
+
+msgid "Include numbers (e.g. 123456)"
+msgstr "数字を含む（例: 123456）"
+
+msgid "Include symbols (e.g. !@#$%^)"
+msgstr "記号を含む（例: !@#$%^）"
+
+msgid "Include uppercase characters (e.g. ABCDEF)"
+msgstr "大文字を含む（例: ABCDEF）"
+
+msgid "Insert the code received via SMS"
+msgstr "SMSで受信したコードを挿入"
+
+msgid "Integer"
+msgstr "整数値"
+
+msgid "International phone number required, in the format +49 9 876 543 210."
+msgstr "形式が\"+49 9 876 543 210\"のような国際電話番号が必要です"
+
+msgid "Invalid credentials!"
+msgstr "無効な資格情報です"
+
+msgid "Invalid e-mail"
+msgstr "無効なEメールアドレスです"
+
+msgid "Invalid email address."
+msgstr "無効なEメールアドレスです"
+
+msgid "Invalid pattern."
+msgstr "無効なパターンです"
+
+msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
+msgstr "無効な電話番号の形式です。 数字、スペース、スラッシュ（ \"/\"）およびダッシュ（ \" - \"）のみ使用できます"
+
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgid "Inventory role"
+msgstr "インベントリロール"
+
+msgid "Inventory role \"{{name}}\" removed"
+msgstr "インベントリロール\"{{name}}\"が削除されました"
+
+msgid "Inventory role \"{{name}}\" updated"
+msgstr "インベントリロール\"{{name}}\"が更新されました"
+
+msgid "Inventory role removed"
+msgstr "インベントリロールが削除されました"
+
+msgid "Inventory role updated"
+msgstr "インベントリロールが更新されました"
+
+msgid "J2ME commands"
+msgstr "J2MEコマンド"
+
+msgid "Java Developers Guide"
+msgstr "Java開発者ガイド"
+
+msgid "LAC"
+msgstr "LAC"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Last communication"
+msgstr "最終通信日時"
+
+msgid "Last day"
+msgstr "前日"
+
+msgid "Last device message"
+msgstr "最終デバイスメッセージ"
+
+msgid "Last hour"
+msgstr "1時間前"
+
+msgid "Last measurement"
+msgstr "最終測定"
+
+msgid "Last message"
+msgstr "最新のメッセージ"
+
+msgid "Last message: {{date}}"
+msgstr "最終メッセージ: {{date}}"
+
+msgid "Last minute"
+msgstr "1分前"
+
+msgid "Last month"
+msgstr "先月"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Last occurrence of this alarm (device time)."
+msgstr "このアラームの最終発生日時(デバイス時間)"
+
+msgid "Last request from device to server:<br>{{date}}"
+msgstr "デバイスからサーバーへの最終リクエスト: <br> {{date}}"
+
+msgid "Last updated"
+msgstr "最終更新日時"
+
+msgid "Last week"
+msgstr "先週"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "Limit http queue"
+msgstr "httpキューを制限"
+
+msgid "Limit http requests"
+msgstr "httpリクエストを制限"
+
+msgid "Limit stream queue"
+msgstr "ストリームキューを制限"
+
+msgid "Limit stream requests"
+msgstr "ストリームリクエストを制限"
+
+msgid "List of 3 values per software"
+msgstr "ソフトウェアごとの3つの値のリスト"
+
+msgid "List of supported operations"
+msgstr "サポートしている操作のリスト"
+
+msgid "Load more"
+msgstr "さらに読み込む"
+
+msgid "Locate"
+msgstr "位置付ける"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "LogIn"
+msgstr "ログイン"
+
+msgid "LogIn CHAP"
+msgstr "CHAPでログイン"
+
+msgid "LogIn CHAP Response"
+msgstr "CHAPレスポンスでログイン"
+
+msgid "LogOut"
+msgstr "ログアウト"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Login options"
+msgstr "ログインオプション"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MAJOR"
+msgstr "メジャー"
+
+msgid "MCC"
+msgstr "MCC"
+
+msgid "MINOR"
+msgstr "マイナー"
+
+msgid "MNC"
+msgstr "MNC"
+
+msgid "MSISDN"
+msgstr "MSISDN"
+
+msgid "Maintenance off"
+msgstr "メンテナンスOFF"
+
+msgid "Maintenance on"
+msgstr "メンテナンスON"
+
+msgid "Major"
+msgstr "メジャー"
+
+msgid "Major alarms"
+msgstr "メジャーアラーム"
+
+msgid "Managed object"
+msgstr "管理対象オブジェクト"
+
+msgid "Managed object deleted"
+msgstr "管理対象オブジェクトが削除されました"
+
+msgid "Manager"
+msgstr "マネージャー"
+
+msgid "Mark as resolved"
+msgstr "解決済みにする"
+
+msgid "Max length: 1"
+msgid_plural "Max length: {{vm.field.attrs.maxlength}}"
+msgstr[0] "最大長: {{vm.field.attrs.maxlength}}"
+
+msgid "Max value: {{vm.field.attrs.c8yMax}}"
+msgstr "最大値: {{vm.field.attrs.c8yMax}}"
+
+msgid "Max value: {{vm.field.attrs.max}}"
+msgstr "最大値: {{vm.field.attrs.max}}"
+
+msgid "Maximum"
+msgstr "最大値"
+
+msgid "Maximum age (days)"
+msgstr "最大保持期間(日)"
+
+msgid "Maximum age cannot be bigger than 10 years."
+msgstr "最大保持期間として10年より大きい値は設定できません"
+
+msgid "Maximum length"
+msgstr "最大長"
+
+msgid "Measurement"
+msgstr "計測値"
+
+msgid "Measurements"
+msgstr "計測値"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Message with id \"{{messageId}}\" doesn't exist in SmartREST template with id \"{{templateId}}\""
+msgstr "ID \"{{messageId}}\" のメッセージは、ID \"{{templateId}}\" のSmartRESTテンプレートに存在しません"
+
+msgid "Messages"
+msgstr "メッセージ"
+
+msgid "Method"
+msgstr "方法"
+
+msgid "Metric"
+msgstr "メトリック"
+
+msgid "Min value: {{vm.field.attrs.c8yMin}}"
+msgstr "最小値: {{vm.field.attrs.c8yMin}}"
+
+msgid "Min value: {{vm.field.attrs.min}}"
+msgstr "最小値: {{vm.field.attrs.min}}"
+
+msgid "Minimum"
+msgstr "最小値"
+
+msgid "Minimum length"
+msgstr "最小長"
+
+msgid "Minor"
+msgstr "マイナー"
+
+msgid "Minor alarms"
+msgstr "マイナーアラーム"
+
+msgid "Minutely"
+msgstr "1分ごと"
+
+msgid "Mobile"
+msgstr "モバイル"
+
+msgid "Modbus-RTU config"
+msgstr "Modbus-RTU構成"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Model"
+msgstr "モデル"
+
+msgid "Module config"
+msgstr "モジュール構成"
+
+msgid "Module version"
+msgstr "モジュールバージョン"
+
+msgid "More"
+msgstr "詳細"
+
+msgid "More data may be available"
+msgstr "さらに使用できるデータがある可能性があります"
+
+msgid "More…"
+msgstr "もっと見る"
+
+msgid "Motion detector"
+msgstr "モーション検出器"
+
+msgid "Must be valid JSONPath expression."
+msgstr "有効なJSONPath表現である必要があります"
+
+msgid "Must have at least {{length}} characters"
+msgstr "少なくとも{{length}}文字以上である必要があります"
+
+msgid "NEW"
+msgstr "新規"
+
+msgid "NTC commands"
+msgstr "NTCコマンド"
+
+msgid "NUMBER"
+msgstr "数字"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Netmask"
+msgstr "ネットマスク"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Network service"
+msgstr "ネットワークサービス"
+
+msgid "New password"
+msgstr "新しいパスワード"
+
+msgid "New password can't be the same as current one!"
+msgstr "新しいパスワードを現在のパスワードと同じものにすることはできません"
+
+msgid "Next page"
+msgstr "次ページ"
+
+msgid "No LoRa provider settings are found. Please configure the connectivity settings."
+msgstr "LoRaプロバイダ設定が見つかりません。 接続設定を構成してください"
+
+msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
+msgstr "このデバイスに割り当てられたRDBスナップショットはありません。 デバイスから現在のRDBスナップショットを取得してください"
+
+msgid "No alarms"
+msgstr "アラームなし"
+
+msgid "No alarms to display."
+msgstr "表示できるアラームはありません"
+
+msgid "No communication with device since {{timestamp | absoluteDate}}!"
+msgstr "{{timestamp | absoluteDate}}　以降、デバイスとの通信がありません"
+
+msgid "No conversion"
+msgstr "変換なし"
+
+msgid "No data received from device within required interval."
+msgstr "指定時間内にデバイスからの応答がありませんでした"
+
+msgid "No delegation"
+msgstr "権限委譲されていません"
+
+msgid "No devices to display."
+msgstr "表示できるデバイスはありません"
+
+msgid "No entries to display."
+msgstr "表示できるエントリはありません"
+
+msgid "No events to display."
+msgstr "表示できるイベントはありません"
+
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+msgid "No file selected."
+msgstr "ファイルが選択されていません"
+
+msgid "No items to display!"
+msgstr "表示できる項目はありません"
+
+msgid "No items to display."
+msgstr "表示できる項目はありません"
+
+msgid "No position fragment in selected devices"
+msgstr "選択されたデバイスに位置のフラグメントがありません"
+
+msgid "No request was denied."
+msgstr "拒否されたリクエストはありません"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Not monitored"
+msgstr "未監視"
+
+msgid "Note: report generation can take a long time to complete."
+msgstr "注 : レポートの作成には時間がかかる場合があります"
+
+msgid "Notes"
+msgstr "注釈"
+
+msgid "Nothing found."
+msgstr "何も見つかりませんでした"
+
+msgid "Number"
+msgstr "数"
+
+msgid "Number of child assets"
+msgstr "子アセットの数"
+
+msgid "Number of child devices"
+msgstr "子デバイスの数"
+
+msgid "Number of occurrences"
+msgstr "出現回数"
+
+msgid "OBJECT ARRAY"
+msgstr "オブジェクトアレイ"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OPERATION STATUS"
+msgstr "操作ステータス"
+
+msgid "Offline"
+msgstr "オフライン"
+
+msgid "Online"
+msgstr "オンライン"
+
+msgid "Only letters and digits are allowed!"
+msgstr "半角英数字のみ使用できます"
+
+msgid "Only lowercase letters, digits and underscore character allowed in the first part of the URI! It must start with a letter, underscore only allowed in the middle. Must be a valid URI."
+msgstr "URIの最初の部分には、小文字、数字、アンダースコア( _ )しか使用できません。 文字で始める必要があり、アンダースコアは中央でのみ使用できます。 有効なURIでなければなりません"
+
+msgid "Only lowercase letters, digits and underscore character allowed! Must start with a letter, underscore only allowed in the middle, minimum 2 characters."
+msgstr "小文字、数字、アンダースコア( _ )のみ使用できます。 最初は文字で始め、アンダースコアは中央のみで使用でき、全体で2文字以上である必要があります"
+
+msgid "Only value"
+msgstr "値のみ"
+
+msgid "OpenCellId"
+msgstr "OpenCellId"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Operation cancelled by user."
+msgstr "ユーザにより操作がキャンセルされました"
+
+msgid "Operation created"
+msgstr "操作の作成"
+
+msgid "Operation created: status=\"{{status | translate}}\"."
+msgstr "操作が作成されました : ステータス=\"{{status | translate}}\""
+
+msgid "Operation updated"
+msgstr "操作が更新されました"
+
+msgid "Operation updated: {{updatesList}}"
+msgstr "以下の操作が更新されました: {{updatesList}}"
+
+msgid "Operations: All"
+msgstr "操作 : すべて"
+
+msgid "Operations: Restart Device"
+msgstr "操作 : デバイス再起動"
+
+msgid "Operator"
+msgstr "オペレータ"
+
+msgid "Option"
+msgstr "オプション"
+
+msgid "Option \"{{option}}\" created"
+msgstr "オプション \"{{option}}\" が作成されました"
+
+msgid "Option \"{{option}}\" deleted"
+msgstr "オプション \"{{option}}\" が削除されました"
+
+msgid "Option created"
+msgstr "オプションが作成されました"
+
+msgid "Option deleted"
+msgstr "オプションが削除されました"
+
+msgid "Option management"
+msgstr "オプション管理"
+
+msgid "Or"
+msgstr "OR条件を追加"
+
+msgid "Own user management"
+msgstr "自身のユーザ管理"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "PAUSED"
+msgstr "一時停止"
+
+msgid "PENDING"
+msgstr "保留中"
+
+msgid "PENDING ACCEPTANCE"
+msgstr "承認待ち"
+
+msgid "Page should be reloaded to correctly apply measurement units setting changes"
+msgstr "測定単位の設定変更を正しく適用するには、ページを再読み込みする必要があります"
+
+msgid "Page size"
+msgstr "ページサイズ"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Password confirmation does not match"
+msgstr "パスワードが一致しません"
+
+msgid "Password confirmation does not match."
+msgstr "パスワードが一致しません"
+
+msgid "Password is invalid! It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
+msgstr "パスワードが無効です。 {{minCharersCount}}文字以上{{maxCharactersCount}}文字以下である必要があります"
+
+msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr "パスワードは8文字以上32文字以下で、文字、数字および記号`~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/のみを使用できます"
+
+msgid "Password must have at least 8 characters and no more than 32."
+msgstr "パスワードは8文字以上32文字以下である必要があります"
+
+msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr "パスワードは {{min}} 文字以上 {{max}} 文字以下で、文字、数字および記号`~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/のみを使用できます"
+
+msgid "Password not good enough, password must be be stronger (green)."
+msgstr "パスワードが不適切です。より高い強度（緑）である必要があります"
+
+msgid "Password reset request has been sent. Please check your e-mail."
+msgstr "パスワードリセットリクエストが送信されました。 Eメールを確認してください"
+
+msgid "Password successfully changed. You can now login with your new password."
+msgstr "パスワードが正常に変更されました。 新しいパスワードでログインできます"
+
+msgid "Platform application cannot be added to, nor removed from any tenant."
+msgstr "プラットフォームのアプリケーションは、テナントに追加することも、テナントから削除することもできません"
+
+msgid "Please meet 4 out of 5 the conditions below"
+msgstr "下記5つの条件のうち4つを満たしてください"
+
+msgid "Please type something to execute a search."
+msgstr "検索を実行するには、何かを入力してください"
+
+msgid "Position"
+msgstr "位置情報"
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr "定義済みのAdeunis LoRaWanパルス"
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr "定義済みAdeunis LoRaWanセンサ"
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr "事前定義済み Ascocl CM868LR-CMUS915LR"
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr "事前定義済み Ascocl CM868LRTH-CMUS915LRTH"
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr "事前定義済み Ascolc IR868LR-IRUS915LR"
+
+msgid "Predefined ED1608 General Sensor"
+msgstr "事前定義済み ED1608 General Sensor"
+
+msgid "Press Ctrl/Cmd+C to copy"
+msgstr "Ctrl/Cmd + Cを押してコピーする"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Previous page"
+msgstr "前ページ"
+
+msgid "Processing"
+msgstr "処理中"
+
+msgid "Project data"
+msgstr "プロジェクトデータ"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "Property"
+msgstr "プロパティ"
+
+msgid "Provide your phone number"
+msgstr "電話番号を入力してください"
+
+msgid "Pulse 1 setting"
+msgstr "パルス1の設定"
+
+msgid "Pulse 2 setting"
+msgstr "パルス2の設定"
+
+msgid "Push connection: active"
+msgstr "プッシュ接続: 有効"
+
+msgid "Push connection: inactive"
+msgstr "プッシュ接続: 無効"
+
+msgid "Query Active Jobs"
+msgstr "アクティブなジョブの照会"
+
+msgid "Query Analog Input Hutline"
+msgstr "アナログ入力Hutlineの照会"
+
+msgid "Query Eifeler Vacotec server port"
+msgstr "Eifeler Vacotecサーバーポートの照会"
+
+msgid "Query Enabled Servicese"
+msgstr "有効なサービスの照会"
+
+msgid "Query Ethernet state"
+msgstr "イーサネット状態の照会"
+
+msgid "Query Firmware Version"
+msgstr "ファームウェアバージョンの照会"
+
+msgid "Query Fresenius VPN proxy status"
+msgstr "Fresenius VPNプロキシ状態の照会"
+
+msgid "Query GSM state"
+msgstr "GSM状態の照会"
+
+msgid "Query Hardware"
+msgstr "ハードウェアの照会"
+
+msgid "Query Inputs Hutline"
+msgstr "入力Hutlineの照会"
+
+msgid "Query Outputs Hutline"
+msgstr "出力Hutlineの照会"
+
+msgid "Query ProcessVars"
+msgstr "プロセス変数の照会"
+
+msgid "Query Stations Bus"
+msgstr "ステーションバスの照会"
+
+msgid "Query WLAN state"
+msgstr "WLAN状態の照会"
+
+msgid "Quick links"
+msgstr "クイックリンク"
+
+msgid "RCSP"
+msgstr "RCSP"
+
+msgid "RDB snapshot"
+msgstr "RDBスナップショット"
+
+msgid "RDB snapshot file"
+msgstr "RDBスナップショットファイル"
+
+msgid "RDB snapshot has been stored in files repository!"
+msgstr "RDBスナップショットはファイルリポジトリに保存されています"
+
+msgid "REST Developers Guide"
+msgstr "REST開発者ガイド"
+
+msgid "RSSI"
+msgstr "RSSI"
+
+msgid "RUNNING"
+msgstr "実行中"
+
+msgid "Raw error code"
+msgstr "エラーコード"
+
+msgid "Read"
+msgstr "読み取り"
+
+msgid "Read Event-Log"
+msgstr "イベントログを確認"
+
+msgid "Read FailedIncomingCall-Log"
+msgstr "不在着信ログを確認"
+
+msgid "Read IncomingMessage-Log"
+msgstr "不在着信メッセージログを確認"
+
+msgid "Read Job-Report"
+msgstr "ジョブレポートを確認"
+
+msgid "Read Log Counter"
+msgstr "ログカウンタを確認"
+
+msgid "Read Logfile"
+msgstr "ログファイルを確認"
+
+msgid "Read Login-Log"
+msgstr "ログインログを確認"
+
+msgid "Read SupportLog"
+msgstr "サポートログを確認"
+
+msgid "Read current network status"
+msgstr "現在のネットワークステータスを読み込む"
+
+msgid "Read timed out"
+msgstr "読み込みがタイムアウトしました"
+
+msgid "Reader"
+msgstr "リーダー"
+
+msgid "Realtime"
+msgstr "リアルタイム"
+
+msgid "Reboot device"
+msgstr "デバイスを再起動"
+
+msgid "Received signal code power"
+msgstr "受信した信号コード電力"
+
+msgid "Reference Guide"
+msgstr "リファレンスガイド"
+
+msgid "Refresh alarm list contents"
+msgstr "アラームリストの内容を更新する"
+
+msgid "Region"
+msgstr "地域"
+
+msgid "Registration date"
+msgstr "登録日"
+
+msgid "Regular expression"
+msgstr "正規表現"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Remember me"
+msgstr "パスワードを記憶する"
+
+msgid "Remote Control"
+msgstr "遠隔制御"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Render type"
+msgstr "レンダータイプ"
+
+msgid "Reoccurrence count"
+msgstr "再発生回数"
+
+msgid "Report"
+msgstr "レポート"
+
+msgid "Repository"
+msgstr "リポジトリ"
+
+msgid "Request support"
+msgstr "サポートをリクエスト"
+
+msgid "Requested data denied access"
+msgstr "アクセスが拒否されたリスエスト済みデータ"
+
+msgid "Required"
+msgstr "必須です"
+
+msgid "Required availability"
+msgstr "必要な稼働率"
+
+msgid "Required interval"
+msgstr "要求間隔"
+
+msgid "Required interval must be a number and cannot be longer than a year!"
+msgstr "要求間隔は数字である必要があり、1年を超えることはできません"
+
+msgid "Required interval must be a positive number!"
+msgstr "要求間隔は正数でなければなりません"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset Update"
+msgstr "更新をリセット"
+
+msgid "Reset password"
+msgstr "パスワードをリセット"
+
+msgid "Response interval"
+msgstr "レスポンス間隔"
+
+msgid "Responses"
+msgstr "レスポンス"
+
+msgid "Retention rules"
+msgstr "データ保持ルール"
+
+msgid "Retrieve RDB snapshot"
+msgstr "RDBスナップショットを取得"
+
+msgid "Retrieving alarms…"
+msgstr "アラームを取得中..."
+
+msgid "Return type"
+msgstr "戻り値のタイプ"
+
+msgid "Revision"
+msgstr "リビジョン"
+
+msgid "SCHEDULED"
+msgstr "スケジュール済み"
+
+msgid "SEVERITY"
+msgstr "アラーム重大度"
+
+msgid "SIM"
+msgstr "SIM"
+
+msgid "SIM status"
+msgstr "SIMステータス"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SRT 360i Sample Commands"
+msgstr "SRT 360iサンプルコマンド"
+
+msgid "STRING"
+msgstr "文字列"
+
+msgid "SUCCESSFUL"
+msgstr "成功"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save and continue"
+msgstr "保存して続ける"
+
+msgid "Save changes"
+msgstr "変更を保存"
+
+msgid "Scan M-Bus"
+msgstr "M-Busをスキャン"
+
+msgid "ScanWLAN"
+msgstr "WLANをスキャン"
+
+msgid "Schedule device restart every day at 1am"
+msgstr "毎日午前1時にデバイスの再起動をスケジュール"
+
+msgid "Search files"
+msgstr "ファイルを検索"
+
+msgid "Search for groups or assets…"
+msgstr "グループやアセットを検索…"
+
+msgid "Search more"
+msgstr "さらに検索"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select file"
+msgstr "ファイルを選択"
+
+msgid "Select location change event once for 60 seconds"
+msgstr "ロケーション変更イベントを60秒間に1回選択"
+
+msgid "Select or search"
+msgstr "選択または検索"
+
+msgid "Select or search group"
+msgstr "グループを選択または検索"
+
+msgid "Select properties"
+msgstr "プロパティを選択"
+
+msgid "Select temperature readings over 100 degree"
+msgstr "100度以上の温度表示を選択"
+
+msgid "Select unit conversion"
+msgstr "変換単位を選択"
+
+msgid "Selected file is no longer available in the platform!"
+msgstr "選択されたファイルはプラットフォームで使用できません"
+
+msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}!"
+msgstr "選択したファイルサイズが大きすぎます&ndash; サイズ上限は{{limitBytes | bytes}}です"
+
+msgid "Selected unit conversion will be used for displaying data. Choose \"No conversion\" to see original units sent by devices"
+msgstr "選択した変換単位がデータ表示に使用されます。 デバイスから送信された元の単位を表示するには、\"変換なし\"を選択します"
+
+msgid "Send"
+msgstr "送信先"
+
+msgid "Send alarms that are active since 30 minutes to email"
+msgstr "30分前からアクティブなアラームをEメールで送信"
+
+msgid "Send connection status unknown"
+msgstr "送信接続ステータス未確認"
+
+msgid "Send connection: not monitored"
+msgstr "データ送信接続: 監視なし"
+
+msgid "Send connection: offline"
+msgstr "データ送信接続: オフライン"
+
+msgid "Send connection: online"
+msgstr "データ送信接続: オンライン"
+
+msgid "Send new code"
+msgstr "新しいコードを送信"
+
+msgid "Send password reset link as e-mail"
+msgstr "パスワードリセットのリンクをEメールで送信"
+
+msgid "Send sales to Zapier"
+msgstr "Zapierに売り上げを送信"
+
+msgid "Send simulator temperature to Zapier"
+msgstr "Zapierにシミュレータ温度を送信"
+
+msgid "Sensor threshold"
+msgstr "センサーしきい値"
+
+msgid "Serial"
+msgstr "シリアル"
+
+msgid "Serial number"
+msgstr "シリアル番号"
+
+msgid "Series"
+msgstr "シリーズ"
+
+msgid "Serve cell information"
+msgstr "セル情報を提供"
+
+msgid "Server creation time"
+msgstr "サーバー作成時間"
+
+msgid "Server error"
+msgstr "サーバーエラー"
+
+msgid "Server time"
+msgstr "サーバー時間"
+
+msgid "Server time can be different from device times in other fields."
+msgstr "サーバー時間は、他のフィールドのデバイス時間と異なる場合があります"
+
+msgid "Set ALIVE interval"
+msgstr "アライブ間隔を設定"
+
+msgid "Set AT command error messaging"
+msgstr "ATコマンドエラーメッセージ送信を設定"
+
+msgid "Set Config"
+msgstr "構成の設定"
+
+msgid "Set DHCP lease time [seconds]"
+msgstr "DHCPリース時間を設定[秒]"
+
+msgid "Set FLAGS"
+msgstr "フラグを設定"
+
+msgid "Set GPIO notify mode"
+msgstr "GPIO通知モードを設定"
+
+msgid "Set GPS enable"
+msgstr "GPSを有効にする"
+
+msgid "Set I/O pin hardware gain"
+msgstr "I/Oピンのハードウェアゲインを設定"
+
+msgid "Set I/O pin mode"
+msgstr "I/Oピンモードを設定"
+
+msgid "Set I/O pin scale"
+msgstr "I/Oピンのスケールを設定"
+
+msgid "Set INHIBTIME interval"
+msgstr "INHIBTIME間隔を設定"
+
+msgid "Set MODE"
+msgstr "モードを設定"
+
+msgid "Set MTU"
+msgstr "MTUを設定"
+
+msgid "Set Metric"
+msgstr "メトリックを設定"
+
+msgid "Set Output Hutline"
+msgstr "出力Hutlineを設定"
+
+msgid "Set SignalLED"
+msgstr "信号LEDを設定"
+
+msgid "Set TestMode"
+msgstr "テストモードを設定"
+
+msgid "Set Time"
+msgstr "時間を設定"
+
+msgid "Set Variable Bus"
+msgstr "変数バスを設定"
+
+msgid "Set Variable PV"
+msgstr "PV変数を設定"
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr "エージェントのGPIO間隔を設定[秒]"
+
+msgid "Set agent GPS interval [seconds]"
+msgstr "エージェントのGPS間隔を設定[秒]"
+
+msgid "Set agent connection server"
+msgstr "エージェントの接続サーバーを設定"
+
+msgid "Set agent connection timeout [seconds]"
+msgstr "エージェントの接続タイムアウトを設定[秒]"
+
+msgid "Set agent enable"
+msgstr "エージェントを有効にする"
+
+msgid "Set agent log level"
+msgstr "エージェントのログレベルを設定"
+
+msgid "Set agent modbus port"
+msgstr "エージェントのModbusポートを設定"
+
+msgid "Set agent network timeout [seconds]"
+msgstr "エージェントのネットワークタイムアウトを設定[秒]"
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr "エージェントの再接続間隔を設定[秒]"
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr "エージェントの信号強度の測定間隔を設定[秒]"
+
+msgid "Set command template"
+msgstr "コマンドテンプレートを設定"
+
+msgid "Set configuration"
+msgstr "構成を設定"
+
+msgid "Set configuration parameter"
+msgstr "構成パラメータを設定"
+
+msgid "Set firmware"
+msgstr "ファームウェアを設定"
+
+msgid "Set humidity threshold"
+msgstr "湿度のしきい値を設定"
+
+msgid "Set network update interval [seconds]"
+msgstr "ネットワーク更新間隔を設定[秒]"
+
+msgid "Set operation to EXECUTING"
+msgstr "「実行中」にする操作を設定"
+
+msgid "Set operation to FAILED"
+msgstr "「失敗」にする操作を設定"
+
+msgid "Set operation to SUCCESSFUL"
+msgstr "「成功」にする操作を設定"
+
+msgid "Set password"
+msgstr "パスワードを設定"
+
+msgid "Set pullup voltage [volts]"
+msgstr "プルアップ電圧を設定[V]"
+
+msgid "Set receiver number for SMS mode"
+msgstr "SMSモードの受信者番号を設定"
+
+msgid "Set reconnect delay [seconds]"
+msgstr "再接続の遅延を設定[秒]"
+
+msgid "Set reconnect retries"
+msgstr "再接続の再試行を設定"
+
+msgid "Set required availability"
+msgstr "必要な稼働率を設定"
+
+msgid "Set serial baud rate"
+msgstr "シリアルボーレートを設定"
+
+msgid "Set serial port mode"
+msgstr "シリアルポートモードを設定"
+
+msgid "Set sim pin"
+msgstr "SIMピンを設定"
+
+msgid "Set sim protection"
+msgstr "SIM保護を設定"
+
+msgid "Set software list"
+msgstr "ソフトウェアリストを設定"
+
+msgid "Set supported operations"
+msgstr "サポートする操作を設定"
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr "システムリソースの測定間隔を設定[秒]"
+
+msgid "Set temperature threshold"
+msgstr "温度のしきい値を設定"
+
+msgid "Severity"
+msgstr "アラーム重大度"
+
+msgid "Shared User Manager"
+msgstr "共有ユーザマネージャー"
+
+msgid "Should be a valid number"
+msgstr "有効な数字である必要があります"
+
+msgid "Should be a valid regular expression"
+msgstr "有効な正規表現である必要があります"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Show all breadcrumbs"
+msgstr "すべての階層リンクを表示"
+
+msgid "Show checkboxes that are"
+msgstr "チェックボックスを表示"
+
+msgid "Show details"
+msgstr "詳細を表示"
+
+msgid "Show devices in group"
+msgstr "グループ内のデバイスを表示"
+
+msgid "Show devices registered after"
+msgstr "デバイス登録日 - 以下の日時から"
+
+msgid "Show devices with IMEI"
+msgstr "IMEIでデバイスを表示"
+
+msgid "Show devices with active"
+msgstr "アクティブなデバイスを表示"
+
+msgid "Show devices with maintenance status"
+msgstr "メンテナンスステータスでデバイスを表示"
+
+msgid "Show devices with model"
+msgstr "モデルでデバイスを表示"
+
+msgid "Show devices with name"
+msgstr "名前でデバイスを表示"
+
+msgid "Show devices with push status"
+msgstr "受信ステータスでデバイスを表示"
+
+msgid "Show devices with send status"
+msgstr "送信ステータスでデバイスを表示"
+
+msgid "Show devices with serial number"
+msgstr "シリアル番号でデバイスを表示"
+
+msgid "Show devices with system ID"
+msgstr "システムIDでデバイスを表示"
+
+msgid "Show error message"
+msgstr "エラーメッセージを表示"
+
+msgid "Show more"
+msgstr "さらに表示"
+
+msgid "Show summary"
+msgstr "概要を表示"
+
+msgid "Showing 1 child device"
+msgid_plural "Showing {{devices.length}} child devices"
+msgstr[0] "{{devices.length}}個の子デバイスを表示中"
+
+msgid "Showing {{devices.length}}"
+msgstr "{{devices.length}}を表示中"
+
+msgid "Showing {{devices.length}} items"
+msgstr "{{itemsLength}}件の項目を表示中"
+
+msgid "Showing {{devices.length}} of {{totalDevices}}"
+msgstr "{{totalDevices}} 件中 {{devices.length}} 件を表示"
+
+msgid "Sign in"
+msgstr "サインイン"
+
+msgid "Signal quality"
+msgstr "信号品質"
+
+msgid "Signal strength"
+msgstr "信号強度"
+
+msgid "Simulator state is invalid: {{violations}}"
+msgstr "シミュレータの状態が無効です: {{violations}}"
+
+msgid "Slash, single or double dots and white space not allowed"
+msgstr "スラッシュ、シングルドットまたはダブルドット、スペースは使用できません"
+
+msgid "Smart Rule"
+msgstr "スマートルール"
+
+msgid "Smart Rule \"{{name}}\" created"
+msgstr "スマートルール {{name}} が作成されました"
+
+msgid "Smart Rule \"{{name}}\" deleted"
+msgstr "スマートルール {{name}} が削除されました"
+
+msgid "Smart Rule \"{{name}}\" disabled"
+msgstr "スマートルール \"{{name}}\" が無効になりました"
+
+msgid "Smart Rule \"{{name}}\" enabled"
+msgstr "スマートルール \"{{name}}\" が有効になりました"
+
+msgid "Smart Rule \"{{name}}\" updated"
+msgstr "スマートルール \"{{name}}\" が更新されました"
+
+msgid "Smart Rule created"
+msgstr "スマートルールが作成されました"
+
+msgid "Smart Rule deleted"
+msgstr "スマートルールが削除されました"
+
+msgid "Smart Rule disabled"
+msgstr "スマートルールが無効になりました"
+
+msgid "Smart Rule enabled"
+msgstr "スマートルールが有効になりました"
+
+msgid "Smart Rule updated"
+msgstr "スマートルールが更新されました"
+
+msgid "Smart group \"{{name}}\" has been created!"
+msgstr "スマートグループ \"{{name}}\" が作成されました"
+
+msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
+msgstr "ID \"{{templateId}}\" のSmartRESTテンプレートは存在しません"
+
+msgid "Smartbox Commands"
+msgstr "スマートボックスコマンド"
+
+msgid "Software"
+msgstr "ソフトウェア"
+
+msgid "Sound detector"
+msgstr "サウンド検出器"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start Process"
+msgstr "操作を開始"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Stop Process"
+msgstr "停止操作"
+
+msgid "Street"
+msgstr "住所2"
+
+msgid "String"
+msgstr "文字列"
+
+msgid "String does not match pattern: {{schema.pattern}}"
+msgstr "文字列がパターンと一致しません: {{schema.pattern}}"
+
+msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}!"
+msgstr "文字列が長すぎます（{{viewValue.length}}、最大{{schema.maxLength}}"
+
+msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}!"
+msgstr "文字列が短すぎます（{{viewValue.length}}、最小{{schema.minLength}}"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "Support request"
+msgstr "サポートリクエスト"
+
+msgid "Support request sent"
+msgstr "サポートリクエストが送られました"
+
+msgid "Support user access activated"
+msgstr "サポートユーザのアクセスが有効です"
+
+msgid "Switch motion detector off"
+msgstr "モーション検出器をオフにする"
+
+msgid "Switch motion detector on"
+msgstr "モーション検出器をオンにする"
+
+msgid "Switch sound detector off"
+msgstr "サウンド検出器をオフにする"
+
+msgid "Switch sound detector on"
+msgstr "サウンド検出器をオンにする"
+
+msgid "Switch to ModemMode"
+msgstr "モデムモードに切り替える"
+
+msgid "Switch vibration detector off"
+msgstr "振動検出器をオフにする"
+
+msgid "Switch vibration detector on"
+msgstr "振動検出器をオンにする"
+
+msgid "System"
+msgstr "システム"
+
+msgid "System ID"
+msgstr "システムID"
+
+msgid "Target"
+msgstr "ターゲット"
+
+msgid "Target URL {{targetUrl}} already used by another connector!"
+msgstr "対象のURL {{targetUrl}} は既に他のコネクタが使用しています"
+
+msgid "Telephone"
+msgstr "電話番号"
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Tenant"
+msgstr "テナント"
+
+msgid "Tenant \"{{tenant}}\" activated"
+msgstr "テナント\"{{tenant}}\" が有効になりました"
+
+msgid "Tenant \"{{tenant}}\" created"
+msgstr "テナント\"{{tenant}}\" が作成されました"
+
+msgid "Tenant \"{{tenant}}\" deleted"
+msgstr "テナント\"{{tenant}}\" が削除されました"
+
+msgid "Tenant \"{{tenant}}\" suspended"
+msgstr "テナント\"{{tenant}}\" が一時停止されました"
+
+msgid "Tenant \"{{tenant}}\" updated: {{properties}}"
+msgstr "テナント\"{{tenant}}\" が更新されました: {{properties}}"
+
+msgid "Tenant Manager"
+msgstr "テナントマネージャー"
+
+msgid "Tenant activated"
+msgstr "テナントが有効になりました"
+
+msgid "Tenant created"
+msgstr "テナントが作成されました"
+
+msgid "Tenant deleted"
+msgstr "テナントが削除されました"
+
+msgid "Tenant management"
+msgstr "テナント管理"
+
+msgid "Tenant statistics"
+msgstr "テナント統計"
+
+msgid "Tenant suspended"
+msgstr "テナントは一時停止されました"
+
+msgid "Tenant updated"
+msgstr "テナントが更新されました"
+
+msgid "Tenants"
+msgstr "テナント"
+
+msgid "Territory"
+msgstr "担当地域"
+
+msgid "Test Scheduler"
+msgstr "テストスケジューラー"
+
+msgid "Test Sequencer"
+msgstr "テストシーケンサー"
+
+msgid "Testing"
+msgstr "テスト中"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "The application requested data your user does not have access to. Please check the user menu for more details"
+msgstr "ユーザにアクセス権限のないデータがアプリケーションから要求されました。 詳細についてユーザメニューを確認してください"
+
+msgid "The chosen name is too long. Please try a shorter one."
+msgstr "選択した名前が長すぎます。 短いものをお試しください"
+
+msgid "The code you entered is invalid. Please try again."
+msgstr "入力したコードは無効です。 もう一度お試しください"
+
+msgid "The file selected below is too large &ndash; size limit is {{vm.fileSizeLimit|bytes}}!"
+msgstr "選択されたファイルが大きすぎます&ndash;サイズ制限は{{vm.fileSizeLimit|bytes}}です"
+
+msgid "The filename is too long."
+msgstr "ファイル名が長すぎます"
+
+msgid "The resource is no longer available!"
+msgstr "リソースはもう使用できません"
+
+msgid "The selected file is not supported."
+msgstr "選択されたファイルはサポートされていません"
+
+msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
+msgstr "4 MBを超えるイメージはアップロードできません。 小さいイメージをアップロードしてください"
+
+msgid "The verification code was already sent. For a new verification code, please click on the link above."
+msgstr "確認コードは既に送信されています。 新しい確認コードについては、上記のリンクをクリックしてください"
+
+msgid "These url paths have been requested by the application but your user does not have access to them."
+msgstr "これらのURLのパスがアプリケーションから要求されていますが、ユーザにアクセス権限がありません"
+
+msgid "This IP address is invalid"
+msgstr "このIPアドレスは無効です"
+
+msgid "This application is already assigned to tenant \"{{tenant}}\"!"
+msgstr "このアプリケーションはすでにテナント \"{{tenant}}\"に割り当てられています"
+
+msgid "This date is invalid."
+msgstr "この日付は無効です"
+
+msgid "This external ID is not unique"
+msgstr "この外部IDは一意ではありません"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "This field is required."
+msgstr "このフィールドの入力は必須です"
+
+msgid "This password has already been used earlier! Please choose a different one."
+msgstr "このパスワードは以前に既に使用しています。 別のものを選択してください"
+
+msgid "This time is invalid."
+msgstr "この時間は無効です"
+
+msgid "This will apply to data coming from specified device"
+msgstr "これは、特定のデバイスから送信されたデータに適用されます"
+
+msgid "This will apply to data that has a type property."
+msgstr "このタイプのプロパティを持つデータに適用します"
+
+msgid "Time"
+msgstr "日時"
+
+msgid "Tixi Commands"
+msgstr "Tixiコマンド"
+
+msgid "To`date`"
+msgstr "終了日"
+
+msgid "Toggle dropdown"
+msgstr "ドロップダウン表示/非表示"
+
+msgid "Toggle navigator"
+msgstr "ナビゲータ表示/非表示"
+
+msgid "Toggle realtime"
+msgstr "リアルタイムON/OFF"
+
+msgid "Toggle side drawer"
+msgstr "サイドメニューを表示/非表示"
+
+msgid "Toggle toolbar"
+msgstr "ツールバー表示/非表示"
+
+msgid "Track hidden"
+msgstr "トラックを非表示"
+
+msgid "Track visible"
+msgstr "トラックを表示"
+
+msgid "TransMode"
+msgstr "TransMode"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Type your password"
+msgstr "パスワードを入力してください"
+
+msgid "UNSIGNED"
+msgstr "署名なし"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to get system option: '{{option}}'!"
+msgstr "システムオプションを取得できません: '{{option}}'"
+
+msgid "Unable to get tenant option: '{{option}}'!"
+msgstr "テナントオプションを取得できません: '{{option}}'"
+
+msgid "Unassign"
+msgstr "割り当て解除"
+
+msgid "Unassign device"
+msgstr "デバイスの割り当てを解除"
+
+msgid "Unchecked"
+msgstr "未チェック"
+
+msgid "Undelegate"
+msgstr "権限委譲を取り消す"
+
+msgid "Under maintenance"
+msgstr "メンテナンス中"
+
+msgid "Unit conversion"
+msgstr "単位変換"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Update severity of existing alarm"
+msgstr "既存のアラームの重大度を更新"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Upload, choose file or add an URL"
+msgstr "アップロードするにはファイルを選択またはURLを追加"
+
+msgid "Use * to allow any values."
+msgstr "* ですべての値を許可"
+
+msgid "User"
+msgstr "ユーザ"
+
+msgid "User \"{{name}}\" created"
+msgstr "ユーザ \"{{name}}\" が作成されました"
+
+msgid "User \"{{name}}\" deleted"
+msgstr "ユーザ \"{{name}}\" が削除されました"
+
+msgid "User \"{{name}}\" updated"
+msgstr "ユーザ \"{{name}}\" が更新されました"
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] added"
+msgstr "ユーザ \"{{name}}\" が更新されました: アプリケーション [{{applicationsList}}] が追加されました"
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] removed"
+msgstr "ユーザ \"{{name}}\" が更新されました: アプリケーション [{{applicationsList}}] が削除されました"
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] added"
+msgstr "ユーザ\"{{name}}\"が更新されました: グローバルロール[{{globalRolesList}}]が追加されました"
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] removed"
+msgstr "ユーザ\"{{name}}\"が更新されました: グローバルロール[{{globalRolesList}}]が削除されました"
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] added"
+msgstr "ユーザ \"{{name}}\" が更新されました: インベントリ割り当て [{{inventoryAssignment}}] が追加されました"
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] removed"
+msgstr "ユーザ \"{{name}}\" が更新されました: インベントリ割り当て [{{inventoryAssignment}}] が削除されました"
+
+msgid "User '{{username}}' already exists!"
+msgstr "ユーザ \"{{userName}}\" は既に存在しています"
+
+msgid "User created"
+msgstr "ユーザが作成されました"
+
+msgid "User deleted"
+msgstr "ユーザが作成されました"
+
+msgid "User management"
+msgstr "ユーザ管理"
+
+msgid "User management password reset"
+msgstr "ユーザ管理パスワードリセット"
+
+msgid "User must reset password on next login"
+msgstr "次回ログイン時にパスワードリセットを強制する"
+
+msgid "User settings"
+msgstr "ユーザ設定"
+
+msgid "User successfully saved"
+msgstr "ユーザは正常に保存されました"
+
+msgid "User to work in Cockpit application. This does not include the access to any device data."
+msgstr "コックピットアプリケーションで作業するユーザです。 これには、デバイスデータへのアクセス権は含まれません"
+
+msgid "User updated"
+msgstr "ユーザが更新されました"
+
+msgid "User with e-mail '{{email}}' already exists!"
+msgstr "Eメール '{{email}}' を持つユーザは既に存在します"
+
+msgid "Username"
+msgstr "ユーザ名"
+
+msgid "Username (e.g. e-mail)"
+msgstr "ユーザ名 (例: Eメールアドレス)"
+
+msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
+msgstr "ユーザ名には、スペース、スラッシュ(\"/\", \"\\\") 、および記号 (\"+\"), (\":\"), (\"$\") を使用できません"
+
+msgid "Validation rules"
+msgstr "検証ルール"
+
+msgid "Value and unit"
+msgstr "値と単位"
+
+msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}!"
+msgstr "値{{viewValue}}が排他的な最大値{{schema.exclusiveMaximum}}に等しいです"
+
+msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}!"
+msgstr "値{{viewValue}}が排他的な最小値{{schema.exclusiveMinimum}}に等しいです"
+
+msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}!"
+msgstr "値{{viewValue}}が最大値{{schema.maximum}}より大きいです"
+
+msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}!"
+msgstr "値{{viewValue}}が最小値{{schema.minimum}}未満です"
+
+msgid "Value {{viewValue}} is not a valid number!"
+msgstr "値{{viewValue}}は有効な数値ではありません"
+
+msgid "Value, unit and time"
+msgstr "値、単位および時刻"
+
+msgid "Verification code"
+msgstr "確認コード"
+
+msgid "Verification code SMS resent."
+msgstr "確認コードをSMSで再送信する"
+
+msgid "Verify"
+msgstr "検証"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
+msgstr "バージョン: {{vm.backendVersion}} (バックエンド), {{vm.uiVersion}} (UI)"
+
+msgid "Vibration detector"
+msgstr "振動検出器"
+
+msgid "WAITING FOR CONNECTION"
+msgstr "接続待ち"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN IP address"
+msgstr "WAN IPアドレス"
+
+msgid "WAN Profile"
+msgstr "WANプロファイル"
+
+msgid "WARNING"
+msgstr "警告"
+
+msgid "Wait while settings are loaded&hellip;"
+msgstr "設定が読み込まれるまでお待ちください&hellip;"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "Web Developers Guide"
+msgstr "Web開発者ガイド"
+
+msgid "Welcome to {{vm.appName | humanizeAppName}}"
+msgstr " {{vm.appName | humanizeAppName}} へようこそ"
+
+msgid "When activated, a verification code sent by SMS is required to complete authentication"
+msgstr "有効化するときは、認証を完了するためにSMSで送信される確認コードが必要です"
+
+msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
+msgstr "「OK」をクリックすると、特定の問題を解決するためにサポートユーザがテナントにアクセスすることに同意することになります"
+
+msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
+msgstr "「OK」をクリックすると、特定の問題を解決するために、{{company_name}}のサポート担当者がユーザインターフェイスにアクセスできることに同意することになります"
+
+msgid "You are successfully disconnected from {{externalServiceName}}. Please login to your {{externalServiceName}} account, and also perform de-registration there."
+msgstr "{{externalServiceName}}から正常に切断されました。 {{externalServiceName}}アカウントにログインし、登録解除を行ってください"
+
+msgid "You will receive emails with csv/excel files attached for {{count}} series."
+msgstr "{{count}}通のCSV / EXCELファイルを添付したEメールが送信されます"
+
+msgid "Your password is expired. Please set a new password."
+msgstr "パスワードが期限切れです。 新しいパスワードを設定してください"
+
+msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
+msgstr "パスワード強度が十分でありません。 数字、大文字、小文字を含めてください"
+
+msgid "Your password will expire {{expirationTime | relativeDate}}! Consider changing password now."
+msgstr "パスワードの有効期限が{{expirationTime | relativeDate}}で切れます。パスワードの変更を検討してください"
+
+msgid "accuracy"
+msgstr "精度"
+
+msgid "altitude"
+msgstr "高度"
+
+msgid "applications {{list}} added"
+msgstr "アプリケーション {{list}} が追加されました"
+
+msgid "applications {{list}} removed"
+msgstr "アプリケーション {{list}} が削除されました"
+
+msgid "battery value"
+msgstr "バッテリー値"
+
+msgid "ber value"
+msgstr "BER値"
+
+msgid "cellId"
+msgstr "Cell ID"
+
+msgid "configuration"
+msgstr "構成"
+
+msgid "description=\"{{description | translate}}\""
+msgstr "説明= \"{{description | translate}}\""
+
+msgid "device name"
+msgstr "デバイス名"
+
+msgid "device name=\"{{deviceName}}\""
+msgstr "デバイス名=\"{{deviceName}}\""
+
+msgid "device time"
+msgstr "デバイス時間"
+
+msgid "device type"
+msgstr "デバイスタイプ"
+
+msgid "e.g. +49 9 876 543 210"
+msgstr "(例) +49 9 876 543 210"
+
+msgid "e.g. 1"
+msgstr "(例) 1"
+
+msgid "e.g. 10300, you can use * as wildcard character"
+msgstr "(例) 10300　(\"*\" はワイルドカードとして使用可能)"
+
+msgid "e.g. 46543432321, you can use * as wildcard character"
+msgstr "(例) 46543432321 (\"*\"はワイルドカードとして使用可能)"
+
+msgid "e.g. 54321-123, you can use * as wildcard character"
+msgstr "(例) 54321-123 (\"*\"はワイルドカードとして使用可能)"
+
+msgid "e.g. ModelName, you can use * as wildcard character"
+msgstr "(例) ModelName (\"*\"はワイルドカードとして使用可能)"
+
+msgid "e.g. My Device, you can use * as wildcard character"
+msgstr "(例) My device (\"*\"はワイルドカードとして使用可能)"
+
+msgid "e.g. ^\\\\d{1,9}$"
+msgstr "(例) ^\\\\d{1,9}$"
+
+msgid "e.g. myVal*, you can use * as wildcard character"
+msgstr "(例) myVal* (\"*\"はワイルドカードとして使用可能)"
+
+msgid "failure reason=\"{{failureReason | translateServerMessage}}\""
+msgstr "失敗理由=\"{{failureReason | translateServerMessage}}\""
+
+msgid "failureReason"
+msgstr "失敗理由"
+
+msgid "fragment"
+msgstr "フラグメント"
+
+msgid "hours"
+msgstr "時間"
+
+msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+msgstr "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+
+msgid "iccid"
+msgstr "ICCID"
+
+msgid "imei"
+msgstr "IMEI"
+
+msgid "imsi"
+msgstr "IMSI"
+
+msgid "km"
+msgstr "km"
+
+msgid "lac"
+msgstr "LAC"
+
+msgid "latitude"
+msgstr "緯度"
+
+msgid "longitude"
+msgstr "経度"
+
+msgid "m"
+msgstr "m"
+
+msgid "mcc"
+msgstr "MCC"
+
+msgid "medium"
+msgstr "中"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "mnc"
+msgstr "MNC"
+
+msgid "model"
+msgstr "モデル"
+
+msgid "name"
+msgstr "名前"
+
+msgid "parameters"
+msgstr "パラメータ"
+
+msgid "password strength"
+msgstr "パスワード強度"
+
+msgid "public"
+msgstr "公開"
+
+msgid "required interval"
+msgstr "要求間隔"
+
+msgid "revision"
+msgstr "リビジョン"
+
+msgid "roles {{list}} added"
+msgstr "ロール {{list}} が追加されました"
+
+msgid "roles {{list}} removed"
+msgstr "ロール {{list}} が削除されました"
+
+msgid "rssi value"
+msgstr "RSSI値"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "serialNumber"
+msgstr "シリアル番号"
+
+msgid "series"
+msgstr "シリーズ"
+
+msgid "severity"
+msgstr "アラーム重大度"
+
+msgid "status=\"{{status | translate}}\""
+msgstr "ステータス=\"{{status | translate}}\""
+
+msgid "strong"
+msgstr "強"
+
+msgid "temperature value"
+msgstr "温度の値"
+
+msgid "text"
+msgstr "テキスト"
+
+msgid "time"
+msgstr "時間"
+
+msgid "type"
+msgstr "タイプ"
+
+msgid "unique child ID"
+msgstr "一意の子ID"
+
+msgid "unit"
+msgstr "単位"
+
+msgid "url"
+msgstr "URL"
+
+msgid "value"
+msgstr "値"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "weak"
+msgstr "弱"
+
+msgid "{{firstItem}} to {{lastItem}}"
+msgstr "{{firstItem}} から {{lastItem}} まで"
+
+msgid "{{qty}} loaded"
+msgstr "{{qty}} 件読み込まれました"

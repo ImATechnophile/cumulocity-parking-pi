@@ -1,0 +1,83 @@
+[datepicker],
+[uib-datepicker],
+[uib-daypicker] {
+  .btn,
+  .btn-default {
+    border: 0;
+
+    .box-shadow(none);
+  }
+  table {
+    outline: none;
+  }
+  tbody {
+    .btn,
+    .btn-default {
+      position: relative;
+      border: 1px solid white;
+      .text-info {
+        color: @brand-primary;
+        font-weight: bolder;
+      }
+      &.active {
+        background-color: @brand-primary;
+        .text-info {
+          color: white;
+        }
+      }
+    }
+  }
+}
+
+.c8y-datetime-picker {
+  .form-inline .form-group {
+    display: inline-block;
+    vertical-align: top;
+  }
+}
+
+.form-group.datepicker {
+  position: relative;
+  &:after {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    z-index: 10;
+    display: inline-block;
+    color: @input-color;
+    content: "\f073";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    transform: translate(0, 0);
+    pointer-events: none;
+
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .form-control {
+    padding-right: 28px;
+  }
+}
+
+.meausurements2 .timeField .btn {
+  padding: 4px;
+  height: 24px;
+}
+
+.meausurements2 .timeField input {
+  border-radius: @border-radius-base!important;
+}
+
+// remove focus on calendar
+.uib-datepicker-popup.dropdown-menu:focus,
+.uib-datepicker-popup.dropdown-menu>*,
+.uib-daypicker {
+  outline: none;
+}
+
+.timepicker {
+  input.form-control {
+    width: 50px
+  }
+}

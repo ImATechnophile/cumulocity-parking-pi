@@ -1,0 +1,3390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+
+msgid "\"{{field}}\" must be less than or equal to {{maxValue}}"
+msgstr ""
+
+msgid "\"{{field}}\" must not be null"
+msgstr ""
+
+msgid "\"{{field}}\" should not be null"
+msgstr ""
+
+msgid "\"{{field}}\" should not contain null values"
+msgstr ""
+
+msgid "({{paging.more}} left)"
+msgstr ""
+
+msgid ""
+"<b>Drop file here</b><br>\n"
+"          or click to browse your computer."
+msgstr ""
+
+msgid "<no name>"
+msgstr ""
+
+msgid "ACCEPTED"
+msgstr ""
+
+msgid "ACKNOWLEDGED"
+msgstr ""
+
+msgid "ACKNOWLEDGED by: {{ackBy}} {{ackTimeFromNow}}"
+msgstr ""
+
+msgid "ACTIVE"
+msgstr ""
+
+msgid "ACTIVE: triggered {{alarmTimeFromNow}}"
+msgstr ""
+
+msgid "ALARM STATUS"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "APN"
+msgstr ""
+
+msgid "ARRAY"
+msgstr ""
+
+msgid "Access denied requests"
+msgstr ""
+
+msgid "Access is denied!"
+msgstr ""
+
+msgid "Access is denied."
+msgstr ""
+
+msgid "Access technology"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Acknowledge"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activate user"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active alarms status"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid "Add device"
+msgstr ""
+
+msgid "Add file"
+msgstr ""
+
+msgid "Add group"
+msgstr ""
+
+msgid "Add property"
+msgstr ""
+
+msgid "Add to group"
+msgstr ""
+
+msgid "Add user"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address range"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Agent config"
+msgstr ""
+
+msgid "Alarm"
+msgstr ""
+
+msgid "Alarm count 3 months"
+msgstr ""
+
+msgid "Alarm count today"
+msgstr ""
+
+msgid "Alarm created"
+msgstr ""
+
+msgid "Alarm status changed to \"{{status}}\"."
+msgstr ""
+
+msgid "Alarm type"
+msgstr ""
+
+msgid "Alarm updated"
+msgstr ""
+
+msgid "Alarms"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All devices"
+msgstr ""
+
+msgid "Allow support user access"
+msgstr ""
+
+msgid "Allows for CREATE, UPDATE and DELETE actions"
+msgstr ""
+
+msgid "Also delete all devices inside this group and its sub-groups."
+msgstr ""
+
+msgid "Also delete child devices of this device."
+msgstr ""
+
+msgid "Altitude"
+msgstr ""
+
+msgid "An error has occurred, contact support."
+msgstr ""
+
+msgid "An error has occurred. Please try again later."
+msgstr ""
+
+msgid "And before"
+msgstr ""
+
+msgid "And sort"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Application management"
+msgstr ""
+
+msgid "Application subscriptions management"
+msgstr ""
+
+msgid "Application with given name already exists!"
+msgstr ""
+
+msgid "Application with the following values ({{valuesList}}, contextPath={{contextPath}}) already exists!"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "At least 1 data point must be selected"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Audits"
+msgstr ""
+
+msgid "Auth type"
+msgstr ""
+
+msgid "Authentication failed! User account is locked."
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Availability monitoring record"
+msgstr ""
+
+msgid "Band"
+msgstr ""
+
+msgid "Batch operations"
+msgstr ""
+
+msgid "Beware that e-mail is required to reset password"
+msgstr ""
+
+msgid "Boolean"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Bulk operation cancelled by user."
+msgstr ""
+
+msgid "Bulk operation delay must be greater than {{minSeconds}} seconds!"
+msgstr ""
+
+msgid "Bulk operations"
+msgstr ""
+
+msgid "CANCELLED"
+msgstr ""
+
+msgid "CEP Manager"
+msgstr ""
+
+msgid "CEP management"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" created"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" deleted"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" updated"
+msgstr ""
+
+msgid "CEP module created"
+msgstr ""
+
+msgid "CEP module deleted"
+msgstr ""
+
+msgid "CEP module updated"
+msgstr ""
+
+msgid "CLEARED"
+msgstr ""
+
+msgid "CLEARED: was active for {{alarmDuration}}"
+msgstr ""
+
+msgid "COMPLETED SUCCESSFULLY"
+msgstr ""
+
+msgid "COMPLETED WITH FAILURES"
+msgstr ""
+
+msgid "CRITICAL"
+msgstr ""
+
+msgid "Can access and modify the full user hierarchy"
+msgstr ""
+
+msgid "Can create new user as his own sub-users and manage this"
+msgstr ""
+
+msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
+msgstr ""
+
+msgid "Can read all data from all devices"
+msgstr ""
+
+msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
+msgstr ""
+
+msgid "Can read all data of the asset."
+msgstr ""
+
+msgid "Can read and write all data from all devices"
+msgstr ""
+
+msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
+msgstr ""
+
+msgid "Can restart devices."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel operation"
+msgstr ""
+
+msgid "Cancel password change"
+msgstr ""
+
+msgid "Cannot activate a certificate which is either expired or not yet valid!"
+msgstr ""
+
+msgid "Cannot add group as its own child."
+msgstr ""
+
+msgid "Cannot be greater than 3650 days."
+msgstr ""
+
+msgid "Cannot change password: provided token is invalid!"
+msgstr ""
+
+msgid "Cannot deploy module '{{moduleName}}'! Compilation failed in expression '{{expression}}': incorrect syntax near '{{syntaxError}}'!"
+msgstr ""
+
+msgid "Cannot deploy module {{errorMessage}}"
+msgstr ""
+
+msgid "Cannot enable custom domain. DNS is setup incorrectly!"
+msgstr ""
+
+msgid "Cannot execute bulk operation on empty group. Group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+msgid "Cannot execute bulk operation on empty group. Smart group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+msgid "Cannot introduce cyclic ownership dependency!"
+msgstr ""
+
+msgid "Cannot reschedule bulk operation. All its operations are already successful."
+msgstr ""
+
+msgid "Cannot reset password for user with such e-mail: e-mail not found!"
+msgstr ""
+
+msgid "Cannot update/delete application binary via this endpoint"
+msgstr ""
+
+msgid "Cannot use a reserved SQL keyword '{{tenantId}}' as domain!"
+msgstr ""
+
+msgid "Cell ID"
+msgstr ""
+
+msgid "Cellular WAN"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change log"
+msgstr ""
+
+msgid "Change page size {{pageSize}}"
+msgstr ""
+
+msgid "Change parameter"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Change the severities of alarms based on activity time"
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid "Changes successfully saved!"
+msgstr ""
+
+msgid "Check Fresenius TDMS server IP"
+msgstr ""
+
+msgid "Check Fresenius TDMS server port"
+msgstr ""
+
+msgid "Check MQTT enablement"
+msgstr ""
+
+msgid "Check MQTT keepalive interval"
+msgstr ""
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr ""
+
+msgid "Checked"
+msgstr ""
+
+msgid "Child device creation"
+msgstr ""
+
+msgid "Choose"
+msgstr ""
+
+msgid "Choose date"
+msgstr ""
+
+msgid "Choose file"
+msgstr ""
+
+msgid "Choose group"
+msgstr ""
+
+msgid "Choose language"
+msgstr ""
+
+msgid "Choose owner…"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "City code"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Clear All Logfiles"
+msgstr ""
+
+msgid "Clear System Logfiles"
+msgstr ""
+
+msgid "Clear date range"
+msgstr ""
+
+msgid "Clear device credentials"
+msgstr ""
+
+msgid "Clear existing alarm"
+msgstr ""
+
+msgid "Clear filters"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Cockpit"
+msgstr ""
+
+msgid "Cockpit User"
+msgstr ""
+
+msgid "Collapse breadcrumbs"
+msgstr ""
+
+msgid "Command state is invalid: {{violations}}"
+msgstr ""
+
+msgid "Communication mode"
+msgstr ""
+
+msgid "Complete Object"
+msgstr ""
+
+msgid "Computed Property"
+msgstr ""
+
+msgid "Computed property configuration"
+msgstr ""
+
+msgid "Concepts Guide"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "Config Eifeler Vacotec server port"
+msgstr ""
+
+msgid "Config Fresenius TDMS server IP"
+msgstr ""
+
+msgid "Config Fresenius TDMS server port"
+msgstr ""
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr ""
+
+msgid "Config renderer"
+msgstr ""
+
+msgid "Configuration snapshot"
+msgstr ""
+
+msgid "Configure computed property"
+msgstr ""
+
+msgid "Configure debouncing alarm text"
+msgstr ""
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr ""
+
+msgid "Configure hardware"
+msgstr ""
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr ""
+
+msgid "Configure mobile"
+msgstr ""
+
+msgid "Configure position"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm delete?"
+msgstr ""
+
+msgid "Confirm new password"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Confirm unassignment?"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection from server to device is established"
+msgstr ""
+
+msgid "Connection from server to device is not established (not supported by device or no connectivity)"
+msgstr ""
+
+msgid "Connection monitoring"
+msgstr ""
+
+msgid "Connection not monitored"
+msgstr ""
+
+msgid "Connection refused"
+msgstr ""
+
+msgid "Connection type"
+msgstr ""
+
+msgid "Connectivity"
+msgstr ""
+
+msgid "Controls access as a support user"
+msgstr ""
+
+msgid "Controls access in all scopes"
+msgstr ""
+
+msgid "Controls access to audit logs."
+msgstr ""
+
+msgid "Controls access to device alarms."
+msgstr ""
+
+msgid "Controls access to device operations."
+msgstr ""
+
+msgid "Controls access to events."
+msgstr ""
+
+msgid "Controls access to managed objects in inventory."
+msgstr ""
+
+msgid "Controls access to meausurements."
+msgstr ""
+
+msgid "Copied to clipboard"
+msgstr ""
+
+msgid "Corresponding data will be removed forever after {{maximumAge}} days (executed at night). Do you want to create this rule?"
+msgstr ""
+
+msgid "Could not create application due to an error! Click \"More\" for details."
+msgstr ""
+
+msgid "Could not create tenant! Tenant with given domain/URL already exists."
+msgstr ""
+
+msgid "Could not find managed object with id '{{deviceId}}' in database!"
+msgstr ""
+
+msgid "Could not remove application assigned to other tenants!"
+msgstr ""
+
+msgid "Could not update phone number!"
+msgstr ""
+
+msgid "Could not update user '{{username}}'!"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create CRITICAL alarm"
+msgstr ""
+
+msgid "Create MAJOR alarm"
+msgstr ""
+
+msgid "Create MINOR alarm"
+msgstr ""
+
+msgid "Create Smart Rule"
+msgstr ""
+
+msgid "Create WARNING alarm"
+msgstr ""
+
+msgid "Create alarm if temperature was to low for 15 minutes"
+msgstr ""
+
+msgid "Create alarm on not processed operation"
+msgstr ""
+
+msgid "Create alarm when temperature below 0 degree"
+msgstr ""
+
+msgid "Create alarm when temperature over 100 degree"
+msgstr ""
+
+msgid "Create basic event"
+msgstr ""
+
+msgid "Create battery measurement"
+msgstr ""
+
+msgid "Create close relay operation when temperature readings over 100 degree"
+msgstr ""
+
+msgid "Create custom measurement"
+msgstr ""
+
+msgid "Create location update event"
+msgstr ""
+
+msgid "Create location update event with device update"
+msgstr ""
+
+msgid "Create retention rule"
+msgstr ""
+
+msgid "Create signal strength measurement"
+msgstr ""
+
+msgid "Create smart group"
+msgstr ""
+
+msgid "Create temperature measurement"
+msgstr ""
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr ""
+
+msgid "Creation time"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Critical alarms"
+msgstr ""
+
+msgid "Current RDB snapshot"
+msgstr ""
+
+msgid "Current band"
+msgstr ""
+
+msgid "Current operator"
+msgstr ""
+
+msgid "Current password invalid!"
+msgstr ""
+
+msgid "Current value out of defined range."
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom properties"
+msgstr ""
+
+msgid "Cycle data connection status"
+msgstr ""
+
+msgid "Cycle detected for route {{route}}!"
+msgstr ""
+
+msgid "DATE"
+msgstr ""
+
+msgid "DHCP"
+msgstr ""
+
+msgid "DHCP Server"
+msgstr ""
+
+msgid "DNS 1"
+msgstr ""
+
+msgid "DNS 2"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Data logging"
+msgstr ""
+
+msgid "Data type"
+msgstr ""
+
+msgid "Date/time"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Deactivate owner"
+msgstr ""
+
+msgid "Default AT Commands"
+msgstr ""
+
+msgid "Default value"
+msgstr ""
+
+msgid "Delegate"
+msgstr ""
+
+msgid "Delegated by"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Active Jobs"
+msgstr ""
+
+msgid "Delete device"
+msgstr ""
+
+msgid "Delete property"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device Control"
+msgstr ""
+
+msgid "Device Guides"
+msgstr ""
+
+msgid "Device ID must not contain spaces or slashes (\"/\")."
+msgstr ""
+
+msgid "Device Info"
+msgstr ""
+
+msgid "Device added to group"
+msgstr ""
+
+msgid "Device bootstrap"
+msgstr ""
+
+msgid "Device config"
+msgstr ""
+
+msgid "Device control"
+msgstr ""
+
+msgid "Device creation"
+msgstr ""
+
+msgid "Device has been deleted!"
+msgstr ""
+
+msgid "Device info"
+msgstr ""
+
+msgid "Device management"
+msgstr ""
+
+msgid "Device name"
+msgstr ""
+
+msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translateServerMessage}}\""
+msgstr ""
+
+msgid "Device profile"
+msgstr ""
+
+msgid "Device registration request with ID {{id}} already exists."
+msgstr ""
+
+msgid "Device removed from group"
+msgstr ""
+
+msgid "Device setting"
+msgstr ""
+
+msgid "Device time"
+msgstr ""
+
+msgid "Devicemanagement User"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Display as"
+msgstr ""
+
+msgid "Display current temperature on device"
+msgstr ""
+
+msgid "Display selected roaming network"
+msgstr ""
+
+msgid "Do you really want to delete device \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to delete group \"{{name}}\" and its sub-groups recursively? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to delete group \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to remove file \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you want to reload?"
+msgstr ""
+
+msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
+msgstr ""
+
+msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
+msgstr ""
+
+msgid "Domain name is already in use by another tenant!"
+msgstr ""
+
+msgid "Don't sort"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Downloading&hellip;"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "E-mail address"
+msgstr ""
+
+msgid "ECN0"
+msgstr ""
+
+msgid "EXECUTING"
+msgstr ""
+
+msgid "Edit retention rule"
+msgstr ""
+
+msgid "Edit user"
+msgstr ""
+
+msgid "Enable support"
+msgstr ""
+
+msgid "Enable two-factor authentication"
+msgstr ""
+
+msgid "Enable/disable MQTT communication"
+msgstr ""
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Enquire battery level info"
+msgstr ""
+
+msgid "Enquire device release info"
+msgstr ""
+
+msgid "Enquire presentation info"
+msgstr ""
+
+msgid "Enquire serial number"
+msgstr ""
+
+msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
+msgstr ""
+
+msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
+msgstr ""
+
+msgid "Error detail"
+msgstr ""
+
+msgid "Error in statement {{moduleName}}:{{statementNumber}}! Incorrect syntax near: {{errorDetails}}"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Event (no Parameter)"
+msgstr ""
+
+msgid "Event (with Parameter)"
+msgstr ""
+
+msgid "Event count 3 months"
+msgstr ""
+
+msgid "Event count today"
+msgstr ""
+
+msgid "Event processing"
+msgstr ""
+
+msgid "Event type"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Execute command template"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "External application"
+msgstr ""
+
+msgid "External id for type '{{type}}' and value '{{value}}' already exists!"
+msgstr ""
+
+msgid "External id not found for type '{{type}}' and value '{{value}}'."
+msgstr ""
+
+msgid "External reference"
+msgstr ""
+
+msgid "External url"
+msgstr ""
+
+msgid "FAILED"
+msgstr ""
+
+msgid "FLAG"
+msgstr ""
+
+msgid "Factory Reset"
+msgstr ""
+
+msgid "Factory reset"
+msgstr ""
+
+msgid "Failed to extract certificate from PKCS12!"
+msgstr ""
+
+msgid "Failed to retrieve RDB snapshot because of \"{{failureReason}}\"!"
+msgstr ""
+
+msgid "Failed to retrieve RDB snapshot!"
+msgstr ""
+
+msgid "Failed to update domain at the platform."
+msgstr ""
+
+msgid "Failure reason"
+msgstr ""
+
+msgid "Fieldbus4"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter by maximum date"
+msgstr ""
+
+msgid "Filter by maximum value"
+msgstr ""
+
+msgid "Filter by minimum date"
+msgstr ""
+
+msgid "Filter by minimum value"
+msgstr ""
+
+msgid "Filter by pattern"
+msgstr ""
+
+msgid "Filter date range"
+msgstr ""
+
+msgid "Filter options"
+msgstr ""
+
+msgid "Filter properties"
+msgstr ""
+
+msgid "Filter users"
+msgstr ""
+
+msgid "Firmware"
+msgstr ""
+
+msgid "Firmware version"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "First occurrence"
+msgstr ""
+
+msgid "Following mandatory fields should be included: {{fields}}"
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Forum support"
+msgstr ""
+
+msgid "Fragment"
+msgstr ""
+
+msgid "Fragment type"
+msgstr ""
+
+msgid "From`date`"
+msgstr ""
+
+msgid "Full access"
+msgstr ""
+
+msgid "GPIO"
+msgstr ""
+
+msgid "GPIO Pin"
+msgstr ""
+
+msgid "GPS"
+msgstr ""
+
+msgid "GPS tracks hidden"
+msgstr ""
+
+msgid "GPS tracks visible"
+msgstr ""
+
+msgid "GSM tracks hidden"
+msgstr ""
+
+msgid "GSM tracks visible"
+msgstr ""
+
+msgid "Generating report"
+msgstr ""
+
+msgid "Get Cinterion information"
+msgstr ""
+
+msgid "Get Config"
+msgstr ""
+
+msgid "Get DHCP lease time [seconds]"
+msgstr ""
+
+msgid "Get Device Serial Number"
+msgstr ""
+
+msgid "Get EVENTS Database"
+msgstr ""
+
+msgid "Get GPIO notify mode"
+msgstr ""
+
+msgid "Get GPIO status"
+msgstr ""
+
+msgid "Get GPS enable"
+msgstr ""
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr ""
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr ""
+
+msgid "Get I/O pin capability"
+msgstr ""
+
+msgid "Get I/O pin digital input"
+msgstr ""
+
+msgid "Get I/O pin digital input threshold"
+msgstr ""
+
+msgid "Get I/O pin hardware gain"
+msgstr ""
+
+msgid "Get I/O pin mode"
+msgstr ""
+
+msgid "Get I/O pin scale"
+msgstr ""
+
+msgid "Get IMSI"
+msgstr ""
+
+msgid "Get ISP Database"
+msgstr ""
+
+msgid "Get LOG Database"
+msgstr ""
+
+msgid "Get MTU"
+msgstr ""
+
+msgid "Get Metric"
+msgstr ""
+
+msgid "Get PARAM Database"
+msgstr ""
+
+msgid "Get PENDING operations"
+msgstr ""
+
+msgid "Get PROCCFG Database"
+msgstr ""
+
+msgid "Get SCHEDULE Database"
+msgstr ""
+
+msgid "Get SIM status"
+msgstr ""
+
+msgid "Get TEMPLATE Database"
+msgstr ""
+
+msgid "Get Time"
+msgstr ""
+
+msgid "Get USER Database"
+msgstr ""
+
+msgid "Get actual ADC in mV"
+msgstr ""
+
+msgid "Get actual date and time of RTC"
+msgstr ""
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr ""
+
+msgid "Get agent GPS interval [seconds]"
+msgstr ""
+
+msgid "Get agent connection server"
+msgstr ""
+
+msgid "Get agent connection timeout [seconds]"
+msgstr ""
+
+msgid "Get agent enable"
+msgstr ""
+
+msgid "Get agent log level"
+msgstr ""
+
+msgid "Get agent modbus port"
+msgstr ""
+
+msgid "Get agent network timeout [seconds]"
+msgstr ""
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr ""
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr ""
+
+msgid "Get agent status"
+msgstr ""
+
+msgid "Get all module events"
+msgstr ""
+
+msgid "Get child device"
+msgstr ""
+
+msgid "Get command template"
+msgstr ""
+
+msgid "Get current receiver number"
+msgstr ""
+
+msgid "Get detailed Cinterion information"
+msgstr ""
+
+msgid "Get device chipset"
+msgstr ""
+
+msgid "Get device user"
+msgstr ""
+
+msgid "Get firmware and hardware version"
+msgstr ""
+
+msgid "Get installed firmware"
+msgstr ""
+
+msgid "Get internal temperature of chip"
+msgstr ""
+
+msgid "Get list of files stored on device"
+msgstr ""
+
+msgid "Get network update interval [seconds]"
+msgstr ""
+
+msgid "Get operator selection info"
+msgstr ""
+
+msgid "Get power source and voltage"
+msgstr ""
+
+msgid "Get power supply voltage"
+msgstr ""
+
+msgid "Get pullup voltage [volts]"
+msgstr ""
+
+msgid "Get reconnect delay [seconds]"
+msgstr ""
+
+msgid "Get reconnect retries"
+msgstr ""
+
+msgid "Get serial baud rate"
+msgstr ""
+
+msgid "Get serial port mode"
+msgstr ""
+
+msgid "Get signal strength"
+msgstr ""
+
+msgid "Get sim pin"
+msgstr ""
+
+msgid "Get sim protection"
+msgstr ""
+
+msgid "Get supported serial baud rates"
+msgstr ""
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr ""
+
+msgid "Get the new RDB snapshot from device"
+msgstr ""
+
+msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
+msgstr ""
+
+msgid "Global Manager"
+msgstr ""
+
+msgid "Global Reader"
+msgstr ""
+
+msgid "Global User Manager"
+msgstr ""
+
+msgid "Global inventory permissions override Inventory role permissions. If you want to limit Inventory access, enable it only on inventory roles."
+msgstr ""
+
+msgid "Global role"
+msgstr ""
+
+msgid "Global role \"{{name}}\" updated"
+msgstr ""
+
+msgid "Global role \"{{name}}\" updated: {{updatesList}}"
+msgstr ""
+
+msgid "Global role updated"
+msgstr ""
+
+msgid "Go to OpenCellID and see location"
+msgstr ""
+
+msgid "Go to device"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Group has been deleted!"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "Group:&nbsp;"
+msgstr ""
+
+msgid "Groups assignment"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Has full access to all deployed CEP modules and SmartRules"
+msgstr ""
+
+msgid "Help & Service"
+msgstr ""
+
+msgid "Help &amp; support"
+msgstr ""
+
+msgid "Hosted application"
+msgstr ""
+
+msgid "Hourly"
+msgstr ""
+
+msgid "I/O and PLC"
+msgstr ""
+
+msgid "ICCID"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "IMEI"
+msgstr ""
+
+msgid "IMSI"
+msgstr ""
+
+msgid "INTEGER"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "Identity"
+msgstr ""
+
+msgid "Imperial"
+msgstr ""
+
+msgid "In this location since"
+msgstr ""
+
+msgid "Include lowercase characters (e.g. abcdef)"
+msgstr ""
+
+msgid "Include numbers (e.g. 123456)"
+msgstr ""
+
+msgid "Include symbols (e.g. !@#$%^)"
+msgstr ""
+
+msgid "Include uppercase characters (e.g. ABCDEF)"
+msgstr ""
+
+msgid "Insert the code received via SMS"
+msgstr ""
+
+msgid "Integer"
+msgstr ""
+
+msgid "International phone number required, in the format +49 9 876 543 210."
+msgstr ""
+
+msgid "Invalid credentials!"
+msgstr ""
+
+msgid "Invalid e-mail"
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+msgid "Invalid pattern."
+msgstr ""
+
+msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Inventory role"
+msgstr ""
+
+msgid "Inventory role \"{{name}}\" removed"
+msgstr ""
+
+msgid "Inventory role \"{{name}}\" updated"
+msgstr ""
+
+msgid "Inventory role removed"
+msgstr ""
+
+msgid "Inventory role updated"
+msgstr ""
+
+msgid "J2ME commands"
+msgstr ""
+
+msgid "Java Developers Guide"
+msgstr ""
+
+msgid "LAC"
+msgstr ""
+
+msgid "LAN"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Last communication"
+msgstr ""
+
+msgid "Last day"
+msgstr ""
+
+msgid "Last device message"
+msgstr ""
+
+msgid "Last hour"
+msgstr ""
+
+msgid "Last measurement"
+msgstr ""
+
+msgid "Last message"
+msgstr ""
+
+msgid "Last message: {{date}}"
+msgstr ""
+
+msgid "Last minute"
+msgstr ""
+
+msgid "Last month"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Last occurrence of this alarm (device time)."
+msgstr ""
+
+msgid "Last request from device to server:<br>{{date}}"
+msgstr ""
+
+msgid "Last updated"
+msgstr ""
+
+msgid "Last week"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Limit http queue"
+msgstr ""
+
+msgid "Limit http requests"
+msgstr ""
+
+msgid "Limit stream queue"
+msgstr ""
+
+msgid "Limit stream requests"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "List of 3 values per software"
+msgstr ""
+
+msgid "List of supported operations"
+msgstr ""
+
+msgid "Load more"
+msgstr ""
+
+msgid "Loading users&hellip;"
+msgstr ""
+
+msgid "Locate"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "LogIn"
+msgstr ""
+
+msgid "LogIn CHAP"
+msgstr ""
+
+msgid "LogIn CHAP Response"
+msgstr ""
+
+msgid "LogOut"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login options"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "MAC"
+msgstr ""
+
+msgid "MAJOR"
+msgstr ""
+
+msgid "MCC"
+msgstr ""
+
+msgid "MINOR"
+msgstr ""
+
+msgid "MNC"
+msgstr ""
+
+msgid "MSISDN"
+msgstr ""
+
+msgid "Maintenance off"
+msgstr ""
+
+msgid "Maintenance on"
+msgstr ""
+
+msgid "Major"
+msgstr ""
+
+msgid "Major alarms"
+msgstr ""
+
+msgid "Managed object"
+msgstr ""
+
+msgid "Managed object deleted"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Mark as resolved"
+msgstr ""
+
+msgid "Max length: 1"
+msgid_plural "Max length: {{vm.field.attrs.maxlength}}"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Max value: {{vm.field.attrs.c8yMax}}"
+msgstr ""
+
+msgid "Max value: {{vm.field.attrs.max}}"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Maximum age (days)"
+msgstr ""
+
+msgid "Maximum age cannot be bigger than 10 years."
+msgstr ""
+
+msgid "Maximum length"
+msgstr ""
+
+msgid "Measurement"
+msgstr ""
+
+msgid "Measurements"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message with id \"{{messageId}}\" doesn't exist in SmartREST template with id \"{{templateId}}\""
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Metric"
+msgstr ""
+
+msgid "Min value: {{vm.field.attrs.c8yMin}}"
+msgstr ""
+
+msgid "Min value: {{vm.field.attrs.min}}"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Minimum length"
+msgstr ""
+
+msgid "Minor"
+msgstr ""
+
+msgid "Minor alarms"
+msgstr ""
+
+msgid "Minutely"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Modbus-RTU config"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Module config"
+msgstr ""
+
+msgid "Module version"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "More data may be available"
+msgstr ""
+
+msgid "More…"
+msgstr ""
+
+msgid "Motion detector"
+msgstr ""
+
+msgid "Must be valid JSONPath expression."
+msgstr ""
+
+msgid "Must have at least {{length}} characters"
+msgstr ""
+
+msgid "NEW"
+msgstr ""
+
+msgid "NTC commands"
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Netmask"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network service"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "New password can't be the same as current one!"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "No LoRa provider settings are found. Please configure the connectivity settings."
+msgstr ""
+
+msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
+msgstr ""
+
+msgid "No alarms"
+msgstr ""
+
+msgid "No alarms to display."
+msgstr ""
+
+msgid "No communication with device since {{timestamp | absoluteDate}}!"
+msgstr ""
+
+msgid "No conversion"
+msgstr ""
+
+msgid "No data received from device within required interval."
+msgstr ""
+
+msgid "No delegation"
+msgstr ""
+
+msgid "No devices to display."
+msgstr ""
+
+msgid "No entries to display."
+msgstr ""
+
+msgid "No events to display."
+msgstr ""
+
+msgid "No file selected"
+msgstr ""
+
+msgid "No file selected."
+msgstr ""
+
+msgid "No items to display!"
+msgstr ""
+
+msgid "No items to display."
+msgstr ""
+
+msgid "No operations have been invoked yet."
+msgstr ""
+
+msgid "No position fragment in selected devices"
+msgstr ""
+
+msgid "No request was denied."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not monitored"
+msgstr ""
+
+msgid "Note: report generation can take a long time to complete."
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Nothing found."
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Number of child assets"
+msgstr ""
+
+msgid "Number of child devices"
+msgstr ""
+
+msgid "Number of occurrences"
+msgstr ""
+
+msgid "OBJECT ARRAY"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "OPERATION STATUS"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Only letters and digits are allowed!"
+msgstr ""
+
+msgid "Only lowercase letters, digits and underscore character allowed in the first part of the URI! It must start with a letter, underscore only allowed in the middle. Must be a valid URI."
+msgstr ""
+
+msgid "Only lowercase letters, digits and underscore character allowed! Must start with a letter, underscore only allowed in the middle, minimum 2 characters."
+msgstr ""
+
+msgid "Only showing {{count}} devices due to performance reasons"
+msgstr ""
+
+msgid "Only value"
+msgstr ""
+
+msgid "OpenCellId"
+msgstr ""
+
+msgid "Operation"
+msgstr ""
+
+msgid "Operation cancelled by user."
+msgstr ""
+
+msgid "Operation created"
+msgstr ""
+
+msgid "Operation created: status=\"{{status | translate}}\"."
+msgstr ""
+
+msgid "Operation updated"
+msgstr ""
+
+msgid "Operation updated: {{updatesList}}"
+msgstr ""
+
+msgid "Operations: All"
+msgstr ""
+
+msgid "Operations: Restart Device"
+msgstr ""
+
+msgid "Operator"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Option \"{{option}}\" created"
+msgstr ""
+
+msgid "Option \"{{option}}\" deleted"
+msgstr ""
+
+msgid "Option created"
+msgstr ""
+
+msgid "Option deleted"
+msgstr ""
+
+msgid "Option management"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Own user management"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "PAUSED"
+msgstr ""
+
+msgid "PENDING"
+msgstr ""
+
+msgid "PENDING ACCEPTANCE"
+msgstr ""
+
+msgid "Page should be reloaded to correctly apply measurement units setting changes"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password confirmation does not match"
+msgstr ""
+
+msgid "Password confirmation does not match."
+msgstr ""
+
+msgid "Password is invalid! It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
+msgstr ""
+
+msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+msgid "Password must have at least 8 characters and no more than 32."
+msgstr ""
+
+msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+msgid "Password not good enough, password must be be stronger (green)."
+msgstr ""
+
+msgid "Password reset request has been sent. Please check your e-mail."
+msgstr ""
+
+msgid "Password successfully changed. You can now login with your new password."
+msgstr ""
+
+msgid "Platform application cannot be added to, nor removed from any tenant."
+msgstr ""
+
+msgid "Please meet 4 out of 5 the conditions below"
+msgstr ""
+
+msgid "Please type something to execute a search."
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr ""
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr ""
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr ""
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr ""
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr ""
+
+msgid "Predefined ED1608 General Sensor"
+msgstr ""
+
+msgid "Press Ctrl/Cmd+C to copy"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous page"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Project data"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Provide your phone number"
+msgstr ""
+
+msgid "Pulse 1 setting"
+msgstr ""
+
+msgid "Pulse 2 setting"
+msgstr ""
+
+msgid "Push connection: active"
+msgstr ""
+
+msgid "Push connection: inactive"
+msgstr ""
+
+msgid "Query Active Jobs"
+msgstr ""
+
+msgid "Query Analog Input Hutline"
+msgstr ""
+
+msgid "Query Eifeler Vacotec server port"
+msgstr ""
+
+msgid "Query Enabled Servicese"
+msgstr ""
+
+msgid "Query Ethernet state"
+msgstr ""
+
+msgid "Query Firmware Version"
+msgstr ""
+
+msgid "Query Fresenius VPN proxy status"
+msgstr ""
+
+msgid "Query GSM state"
+msgstr ""
+
+msgid "Query Hardware"
+msgstr ""
+
+msgid "Query Inputs Hutline"
+msgstr ""
+
+msgid "Query Outputs Hutline"
+msgstr ""
+
+msgid "Query ProcessVars"
+msgstr ""
+
+msgid "Query Stations Bus"
+msgstr ""
+
+msgid "Query WLAN state"
+msgstr ""
+
+msgid "Quick links"
+msgstr ""
+
+msgid "RCSP"
+msgstr ""
+
+msgid "RDB snapshot"
+msgstr ""
+
+msgid "RDB snapshot file"
+msgstr ""
+
+msgid "RDB snapshot has been stored in files repository!"
+msgstr ""
+
+msgid "REST Developers Guide"
+msgstr ""
+
+msgid "RSSI"
+msgstr ""
+
+msgid "RUNNING"
+msgstr ""
+
+msgid "Raw error code"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "Read Event-Log"
+msgstr ""
+
+msgid "Read FailedIncomingCall-Log"
+msgstr ""
+
+msgid "Read IncomingMessage-Log"
+msgstr ""
+
+msgid "Read Job-Report"
+msgstr ""
+
+msgid "Read Log Counter"
+msgstr ""
+
+msgid "Read Logfile"
+msgstr ""
+
+msgid "Read Login-Log"
+msgstr ""
+
+msgid "Read SupportLog"
+msgstr ""
+
+msgid "Read current network status"
+msgstr ""
+
+msgid "Read timed out"
+msgstr ""
+
+msgid "Reader"
+msgstr ""
+
+msgid "Realtime"
+msgstr ""
+
+msgid "Reboot device"
+msgstr ""
+
+msgid "Received signal code power"
+msgstr ""
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Refresh alarm list contents"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Registration date"
+msgstr ""
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Remote Control"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Render type"
+msgstr ""
+
+msgid "Reoccurrence count"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Repository"
+msgstr ""
+
+msgid "Request support"
+msgstr ""
+
+msgid "Requested data denied access"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Required availability"
+msgstr ""
+
+msgid "Required interval"
+msgstr ""
+
+msgid "Required interval must be a number and cannot be longer than a year!"
+msgstr ""
+
+msgid "Required interval must be a positive number!"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset Update"
+msgstr ""
+
+msgid "Reset password"
+msgstr ""
+
+msgid "Response"
+msgstr ""
+
+msgid "Response interval"
+msgstr ""
+
+msgid "Responses"
+msgstr ""
+
+msgid "Retention rules"
+msgstr ""
+
+msgid "Retrieve RDB snapshot"
+msgstr ""
+
+msgid "Retrieving alarms…"
+msgstr ""
+
+msgid "Return type"
+msgstr ""
+
+msgid "Revision"
+msgstr ""
+
+msgid "SCHEDULED"
+msgstr ""
+
+msgid "SEVERITY"
+msgstr ""
+
+msgid "SIM"
+msgstr ""
+
+msgid "SIM status"
+msgstr ""
+
+msgid "SMS"
+msgstr ""
+
+msgid "SRT 360i Sample Commands"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "SUCCESSFUL"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save and continue"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Scan M-Bus"
+msgstr ""
+
+msgid "ScanWLAN"
+msgstr ""
+
+msgid "Schedule device restart every day at 1am"
+msgstr ""
+
+msgid "Search files"
+msgstr ""
+
+msgid "Search for groups or assets…"
+msgstr ""
+
+msgid "Search more"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select location change event once for 60 seconds"
+msgstr ""
+
+msgid "Select or search"
+msgstr ""
+
+msgid "Select or search group"
+msgstr ""
+
+msgid "Select properties"
+msgstr ""
+
+msgid "Select temperature readings over 100 degree"
+msgstr ""
+
+msgid "Select unit conversion"
+msgstr ""
+
+msgid "Selected file is no longer available in the platform!"
+msgstr ""
+
+msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}!"
+msgstr ""
+
+msgid "Selected unit conversion will be used for displaying data. Choose \"No conversion\" to see original units sent by devices"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send alarms that are active since 30 minutes to email"
+msgstr ""
+
+msgid "Send connection status unknown"
+msgstr ""
+
+msgid "Send connection: not monitored"
+msgstr ""
+
+msgid "Send connection: offline"
+msgstr ""
+
+msgid "Send connection: online"
+msgstr ""
+
+msgid "Send new code"
+msgstr ""
+
+msgid "Send password reset link as e-mail"
+msgstr ""
+
+msgid "Send sales to Zapier"
+msgstr ""
+
+msgid "Send simulator temperature to Zapier"
+msgstr ""
+
+msgid "Sensor threshold"
+msgstr ""
+
+msgid "Serial"
+msgstr ""
+
+msgid "Serial number"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Serve cell information"
+msgstr ""
+
+msgid "Server creation time"
+msgstr ""
+
+msgid "Server error"
+msgstr ""
+
+msgid "Server time"
+msgstr ""
+
+msgid "Server time can be different from device times in other fields."
+msgstr ""
+
+msgid "Set ALIVE interval"
+msgstr ""
+
+msgid "Set AT command error messaging"
+msgstr ""
+
+msgid "Set Config"
+msgstr ""
+
+msgid "Set DHCP lease time [seconds]"
+msgstr ""
+
+msgid "Set FLAGS"
+msgstr ""
+
+msgid "Set GPIO notify mode"
+msgstr ""
+
+msgid "Set GPS enable"
+msgstr ""
+
+msgid "Set I/O pin hardware gain"
+msgstr ""
+
+msgid "Set I/O pin mode"
+msgstr ""
+
+msgid "Set I/O pin scale"
+msgstr ""
+
+msgid "Set INHIBTIME interval"
+msgstr ""
+
+msgid "Set MODE"
+msgstr ""
+
+msgid "Set MTU"
+msgstr ""
+
+msgid "Set Metric"
+msgstr ""
+
+msgid "Set Output Hutline"
+msgstr ""
+
+msgid "Set SignalLED"
+msgstr ""
+
+msgid "Set TestMode"
+msgstr ""
+
+msgid "Set Time"
+msgstr ""
+
+msgid "Set Variable Bus"
+msgstr ""
+
+msgid "Set Variable PV"
+msgstr ""
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr ""
+
+msgid "Set agent GPS interval [seconds]"
+msgstr ""
+
+msgid "Set agent connection server"
+msgstr ""
+
+msgid "Set agent connection timeout [seconds]"
+msgstr ""
+
+msgid "Set agent enable"
+msgstr ""
+
+msgid "Set agent log level"
+msgstr ""
+
+msgid "Set agent modbus port"
+msgstr ""
+
+msgid "Set agent network timeout [seconds]"
+msgstr ""
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr ""
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr ""
+
+msgid "Set command template"
+msgstr ""
+
+msgid "Set configuration"
+msgstr ""
+
+msgid "Set configuration parameter"
+msgstr ""
+
+msgid "Set firmware"
+msgstr ""
+
+msgid "Set humidity threshold"
+msgstr ""
+
+msgid "Set network update interval [seconds]"
+msgstr ""
+
+msgid "Set operation to EXECUTING"
+msgstr ""
+
+msgid "Set operation to FAILED"
+msgstr ""
+
+msgid "Set operation to SUCCESSFUL"
+msgstr ""
+
+msgid "Set password"
+msgstr ""
+
+msgid "Set pullup voltage [volts]"
+msgstr ""
+
+msgid "Set receiver number for SMS mode"
+msgstr ""
+
+msgid "Set reconnect delay [seconds]"
+msgstr ""
+
+msgid "Set reconnect retries"
+msgstr ""
+
+msgid "Set required availability"
+msgstr ""
+
+msgid "Set serial baud rate"
+msgstr ""
+
+msgid "Set serial port mode"
+msgstr ""
+
+msgid "Set sim pin"
+msgstr ""
+
+msgid "Set sim protection"
+msgstr ""
+
+msgid "Set software list"
+msgstr ""
+
+msgid "Set supported operations"
+msgstr ""
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr ""
+
+msgid "Set temperature threshold"
+msgstr ""
+
+msgid "Severity"
+msgstr ""
+
+msgid "Shared User Manager"
+msgstr ""
+
+msgid "Should be a valid number"
+msgstr ""
+
+msgid "Should be a valid regular expression"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show all breadcrumbs"
+msgstr ""
+
+msgid "Show checkboxes that are"
+msgstr ""
+
+msgid "Show details"
+msgstr ""
+
+msgid "Show devices in group"
+msgstr ""
+
+msgid "Show devices registered after"
+msgstr ""
+
+msgid "Show devices with IMEI"
+msgstr ""
+
+msgid "Show devices with active"
+msgstr ""
+
+msgid "Show devices with maintenance status"
+msgstr ""
+
+msgid "Show devices with model"
+msgstr ""
+
+msgid "Show devices with name"
+msgstr ""
+
+msgid "Show devices with push status"
+msgstr ""
+
+msgid "Show devices with send status"
+msgstr ""
+
+msgid "Show devices with serial number"
+msgstr ""
+
+msgid "Show devices with system ID"
+msgstr ""
+
+msgid "Show error message"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
+
+msgid "Show summary"
+msgstr ""
+
+msgid "Showing 1 child device"
+msgid_plural "Showing {{devices.length}} child devices"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Showing {{devices.length}}"
+msgstr ""
+
+msgid "Showing {{devices.length}} items"
+msgstr ""
+
+msgid "Showing {{devices.length}} of {{totalDevices}}"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Signal quality"
+msgstr ""
+
+msgid "Signal strength"
+msgstr ""
+
+msgid "Simulator state is invalid: {{violations}}"
+msgstr ""
+
+msgid "Slash, single or double dots and white space not allowed"
+msgstr ""
+
+msgid "Smart Rule"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" created"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" deleted"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" disabled"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" enabled"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" updated"
+msgstr ""
+
+msgid "Smart Rule created"
+msgstr ""
+
+msgid "Smart Rule deleted"
+msgstr ""
+
+msgid "Smart Rule disabled"
+msgstr ""
+
+msgid "Smart Rule enabled"
+msgstr ""
+
+msgid "Smart Rule updated"
+msgstr ""
+
+msgid "Smart group \"{{name}}\" has been created!"
+msgstr ""
+
+msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
+msgstr ""
+
+msgid "Smartbox Commands"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Sound detector"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start Process"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stop Process"
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "String does not match pattern: {{schema.pattern}}"
+msgstr ""
+
+msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}!"
+msgstr ""
+
+msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}!"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Support request"
+msgstr ""
+
+msgid "Support request sent"
+msgstr ""
+
+msgid "Support user access activated"
+msgstr ""
+
+msgid "Switch motion detector off"
+msgstr ""
+
+msgid "Switch motion detector on"
+msgstr ""
+
+msgid "Switch sound detector off"
+msgstr ""
+
+msgid "Switch sound detector on"
+msgstr ""
+
+msgid "Switch to ModemMode"
+msgstr ""
+
+msgid "Switch vibration detector off"
+msgstr ""
+
+msgid "Switch vibration detector on"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "System ID"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Target URL {{targetUrl}} already used by another connector!"
+msgstr ""
+
+msgid "Telephone"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Tenant"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" activated"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" created"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" deleted"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" suspended"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" updated: {{properties}}"
+msgstr ""
+
+msgid "Tenant Manager"
+msgstr ""
+
+msgid "Tenant activated"
+msgstr ""
+
+msgid "Tenant created"
+msgstr ""
+
+msgid "Tenant deleted"
+msgstr ""
+
+msgid "Tenant management"
+msgstr ""
+
+msgid "Tenant statistics"
+msgstr ""
+
+msgid "Tenant suspended"
+msgstr ""
+
+msgid "Tenant updated"
+msgstr ""
+
+msgid "Tenants"
+msgstr ""
+
+msgid "Territory"
+msgstr ""
+
+msgid "Test Scheduler"
+msgstr ""
+
+msgid "Test Sequencer"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "The application requested data your user does not have access to. Please check the user menu for more details"
+msgstr ""
+
+msgid "The chosen name is too long. Please try a shorter one."
+msgstr ""
+
+msgid "The code you entered is invalid. Please try again."
+msgstr ""
+
+msgid "The file selected below is too large &ndash; size limit is {{vm.fileSizeLimit|bytes}}!"
+msgstr ""
+
+msgid "The filename is too long."
+msgstr ""
+
+msgid "The resource is no longer available!"
+msgstr ""
+
+msgid "The selected file is not supported."
+msgstr ""
+
+msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
+msgstr ""
+
+msgid "The verification code was already sent. For a new verification code, please click on the link above."
+msgstr ""
+
+msgid "These url paths have been requested by the application but your user does not have access to them."
+msgstr ""
+
+msgid "This IP address is invalid"
+msgstr ""
+
+msgid "This application is already assigned to tenant \"{{tenant}}\"!"
+msgstr ""
+
+msgid "This date is invalid."
+msgstr ""
+
+msgid "This external ID is not unique"
+msgstr ""
+
+msgid "This field is required!"
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "This password has already been used earlier! Please choose a different one."
+msgstr ""
+
+msgid "This time is invalid."
+msgstr ""
+
+msgid "This will apply to data coming from specified device"
+msgstr ""
+
+msgid "This will apply to data that has a type property."
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Tixi Commands"
+msgstr ""
+
+msgid "To`date`"
+msgstr ""
+
+msgid "Toggle dropdown"
+msgstr ""
+
+msgid "Toggle navigator"
+msgstr ""
+
+msgid "Toggle realtime"
+msgstr ""
+
+msgid "Toggle side drawer"
+msgstr ""
+
+msgid "Toggle toolbar"
+msgstr ""
+
+msgid "Track hidden"
+msgstr ""
+
+msgid "Track visible"
+msgstr ""
+
+msgid "TransMode"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type your password"
+msgstr ""
+
+msgid "UNSIGNED"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Unable to get system option: '{{option}}'!"
+msgstr ""
+
+msgid "Unable to get tenant option: '{{option}}'!"
+msgstr ""
+
+msgid "Unassign"
+msgstr ""
+
+msgid "Unassign device"
+msgstr ""
+
+msgid "Unchecked"
+msgstr ""
+
+msgid "Undelegate"
+msgstr ""
+
+msgid "Under maintenance"
+msgstr ""
+
+msgid "Unit conversion"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Update severity of existing alarm"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload, choose file or add an URL"
+msgstr ""
+
+msgid "Use * to allow any values."
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User \"{{name}}\" created"
+msgstr ""
+
+msgid "User \"{{name}}\" deleted"
+msgstr ""
+
+msgid "User \"{{name}}\" updated"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] removed"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] removed"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] removed"
+msgstr ""
+
+msgid "User '{{username}}' already exists!"
+msgstr ""
+
+msgid "User created"
+msgstr ""
+
+msgid "User deleted"
+msgstr ""
+
+msgid "User management"
+msgstr ""
+
+msgid "User management password reset"
+msgstr ""
+
+msgid "User must reset password on next login"
+msgstr ""
+
+msgid "User settings"
+msgstr ""
+
+msgid "User successfully saved"
+msgstr ""
+
+msgid "User to work in Cockpit application. This does not include the access to any device data."
+msgstr ""
+
+msgid "User updated"
+msgstr ""
+
+msgid "User with e-mail '{{email}}' already exists!"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username (e.g. e-mail)"
+msgstr ""
+
+msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
+msgstr ""
+
+msgid "Validation rules"
+msgstr ""
+
+msgid "Value and unit"
+msgstr ""
+
+msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is not a valid number!"
+msgstr ""
+
+msgid "Value, unit and time"
+msgstr ""
+
+msgid "Verification code"
+msgstr ""
+
+msgid "Verification code SMS resent."
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
+msgstr ""
+
+msgid "Vibration detector"
+msgstr ""
+
+msgid "WAITING FOR CONNECTION"
+msgstr ""
+
+msgid "WAN"
+msgstr ""
+
+msgid "WAN IP address"
+msgstr ""
+
+msgid "WAN Profile"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "Wait while settings are loaded&hellip;"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "Web Developers Guide"
+msgstr ""
+
+msgid "Welcome to {{vm.appName | humanizeAppName}}"
+msgstr ""
+
+msgid "When activated, a verification code sent by SMS is required to complete authentication"
+msgstr ""
+
+msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
+msgstr ""
+
+msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
+msgstr ""
+
+msgid "You are successfully disconnected from {{externalServiceName}}. Please login to your {{externalServiceName}} account, and also perform de-registration there."
+msgstr ""
+
+msgid "You don't have permission to retrieve owner"
+msgstr ""
+
+msgid "You will receive emails with csv/excel files attached for {{count}} series."
+msgstr ""
+
+msgid "Your password is expired. Please set a new password."
+msgstr ""
+
+msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
+msgstr ""
+
+msgid "Your password will expire {{expirationTime | relativeDate}}! Consider changing password now."
+msgstr ""
+
+msgid "accuracy"
+msgstr ""
+
+msgid "altitude"
+msgstr ""
+
+msgid "applications {{list}} added"
+msgstr ""
+
+msgid "applications {{list}} removed"
+msgstr ""
+
+msgid "battery value"
+msgstr ""
+
+msgid "ber value"
+msgstr ""
+
+msgid "cellId"
+msgstr ""
+
+msgid "configuration"
+msgstr ""
+
+msgid "description=\"{{description | translate}}\""
+msgstr ""
+
+msgid "device name"
+msgstr ""
+
+msgid "device name=\"{{deviceName}}\""
+msgstr ""
+
+msgid "device time"
+msgstr ""
+
+msgid "device type"
+msgstr ""
+
+msgid "e.g. +49 9 876 543 210"
+msgstr ""
+
+msgid "e.g. 1"
+msgstr ""
+
+msgid "e.g. 10300, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. 46543432321, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. 54321-123, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. ModelName, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. My Device, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. ^\\\\d{1,9}$"
+msgstr ""
+
+msgid "e.g. myVal*, you can use * as wildcard character"
+msgstr ""
+
+msgid "failure reason=\"{{failureReason | translateServerMessage}}\""
+msgstr ""
+
+msgid "failureReason"
+msgstr ""
+
+msgid "fragment"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+msgstr ""
+
+msgid "iccid"
+msgstr ""
+
+msgid "imei"
+msgstr ""
+
+msgid "imsi"
+msgstr ""
+
+msgid "km"
+msgstr ""
+
+msgid "lac"
+msgstr ""
+
+msgid "latitude"
+msgstr ""
+
+msgid "longitude"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+msgid "mcc"
+msgstr ""
+
+msgid "medium"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "mnc"
+msgstr ""
+
+msgid "model"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "parameters"
+msgstr ""
+
+msgid "password strength"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "required interval"
+msgstr ""
+
+msgid "revision"
+msgstr ""
+
+msgid "roles {{list}} added"
+msgstr ""
+
+msgid "roles {{list}} removed"
+msgstr ""
+
+msgid "rssi value"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "serialNumber"
+msgstr ""
+
+msgid "series"
+msgstr ""
+
+msgid "severity"
+msgstr ""
+
+msgid "status=\"{{status | translate}}\""
+msgstr ""
+
+msgid "strong"
+msgstr ""
+
+msgid "temperature value"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "type"
+msgstr ""
+
+msgid "unique child ID"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "url"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "weak"
+msgstr ""
+
+msgid "{{firstItem}} to {{lastItem}}"
+msgstr ""
+
+msgid "{{qty}} loaded"
+msgstr ""

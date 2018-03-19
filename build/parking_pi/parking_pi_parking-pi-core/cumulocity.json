@@ -1,0 +1,1 @@
+{"name":"Parking Devices","description":"Monitering asserts","ngModules":["device"],"js":["main.js"],"imports":[],"css":["style.css"],"version":"1.0.0","compatibility":{"app":"parking_pi","contextPath":"parking-pi-core","rootContextPath":"parking_pi/parking-pi-core"},"contextPath":"parking_pi_parking-pi-core"}

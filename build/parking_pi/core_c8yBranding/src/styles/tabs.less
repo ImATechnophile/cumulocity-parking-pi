@@ -1,0 +1,220 @@
+// Tabs
+// -------------------------
+.nav-tabs {
+  >li {
+    float: left; // Actual tabs (as links)
+    >a {
+      padding: 8px 15px;
+      border-width: 3px 0 1px;
+      border-style: solid;
+      border-color: transparent;
+      background-color: transparent;
+      color: @navbar-default-link-color;
+      //margin-right: 2px;
+      line-height: @line-height-base;
+
+      .transition(background-color .15s ease);
+      >.fa,
+      >.c8y-icon {
+        display: block;
+        margin: 0 auto;
+        font-size: 17px;
+        @media(min-width: @grid-float-breakpoint) {
+          display: inline-block;
+        }
+      }
+      &:focus,
+      &:hover {
+        outline: none;
+        background-color: @brand-primary;
+        color: white;
+        text-decoration: none;
+
+        text-decoration-color: @input-focus-color;
+      }
+    } // Active state, and its :hover to override normal :hover
+    &.active>a {
+      &,
+      &:hover,
+      &:focus {
+        border-top-color: @nav-tabs-active-link-hover-bg;
+        border-bottom-color: transparent;
+        background-color: @nav-tabs-active-link-hover-bg;
+        color: @nav-tabs-active-link-hover-color;
+        cursor: default;
+      }
+    }
+  } // pulling this in mainly for less shorthand
+  &.nav-justified {
+    .nav-justified();
+    .nav-tabs-justified();
+  }
+}
+
+// Move borders to anchors instead of bottom of list
+//
+// Mixin for adding on top the shared `.nav-justified` styles for our tabs
+.nav-tabs-justified {
+  border-bottom: 2px solid @navbar-default-link-color;
+  >li>a {
+    // Override margin from .nav-tabs
+    margin-right: 0;
+    border-radius: @border-radius-base;
+  }
+  >.active>a,
+  >.active>a:hover,
+  >.active>a:focus {
+    //border: 1px solid @nav-tabs-justified-link-border-color;
+  }
+  @media (min-width: @screen-sm-min) {
+    >li>a {
+      //border-bottom: 1px solid @nav-tabs-justified-link-border-color;
+      border-radius: @border-radius-base @border-radius-base 0 0;
+    }
+    >.active>a,
+    >.active>a:hover,
+    >.active>a:focus {
+      //border-bottom-color: @nav-tabs-justified-active-link-border-color;
+    }
+  }
+}
+
+// Tabbable tabs
+// -------------------------
+// Hide tabbable panes to start, show them when `.active`
+.tab-content {
+  >.tab-pane {
+    display: none;
+  }
+  >.active {
+    display: block;
+  }
+}
+
+// Dropdowns
+// -------------------------
+// Specific dropdowns
+.nav-tabs .dropdown-menu {
+  // make dropdown border overlap tab border
+  margin-top: -1px; // Remove the top rounded corners here since there is a hard edge above the menu
+
+  .border-top-radius(0);
+}
+
+.mobile-tabs {
+  position: fixed;
+  right: 0;
+  left: 0;
+  z-index: @zindex-navbar;
+  margin: 85px 0 0;
+  padding: @margin-xs @margin-base;
+  background-color: @brand-primary;
+  .c8y-select-wrapper {
+    border-color: transparent;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+    &:after {
+      color: white;
+    }
+    select {
+      height: auto;
+    }
+    option {
+      color: @gray-text;
+    }
+  }
+}
+
+// navtabs vertical
+.nav-tabs-vertical {
+  padding-top: 50px;
+  width: @navtabs-vertical-width;
+  border: 0;
+  >li {
+    float: none;
+    >a {
+      padding: 10px 15px 10px 30px;
+      border: 0;
+      background-color: @navtabs-vertical-bg;
+      color: @navtabs-vertical-color;
+      text-transform: none;
+      font-size: inherit;
+      &::before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        width: 0;
+        background-color: @navtabs-vertical-active-bg;
+        content: '';
+
+        .transition(all .2s ease);
+      }
+      &::after {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        margin: -20px 0 0 0;
+        height: 50%;
+        border-width: 12px 0;
+        border-style: solid;
+        border-color: transparent transparent transparent @navtabs-vertical-active-bg;
+        content: '';
+
+        .transition(all .2s ease);
+      }
+      &:hover,
+      &:focus {
+        background-color: transparent;
+        color: @brand-primary;
+      }
+      .fa,
+      .c8y-icon {
+        position: absolute;
+        top: 10px;
+        left: 25px;
+        ~span {
+          display: inline-block;
+          overflow: hidden;
+          padding-left: 1.4em;
+          max-width: 100%;
+          vertical-align: middle;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          line-height: 1;
+        }
+      }
+    }
+    &.active {
+      >a,
+      a:hover {
+        background-color: @navtabs-vertical-active-bg;
+        color: @navtabs-vertical-active-color;
+        &::before {
+          width: 100%;
+        }
+        &::after {
+          left: 100%;
+          height: 100%;
+          border-width: 20px 0 20px 10px;
+        }
+      }
+    }
+  }
+}
+
+.tabs_ctrl+.container-fluid .tab-content-spacer {
+  margin: 0 -30px 0;
+  padding-bottom: 20px;
+  border: 0;
+}
+
+c8y-roles-overview>.page-tabs {
+  margin-top: -30px;
+}
+
+.page-tabs .tab-content {
+  padding-top: @headerHeight + 3;
+}

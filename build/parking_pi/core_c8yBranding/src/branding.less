@@ -1,0 +1,13 @@
+@import 'variables/index.less';
+
+@c8y: false;
+
+.c8y when (@c8y = true) {
+  .main(false);
+}
+
+.main(@c8y);
+
+.main(@x) when not (@x) {
+  @import 'export.less';
+}

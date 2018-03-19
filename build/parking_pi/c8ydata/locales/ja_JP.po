@@ -1,0 +1,1006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Active alarms status"
+msgstr "アクティブなアラームステータス"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Address range"
+msgstr "アドレスの範囲"
+
+msgid "Agent config"
+msgstr "エージェントの構成"
+
+msgid "Alarm"
+msgstr "アラーム"
+
+msgid "Alarm count 3 months"
+msgstr "過去3ヵ月間のアラーム数"
+
+msgid "Alarm count today"
+msgstr "本日のアラーム数"
+
+msgid "Alarm type"
+msgstr "アラームタイプ"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "Altitude"
+msgstr "高度"
+
+msgid "Auth type"
+msgstr "認証タイプ"
+
+msgid "Availability"
+msgstr "稼働率"
+
+msgid "Cell ID"
+msgstr "セルID"
+
+msgid "Cellular WAN"
+msgstr "セルラーWAN"
+
+msgid "Change parameter"
+msgstr "パラメータを変更"
+
+msgid "Check Fresenius TDMS server IP"
+msgstr "Fresenius TDMSサーバーIPを確認"
+
+msgid "Check Fresenius TDMS server port"
+msgstr "Fresenius TDMSサーバーポートを確認"
+
+msgid "Check MQTT enablement"
+msgstr "MQTTの実施可能要件を確認"
+
+msgid "Check MQTT keepalive interval"
+msgstr "MQTTのキープアライブ間隔を確認"
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr "TCS:BUSプライグインが使用可能かどうか確認"
+
+msgid "City"
+msgstr "市区町村"
+
+msgid "City code"
+msgstr "郵便番号"
+
+msgid "Clear All Logfiles"
+msgstr "すべてのログファイルをクリア"
+
+msgid "Clear System Logfiles"
+msgstr "システムログファイルをクリア"
+
+msgid "Clear device credentials"
+msgstr "デバイス資格情報をクリア"
+
+msgid "Communication mode"
+msgstr "通信モード"
+
+msgid "Config"
+msgstr "構成"
+
+msgid "Config Eifeler Vacotec server port"
+msgstr "Eifeler Vacotecサーバーポート構成"
+
+msgid "Config Fresenius TDMS server IP"
+msgstr "Fresenius TDMSサーバーIP構成"
+
+msgid "Config Fresenius TDMS server port"
+msgstr "Fresenius TDMSサーバーポート構成"
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr "MQTTキープアライブ間隔構成 [秒]"
+
+msgid "Configuration snapshot"
+msgstr "構成スナップショット"
+
+msgid "Configure debouncing alarm text"
+msgstr "デバウンスアラームテキストを設定"
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr "GPIO <N> [秒]のデバウンス間隔を設定"
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr "SMSモードでのステータスレポートの間隔を設定[秒]"
+
+msgid "Connection"
+msgstr "接続"
+
+msgid "Connection type"
+msgstr "接続タイプ"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Creation time"
+msgstr "作成日時"
+
+msgid "Critical"
+msgstr "クリティカル"
+
+msgid "Current band"
+msgstr "現在のバンド"
+
+msgid "Current operator"
+msgstr "現在のオペレータ"
+
+msgid "Custom properties"
+msgstr "カスタムプロパティ"
+
+msgid "Cycle data connection status"
+msgstr "周期データ接続ステータス"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "DHCPサーバー"
+
+msgid "DNS 1"
+msgstr "DNS 1"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Data logging"
+msgstr "データロギング"
+
+msgid "Default AT Commands"
+msgstr "デフォルトのATコマンド"
+
+msgid "Delete Active Jobs"
+msgstr "アクティブジョブを削除"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device Control"
+msgstr "デバイス制御"
+
+msgid "Device Info"
+msgstr "デバイス情報"
+
+msgid "Device config"
+msgstr "デバイス構成"
+
+msgid "Device info"
+msgstr "デバイス情報"
+
+msgid "Device name"
+msgstr "デバイス名"
+
+msgid "Device setting"
+msgstr "デバイス設定"
+
+msgid "Display selected roaming network"
+msgstr "選択したローミングネットワークを表示"
+
+msgid "ECN0"
+msgstr "ECN0"
+
+msgid "Enable/disable MQTT communication"
+msgstr "MQTT通信を有効または無効にする"
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr "TCS:BUSプラグインを有効/無効にする"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "End"
+msgstr "終了"
+
+msgid "Enquire battery level info"
+msgstr "バッテリーレベル情報を照会"
+
+msgid "Enquire device release info"
+msgstr "デバイスリリース情報を照会"
+
+msgid "Enquire presentation info"
+msgstr "プレゼンテーション情報を照会"
+
+msgid "Enquire serial number"
+msgstr "シリアルナンバーを照会"
+
+msgid "Event (no Parameter)"
+msgstr "イベント（パラメータなし）"
+
+msgid "Event (with Parameter)"
+msgstr "イベント (パラメータあり)"
+
+msgid "Event count 3 months"
+msgstr "過去3ヵ月のイベント数"
+
+msgid "Event count today"
+msgstr "本日のイベント数"
+
+msgid "Event type"
+msgstr "イベントタイプ"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Execute command template"
+msgstr "コマンドテンプレートを実行"
+
+msgid "External reference"
+msgstr "外部参照"
+
+msgid "Factory Reset"
+msgstr "工場出荷時リセット"
+
+msgid "Factory reset"
+msgstr "工場出荷時リセット"
+
+msgid "Firmware"
+msgstr "ファームウェア"
+
+msgid "GPIO"
+msgstr "GPIO"
+
+msgid "GPIO Pin"
+msgstr "GPIOピン"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "Get Cinterion information"
+msgstr "シンテリオンの情報を取得"
+
+msgid "Get Config"
+msgstr "構成を取得"
+
+msgid "Get DHCP lease time [seconds]"
+msgstr "DHCPリース時間を取得[秒]"
+
+msgid "Get Device Serial Number"
+msgstr "デバイスのシリアル番号を取得"
+
+msgid "Get EVENTS Database"
+msgstr "イベントデータベースを取得"
+
+msgid "Get GPIO notify mode"
+msgstr "GPIO通知モードを取得"
+
+msgid "Get GPIO status"
+msgstr "GPIOステータスを取得"
+
+msgid "Get GPS enable"
+msgstr "GPSを有効にする"
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr "I/Oピンのアナログ入力を取得[V]"
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr "I/OピンのアナログRAW電圧を取得[V]"
+
+msgid "Get I/O pin capability"
+msgstr "I/Oピン特性を取得"
+
+msgid "Get I/O pin digital input"
+msgstr "I/Oピンのデジタル入力を取得"
+
+msgid "Get I/O pin digital input threshold"
+msgstr "I/Oピンのデジタル入力のしきい値を取得"
+
+msgid "Get I/O pin hardware gain"
+msgstr "I/Oピンのハードウェアゲイン値を取得"
+
+msgid "Get I/O pin mode"
+msgstr "I/Oピンモードを取得"
+
+msgid "Get I/O pin scale"
+msgstr "I/Oピンのスケールを取得"
+
+msgid "Get IMSI"
+msgstr "IMSIを取得"
+
+msgid "Get ISP Database"
+msgstr "ISPデータベースを取得"
+
+msgid "Get LOG Database"
+msgstr "LOGデータベースを取得"
+
+msgid "Get MTU"
+msgstr "MTUを取得"
+
+msgid "Get Metric"
+msgstr "メトリックを取得"
+
+msgid "Get PARAM Database"
+msgstr "PARAMデータベースを取得"
+
+msgid "Get PROCCFG Database"
+msgstr "PROCCFGデータベースを取得"
+
+msgid "Get SCHEDULE Database"
+msgstr "スケジュールデータベースを取得"
+
+msgid "Get SIM status"
+msgstr "SIMステータスを取得"
+
+msgid "Get TEMPLATE Database"
+msgstr "テンプレートデータベースを取得"
+
+msgid "Get Time"
+msgstr "時刻を取得"
+
+msgid "Get USER Database"
+msgstr "ユーザデータベースを取得"
+
+msgid "Get actual ADC in mV"
+msgstr "mV単位で実際のADC値を取得"
+
+msgid "Get actual date and time of RTC"
+msgstr "RTCの実際の日時を取得"
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr "エージェントのGPIO間隔を取得[秒]"
+
+msgid "Get agent GPS interval [seconds]"
+msgstr "エージェントのGPS間隔を取得[秒]"
+
+msgid "Get agent connection server"
+msgstr "エージェントの接続サーバーを取得"
+
+msgid "Get agent connection timeout [seconds]"
+msgstr "エージェントの接続タイムアウトを取得[秒]"
+
+msgid "Get agent enable"
+msgstr "エージェントを有効にする"
+
+msgid "Get agent log level"
+msgstr "エージェントのログレベルを取得"
+
+msgid "Get agent modbus port"
+msgstr "エージェントのModbusポートを取得"
+
+msgid "Get agent network timeout [seconds]"
+msgstr "エージェントのネットワークタイムアウトを取得[秒]"
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr "エージェントの再接続間隔を取得[秒]"
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr "エージェントの信号強度測定間隔を取得[秒]"
+
+msgid "Get agent status"
+msgstr "エージェントのステータスを取得"
+
+msgid "Get all module events"
+msgstr "すべてのモジュールイベントを取得"
+
+msgid "Get command template"
+msgstr "コマンドテンプレートを取得"
+
+msgid "Get current receiver number"
+msgstr "現在の受信者番号を取得"
+
+msgid "Get detailed Cinterion information"
+msgstr "詳細なシンテリオン情報を取得"
+
+msgid "Get device chipset"
+msgstr "デバイスチップセットを取得"
+
+msgid "Get device user"
+msgstr "デバイスユーザを取得"
+
+msgid "Get firmware and hardware version"
+msgstr "ファームウェアおよびハードウェアバージョンを取得"
+
+msgid "Get installed firmware"
+msgstr "インストール済みのファームウェアを取得"
+
+msgid "Get internal temperature of chip"
+msgstr "チップの内部温度を取得"
+
+msgid "Get list of files stored on device"
+msgstr "デバイスに保存されているファイルのリストを取得"
+
+msgid "Get network update interval [seconds]"
+msgstr "ネットワークの更新間隔を取得[秒]"
+
+msgid "Get operator selection info"
+msgstr "オペレーターの選択情報を取得"
+
+msgid "Get power source and voltage"
+msgstr "電源と電圧を取得"
+
+msgid "Get power supply voltage"
+msgstr "電源電圧を取得"
+
+msgid "Get pullup voltage [volts]"
+msgstr "プルアップ電圧を取得[V]"
+
+msgid "Get reconnect delay [seconds]"
+msgstr "再接続の遅延を取得[秒]"
+
+msgid "Get reconnect retries"
+msgstr "再接続の再試行を取得"
+
+msgid "Get serial baud rate"
+msgstr "シリアルボーレートを取得"
+
+msgid "Get serial port mode"
+msgstr "シリアルポートモードを取得"
+
+msgid "Get signal strength"
+msgstr "信号強度を取得"
+
+msgid "Get sim pin"
+msgstr "SIMピンを取得"
+
+msgid "Get sim protection"
+msgstr "SIM保護を取得"
+
+msgid "Get supported serial baud rates"
+msgstr "サポートされているシリアルボーレートを取得"
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr "システムリソースの測定間隔を取得[秒]"
+
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgid "I/O and PLC"
+msgstr "I/O & PLC"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMEI"
+msgstr "IMEI"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "J2ME commands"
+msgstr "J2MEコマンド"
+
+msgid "LAC"
+msgstr "LAC"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Last device message"
+msgstr "最終デバイスメッセージ"
+
+msgid "Last measurement"
+msgstr "最終測定"
+
+msgid "Last message"
+msgstr "最新のメッセージ"
+
+msgid "Last updated"
+msgstr "最終更新日時"
+
+msgid "Latitude"
+msgstr "緯度"
+
+msgid "Limit http queue"
+msgstr "httpキューを制限"
+
+msgid "Limit http requests"
+msgstr "httpリクエストを制限"
+
+msgid "Limit stream queue"
+msgstr "ストリームキューを制限"
+
+msgid "Limit stream requests"
+msgstr "ストリームリクエストを制限"
+
+msgid "LogIn"
+msgstr "ログイン"
+
+msgid "LogIn CHAP"
+msgstr "CHAPでログイン"
+
+msgid "LogIn CHAP Response"
+msgstr "CHAPレスポンスでログイン"
+
+msgid "LogOut"
+msgstr "ログアウト"
+
+msgid "Longitude"
+msgstr "経度"
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MCC"
+msgstr "MCC"
+
+msgid "MNC"
+msgstr "MNC"
+
+msgid "MSISDN"
+msgstr "MSISDN"
+
+msgid "Major"
+msgstr "メジャー"
+
+msgid "Managed object"
+msgstr "管理対象オブジェクト"
+
+msgid "Measurements"
+msgstr "計測値"
+
+msgid "Minor"
+msgstr "マイナー"
+
+msgid "Mobile"
+msgstr "モバイル"
+
+msgid "Modbus-RTU config"
+msgstr "Modbus-RTU構成"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Model"
+msgstr "モデル"
+
+msgid "Module config"
+msgstr "モジュール構成"
+
+msgid "Module version"
+msgstr "モジュールバージョン"
+
+msgid "Motion detector"
+msgstr "モーション検出器"
+
+msgid "NTC commands"
+msgstr "NTCコマンド"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Netmask"
+msgstr "ネットマスク"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Network service"
+msgstr "ネットワークサービス"
+
+msgid "Notes"
+msgstr "注釈"
+
+msgid "Number of child assets"
+msgstr "子アセットの数"
+
+msgid "Number of child devices"
+msgstr "子デバイスの数"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Position"
+msgstr "位置情報"
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr "定義済みのAdeunis LoRaWanパルス"
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr "定義済みAdeunis LoRaWanセンサ"
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr "事前定義済み Ascocl CM868LR-CMUS915LR"
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr "事前定義済み Ascocl CM868LRTH-CMUS915LRTH"
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr "事前定義済み Ascolc IR868LR-IRUS915LR"
+
+msgid "Predefined ED1608 General Sensor"
+msgstr "事前定義済み ED1608 General Sensor"
+
+msgid "Project data"
+msgstr "プロジェクトデータ"
+
+msgid "Pulse 1 setting"
+msgstr "パルス1の設定"
+
+msgid "Pulse 2 setting"
+msgstr "パルス2の設定"
+
+msgid "Query Active Jobs"
+msgstr "アクティブなジョブの照会"
+
+msgid "Query Analog Input Hutline"
+msgstr "アナログ入力Hutlineの照会"
+
+msgid "Query Eifeler Vacotec server port"
+msgstr "Eifeler Vacotecサーバーポートの照会"
+
+msgid "Query Enabled Servicese"
+msgstr "有効なサービスの照会"
+
+msgid "Query Ethernet state"
+msgstr "イーサネット状態の照会"
+
+msgid "Query Firmware Version"
+msgstr "ファームウェアバージョンの照会"
+
+msgid "Query Fresenius VPN proxy status"
+msgstr "Fresenius VPNプロキシ状態の照会"
+
+msgid "Query GSM state"
+msgstr "GSM状態の照会"
+
+msgid "Query Hardware"
+msgstr "ハードウェアの照会"
+
+msgid "Query Inputs Hutline"
+msgstr "入力Hutlineの照会"
+
+msgid "Query Outputs Hutline"
+msgstr "出力Hutlineの照会"
+
+msgid "Query ProcessVars"
+msgstr "プロセス変数の照会"
+
+msgid "Query Stations Bus"
+msgstr "ステーションバスの照会"
+
+msgid "Query WLAN state"
+msgstr "WLAN状態の照会"
+
+msgid "RCSP"
+msgstr "RCSP"
+
+msgid "RSSI"
+msgstr "RSSI"
+
+msgid "Read Event-Log"
+msgstr "イベントログを確認"
+
+msgid "Read FailedIncomingCall-Log"
+msgstr "不在着信ログを確認"
+
+msgid "Read IncomingMessage-Log"
+msgstr "不在着信メッセージログを確認"
+
+msgid "Read Job-Report"
+msgstr "ジョブレポートを確認"
+
+msgid "Read Log Counter"
+msgstr "ログカウンタを確認"
+
+msgid "Read Logfile"
+msgstr "ログファイルを確認"
+
+msgid "Read Login-Log"
+msgstr "ログインログを確認"
+
+msgid "Read SupportLog"
+msgstr "サポートログを確認"
+
+msgid "Read current network status"
+msgstr "現在のネットワークステータスを読み込む"
+
+msgid "Reboot device"
+msgstr "デバイスを再起動"
+
+msgid "Region"
+msgstr "地域"
+
+msgid "Remote Control"
+msgstr "遠隔制御"
+
+msgid "Reoccurrence count"
+msgstr "再発生回数"
+
+msgid "Report"
+msgstr "レポート"
+
+msgid "Required availability"
+msgstr "必要な稼働率"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Reset Update"
+msgstr "更新をリセット"
+
+msgid "Response interval"
+msgstr "レスポンス間隔"
+
+msgid "Revision"
+msgstr "リビジョン"
+
+msgid "SIM"
+msgstr "SIM"
+
+msgid "SIM status"
+msgstr "SIMステータス"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SRT 360i Sample Commands"
+msgstr "SRT 360iサンプルコマンド"
+
+msgid "Scan M-Bus"
+msgstr "M-Busをスキャン"
+
+msgid "ScanWLAN"
+msgstr "WLANをスキャン"
+
+msgid "Sensor threshold"
+msgstr "センサーしきい値"
+
+msgid "Serial"
+msgstr "シリアル"
+
+msgid "Serial number"
+msgstr "シリアル番号"
+
+msgid "Serve cell information"
+msgstr "セル情報を提供"
+
+msgid "Set ALIVE interval"
+msgstr "アライブ間隔を設定"
+
+msgid "Set AT command error messaging"
+msgstr "ATコマンドエラーメッセージ送信を設定"
+
+msgid "Set Config"
+msgstr "構成の設定"
+
+msgid "Set DHCP lease time [seconds]"
+msgstr "DHCPリース時間を設定[秒]"
+
+msgid "Set FLAGS"
+msgstr "フラグを設定"
+
+msgid "Set GPIO notify mode"
+msgstr "GPIO通知モードを設定"
+
+msgid "Set GPS enable"
+msgstr "GPSを有効にする"
+
+msgid "Set I/O pin hardware gain"
+msgstr "I/Oピンのハードウェアゲインを設定"
+
+msgid "Set I/O pin mode"
+msgstr "I/Oピンモードを設定"
+
+msgid "Set I/O pin scale"
+msgstr "I/Oピンのスケールを設定"
+
+msgid "Set INHIBTIME interval"
+msgstr "INHIBTIME間隔を設定"
+
+msgid "Set MODE"
+msgstr "モードを設定"
+
+msgid "Set MTU"
+msgstr "MTUを設定"
+
+msgid "Set Metric"
+msgstr "メトリックを設定"
+
+msgid "Set Output Hutline"
+msgstr "出力Hutlineを設定"
+
+msgid "Set SignalLED"
+msgstr "信号LEDを設定"
+
+msgid "Set TestMode"
+msgstr "テストモードを設定"
+
+msgid "Set Time"
+msgstr "時間を設定"
+
+msgid "Set Variable Bus"
+msgstr "変数バスを設定"
+
+msgid "Set Variable PV"
+msgstr "PV変数を設定"
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr "エージェントのGPIO間隔を設定[秒]"
+
+msgid "Set agent GPS interval [seconds]"
+msgstr "エージェントのGPS間隔を設定[秒]"
+
+msgid "Set agent connection server"
+msgstr "エージェントの接続サーバーを設定"
+
+msgid "Set agent connection timeout [seconds]"
+msgstr "エージェントの接続タイムアウトを設定[秒]"
+
+msgid "Set agent enable"
+msgstr "エージェントを有効にする"
+
+msgid "Set agent log level"
+msgstr "エージェントのログレベルを設定"
+
+msgid "Set agent modbus port"
+msgstr "エージェントのModbusポートを設定"
+
+msgid "Set agent network timeout [seconds]"
+msgstr "エージェントのネットワークタイムアウトを設定[秒]"
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr "エージェントの再接続間隔を設定[秒]"
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr "エージェントの信号強度の測定間隔を設定[秒]"
+
+msgid "Set command template"
+msgstr "コマンドテンプレートを設定"
+
+msgid "Set configuration parameter"
+msgstr "構成パラメータを設定"
+
+msgid "Set humidity threshold"
+msgstr "湿度のしきい値を設定"
+
+msgid "Set network update interval [seconds]"
+msgstr "ネットワーク更新間隔を設定[秒]"
+
+msgid "Set pullup voltage [volts]"
+msgstr "プルアップ電圧を設定[V]"
+
+msgid "Set receiver number for SMS mode"
+msgstr "SMSモードの受信者番号を設定"
+
+msgid "Set reconnect delay [seconds]"
+msgstr "再接続の遅延を設定[秒]"
+
+msgid "Set reconnect retries"
+msgstr "再接続の再試行を設定"
+
+msgid "Set serial baud rate"
+msgstr "シリアルボーレートを設定"
+
+msgid "Set serial port mode"
+msgstr "シリアルポートモードを設定"
+
+msgid "Set sim pin"
+msgstr "SIMピンを設定"
+
+msgid "Set sim protection"
+msgstr "SIM保護を設定"
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr "システムリソースの測定間隔を設定[秒]"
+
+msgid "Set temperature threshold"
+msgstr "温度のしきい値を設定"
+
+msgid "Severity"
+msgstr "アラーム重大度"
+
+msgid "Smartbox Commands"
+msgstr "スマートボックスコマンド"
+
+msgid "Software"
+msgstr "ソフトウェア"
+
+msgid "Sound detector"
+msgstr "サウンド検出器"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start Process"
+msgstr "操作を開始"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Stop Process"
+msgstr "停止操作"
+
+msgid "Street"
+msgstr "住所2"
+
+msgid "Switch motion detector off"
+msgstr "モーション検出器をオフにする"
+
+msgid "Switch motion detector on"
+msgstr "モーション検出器をオンにする"
+
+msgid "Switch sound detector off"
+msgstr "サウンド検出器をオフにする"
+
+msgid "Switch sound detector on"
+msgstr "サウンド検出器をオンにする"
+
+msgid "Switch to ModemMode"
+msgstr "モデムモードに切り替える"
+
+msgid "Switch vibration detector off"
+msgstr "振動検出器をオフにする"
+
+msgid "Switch vibration detector on"
+msgstr "振動検出器をオンにする"
+
+msgid "Template"
+msgstr "テンプレート"
+
+msgid "Tenants"
+msgstr "テナント"
+
+msgid "Territory"
+msgstr "担当地域"
+
+msgid "Test Scheduler"
+msgstr "テストスケジューラー"
+
+msgid "Test Sequencer"
+msgstr "テストシーケンサー"
+
+msgid "Testing"
+msgstr "テスト中"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Time"
+msgstr "日時"
+
+msgid "Tixi Commands"
+msgstr "Tixiコマンド"
+
+msgid "TransMode"
+msgstr "TransMode"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "ユーザ名"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Vibration detector"
+msgstr "振動検出器"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN Profile"
+msgstr "WANプロファイル"
+
+msgid "Warning"
+msgstr "警告"

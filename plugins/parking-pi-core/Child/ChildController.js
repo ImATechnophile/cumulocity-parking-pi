@@ -10,112 +10,61 @@
     $scope,
     $routeParams,
     $interval,
+    $filter,
     c8yDevices,
     c8yMeasurements,
     c8yAlert
   ) {
     //Initiate the Timer object.
      $scope.Timer = null;
+     $scope.ReDist = [];
 
     function onFailure(message) {
       c8yAlert.danger(message);
     }
 
-
     function load() {
-        $scope.ReDist = [];
         c8yDevices.listChildren($routeParams.deviceId).then(function (children) {
-          var childrenIDs = _.map(children, 'id');
-          if(childrenIDs !=0){
-           // console.log("if...")
-            latestMeasure(childrenIDs,children);
-           // console.log("out...")
-          }
-          else{
-          var message="No child devices for this device.....";
-          onFailure(message);
-          }
+            angular.forEach(children, function (child) {
+                var filter = {
+                    device: child.id,
+                    fragment: 'c8y_DistanceMeasurement',
+                    series: 'distance'
+                };
 
-        });
-          function latestMeasure(childrenIDs,children){
-            //console.log("input");
-            //console.log(childrenIDs);
-          var childrenNames=_.map(children, 'name');
-         // console.log("name: "+childrenNames);
-          
-          for (var i = 0;i<=childrenIDs.length - 1;i++) {
-            var filter = {
-            device: childrenIDs[i],
-            fragment: 'c8y_DistanceMeasurement',
-            series: 'distance'
-            };
-            var realtime = true;
-            c8yMeasurements.latest(filter, realtime)
-              .then(function (latestMeasurement) {
-                var x={};
-                var latestMeasurement = latestMeasurement;
-                var y=childrenNames;
-                //console.log(latestMeasurement);
-                //console.log(typeof(latestMeasurement));
-                //console.log("above type");
-                //console.log(_.isEmpty(latestMeasurement));
-                if(_.isEmpty(latestMeasurement)){
-                  var message="Oops!! Child devices doesn't send any measurements";
-                  onFailure(message);
-                }
-                else
-                {
-                //var unit=latestMeasurement.c8y_DistanceMeasurement.distance.unit;
-                var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                var RequiredDist=value;
-                //console.log("only value :"+RequiredDist);
-
-                console.log("name: "+childrenNames);
-                console.log("id: "+childrenIDs);
-               //x.childTime=latestMeasurement.time;_.isEmpty({ 'a': 1 });
-               
-               if(RequiredDist<=80){
-                  x.childImage="parking_pi_parking-pi-core/Images/car.png";
-                  x.childTime="Parked At :"+latestMeasurement.time;
-                }
-                else{
-                  x.childImage="parking_pi_parking-pi-core/Images/empty8.png";
-                  x.childTime=" Last Checkout:"+latestMeasurement.time;
-                }
-                if(entrycount<y.length){
-                  x.childName=y[entrycount];
-                  console.log("inside");
-                  console.log(y[entrycount]);
-                  console.log(childrenIDs[entrycount]);
-                  console.log(RequiredDist);
-                  console.log(latestMeasurement.time);
-                  console.log("outside");
-                  entrycount+=1;
-                }
-                $scope.ReDist.push(x);
-                //console.log($scope.ReDist);
-              }
-              
+                c8yMeasurements.latest(filter, true).then(function (latestMeasurement) {
+                    var childStatusArray = $filter('filter')($scope.ReDist, {'name': child.name});
+                    var x={};
+                    if (childStatusArray.length == 0) {
+                        x.name = child.name;
+                        $scope.ReDist.push(x)
+                    } else {
+                        x = childStatusArray[0];
+                    }
+                    if(_.isEmpty(latestMeasurement)){
+                        var message="Oops!! Child devices doesn't send any measurements";
+                        onFailure(message);
+                    } else {
+                        var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
+                        if(value<=80){
+                            x.stausImage="parking_pi_parking-pi-core/Images/car.png";
+                            x.status="Parking occupied";
+                        }
+                        else{
+                            x.stausImage="parking_pi_parking-pi-core/Images/empty.png";
+                            x.status="Parking available";
+                        }
+                    }
+                });
             });
-          }
-        }
+        });
     }
-
-
-    var entrycount=0;
-    $scope.ReDist=[];
-    //load();
-
-   function onloadTimer(){
-     $interval(function () {
-                   
-                   load();
-               }, 5000);
-
-   }
-   onloadTimer();
-    
-    
-
+    load();
+       function onLoadTimer(){
+         $interval(function () {
+            load();
+         }, 1000);
+       }
+       onLoadTimer();
   }
 }());

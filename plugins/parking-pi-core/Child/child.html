@@ -1,13 +1,12 @@
 
 <div class="container" ng-app="device" ng-controller="childcontroller" >
 <div class="row text-center mt-5 mb-5">
-  <div class="col-sm-3" ng-repeat="info in ReDist">
+  <div class="col-sm-3" ng-repeat="info in ReDist | orderBy:'name'">
     <div class="card">
-      <h5  class="card-header text-primary"><b>{{info.childName}}</b></h5>
+      <h5  class="card-header text-primary"><b>{{info.name}}</b></h5>
       <div class="card-body">
-        <img class="card-img-top" src={{info.childImage}} alt="Card image cap">
+        <img class="card-img-top" src={{info.stausImage}} alt="{{info.status}}">
       </div>
-      <span class="card-footer">{{info.childTime}}</span>
     </div>
   </div>
 </div>

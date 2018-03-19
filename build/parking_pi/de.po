@@ -1,0 +1,3367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "\"{{field}}\" must be less than or equal to {{maxValue}}"
+msgstr "\"{{field}}\" muss kleiner oder gleich {{maxValue}} sein."
+
+msgid "\"{{field}}\" must not be null"
+msgstr "\"{{field}}\" darf nicht null sein."
+
+msgid "\"{{field}}\" should not be null"
+msgstr "\"{{field}}\" sollte nicht null sein."
+
+msgid "\"{{field}}\" should not contain null values"
+msgstr "\"{{field}}\" sollte keine Nullwerte enthalten."
+
+msgid "({{paging.more}} left)"
+msgstr "({{paging.more}} verbleibend)"
+
+msgid ""
+"<b>Drop file here</b><br>\n"
+"          or click to browse your computer."
+msgstr ""
+"<b>Ziehen Sie eine Datei hierhin</b><br>\n"
+"          oder durchsuchen Sie Ihren Computer."
+
+msgid "<no name>"
+msgstr "<Kein Name>"
+
+msgid "ACCEPTED"
+msgstr "AKZEPTIERT"
+
+msgid "ACKNOWLEDGED"
+msgstr "BESTÄTIGT"
+
+msgid "ACKNOWLEDGED by: {{ackBy}} {{ackTimeFromNow}}"
+msgstr "BESTÄTIGT durch: {{ackBy}} {{ackTimeFromNow}}"
+
+msgid "ACTIVE"
+msgstr "AKTIV"
+
+msgid "ACTIVE: triggered {{alarmTimeFromNow}}"
+msgstr "AKTIV: Ausgelöst {{alarmTimeFromNow}}"
+
+msgid "ALARM STATUS"
+msgstr "ALARM STATUS"
+
+msgid "API"
+msgstr "API"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "ARRAY"
+msgstr "ARRAY"
+
+msgid "Access denied requests"
+msgstr "Verweigerte Anfragen"
+
+msgid "Access is denied!"
+msgstr "Zugriff verweigert."
+
+msgid "Access is denied."
+msgstr "Zugriff verweigert."
+
+msgid "Access technology"
+msgstr "Netztechnologie"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Acknowledge"
+msgstr "Zustimmen"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Activate"
+msgstr "Einschalten"
+
+msgid "Activate user"
+msgstr "Benutzer aktivieren"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Active alarms status"
+msgstr "Status aktiver Alarme"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "Add action"
+msgstr "Kommando hinzufügen"
+
+msgid "Add device"
+msgstr "Gerät hinzufügen"
+
+msgid "Add file"
+msgstr "Datei hinzufügen"
+
+msgid "Add group"
+msgstr "Gruppe hinzufügen"
+
+msgid "Add property"
+msgstr "Attribut hinzufügen"
+
+msgid "Add to group"
+msgstr "Zu Gruppe hinzufügen"
+
+msgid "Add user"
+msgstr "Benutzer hinzufügen"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address range"
+msgstr "Adressbereich"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Agent config"
+msgstr "Agent-Konfiguration"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarm count 3 months"
+msgstr "Anzahl Alarme (letzte 3 Monate)"
+
+msgid "Alarm count today"
+msgstr "Anzahl Alarme (heute)"
+
+msgid "Alarm created"
+msgstr "Alarm erstellt."
+
+msgid "Alarm status changed to \"{{status}}\"."
+msgstr "Alarmstatus auf \"{{status}}\" gesetzt."
+
+msgid "Alarm type"
+msgstr "Alarmtyp"
+
+msgid "Alarm updated"
+msgstr "Alarm aktualisiert"
+
+msgid "Alarms"
+msgstr "Alarme"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All devices"
+msgstr "Alle Geräte"
+
+msgid "Allow support user access"
+msgstr "Zugriff auf Kundenservice zulassen"
+
+msgid "Allows for CREATE, UPDATE and DELETE actions"
+msgstr "Erlaubt Aktionen zum Erstellen, Aktualisieren und Löschen"
+
+msgid "Also delete all devices inside this group and its sub-groups."
+msgstr "Außerdem alle Geräte in dieser Gruppe und den Untergruppen löschen"
+
+msgid "Also delete child devices of this device."
+msgstr "Außerdem alle Untergeräte dieses Geräts löschen"
+
+msgid "Altitude"
+msgstr "Höhe"
+
+msgid "An error has occurred, contact support."
+msgstr "Ein Fehler ist aufgetreten. Bitte kontaktieren Sie den Support."
+
+msgid "An error has occurred. Please try again later."
+msgstr "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+
+msgid "And before"
+msgstr "Und bevor"
+
+msgid "And sort"
+msgstr "und Sortierung"
+
+msgid "Application"
+msgstr "Anwendung"
+
+msgid "Application management"
+msgstr "Anwendungsverwaltung"
+
+msgid "Application subscriptions management"
+msgstr "Anwendungsabonnementverwaltung"
+
+msgid "Application with given name already exists!"
+msgstr "Eine Anwendung mit diesem Namen existiert bereits."
+
+msgid "Application with the following values ({{valuesList}}, contextPath={{contextPath}}) already exists!"
+msgstr "Die Anwendung mit den folgenden Werten ({{valuesList}}, contextPath={{contextPath}}) existiert bereits."
+
+msgid "Apply"
+msgstr "Anwenden"
+
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+msgid "At least 1 data point must be selected"
+msgstr "Es muss mindestens ein Datenpunkt ausgewählt werden."
+
+msgid "Attachment"
+msgstr "Anhang"
+
+msgid "Audit"
+msgstr "Audit"
+
+msgid "Audits"
+msgstr "Audits"
+
+msgid "Auth type"
+msgstr "Authentifizierungstyp"
+
+msgid "Authentication failed! User account is locked."
+msgstr "Authentifizierung fehlgeschlagen. Das Benutzerkonto wurde gesperrt."
+
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+msgid "Availability monitoring record"
+msgstr "Eintrag aus dem Verfügbarkeitsmonitoring"
+
+msgid "Band"
+msgstr "Netz"
+
+msgid "Batch operations"
+msgstr "Sammelkommandos"
+
+msgid "Beware that e-mail is required to reset password"
+msgstr "Die Email-Adresse wird für das Zurücksetzen des Passworts benötigt."
+
+msgid "Boolean"
+msgstr "Boolean"
+
+msgid "Browse"
+msgstr "Durchsuchen"
+
+msgid "Bulk operation cancelled by user."
+msgstr "Sammelkommando wurde vom Benutzer abgebrochen."
+
+msgid "Bulk operation delay must be greater than {{minSeconds}} seconds!"
+msgstr "Die Verzögerung in Sammelkommandos muss größer als {{minSeconds}} Sekunden sein."
+
+msgid "Bulk operations"
+msgstr "Sammelkommandos"
+
+msgid "CANCELLED"
+msgstr "ABGEBROCHEN"
+
+msgid "CEP Manager"
+msgstr "Regelmanager"
+
+msgid "CEP management"
+msgstr "Regeln"
+
+msgid "CEP module \"{{name}}\" created"
+msgstr "CEP-Modul \"{{name}}\" erstellt."
+
+msgid "CEP module \"{{name}}\" deleted"
+msgstr "CEP-Modul \"{{name}}\" gelöscht."
+
+msgid "CEP module \"{{name}}\" updated"
+msgstr "CEP-Modul \"{{name}}\" aktualisiert."
+
+msgid "CEP module created"
+msgstr "CEP-Modul erstellt."
+
+msgid "CEP module deleted"
+msgstr "CEP-Modul gelöscht."
+
+msgid "CEP module updated"
+msgstr "CEP-Modul aktualisiert."
+
+msgid "CLEARED"
+msgstr "GELÖSCHT"
+
+msgid "CLEARED: was active for {{alarmDuration}}"
+msgstr "GELÖSCHT: {{alarmDuration}} aktiv"
+
+msgid "COMPLETED SUCCESSFULLY"
+msgstr "ERFOLGREICH ABGESCHLOSSEN"
+
+msgid "COMPLETED WITH FAILURES"
+msgstr "MIT FEHLERN ABGESCHLOSSEN"
+
+msgid "CRITICAL"
+msgstr "KRITISCH"
+
+msgid "Can access and modify the full user hierarchy"
+msgstr "Kann die ganze Benutzerhierarchie einsehen und bearbeiten"
+
+msgid "Can create new user as his own sub-users and manage this"
+msgstr "Kann neue Benutzer als untergeordnete Benutzer anlegen und verwalten"
+
+msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
+msgstr "Kann mandantenweite Konfigurationen wie Anwendungen, Mandantenoptionen und Datenhaltungsregeln verwalten"
+
+msgid "Can read all data from all devices"
+msgstr "Kann alle Daten von allen Geräten lesen"
+
+msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
+msgstr "Kann alle Daten des Assets lesen und alle Stammdaten verwalten, darf jedoch keine Kommandos ausführen. Kann außerdem Alarme bestätigen und löschen. Kann Dashboards erstellen und ändern."
+
+msgid "Can read all data of the asset."
+msgstr "Kann alle Daten des Assets lesen"
+
+msgid "Can read and write all data from all devices"
+msgstr "Kann alle Daten von allen Geräten lesen und schreiben"
+
+msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
+msgstr "Kann Assets mit Kommandos aus der Ferne steuern. Das beinhaltet zum Beispiel Konfiguration, Software Update, etc."
+
+msgid "Can restart devices."
+msgstr "Kann Geräte neustarten"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Cancel password change"
+msgstr "Passwortänderung abbrechen"
+
+msgid "Cannot activate a certificate which is either expired or not yet valid!"
+msgstr "Ein abgelaufenes oder noch nicht gültiges Zertifikat kann nicht aktiviert werden."
+
+msgid "Cannot add group as its own child."
+msgstr "Gruppe kann nicht zu sich selbst hinzufügt werden."
+
+msgid "Cannot be greater than 3650 days."
+msgstr "Wert darf nicht größer als 3650 Tage sein."
+
+msgid "Cannot change password: provided token is invalid!"
+msgstr "Password kann nicht geändert werden: der eingegebene Token ist ungültig."
+
+msgid "Cannot deploy module '{{moduleName}}'! Compilation failed in expression '{{expression}}': incorrect syntax near '{{syntaxError}}'!"
+msgstr "Das Modul '{{moduleName}}' konnte nicht gestartet werden. Die Kompilierung schlug fehl an der Stelle '{{expression}}': Falsche Syntax: '{{syntaxError}}''!"
+
+msgid "Cannot deploy module {{errorMessage}}"
+msgstr "Kann das Modul nicht starten: {{errorMessage}}"
+
+msgid "Cannot enable custom domain. DNS is setup incorrectly!"
+msgstr "Benutzerdefinierte Domain kann nicht aktiviert werden. DNS-Einstellung ist unzulässig."
+
+msgid "Cannot execute bulk operation on empty group. Group with id \"{{groupId}}\" has no child assets!"
+msgstr "Sammelkommandos können nicht für leere Gruppen ausgeführt werden. Die Gruppe mit der ID \"{{groupId}}\" hat keine Kind-Assets."
+
+msgid "Cannot execute bulk operation on empty group. Smart group with id \"{{groupId}}\" has no child assets!"
+msgstr "Sammelkommandos können nicht für leere Gruppen ausgeführt werden. Die dynamische Gruppe mit der ID \"{{groupId}}\" hat keine Kind-Assets."
+
+msgid "Cannot introduce cyclic ownership dependency!"
+msgstr "Zyklische Besitzabhängigkeit kann nicht eingeführt werden."
+
+msgid "Cannot reschedule bulk operation. All its operations are already successful."
+msgstr "Das Sammelkommando kann nicht neu terminiert werden. Alle Kommandos sind bereits erfolgreich abgeschlossen."
+
+msgid "Cannot reset password for user with such e-mail: e-mail not found!"
+msgstr "Das Passwort für den Benutzer mit dieser Email-Adresse kann nicht zurückgesetzt werden: Email-Adresse nicht gefunden."
+
+msgid "Cannot update/delete application binary via this endpoint"
+msgstr "Mit diesem Endpunkt kann die Binärdatei nicht aktualisiert/ gelöscht werden."
+
+msgid "Cannot use a reserved SQL keyword '{{tenantId}}' as domain!"
+msgstr "SQL-Schlüsselwort \"{{tenantId}}\" kann nicht als Domain verwendet werden."
+
+msgid "Cell ID"
+msgstr "Zell-ID"
+
+msgid "Cellular WAN"
+msgstr "Mobilnetz"
+
+msgid "Change"
+msgstr "Ändern"
+
+msgid "Change log"
+msgstr "Änderungsprotokoll"
+
+msgid "Change page size {{pageSize}}"
+msgstr "Seitengröße auf {{pageSize}} setzen"
+
+msgid "Change parameter"
+msgstr "Parameter ändern"
+
+msgid "Change password"
+msgstr "Passwort ändern"
+
+msgid "Change the severities of alarms based on activity time"
+msgstr "Den Schweregrad eines Alarms erhöhen, wenn er länger aktiv ist"
+
+msgid "Changes"
+msgstr "Änderungen"
+
+msgid "Changes successfully saved!"
+msgstr "Änderungen erfolgreich gespeichert."
+
+msgid "Check Fresenius TDMS server IP"
+msgstr "Fresenius TDMS Server IP prüfen"
+
+msgid "Check Fresenius TDMS server port"
+msgstr "Fresenius TDMS Server Port prüfen"
+
+msgid "Check MQTT enablement"
+msgstr "MQTT-Aktivierung prüfen"
+
+msgid "Check MQTT keepalive interval"
+msgstr "MQTT Keepalive Intervall prüfen"
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr "Prüfen, ob das TCS:BUS Plugin aktiviert ist"
+
+msgid "Checked"
+msgstr "Ausgewählt"
+
+msgid "Child device creation"
+msgstr "Erstellung von Kindgeräten"
+
+msgid "Choose"
+msgstr "Wählen"
+
+msgid "Choose date"
+msgstr "Datum auswählen"
+
+msgid "Choose file"
+msgstr "Datei auswählen"
+
+msgid "Choose group"
+msgstr "Gruppe auswählen"
+
+msgid "Choose language"
+msgstr "Sprache auswählen"
+
+msgid "Choose owner…"
+msgstr "Besitzer auswählen"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "City code"
+msgstr "PLZ"
+
+msgid "Clear"
+msgstr "Löschen"
+
+msgid "Clear All Logfiles"
+msgstr "Alle Logdateien löschen"
+
+msgid "Clear System Logfiles"
+msgstr "Systemlogdateien löschen"
+
+msgid "Clear date range"
+msgstr "Datumsbereich leeren"
+
+msgid "Clear device credentials"
+msgstr "Gerätezugangsdaten zurücksetzen"
+
+msgid "Clear existing alarm"
+msgstr "Bestehenden Alarm löschen"
+
+msgid "Clear filters"
+msgstr "Filter aufheben"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Cockpit"
+msgstr "Cockpit"
+
+msgid "Cockpit User"
+msgstr "Cockpit-Benutzer"
+
+msgid "Collapse breadcrumbs"
+msgstr "Pfadnavigation verkleinern"
+
+msgid "Command state is invalid: {{violations}}"
+msgstr "Kommandostatus ist ungültig: {{violations}}"
+
+msgid "Communication mode"
+msgstr "Kommunikationsmodus"
+
+msgid "Complete Object"
+msgstr "Ganzes Objekt"
+
+msgid "Computed Property"
+msgstr "Berechnetes Attribut"
+
+msgid "Computed property configuration"
+msgstr "Berechnete Attribute konfigurieren"
+
+msgid "Concepts Guide"
+msgstr "Konzepte"
+
+msgid "Config"
+msgstr "Konfiguration"
+
+msgid "Config Eifeler Vacotec server port"
+msgstr "Eifeler Vacotec Server Port konfigurieren"
+
+msgid "Config Fresenius TDMS server IP"
+msgstr "Fresenius TDMS Server IP konfigurieren"
+
+msgid "Config Fresenius TDMS server port"
+msgstr "Fresenius TDMS Server Port konfigurieren"
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr "MQTT Keepalive Intervall konfigurieren [in Sekunden]"
+
+msgid "Config renderer"
+msgstr "Konfigurationsdarstellung"
+
+msgid "Configuration snapshot"
+msgstr "Konfigurationssnapshot"
+
+msgid "Configure computed property"
+msgstr "Berechnetes Attribut konfigurieren"
+
+msgid "Configure debouncing alarm text"
+msgstr "Text des entprellten Alarms konfigurieren"
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr "Entprellungsintervall für GPIO <n> (in Sekunden) konfigurieren"
+
+msgid "Configure hardware"
+msgstr "Hardware konfigurieren"
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr "Statusintervall im SMS-Modus (in Sekunden) konfigurieren"
+
+msgid "Configure mobile"
+msgstr "Mobilinformationen konfigurieren"
+
+msgid "Configure position"
+msgstr "Position konfigurieren"
+
+msgid "Confirm"
+msgstr "Bestätigen"
+
+msgid "Confirm delete?"
+msgstr "Löschen bestätigen?"
+
+msgid "Confirm new password"
+msgstr "Neues Passwort bestätigen"
+
+msgid "Confirm password"
+msgstr "Passwort bestätigen"
+
+msgid "Confirm unassignment?"
+msgstr "Zuordnung aufheben?"
+
+msgid "Connection"
+msgstr "Verbindung"
+
+msgid "Connection from server to device is established"
+msgstr "Verbindung vom Server zum Gerät hergestellt."
+
+msgid "Connection from server to device is not established (not supported by device or no connectivity)"
+msgstr "Derzeit keine Verbindung vom Server zum Gerät (nicht vom Gerät unterstützt oder Verbindungsprobleme)"
+
+msgid "Connection monitoring"
+msgstr "Verbindungsüberwachung"
+
+msgid "Connection not monitored"
+msgstr "Verbindung nicht überwacht."
+
+msgid "Connection refused"
+msgstr "Verbindung verweigert."
+
+msgid "Connection type"
+msgstr "Verbindungstyp"
+
+msgid "Connectivity"
+msgstr "Connectivity"
+
+msgid "Controls access as a support user"
+msgstr "Steuert Zugriff als Kundenservice"
+
+msgid "Controls access in all scopes"
+msgstr "Steuert Zugriff auf alle Bereiche"
+
+msgid "Controls access to audit logs."
+msgstr "Steuert Zugriff auf Audit-Logs"
+
+msgid "Controls access to device alarms."
+msgstr "Steuert Zugriff auf Gerätealarme"
+
+msgid "Controls access to device operations."
+msgstr "Steuert Zugriff auf Gerätekommandos"
+
+msgid "Controls access to events."
+msgstr "Steuert Zugriff auf Ereignisse"
+
+msgid "Controls access to managed objects in inventory."
+msgstr "Steuert Zugriff auf Objekte in den Stammdaten"
+
+msgid "Controls access to meausurements."
+msgstr "Steuert Zugriff auf Messwerte"
+
+msgid "Copied to clipboard"
+msgstr "In die Zwischenablage kopiert."
+
+msgid "Corresponding data will be removed forever after {{maximumAge}} days (executed at night). Do you want to create this rule?"
+msgstr "Die betroffenen Daten werden nach {{maximumAge}} Tagen in der Nacht endgültig gelöscht. Möchten Sie diese Regel anlegen?"
+
+msgid "Could not create application due to an error! Click \"More\" for details."
+msgstr "Die Anwendung konnte nicht erstellt werden. Für Details klicken Sie auf “Mehr”."
+
+msgid "Could not create tenant! Tenant with given domain/URL already exists."
+msgstr "Mandant konnte nicht angelegt werden. Es gibt bereits einen Mandanten mit dieser Domain/ URL."
+
+msgid "Could not find managed object with id '{{deviceId}}' in database!"
+msgstr "Objekt mit der ID '{{deviceId}}' nicht vorhanden."
+
+msgid "Could not remove application assigned to other tenants!"
+msgstr "Eine Anwendung, die anderen Mandanten zugewiesen ist, kann nicht gelöscht werden."
+
+msgid "Could not update phone number!"
+msgstr "Telefonnummer konnte nicht aktualisiert werden."
+
+msgid "Could not update user '{{username}}'!"
+msgstr "Benutzer ‘{{username}}’ konnte nicht aktualisiert werden."
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Create"
+msgstr "Erstellen"
+
+msgid "Create CRITICAL alarm"
+msgstr "KRITISCHEN Alarm erzeugen"
+
+msgid "Create MAJOR alarm"
+msgstr "WICHTIGEN Alarm erzeugen"
+
+msgid "Create MINOR alarm"
+msgstr "WENIGER WICHTIGEN Alarm erzeugen"
+
+msgid "Create Smart Rule"
+msgstr "Smart Rule erstellen"
+
+msgid "Create WARNING alarm"
+msgstr "WARNUNG erzeugen"
+
+msgid "Create alarm if temperature was to low for 15 minutes"
+msgstr "Alarm erzeugen, wenn die Temperatur 15 Minuten lang zu niedrig ist"
+
+msgid "Create alarm on not processed operation"
+msgstr "Alarm für nicht verarbeitetes Kommando erzeugen"
+
+msgid "Create alarm when temperature below 0 degree"
+msgstr "Alarm erzeugen, wenn die Temperatur unter 0 Grad ist"
+
+msgid "Create alarm when temperature over 100 degree"
+msgstr "Alarm erzeugen, wenn die Temperatur über 100 Grad ist"
+
+msgid "Create basic event"
+msgstr "Ereignis erstellen"
+
+msgid "Create battery measurement"
+msgstr "Batteriemessung erstellen"
+
+msgid "Create close relay operation when temperature readings over 100 degree"
+msgstr "Relais schliessen, wenn die Temperatur über 100 Grad ist"
+
+msgid "Create custom measurement"
+msgstr "Benutzerdefinierten Messwert erstellen"
+
+msgid "Create location update event"
+msgstr "Positionsereignis erstellen"
+
+msgid "Create location update event with device update"
+msgstr "Positionsereignis erstellen und Geräteposition aktualisieren"
+
+msgid "Create retention rule"
+msgstr "Datenhaltungsregel anlegen"
+
+msgid "Create signal strength measurement"
+msgstr "Signalstärkemesswert erstellen"
+
+msgid "Create smart group"
+msgstr "Dynamische Gruppe erstellen"
+
+msgid "Create temperature measurement"
+msgstr "Temperaturmesswert erstellen"
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr "Kommando “{{description | translate}}\" erstellt."
+
+msgid "Creation time"
+msgstr "Erstellungszeitpunkt"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Critical alarms"
+msgstr "Kritische Alarme"
+
+msgid "Current RDB snapshot"
+msgstr "Aktueller RDB Snapshot"
+
+msgid "Current band"
+msgstr "Frequenzbereich"
+
+msgid "Current operator"
+msgstr "Aktueller Netzbetreiber"
+
+msgid "Current password invalid!"
+msgstr "Aktuelles Passwort ist ungültig"
+
+msgid "Current value out of defined range."
+msgstr "Aktueller Wert liegt ausserhalb des Wertebereichs"
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+msgid "Custom properties"
+msgstr "Benutzerdefinierte Attribute"
+
+msgid "Cycle data connection status"
+msgstr "Datenverbindung neustarten"
+
+msgid "Cycle detected for route {{route}}!"
+msgstr "Kreislauf in Route {{route}} festgestellt."
+
+msgid "DATE"
+msgstr "DATUM"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "DHCP-Server"
+
+msgid "DNS 1"
+msgstr "DNS 1"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Daily"
+msgstr "Täglich"
+
+msgid "Data logging"
+msgstr "Datenlogging"
+
+msgid "Data type"
+msgstr "Datentyp"
+
+msgid "Date/time"
+msgstr "Datum/Zeit"
+
+msgid "Deactivate"
+msgstr "Abschalten"
+
+msgid "Deactivate owner"
+msgstr "Eigentümer abschalten"
+
+msgid "Default AT Commands"
+msgstr "Standard-AT-Kommandos"
+
+msgid "Default value"
+msgstr "Standardwert"
+
+msgid "Delegate"
+msgstr "Delegieren"
+
+msgid "Delegated by"
+msgstr "Delegiert von"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete Active Jobs"
+msgstr "Aktive Jobs löschen"
+
+msgid "Delete device"
+msgstr "Gerät löschen"
+
+msgid "Delete property"
+msgstr "Attribut löschen"
+
+msgid "Descending"
+msgstr "Absteigend"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Device"
+msgstr "Gerät"
+
+msgid "Device Control"
+msgstr "Gerätesteuerung"
+
+msgid "Device Guides"
+msgstr "Device Guides"
+
+msgid "Device ID must not contain spaces or slashes (\"/\")."
+msgstr "Die Geräte-ID darf keine Leerzeichen oder Schrägstriche enthalten (“/“)."
+
+msgid "Device Info"
+msgstr "Geräteinformation"
+
+msgid "Device added to group"
+msgstr "Gerät zu Gruppe hinzugefügt."
+
+msgid "Device bootstrap"
+msgstr "Geräteregistrierung"
+
+msgid "Device config"
+msgstr "Gerätekonfiguration"
+
+msgid "Device control"
+msgstr "Gerätesteuerung"
+
+msgid "Device creation"
+msgstr "Geräteerstellung"
+
+msgid "Device has been deleted!"
+msgstr "Gerät wurde gelöscht."
+
+msgid "Device info"
+msgstr "Geräteinformation"
+
+msgid "Device management"
+msgstr "Device Management"
+
+msgid "Device name"
+msgstr "Gerätename"
+
+msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translateServerMessage}}\""
+msgstr "Gerätename: \"{{deviceName}}\", Alarmtext: \"{{alarmText | translateServerMessage}}\""
+
+msgid "Device profile"
+msgstr "Geräteprofil"
+
+msgid "Device registration request with ID {{id}} already exists."
+msgstr "Eine Geräteregistrierung für die ID {{id}} existiert bereits."
+
+msgid "Device removed from group"
+msgstr "Gerät aus Gruppe entfernt."
+
+msgid "Device setting"
+msgstr "Geräteeinstellung"
+
+msgid "Device time"
+msgstr "Gerätezeit"
+
+msgid "Devicemanagement User"
+msgstr "Gerätemanagement-Benutzer"
+
+msgid "Disabled"
+msgstr "Abgeschaltet"
+
+msgid "Display current temperature on device"
+msgstr "Die aktuelle Temperatur anzeigen"
+
+msgid "Display selected roaming network"
+msgstr "Aktuelles Roaming-Netz anzeigen"
+
+msgid "Do you really want to delete device \"{{name}}\"? This operation is irreversible."
+msgstr "Möchten Sie das Gerät “{{name}}” löschen? Das Löschen kann nicht rückgängig gemacht werden."
+
+msgid "Do you really want to delete group \"{{name}}\" and its sub-groups recursively? This operation is irreversible."
+msgstr "Möchten Sie die Gruppe “{{name}}” und ihre Untergruppen löschen? Das Löschen kann nicht rückgängig gemacht werden."
+
+msgid "Do you really want to delete group \"{{name}}\"? This operation is irreversible."
+msgstr "Möchten Sie die Gruppe “{{name}}” löschen? Das Löschen kann nicht rückgängig gemacht werden."
+
+msgid "Do you really want to remove file \"{{name}}\"?"
+msgstr "Möchten Sie die Datei \"{{name}}\" löschen?"
+
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr "Möchten Sie die Zuordnung von \"{{name}}\" aufheben?"
+
+msgid "Do you want to reload?"
+msgstr "Möchten Sie die Seite neu laden?"
+
+msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
+msgstr "Wert passt nicht zu Schema {{vm.field.attrs.ngPattern.toString()}}."
+
+msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
+msgstr "Der Domain-Name im hochgeladenen Zertifikat unterscheidet sich von dem aktuell in Nutzung. Schalten Sie die benutzerdefinierte Domain ab, bevor Sie ein neues Zertifikat hochladen."
+
+msgid "Domain name is already in use by another tenant!"
+msgstr "Der Domain-Name wird bereits von einem anderen Mandanten verwendet."
+
+msgid "Don't sort"
+msgstr "Nicht sortieren"
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Downloading"
+msgstr "Wird heruntergeladen"
+
+msgid "Downloading&hellip;"
+msgstr "Wird heruntergeladen&hellip;"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "E-mail address"
+msgstr "Email-Adresse"
+
+msgid "ECN0"
+msgstr "ECN0"
+
+msgid "EXECUTING"
+msgstr "WIRD AUSGEFÜHRT"
+
+msgid "Edit retention rule"
+msgstr "Datenhaltungsregel bearbeiten"
+
+msgid "Edit user"
+msgstr "Benutzer bearbeiten"
+
+msgid "Enable support"
+msgstr "Support aktivieren"
+
+msgid "Enable two-factor authentication"
+msgstr "Zwei-Faktor-Authentifizierung einschalten"
+
+msgid "Enable/disable MQTT communication"
+msgstr "MQTT-Kommunikation ein-/ausschalten"
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr "TCS:BUS Plugin ein-/ausschalten"
+
+msgid "Enabled"
+msgstr "Eingeschaltet"
+
+msgid "End"
+msgstr "Ende"
+
+msgid "Enquire battery level info"
+msgstr "Batteriestand anfragen"
+
+msgid "Enquire device release info"
+msgstr "Release-Information des Geräts anfragen"
+
+msgid "Enquire presentation info"
+msgstr "Präsentationsinformationen anfragen"
+
+msgid "Enquire serial number"
+msgstr "Seriennummer anfragen"
+
+msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
+msgstr "Geben Sie eine gültige internationale Telefonnummer ein. Das akzeptierte Format ist +49 9 876 543 210."
+
+msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
+msgstr "Geben Sie eine gültige internationale Telefonnummer ein. Das akzeptierte Format ist +49 9 876 543 210."
+
+msgid "Error detail"
+msgstr "Fehlerdetail"
+
+msgid "Error in statement {{moduleName}}:{{statementNumber}}! Incorrect syntax near: {{errorDetails}}"
+msgstr "Fehler im Statement {{moduleName}}:{{statementNumber}}. Syntaxfehler in der Nähe von: {{errorDetails}}"
+
+msgid "Event"
+msgstr "Ereignis"
+
+msgid "Event (no Parameter)"
+msgstr "Ereignis (ohne Parameter)"
+
+msgid "Event (with Parameter)"
+msgstr "Ereignis (mit Parametern)"
+
+msgid "Event count 3 months"
+msgstr "Anzahl Ereignisse (letzte 3 Monate)"
+
+msgid "Event count today"
+msgstr "Anzahl Ereignisse (heute)"
+
+msgid "Event processing"
+msgstr "Echtzeit"
+
+msgid "Event type"
+msgstr "Ereignistyp"
+
+msgid "Events"
+msgstr "Ereignisse"
+
+msgid "Execute command template"
+msgstr "Kommando-Template ausführen"
+
+msgid "Expand"
+msgstr "Erweitern"
+
+msgid "External application"
+msgstr "Externe Anwendung"
+
+msgid "External id for type '{{type}}' and value '{{value}}' already exists!"
+msgstr "Identifikator mit Typ ‘{{type}}’ und Wert ‘{{value}}’ bereits vorhanden."
+
+msgid "External id not found for type '{{type}}' and value '{{value}}'."
+msgstr "Identifikator mit Typ '{{type}}' und Wert '{{value}}' nicht gefunden."
+
+msgid "External reference"
+msgstr "Externe Referenz"
+
+msgid "External url"
+msgstr "Externe URL"
+
+msgid "FAILED"
+msgstr "FEHLGESCHLAGEN"
+
+msgid "FLAG"
+msgstr "INDIKATOR"
+
+msgid "Factory Reset"
+msgstr "Werkseinstellungen"
+
+msgid "Factory reset"
+msgstr "Werkseinstellungen"
+
+msgid "Failed to extract certificate from PKCS12!"
+msgstr "Zertifikat konnte nicht aus PKCS12 extrahiert werden."
+
+msgid "Failed to retrieve RDB snapshot because of \"{{failureReason}}\"!"
+msgstr "RDB Snapshot konnte nicht geladen werden: \"{{failureReason}}”."
+
+msgid "Failed to retrieve RDB snapshot!"
+msgstr "RDB Snapshot konnte nicht geladen werden."
+
+msgid "Failed to update domain at the platform."
+msgstr "Änderung der Domain in der Plattform fehlgeschlagen."
+
+msgid "Failure reason"
+msgstr "Fehlergrund"
+
+msgid "Fieldbus4"
+msgstr "Fieldbus4"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Filter by maximum date"
+msgstr "Nach spätestem Datum filtern"
+
+msgid "Filter by maximum value"
+msgstr "Nach maximalem Wert filtern"
+
+msgid "Filter by minimum date"
+msgstr "Nach frühestem Datum filtern"
+
+msgid "Filter by minimum value"
+msgstr "Nach minimalem Wert filtern"
+
+msgid "Filter by pattern"
+msgstr "Nach Pattern filtern"
+
+msgid "Filter date range"
+msgstr "Nach Datumsbereich filtern"
+
+msgid "Filter options"
+msgstr "Filteroptionen"
+
+msgid "Filter properties"
+msgstr "Eigenschaften filtern"
+
+msgid "Filter users"
+msgstr "Benutzer filtern"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Firmware version"
+msgstr "Firmware-Version"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "First occurrence"
+msgstr "Zuerst aufgetreten"
+
+msgid "Following mandatory fields should be included: {{fields}}"
+msgstr "Folgende Pflichtfelder sollten angegeben werden: {{fields}}"
+
+msgid "Forgot password?"
+msgstr "Passwort vergessen?"
+
+msgid "Forum support"
+msgstr "Supportanfrage stellen"
+
+msgid "Fragment"
+msgstr "Fragment"
+
+msgid "Fragment type"
+msgstr "Fragmenttyp"
+
+msgid "From`date`"
+msgstr "Von"
+
+msgid "Full access"
+msgstr "Voller Zugriff"
+
+msgid "GPIO"
+msgstr "GPIO"
+
+msgid "GPIO Pin"
+msgstr "GPIO-Pin"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "GPS tracks hidden"
+msgstr "GPS-Wege verborgen"
+
+msgid "GPS tracks visible"
+msgstr "GPS-Wege sichtbar"
+
+msgid "GSM tracks hidden"
+msgstr "GSM-Wege verborgen"
+
+msgid "GSM tracks visible"
+msgstr "GSM-Wege sichtbar"
+
+msgid "Generating report"
+msgstr "Bericht wird erstellt"
+
+msgid "Get Cinterion information"
+msgstr "Cinterion-Daten abfragen"
+
+msgid "Get Config"
+msgstr "Konfiguration abfragen"
+
+msgid "Get DHCP lease time [seconds]"
+msgstr "DHCP Lease Time (in Sekunden) abfragen"
+
+msgid "Get Device Serial Number"
+msgstr "Seriennummer abfragen"
+
+msgid "Get EVENTS Database"
+msgstr "EVENTS-Datenbank abfragen"
+
+msgid "Get GPIO notify mode"
+msgstr "GPIO-Benachrichtigungsmodus abfragen"
+
+msgid "Get GPIO status"
+msgstr "GPIO-Status abfragen"
+
+msgid "Get GPS enable"
+msgstr "GPS-Status abfragen"
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr "Analogeingang (in Volt) für I/O-Pin abfragen"
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr "Analogeingang (in Volt, Rohdaten) für I/O-Pin abfragen"
+
+msgid "Get I/O pin capability"
+msgstr "Konfigurationsmöglichkeiten der I/O-Pins abfragen"
+
+msgid "Get I/O pin digital input"
+msgstr "Digitaleingang für I/O-Pin abfragen"
+
+msgid "Get I/O pin digital input threshold"
+msgstr "Schwellwert des Digitaleingangs für I/O-Pin abfragen"
+
+msgid "Get I/O pin hardware gain"
+msgstr "Hardware-Verstärkung für I/O-Pin abfragen"
+
+msgid "Get I/O pin mode"
+msgstr "Modus für I/O-Pin abfragen"
+
+msgid "Get I/O pin scale"
+msgstr "Skalierung für I/O-Pin abfragen"
+
+msgid "Get IMSI"
+msgstr "IMSI abfragen"
+
+msgid "Get ISP Database"
+msgstr "ISP-Datenbank abfragen"
+
+msgid "Get LOG Database"
+msgstr "LOG-Datenbank abfragen"
+
+msgid "Get MTU"
+msgstr "MTU abfragen"
+
+msgid "Get Metric"
+msgstr "Routenpriorität abfragen"
+
+msgid "Get PARAM Database"
+msgstr "PARAM-Datenbank abfragen"
+
+msgid "Get PENDING operations"
+msgstr "UNERLEDIGTE Kommandos abfragen"
+
+msgid "Get PROCCFG Database"
+msgstr "PROCCFG-Datenbank abfragen"
+
+msgid "Get SCHEDULE Database"
+msgstr "SCHEDULE-Datenbank abfragen"
+
+msgid "Get SIM status"
+msgstr "SIM-Status abfragen"
+
+msgid "Get TEMPLATE Database"
+msgstr "TEMPLATE-Datenbank abfragen"
+
+msgid "Get Time"
+msgstr "Zeit abfragen"
+
+msgid "Get USER Database"
+msgstr "USER-Datenbank abfragen"
+
+msgid "Get actual ADC in mV"
+msgstr "ADC in mV abfragen"
+
+msgid "Get actual date and time of RTC"
+msgstr "Datum und Zeit der RTC abfragen"
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr "GPIO-Abfrageintervall abfragen (in Sekunden)"
+
+msgid "Get agent GPS interval [seconds]"
+msgstr "GPS-Abfrageintervall abfragen (in Sekunden)"
+
+msgid "Get agent connection server"
+msgstr "Cumulocity-URL abfragen"
+
+msgid "Get agent connection timeout [seconds]"
+msgstr "Verbindungstimeout des Agenten abfragen (in Sekunden)"
+
+msgid "Get agent enable"
+msgstr "Einschaltstatus des Agenten abfragen"
+
+msgid "Get agent log level"
+msgstr "Loglevel des Agenten abfragen"
+
+msgid "Get agent modbus port"
+msgstr "Modbus-Port des Agenten abfragen"
+
+msgid "Get agent network timeout [seconds]"
+msgstr "Netzwerk-Timeout des Agenten abfragen (in Sekunden)"
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr "Intervall zwischen Neuverbindungen abfragen (in Sekunden)"
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr "Abfrageintervall für Signalstärke abfragen (in Sekunden)"
+
+msgid "Get agent status"
+msgstr "Agentenstatus abfragen"
+
+msgid "Get all module events"
+msgstr "Alle Modulereignisse abfragen"
+
+msgid "Get child device"
+msgstr "Kindgerät ermitteln"
+
+msgid "Get command template"
+msgstr "“Get”-Kommando"
+
+msgid "Get current receiver number"
+msgstr "SMS-Empfänger abfragen"
+
+msgid "Get detailed Cinterion information"
+msgstr "Detaillierte Cinterion-Daten abfragen"
+
+msgid "Get device chipset"
+msgstr "Chipsatz abfragen"
+
+msgid "Get device user"
+msgstr "Gerätebenutzer abfragen"
+
+msgid "Get firmware and hardware version"
+msgstr "Firmware- und Hardwareversion abfragen"
+
+msgid "Get installed firmware"
+msgstr "Installierte Firmware abfragen"
+
+msgid "Get internal temperature of chip"
+msgstr "Interne Temperatur des Chips abfragen"
+
+msgid "Get list of files stored on device"
+msgstr "Liste der gespeicherten Dateien abfragen"
+
+msgid "Get network update interval [seconds]"
+msgstr "Abfrageintervall für Netzwerk abfragen (in Sekunden)"
+
+msgid "Get operator selection info"
+msgstr "Informationen zur Betreiberauswahl abfragen"
+
+msgid "Get power source and voltage"
+msgstr "Stromquelle und Spannung abfragen"
+
+msgid "Get power supply voltage"
+msgstr "Stromversorgung abfragen"
+
+msgid "Get pullup voltage [volts]"
+msgstr "Pull-up abfragen (in Volt)"
+
+msgid "Get reconnect delay [seconds]"
+msgstr "Pause zwischen Neuverbindungen abfragen (in Sekunden)"
+
+msgid "Get reconnect retries"
+msgstr "Anzahl Neuverbindungsversuche abfragen"
+
+msgid "Get serial baud rate"
+msgstr "Baudrate abfragen"
+
+msgid "Get serial port mode"
+msgstr "Modus der seriellen Schnittstelle abfragen"
+
+msgid "Get signal strength"
+msgstr "Signalstärke abfragen"
+
+msgid "Get sim pin"
+msgstr "SIM-Pin abfragen"
+
+msgid "Get sim protection"
+msgstr "SIM-Pin-Status abfragen"
+
+msgid "Get supported serial baud rates"
+msgstr "Unterstützte Baudraten abfragen"
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr "Anfrageintervall für Systemressourcemessungen abfragen (in Sekunden)"
+
+msgid "Get the new RDB snapshot from device"
+msgstr "Neuen RDB Snapshot vom Gerät laden"
+
+msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
+msgstr "Gewährt Zugriff auf Sammelkommandos und die Device Management-Anwendung. Dies beinhaltet nicht den Zugriff auf Gerätedaten."
+
+msgid "Global Manager"
+msgstr "Globaler Manager"
+
+msgid "Global Reader"
+msgstr "Globaler Leser"
+
+msgid "Global User Manager"
+msgstr "Globaler Nutzermanager"
+
+msgid "Global inventory permissions override Inventory role permissions. If you want to limit Inventory access, enable it only on inventory roles."
+msgstr "Globale Berechtigungen überschreiben Stammdatenberechtigungen. Wenn Sie den Zugriff auf Stammdaten begrenzen möchten, verwenden Sie nur Stammdatenrollen."
+
+msgid "Global role"
+msgstr "Globale Rolle"
+
+msgid "Global role \"{{name}}\" updated"
+msgstr "Globale Rolle \"{{name}}\" aktualisiert."
+
+msgid "Global role \"{{name}}\" updated: {{updatesList}}"
+msgstr "Globale Rolle \"{{name}}\" aktualisiert: {{updatesList}}"
+
+msgid "Global role updated"
+msgstr "Globale Rolle aktualisiert."
+
+msgid "Go to OpenCellID and see location"
+msgstr "Ort in OpenCellID nachschlagen"
+
+msgid "Go to device"
+msgstr "Zum Gerät gehen"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Group has been deleted!"
+msgstr "Gruppe wurde gelöscht."
+
+msgid "Group name"
+msgstr "Gruppenname"
+
+msgid "Group:&nbsp;"
+msgstr "Gruppe&nbsp;"
+
+msgid "Groups assignment"
+msgstr "Gruppenzuordnung"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Has full access to all deployed CEP modules and SmartRules"
+msgstr "Hat vollen Zugriff auf alle eingesetzten CEP-Module und Smart Rules"
+
+msgid "Help & Service"
+msgstr "Hilfe &amp; Service"
+
+msgid "Help &amp; support"
+msgstr "Hilfe &amp; Support"
+
+msgid "Hosted application"
+msgstr "Gehostete Anwendung"
+
+msgid "Hourly"
+msgstr "Stündlich"
+
+msgid "I/O and PLC"
+msgstr "I/O und PLC"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMEI"
+msgstr "IMEI"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "INTEGER"
+msgstr "INTEGER"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Identity"
+msgstr "Identifikator"
+
+msgid "Imperial"
+msgstr "Imperial"
+
+msgid "In this location since"
+msgstr "An diesem Ort seit"
+
+msgid "Include lowercase characters (e.g. abcdef)"
+msgstr "Kleinbuchstaben verwenden (z. B. abcdef)"
+
+msgid "Include numbers (e.g. 123456)"
+msgstr "Zahlen verwenden (z. B. 1232456)"
+
+msgid "Include symbols (e.g. !@#$%^)"
+msgstr "Sonderzeichen verwenden (z. B. !@#$%^)"
+
+msgid "Include uppercase characters (e.g. ABCDEF)"
+msgstr "Großbuchstaben verwenden (z. B. ABCDEF)"
+
+msgid "Insert the code received via SMS"
+msgstr "Geben Sie den per SMS erhaltenen Code ein"
+
+msgid "Integer"
+msgstr "Integer"
+
+msgid "International phone number required, in the format +49 9 876 543 210."
+msgstr "Internationale Telefonnummer im Format +49 9 876 543 210 erforderlich."
+
+msgid "Invalid credentials!"
+msgstr "Ungültige Zugangsdaten"
+
+msgid "Invalid e-mail"
+msgstr "Ungültige Email-Adresse"
+
+msgid "Invalid email address."
+msgstr "Ungültige Email-Adresse"
+
+msgid "Invalid pattern."
+msgstr "Ungültiges Pattern"
+
+msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
+msgstr "Ungültiges Format der Telefonnummer. Nur Zahlen, Leerzeichen, Schrägstiche (\"/\") und Bindestriche zulässig."
+
+msgid "Inventory"
+msgstr "Stammdaten"
+
+msgid "Inventory role"
+msgstr "Stammdatenrolle"
+
+msgid "Inventory role \"{{name}}\" removed"
+msgstr "Stammdatenrolle ”{{name}}\" gelöscht."
+
+msgid "Inventory role \"{{name}}\" updated"
+msgstr "Stammdatenrolle \"{{name}}\" aktualisiert."
+
+msgid "Inventory role removed"
+msgstr "Stammdatenrolle gelöscht."
+
+msgid "Inventory role updated"
+msgstr "Stammdatenrolle aktualisiert."
+
+msgid "J2ME commands"
+msgstr "J2ME-Kommandos"
+
+msgid "Java Developers Guide"
+msgstr "Java Developers Guide"
+
+msgid "LAC"
+msgstr "LAC"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Label"
+msgstr "Beschriftung"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Last communication"
+msgstr "Letzte Kommunikation"
+
+msgid "Last day"
+msgstr "Letzter Tag"
+
+msgid "Last device message"
+msgstr "Letzte Nachricht vom Gerät"
+
+msgid "Last hour"
+msgstr "Letzte Stunde"
+
+msgid "Last measurement"
+msgstr "Letzter Messwert"
+
+msgid "Last message"
+msgstr "Letzte Nachricht"
+
+msgid "Last message: {{date}}"
+msgstr "Letzte Nachricht: {{date}}"
+
+msgid "Last minute"
+msgstr "Letzte Minute"
+
+msgid "Last month"
+msgstr "Letzter Monat"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "Last occurrence of this alarm (device time)."
+msgstr "Letztes Auftreten dieses Alarms (Gerätezeit)"
+
+msgid "Last request from device to server:<br>{{date}}"
+msgstr "Letzte Anfrage vom Gerät zum Server:<br>{{date}}"
+
+msgid "Last updated"
+msgstr "Zuletzt aktualisiert"
+
+msgid "Last week"
+msgstr "Letzte Woche"
+
+msgid "Latitude"
+msgstr "Breitengrad"
+
+msgid "Limit http queue"
+msgstr "HTTP-Puffer begrenzen"
+
+msgid "Limit http requests"
+msgstr "HTTP-Anfragen begrenzen"
+
+msgid "Limit stream queue"
+msgstr "Stream-Puffer begrenzen"
+
+msgid "Limit stream requests"
+msgstr "Stream-Anfragen begrenzen"
+
+msgid "List of 3 values per software"
+msgstr "Liste von 3 Werten pro Software"
+
+msgid "List of supported operations"
+msgstr "Liste der unterstützten Kommandos"
+
+msgid "Load more"
+msgstr "Mehr laden"
+
+msgid "Locate"
+msgstr "Suchen"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "LogIn"
+msgstr "Login"
+
+msgid "LogIn CHAP"
+msgstr "CHAP-Login"
+
+msgid "LogIn CHAP Response"
+msgstr "CHAP-Login-Antwort"
+
+msgid "LogOut"
+msgstr "Logout"
+
+msgid "Login"
+msgstr "Anmelden"
+
+msgid "Login options"
+msgstr "Anmeldeoptionen"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Longitude"
+msgstr "Längengrad"
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MAJOR"
+msgstr "WICHTIG"
+
+msgid "MCC"
+msgstr "MCC"
+
+msgid "MINOR"
+msgstr "WENIGER WICHTIG"
+
+msgid "MNC"
+msgstr "MNC"
+
+msgid "MSISDN"
+msgstr "MSISDN"
+
+msgid "Maintenance off"
+msgstr "Wartung aus"
+
+msgid "Maintenance on"
+msgstr "Wartung an"
+
+msgid "Major"
+msgstr "Wichtig"
+
+msgid "Major alarms"
+msgstr "Wichtige Alarme"
+
+msgid "Managed object"
+msgstr "Objekt"
+
+msgid "Managed object deleted"
+msgstr "Objekt gelöscht."
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Mark as resolved"
+msgstr "Als gelöst kennzeichnen"
+
+msgid "Max length: 1"
+msgid_plural "Max length: {{vm.field.attrs.maxlength}}"
+msgstr[0] "Maximale Zeichenlänge: 1"
+msgstr[1] "Maximale Zeichenlänge: {{vm.field.attrs.maxlength}}"
+
+msgid "Max value: {{vm.field.attrs.c8yMax}}"
+msgstr "Maximaler Wert: {{vm.field.attrs.c8yMax}}"
+
+msgid "Max value: {{vm.field.attrs.max}}"
+msgstr "Maximaler Wert: {{vm.field.attrs.max}}"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Maximum age (days)"
+msgstr "Maximales Alter (in Tagen)"
+
+msgid "Maximum age cannot be bigger than 10 years."
+msgstr "Das maximale Alter darf 10 Jahre nicht überschreiten."
+
+msgid "Maximum length"
+msgstr "Maximale Länge"
+
+msgid "Measurement"
+msgstr "Messung"
+
+msgid "Measurements"
+msgstr "Messwerte"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Message with id \"{{messageId}}\" doesn't exist in SmartREST template with id \"{{templateId}}\""
+msgstr "Nachricht mit der ID \"{{messageId}}\" im SmartREST-Template mit der ID \"{{templateId}}\" nicht vorhanden."
+
+msgid "Messages"
+msgstr "Nachrichten"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Metric"
+msgstr "Metrik"
+
+msgid "Min value: {{vm.field.attrs.c8yMin}}"
+msgstr "Minimaler Wert: {{vm.field.attrs.c8yMin}}"
+
+msgid "Min value: {{vm.field.attrs.min}}"
+msgstr "Minimaler Wert: {{vm.field.attrs.min}}"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minimum length"
+msgstr "Minimale Länge"
+
+msgid "Minor"
+msgstr "Weniger wichtig"
+
+msgid "Minor alarms"
+msgstr "Weniger wichtige Alarme"
+
+msgid "Minutely"
+msgstr "Minütlich"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Modbus-RTU config"
+msgstr "Modbus-RTU-Konfiguration"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Module config"
+msgstr "Modulkonfiguration"
+
+msgid "Module version"
+msgstr "Modulversion"
+
+msgid "More"
+msgstr "Mehr"
+
+msgid "More data may be available"
+msgstr "Es könnten weitere Daten vorliegen."
+
+msgid "More…"
+msgstr "Mehr…"
+
+msgid "Motion detector"
+msgstr "Bewegungsmelder"
+
+msgid "Must be valid JSONPath expression."
+msgstr "Eingabe muss ein gültiger JSONPath-Ausdruck sein."
+
+msgid "Must have at least {{length}} characters"
+msgstr "Eingabe muss mindestens {{length}} Zeichen enthalten."
+
+msgid "NEW"
+msgstr "NEU"
+
+msgid "NTC commands"
+msgstr "NTC-Kommandos"
+
+msgid "NUMBER"
+msgstr "ZAHL"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Netmask"
+msgstr "Netzmaske"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Network service"
+msgstr "Netzwerkdienst"
+
+msgid "New password"
+msgstr "Neues Passwort"
+
+msgid "New password can't be the same as current one!"
+msgstr "Das neue Passwort sollte sich vom vorigen unterscheiden."
+
+msgid "Next page"
+msgstr "Nächste Seite"
+
+msgid "No LoRa provider settings are found. Please configure the connectivity settings."
+msgstr "Keine LoRa-Anbietereinstellungen gefunden. Bitte konfigurieren Sie Ihre Connectivity-Einstellungen."
+
+msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
+msgstr "Diesem Gerät wurde bisher kein RDB Snapshot zugewiesen. Laden Sie den aktuellen RDB Snapshot vom Gerät."
+
+msgid "No alarms"
+msgstr "Keine Alarme"
+
+msgid "No alarms to display."
+msgstr "Keine Alarme anzuzeigen."
+
+msgid "No communication with device since {{timestamp | absoluteDate}}!"
+msgstr "Keine Kommunikation mit dem Gerät seit {{timestamp | absoluteDate}}."
+
+msgid "No conversion"
+msgstr "Keine Umwandlung"
+
+msgid "No data received from device within required interval."
+msgstr "Im erforderlichen Zeitraum wurden keine Daten vom Gerät empfangen."
+
+msgid "No delegation"
+msgstr "Keine Delegation"
+
+msgid "No devices to display."
+msgstr "Keine Geräte vorhanden."
+
+msgid "No entries to display."
+msgstr "Keine Einträge vorhanden."
+
+msgid "No events to display."
+msgstr "Keine Ereignisse vorhanden."
+
+msgid "No file selected"
+msgstr "Keine Datei ausgewählt."
+
+msgid "No file selected."
+msgstr "Keine Datei ausgewählt."
+
+msgid "No items to display!"
+msgstr "Keine Einträge vorhanden."
+
+msgid "No items to display."
+msgstr "Keine Einträge vorhanden."
+
+msgid "No position fragment in selected devices"
+msgstr "Keine Ortsangabe in den ausgewählten Geräten vorhanden."
+
+msgid "No request was denied."
+msgstr "Keine Anfrage verweigert."
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Not monitored"
+msgstr "Nicht überwacht"
+
+msgid "Note: report generation can take a long time to complete."
+msgstr "Das Erzeugen des Berichts kann einige Zeit dauern."
+
+msgid "Notes"
+msgstr "Anmerkungen"
+
+msgid "Nothing found."
+msgstr "Nichts gefunden."
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Number of child assets"
+msgstr "Anzahl der Kind-Assets"
+
+msgid "Number of child devices"
+msgstr "Anzahl der Kindgeräte"
+
+msgid "Number of occurrences"
+msgstr "Anzahl der Vorkommnisse"
+
+msgid "OBJECT ARRAY"
+msgstr "OBJEKT ARRAY"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OPERATION STATUS"
+msgstr "KOMMANDOSTATUS"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Only letters and digits are allowed!"
+msgstr "Nur Buchstaben und Zahlen zulässig."
+
+msgid "Only lowercase letters, digits and underscore character allowed in the first part of the URI! It must start with a letter, underscore only allowed in the middle. Must be a valid URI."
+msgstr "Es muss eine gültige URI eingegeben werden. Im ersten Teil der URI sind nur Kleinbuchstaben, Zahlen und Unterstriche zulässig. Das erste Zeichen muss ein Buchstabe sein, ein Unterstrich darf nur in der Mitte verwendet werden."
+
+msgid "Only lowercase letters, digits and underscore character allowed! Must start with a letter, underscore only allowed in the middle, minimum 2 characters."
+msgstr "Nur Kleinbuchstaben, Zahlen und Unterstriche zulässig. Das erste Zeichen muss ein Buchstabe sein, ein Unterstrich darf nur in der Mitte verwendet werden, die Mindestlänge beträgt 2 Zeichen."
+
+msgid "Only showing {{count}} devices due to performance reasons"
+msgstr "Unter Berücksichtigung der Performanz werden nur {{count}} Geräte angezeigt"
+
+msgid "Only value"
+msgstr "Nur Wert"
+
+msgid "OpenCellId"
+msgstr "OpenCellId"
+
+msgid "Operation"
+msgstr "Kommando"
+
+msgid "Operation cancelled by user."
+msgstr "Kommando vom Benutzer abgebrochen."
+
+msgid "Operation created"
+msgstr "Kommando erstellt."
+
+msgid "Operation created: status=\"{{status | translate}}\"."
+msgstr "Kommando erstellt: Status=\"{{status | translate}}\""
+
+msgid "Operation updated"
+msgstr "Kommando aktualisiert."
+
+msgid "Operation updated: {{updatesList}}"
+msgstr "Kommando aktualisiert: {{updatesList}}"
+
+msgid "Operations: All"
+msgstr "Kommandos: Alle"
+
+msgid "Operations: Restart Device"
+msgstr "Kommandos: Gerät neustarten"
+
+msgid "Operator"
+msgstr "Netzbetreiber"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Option \"{{option}}\" created"
+msgstr "Option \"{{option}}\" erstellt."
+
+msgid "Option \"{{option}}\" deleted"
+msgstr "Option \"{{option}}\" gelöscht."
+
+msgid "Option created"
+msgstr "Option erstellt."
+
+msgid "Option deleted"
+msgstr "Option gelöscht."
+
+msgid "Option management"
+msgstr "Optionen"
+
+msgid "Or"
+msgstr "Oder"
+
+msgid "Own user management"
+msgstr "Eigener Benutzer"
+
+msgid "Owner"
+msgstr "Eigentümer"
+
+msgid "PAUSED"
+msgstr "PAUSIERT"
+
+msgid "PENDING"
+msgstr "AUSSTEHEND"
+
+msgid "PENDING ACCEPTANCE"
+msgstr "BITTE AKZEPTIEREN"
+
+msgid "Page should be reloaded to correctly apply measurement units setting changes"
+msgstr "Die Seite muss neu geladen werden, um die geänderten Einstellungen der Messwerteinheiten korrekt anzuwenden."
+
+msgid "Page size"
+msgstr "Seitengröße"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password confirmation does not match"
+msgstr "Passwortbestätigung stimmt nicht überein."
+
+msgid "Password confirmation does not match."
+msgstr "Passwortbestätigung stimmt nicht mit Passwort überein."
+
+msgid "Password is invalid! It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
+msgstr "Das Passwort ist ungültig. Es muss mindestens {{minCharactersCount}} Zeichen enthalten und höchstens {{maxCharactersCount}}."
+
+msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr "Das Passwort muss mindestens 8 und maximal 32 Zeichen lang sein. Es darf nur aus Buchstaben, Ziffern und den folgenden Zeichen bestehen: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+
+msgid "Password must have at least 8 characters and no more than 32."
+msgstr "Das Passwort muss mindestens acht Zeichen enthalten und höchstens 32."
+
+msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr "Das Passwort muss mindestens {{min}} und höchstens{{max}} Zeichen lang sein. Es darf nur aus Buchstaben, Ziffern und den folgenden Zeichen bestehen: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+
+msgid "Password not good enough, password must be be stronger (green)."
+msgstr "Wählen Sie ein stärkeres Passwort. Die Anzeige muss grün sein."
+
+msgid "Password reset request has been sent. Please check your e-mail."
+msgstr "Die Anfrage zum Zurücksetzen des Passworts wurde verschickt. Bitte überprüfen Sie Ihre Emails."
+
+msgid "Password successfully changed. You can now login with your new password."
+msgstr "Passwort wurde erfolgreich geändert. Sie können sich nun mit Ihrem neuen Passwort anmelden."
+
+msgid "Platform application cannot be added to, nor removed from any tenant."
+msgstr "Plattformanwendung kann weder zu einem Mandanten hinzugefügt noch gelöscht werden."
+
+msgid "Please meet 4 out of 5 the conditions below"
+msgstr "Bitte erfüllen Sie 4 von 5 der folgenden Bedingungen."
+
+msgid "Please type something to execute a search."
+msgstr "Tippen Sie etwas, um die Suche zu starten."
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr "Vordefiniert Adeunis LoRaWan.Puls"
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr "Vordefiniert Adeunis LoRaWan-Sensor"
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr "Vordefiniert Ascocl CM868LR-CMUS915LR"
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr "Vordefiniert Ascocl CM868LRTH-CMUS915LRTH"
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr "Vordefiniert  Ascolc IR868LR-IRUS915LR"
+
+msgid "Predefined ED1608 General Sensor"
+msgstr "Vordefiniert ED1608 General Sensor"
+
+msgid "Press Ctrl/Cmd+C to copy"
+msgstr "Strg/Cmd+C drücken zum Kopieren"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+msgid "Processing"
+msgstr "Wird verarbeitet"
+
+msgid "Project data"
+msgstr "Projektdaten"
+
+msgid "Properties"
+msgstr "Attribute"
+
+msgid "Property"
+msgstr "Attribut"
+
+msgid "Provide your phone number"
+msgstr "Stellen Sie Ihre Telefonnummer bereit."
+
+msgid "Pulse 1 setting"
+msgstr "Puls-1-Einstellung"
+
+msgid "Pulse 2 setting"
+msgstr "Puls-2-Einstellung"
+
+msgid "Push connection: active"
+msgstr "Push-Verbindung: aktiv"
+
+msgid "Push connection: inactive"
+msgstr "Push-Verbindung: nicht aktiv"
+
+msgid "Query Active Jobs"
+msgstr "Aktive Jobs abfragen"
+
+msgid "Query Analog Input Hutline"
+msgstr "Analogeingang abfragen"
+
+msgid "Query Eifeler Vacotec server port"
+msgstr "Eifeler Vacotec Server Port abfragen"
+
+msgid "Query Enabled Servicese"
+msgstr "Eingeschaltete Services abfragen"
+
+msgid "Query Ethernet state"
+msgstr "Ethernet-Status abfragen"
+
+msgid "Query Firmware Version"
+msgstr "Firmwareversion abfragen"
+
+msgid "Query Fresenius VPN proxy status"
+msgstr "Fresenius VPN Proxy-Status abfragen"
+
+msgid "Query GSM state"
+msgstr "GSM-Status abfragen"
+
+msgid "Query Hardware"
+msgstr "Hardware abfragen"
+
+msgid "Query Inputs Hutline"
+msgstr "Eingänge abfragen"
+
+msgid "Query Outputs Hutline"
+msgstr "Ausgänge abfragen"
+
+msgid "Query ProcessVars"
+msgstr "Prozessvariablen abfragen"
+
+msgid "Query Stations Bus"
+msgstr "Stationsbus abfragen"
+
+msgid "Query WLAN state"
+msgstr "WLAN-Status abfragen"
+
+msgid "Quick links"
+msgstr "Schnell-Links"
+
+msgid "RCSP"
+msgstr "RCSP"
+
+msgid "RDB snapshot"
+msgstr "RDB Snapshot"
+
+msgid "RDB snapshot file"
+msgstr "RDB Snapshot-Datei"
+
+msgid "RDB snapshot has been stored in files repository!"
+msgstr "RDB Snapshot wurde in der Dateiablage gespeichert."
+
+msgid "REST Developers Guide"
+msgstr "REST Developers Guide"
+
+msgid "RSSI"
+msgstr "RSSI"
+
+msgid "RUNNING"
+msgstr "LAUFEND"
+
+msgid "Raw error code"
+msgstr "Original-Fehlermeldung"
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Read Event-Log"
+msgstr "Event-Log auslesen"
+
+msgid "Read FailedIncomingCall-Log"
+msgstr "FailedIncomingCall-Log auslesen"
+
+msgid "Read IncomingMessage-Log"
+msgstr "IncomingMessage-Log auslesen"
+
+msgid "Read Job-Report"
+msgstr "JobReport auslesen"
+
+msgid "Read Log Counter"
+msgstr "LogCounter auslesen"
+
+msgid "Read Logfile"
+msgstr "Logdatei auslesen"
+
+msgid "Read Login-Log"
+msgstr "Login-Log auslesen"
+
+msgid "Read SupportLog"
+msgstr "SupportLog auslesen"
+
+msgid "Read current network status"
+msgstr "Netzwerkstatus auslesen"
+
+msgid "Read timed out"
+msgstr "Lese-Timeout"
+
+msgid "Reader"
+msgstr "Leser"
+
+msgid "Realtime"
+msgstr "Automatische Aktualisierung"
+
+msgid "Reboot device"
+msgstr "Gerät neustarten"
+
+msgid "Received signal code power"
+msgstr "RSCP"
+
+msgid "Reference Guide"
+msgstr "Referenz"
+
+msgid "Refresh alarm list contents"
+msgstr "Alarmliste aktualisieren"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Registration date"
+msgstr "Registrierungsdatum "
+
+msgid "Regular expression"
+msgstr "Regulärer Ausdruck"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "Remember me"
+msgstr "Passwort merken"
+
+msgid "Remote Control"
+msgstr "Fernsteuerung"
+
+msgid "Remove"
+msgstr "Löschen"
+
+msgid "Render type"
+msgstr "Darstellungsart"
+
+msgid "Reoccurrence count"
+msgstr "Wiederholungszähler"
+
+msgid "Report"
+msgstr "Bericht"
+
+msgid "Repository"
+msgstr "Ablage"
+
+msgid "Request support"
+msgstr "Supportanfrage stellen"
+
+msgid "Requested data denied access"
+msgstr "Verweigerter Zugriff auf Daten"
+
+msgid "Required"
+msgstr "Erforderlich"
+
+msgid "Required availability"
+msgstr "Verbindungsüberwachung"
+
+msgid "Required interval"
+msgstr "Erwartetes Sendeintervall"
+
+msgid "Required interval must be a number and cannot be longer than a year!"
+msgstr "Das erwartete Sendeintervall muss eine Nummer sein und darf ein Jahr nicht überschreiten."
+
+msgid "Required interval must be a positive number!"
+msgstr "Das erwartete Sendeintervall muss eine positive Nummer sein."
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Reset Update"
+msgstr "Update zurücksetzen"
+
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+msgid "Response interval"
+msgstr "Erwartetes Sendeintervall"
+
+msgid "Responses"
+msgstr "Antworten"
+
+msgid "Retention rules"
+msgstr "Datenhaltungsregeln"
+
+msgid "Retrieve RDB snapshot"
+msgstr "RDB Snapshot abrufen"
+
+msgid "Retrieving alarms…"
+msgstr "Empfange Alarme..."
+
+msgid "Return type"
+msgstr "Ergebnistyp"
+
+msgid "Revision"
+msgstr "Version"
+
+msgid "SCHEDULED"
+msgstr "GEPLANT"
+
+msgid "SEVERITY"
+msgstr "SCHWEREGRAD"
+
+msgid "SIM"
+msgstr "SIM"
+
+msgid "SIM status"
+msgstr "SIM-Status"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SRT 360i Sample Commands"
+msgstr "SRT 360i Beispielkommandos"
+
+msgid "STRING"
+msgstr "TEXT"
+
+msgid "SUCCESSFUL"
+msgstr "ERFOLGREICH"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save and continue"
+msgstr "Speichern und fortfahren"
+
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Scan M-Bus"
+msgstr "M-Bus scannen"
+
+msgid "ScanWLAN"
+msgstr "WLAN scannen"
+
+msgid "Schedule device restart every day at 1am"
+msgstr "Gerät jeden Tag um ein Uhr morgens neustarten"
+
+msgid "Search files"
+msgstr "Dateien auswählen"
+
+msgid "Search for groups or assets…"
+msgstr "Suche nach Gruppen oder Assets"
+
+msgid "Search more"
+msgstr "Weitersuchen"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "Select file"
+msgstr "Datei auswählen"
+
+msgid "Select location change event once for 60 seconds"
+msgstr "Einen Ortswechsel pro 60 Sekunden auswählen"
+
+msgid "Select or search"
+msgstr "Auswählen/Suchen"
+
+msgid "Select or search group"
+msgstr "Gruppe auswählen oder suchen"
+
+msgid "Select properties"
+msgstr "Attribute auswählen"
+
+msgid "Select temperature readings over 100 degree"
+msgstr "Temperaturmessungen über 100 Grad auswählen"
+
+msgid "Select unit conversion"
+msgstr "Einheitenumwandlung auswählen"
+
+msgid "Selected file is no longer available in the platform!"
+msgstr "Die Datei ist nicht mehr verfügbar."
+
+msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}!"
+msgstr "Ausgewählte Datei ist zu groß &ndash; maximal {{limitBytes | bytes}} erlaubt."
+
+msgid "Selected unit conversion will be used for displaying data. Choose \"No conversion\" to see original units sent by devices"
+msgstr "Die ausgewählte Einheitenumwandlung wird für die Darstellung der Daten verwendet. Wählen Sie “Keine Umwandlung”, um die Originaleinheiten anzuzeigen, die das Gerät gesendet hat."
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Send alarms that are active since 30 minutes to email"
+msgstr "Email versenden, wenn Alarme mehr als 30 Minuten aktiv sind"
+
+msgid "Send connection status unknown"
+msgstr "Sendeverbindungs-Status unbekannt"
+
+msgid "Send connection: not monitored"
+msgstr "Sendeverbindung: nicht überwacht"
+
+msgid "Send connection: offline"
+msgstr "Sendeverbindung: nicht aktiv"
+
+msgid "Send connection: online"
+msgstr "Sendeverbindung: aktiv"
+
+msgid "Send new code"
+msgstr "Neuen Code senden"
+
+msgid "Send password reset link as e-mail"
+msgstr "Link für das Zurücksetzen des Passworts per Email senden"
+
+msgid "Send sales to Zapier"
+msgstr "Verkaufszahlen an Zapier senden"
+
+msgid "Send simulator temperature to Zapier"
+msgstr "Simulatortemperatur an Zapier senden"
+
+msgid "Sensor threshold"
+msgstr "Sensorschwellwert"
+
+msgid "Serial"
+msgstr "Seriennummer"
+
+msgid "Serial number"
+msgstr "Seriennummer"
+
+msgid "Series"
+msgstr "Datenpunkt"
+
+msgid "Serve cell information"
+msgstr "Zelleninformation lesen"
+
+msgid "Server creation time"
+msgstr "Erstellungszeitpunkt (Server)"
+
+msgid "Server error"
+msgstr "Serverfehler"
+
+msgid "Server time"
+msgstr "Serverzeit"
+
+msgid "Server time can be different from device times in other fields."
+msgstr "In diesem Feld wird die Serverzeit angezeigt. Diese kann sich von der Gerätezeit in anderen Feldern unterscheiden."
+
+msgid "Set ALIVE interval"
+msgstr "ALIVE Intervall konfigurieren"
+
+msgid "Set AT command error messaging"
+msgstr "AT-Kommando-Fehlermeldungen setzen"
+
+msgid "Set Config"
+msgstr "Konfiguration setzen"
+
+msgid "Set DHCP lease time [seconds]"
+msgstr "DHCP Lease Time (in Sekunden) setzen"
+
+msgid "Set FLAGS"
+msgstr "FLAGS setzen"
+
+msgid "Set GPIO notify mode"
+msgstr "GPIO-Benachrichtigungsmodus setzen"
+
+msgid "Set GPS enable"
+msgstr "GPS-Status setzen"
+
+msgid "Set I/O pin hardware gain"
+msgstr "Hardwareverstärkung für I/O-Pin setzen"
+
+msgid "Set I/O pin mode"
+msgstr "Modus für I/O-Pin setzen"
+
+msgid "Set I/O pin scale"
+msgstr "Skalierung für I/O-Pin setzen"
+
+msgid "Set INHIBTIME interval"
+msgstr "INHIBTIME-Intervall konfigurieren"
+
+msgid "Set MODE"
+msgstr "MODE konfigurieren"
+
+msgid "Set MTU"
+msgstr "MTU setzen"
+
+msgid "Set Metric"
+msgstr "Routenpriorität setzen"
+
+msgid "Set Output Hutline"
+msgstr "Ausgang konfigurieren"
+
+msgid "Set SignalLED"
+msgstr "Signal-LED setzen"
+
+msgid "Set TestMode"
+msgstr "TestMode setzen"
+
+msgid "Set Time"
+msgstr "Zeit setzen"
+
+msgid "Set Variable Bus"
+msgstr "Busvariable setzen"
+
+msgid "Set Variable PV"
+msgstr "Prozessvariable setzen"
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr "GPIO-Abfrageintervall setzen (in Sekunden)"
+
+msgid "Set agent GPS interval [seconds]"
+msgstr "GPS-Abfrageintervall setzen (in Sekunden)"
+
+msgid "Set agent connection server"
+msgstr "Cumulocity-URL setzen"
+
+msgid "Set agent connection timeout [seconds]"
+msgstr "Verbindungstimeout konfigurieren (in Sekunden)"
+
+msgid "Set agent enable"
+msgstr "Einschaltstatus des Agenten setzen"
+
+msgid "Set agent log level"
+msgstr "Loglevel des Agenten setzen"
+
+msgid "Set agent modbus port"
+msgstr "Modbus-Port setzen"
+
+msgid "Set agent network timeout [seconds]"
+msgstr "Netzwerk-Timeout konfigurieren (in Sekunden)"
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr "Intervall zwischen Neuverbindungen konfigurieren (in Sekunden)"
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr "Signalstärke-Abfrageintervall konfigurieren (in Sekunden)"
+
+msgid "Set command template"
+msgstr "“Set”-Kommando"
+
+msgid "Set configuration"
+msgstr "Konfiguration einstellen"
+
+msgid "Set configuration parameter"
+msgstr "Konfigurationsparameter setzen"
+
+msgid "Set firmware"
+msgstr "Firmware aktualisieren"
+
+msgid "Set humidity threshold"
+msgstr "Schwellwert für Feuchtigkeit konfigurieren"
+
+msgid "Set network update interval [seconds]"
+msgstr "Abfrageintervall für Netzwerk konfigurieren (in Sekunden)"
+
+msgid "Set operation to EXECUTING"
+msgstr "Kommando auf WIRD AUSGEFÜHRT setzen"
+
+msgid "Set operation to FAILED"
+msgstr "Kommando auf FEHLGESCHLAGEN setzen"
+
+msgid "Set operation to SUCCESSFUL"
+msgstr "Kommando auf ERFOLGREICH setzen"
+
+msgid "Set password"
+msgstr "Passwort festlegen"
+
+msgid "Set pullup voltage [volts]"
+msgstr "Pull-up setzen (in Volt)"
+
+msgid "Set receiver number for SMS mode"
+msgstr "SMS-Empfänger setzen"
+
+msgid "Set reconnect delay [seconds]"
+msgstr "Pause zwischen Neuverbindungen konfigurieren (in Sekunden)"
+
+msgid "Set reconnect retries"
+msgstr "Anzahl Neuverbindungsversuche setzen"
+
+msgid "Set required availability"
+msgstr "Erwartete Verfügbarkeit konfigurieren"
+
+msgid "Set serial baud rate"
+msgstr "Baudrate setzen"
+
+msgid "Set serial port mode"
+msgstr "Modus der seriellen Schnittstelle setzen"
+
+msgid "Set sim pin"
+msgstr "SIM-Pin setzen"
+
+msgid "Set sim protection"
+msgstr "SIM-Pin-Status setzen"
+
+msgid "Set software list"
+msgstr "Softwareliste aktualisieren"
+
+msgid "Set supported operations"
+msgstr "Unterstützte Kommandos aktualisieren"
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr "Anfrageintervall für Systemressourcenmessungen konfigurieren (in Sekunden)"
+
+msgid "Set temperature threshold"
+msgstr "Schwellwert für Temperatur konfigurieren"
+
+msgid "Severity"
+msgstr "Schweregrad"
+
+msgid "Shared User Manager"
+msgstr "Geteilter Nutzermanager"
+
+msgid "Should be a valid number"
+msgstr "Wert muss eine gültige Zahl sein."
+
+msgid "Should be a valid regular expression"
+msgstr "Wert muss ein gültiger regulärer Ausdruck sein."
+
+msgid "Show"
+msgstr "Anzeigen"
+
+msgid "Show all breadcrumbs"
+msgstr "Pfadnavigation anzeigen"
+
+msgid "Show checkboxes that are"
+msgstr "Zeige folgende Checkboxen"
+
+msgid "Show details"
+msgstr "Details anzeigen"
+
+msgid "Show devices in group"
+msgstr "Anzeigen von Geräten in Gruppe"
+
+msgid "Show devices registered after"
+msgstr "Anzeigen von Geräten mit Registrierung nach"
+
+msgid "Show devices with IMEI"
+msgstr "Anzeigen von Geräten mit IMEI"
+
+msgid "Show devices with active"
+msgstr "Anzeigen von Geräten mit aktiven Alarmen"
+
+msgid "Show devices with maintenance status"
+msgstr "Anzeigen von Geräten mit Wartungsstatus"
+
+msgid "Show devices with model"
+msgstr "Anzeigen von Geräten mit Modell"
+
+msgid "Show devices with name"
+msgstr "Anzeigen von Geräten mit Namen"
+
+msgid "Show devices with push status"
+msgstr "Anzeigen von Geräten mit Push-Status"
+
+msgid "Show devices with send status"
+msgstr "Anzeigen von Geräten mit Sendestatus"
+
+msgid "Show devices with serial number"
+msgstr "Anzeigen von Geräten mit Seriennummer"
+
+msgid "Show devices with system ID"
+msgstr "Anzeigen von Geräten mit System-ID"
+
+msgid "Show error message"
+msgstr "Fehlermeldung anzeigen"
+
+msgid "Show more"
+msgstr "Mehr anzeigen"
+
+msgid "Show summary"
+msgstr "Zusammenfassung anzeigen"
+
+msgid "Showing 1 child device"
+msgid_plural "Showing {{devices.length}} child devices"
+msgstr[0] "Ein Kindgerät wird angezeigt"
+msgstr[1] "{{devices.length}} Kindgeräte werden angezeigt"
+
+msgid "Showing {{devices.length}}"
+msgstr "{{devices.length}} wird angezeigt"
+
+msgid "Showing {{devices.length}} items"
+msgstr "{{devices.length}} Elemente werden angezeigt"
+
+msgid "Showing {{devices.length}} of {{totalDevices}}"
+msgstr "{{devices.length}} von insgesamt {{totalDevices}} Geräten werden angezeigt"
+
+msgid "Sign in"
+msgstr "Einloggen"
+
+msgid "Signal quality"
+msgstr "Signalqualität"
+
+msgid "Signal strength"
+msgstr "Signalstärke"
+
+msgid "Simulator state is invalid: {{violations}}"
+msgstr "Simulatorstatus ist ungültig: {{violations}}"
+
+msgid "Slash, single or double dots and white space not allowed"
+msgstr "Schrägstriche, Punkte und Leerzeichen sind nicht zugelassen."
+
+msgid "Smart Rule"
+msgstr "Smart Rule"
+
+msgid "Smart Rule \"{{name}}\" created"
+msgstr "Smart Rule \"{{name}}\" erstellt."
+
+msgid "Smart Rule \"{{name}}\" deleted"
+msgstr "Smart Rule \"{{name}}\" gelöscht."
+
+msgid "Smart Rule \"{{name}}\" disabled"
+msgstr "Smart Rule \"{{name}}\" deaktiviert."
+
+msgid "Smart Rule \"{{name}}\" enabled"
+msgstr "Smart Rule \"{{name}}\" aktiviert."
+
+msgid "Smart Rule \"{{name}}\" updated"
+msgstr "Smart Rule \"{{name}}\" aktualisiert."
+
+msgid "Smart Rule created"
+msgstr "Smart Rule erstellt."
+
+msgid "Smart Rule deleted"
+msgstr "Smart Rule gelöscht."
+
+msgid "Smart Rule disabled"
+msgstr "Smart Rule deaktiviert."
+
+msgid "Smart Rule enabled"
+msgstr "Smart Rule aktiviert."
+
+msgid "Smart Rule updated"
+msgstr "Smart Rule aktualisiert."
+
+msgid "Smart group \"{{name}}\" has been created!"
+msgstr "Dynamische Gruppe \"{{name}}\" wurde erstellt."
+
+msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
+msgstr "SmartREST-Template mit der ID \"{{templateId}}\" existiert nicht."
+
+msgid "Smartbox Commands"
+msgstr "Smartbox-Kommandos"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Sound detector"
+msgstr "Geräuschmelder"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start Process"
+msgstr "Prozess starten"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stop Process"
+msgstr "Prozess anhalten"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "String"
+msgstr "Zeichenkette"
+
+msgid "String does not match pattern: {{schema.pattern}}"
+msgstr "Text entspricht nicht dem Muster: {{schema.pattern}}"
+
+msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}!"
+msgstr "Text ist zu lang ({{viewValue.length}} Zeichen), Maximale Länge {{schema.maxLength}}."
+
+msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}!"
+msgstr "Text ist zu kurz ({{viewValue.length}} Zeichen), Minimale Länge {{schema.minLength}}."
+
+msgid "Subject"
+msgstr "Betreff"
+
+msgid "Submit"
+msgstr "Senden"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Support request"
+msgstr "Supportanfrage"
+
+msgid "Support request sent"
+msgstr "Supportanfrage gestellt"
+
+msgid "Support user access activated"
+msgstr "Kundenservice Zugriff ist aktiviert"
+
+msgid "Switch motion detector off"
+msgstr "Bewegungsmelder ausschalten"
+
+msgid "Switch motion detector on"
+msgstr "Bewegungsmelder einschalten"
+
+msgid "Switch sound detector off"
+msgstr "Geräuschmelder ausschalten"
+
+msgid "Switch sound detector on"
+msgstr "Geräuschmelder einschalten"
+
+msgid "Switch to ModemMode"
+msgstr "ModemMode einschalten"
+
+msgid "Switch vibration detector off"
+msgstr "Vibrationssensor ausschalten"
+
+msgid "Switch vibration detector on"
+msgstr "Vibrationssensor einschalten"
+
+msgid "System"
+msgstr "System"
+
+msgid "System ID"
+msgstr "System-ID"
+
+msgid "Target"
+msgstr "Ziel"
+
+msgid "Target URL {{targetUrl}} already used by another connector!"
+msgstr "Ziel-URL {{targetUrl}} wird bereits von einer anderen Verbindung verwendet."
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Tenant"
+msgstr "Mandant"
+
+msgid "Tenant \"{{tenant}}\" activated"
+msgstr "Mandant \"{{tenant}}\" aktiviert."
+
+msgid "Tenant \"{{tenant}}\" created"
+msgstr "Mandant \"{{tenant}}\" erstellt."
+
+msgid "Tenant \"{{tenant}}\" deleted"
+msgstr "Mandant \"{{tenant}}\" gelöscht."
+
+msgid "Tenant \"{{tenant}}\" suspended"
+msgstr "Mandant \"{{tenant}}\" gesperrt."
+
+msgid "Tenant \"{{tenant}}\" updated: {{properties}}"
+msgstr "Mandant \"{{tenant}}\" aktualisiert: {{properties}}."
+
+msgid "Tenant Manager"
+msgstr "Mandantenmanager"
+
+msgid "Tenant activated"
+msgstr "Mandant aktiviert."
+
+msgid "Tenant created"
+msgstr "Mandant erstellt."
+
+msgid "Tenant deleted"
+msgstr "Mandant gelöscht."
+
+msgid "Tenant management"
+msgstr "Mandanten"
+
+msgid "Tenant statistics"
+msgstr "Mandantenstatistiken"
+
+msgid "Tenant suspended"
+msgstr "Mandant gesperrt."
+
+msgid "Tenant updated"
+msgstr "Mandant aktualisiert."
+
+msgid "Tenants"
+msgstr "Mandanten"
+
+msgid "Territory"
+msgstr "Gebiet"
+
+msgid "Test Scheduler"
+msgstr "Scheduler testen"
+
+msgid "Test Sequencer"
+msgstr "Sequencer testen"
+
+msgid "Testing"
+msgstr "Tests"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "The application requested data your user does not have access to. Please check the user menu for more details"
+msgstr "Die Anwendung fragt Daten an, auf die Ihr Benutzer keinen Zugriff hat. Bitte sehen Sie im Benutzermenü für zusätzliche Informationen nach."
+
+msgid "The chosen name is too long. Please try a shorter one."
+msgstr "Der gewählte Name ist zu lang. Geben Sie einen kürzeren Namen ein."
+
+msgid "The code you entered is invalid. Please try again."
+msgstr "Der eingegebene Code ist ungültig. Bitte versuchen Sie es erneut."
+
+msgid "The file selected below is too large &ndash; size limit is {{vm.fileSizeLimit|bytes}}!"
+msgstr "Die unten ausgewählte Datei ist zu groß &ndash; Größenlimit ist {{vm.fileSizeLimit|bytes}}!"
+
+msgid "The filename is too long."
+msgstr "Der Dateiname ist zu lang."
+
+msgid "The resource is no longer available!"
+msgstr "Die Ressource ist nicht mehr verfügbar."
+
+msgid "The selected file is not supported."
+msgstr "Die ausgewählte Datei wird nicht unterstützt."
+
+msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
+msgstr "Das hochgeladene Bild darf maximal 4 MB groß sein. Bitte wählen Sie ein kleineres Bild."
+
+msgid "The verification code was already sent. For a new verification code, please click on the link above."
+msgstr "Der Bestätigungscode wurde bereits gesendet. Klicken Sie auf den oben stehenden Link, um einen neuen Bestätigungscode anzufordern."
+
+msgid "These url paths have been requested by the application but your user does not have access to them."
+msgstr "Diese URL-Pfade wurden durch die Anwendung angefragt, aber Ihr Benutzer hat nicht die erforderlichen Zugriffsrechte."
+
+msgid "This IP address is invalid"
+msgstr "Diese IP-Adresse ist ungültig."
+
+msgid "This application is already assigned to tenant \"{{tenant}}\"!"
+msgstr "Diese Anwendung ist bereits dem Mandanten “{{tenant}}” zugewiesen."
+
+msgid "This date is invalid."
+msgstr "Dieses Datum ist ungültig"
+
+msgid "This external ID is not unique"
+msgstr "Die externe ID ist nicht eindeutig."
+
+msgid "This field is required!"
+msgstr "Dieses Feld ist erforderlich."
+
+msgid "This field is required."
+msgstr "Dieses Feld ist erforderlich."
+
+msgid "This password has already been used earlier! Please choose a different one."
+msgstr "Das Passwort wurde früher bereits verwendet. Bitte wählen Sie ein anderes Passwort."
+
+msgid "This time is invalid."
+msgstr "Dieses Zeit ist ungültig."
+
+msgid "This will apply to data coming from specified device"
+msgstr "Dies wird auf Daten des angegebenen Geräts angewendet."
+
+msgid "This will apply to data that has a type property."
+msgstr "Falls die Daten ein Typattribut besitzen, kann nach diesem Typattribut gefiltert werden."
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Tixi Commands"
+msgstr "Tixi-Kommandos"
+
+msgid "To`date`"
+msgstr "Bis"
+
+msgid "Toggle dropdown"
+msgstr "Dropdown umschalten"
+
+msgid "Toggle navigator"
+msgstr "Symbolleiste umschalten"
+
+msgid "Toggle realtime"
+msgstr "Echtzeit umschalten"
+
+msgid "Toggle side drawer"
+msgstr "Seitenleiste umschalten"
+
+msgid "Toggle toolbar"
+msgstr "Symbolleiste umschalten"
+
+msgid "Track hidden"
+msgstr "Pfad verborgen"
+
+msgid "Track visible"
+msgstr "Pfad sichtbar"
+
+msgid "TransMode"
+msgstr "TransMode"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Type your password"
+msgstr "Geben Sie Ihr Passwort ein."
+
+msgid "UNSIGNED"
+msgstr "UNSIGNED"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to get system option: '{{option}}'!"
+msgstr "Kann die Systemoption ‘{{option}}’ nicht lesen."
+
+msgid "Unable to get tenant option: '{{option}}'!"
+msgstr "Kann die Mandantenoption ‘{{option}}’ nicht lesen."
+
+msgid "Unassign"
+msgstr "Zuordnung aufheben"
+
+msgid "Unassign device"
+msgstr "Gerätezuordnung aufheben"
+
+msgid "Unchecked"
+msgstr "Nicht ausgewählt"
+
+msgid "Undelegate"
+msgstr "Delegation aufheben"
+
+msgid "Under maintenance"
+msgstr "Wird gewartet"
+
+msgid "Unit conversion"
+msgstr "Einheitenumwandlung"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Update severity of existing alarm"
+msgstr "Schweregrad eines bestehenden Alarms aktualisieren"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "Upload, choose file or add an URL"
+msgstr "Laden Sie eine Datei hoch bzw. wählen Sie eine Datei aus oder geben Sie eine URL ein."
+
+msgid "Use * to allow any values."
+msgstr "Verwenden Sie “*”, um beliebige Werte zuzulassen."
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "User \"{{name}}\" created"
+msgstr "Benutzer \"{{name}}\" erstellt."
+
+msgid "User \"{{name}}\" deleted"
+msgstr "Benutzer \"{{name}}\" gelöscht."
+
+msgid "User \"{{name}}\" updated"
+msgstr "Benutzer \"{{name}}\" wurde aktualisiert."
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] added"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Anwendungen [{{applicationsList}}] hinzugefügt."
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] removed"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Anwendungen [{{applicationsList}}] gelöscht."
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] added"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Globale Rollen [{{globalRolesList}}] hinzugefügt"
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] removed"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Globale Rollen [{{globalRolesList}}] gelöscht"
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] added"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Stammdatenzuweisung [{{inventoryAssignment}}] hinzugefügt."
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] removed"
+msgstr "Benutzer \"{{name}}\" aktualisiert: Stammdatenzuweisung [{{inventoryAssignment}}] gelöscht."
+
+msgid "User '{{username}}' already exists!"
+msgstr "Benutzer ‘{{username}}’ existiert bereits."
+
+msgid "User created"
+msgstr "Benutzer erstellt."
+
+msgid "User deleted"
+msgstr "Benutzer gelöscht."
+
+msgid "User management"
+msgstr "Benutzerverwaltung"
+
+msgid "User management password reset"
+msgstr "Passwort-Reset"
+
+msgid "User must reset password on next login"
+msgstr "Benutzer muss sein Passwort beim nächsten Anmelden zurücksetzen."
+
+msgid "User settings"
+msgstr "Benutzereinstellungen"
+
+msgid "User successfully saved"
+msgstr "Benutzer wurde erfolgreich gespeichert."
+
+msgid "User to work in Cockpit application. This does not include the access to any device data."
+msgstr "Benutzer kann in der Cockpit-Anwendung arbeiten. Dies beinhaltet nicht den Zugriff auf Gerätedaten."
+
+msgid "User updated"
+msgstr "Benutzer aktualisiert."
+
+msgid "User with e-mail '{{email}}' already exists!"
+msgstr "Benutzer mit der E-Mail-Adresse '{{email}}' existiert bereits."
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Username (e.g. e-mail)"
+msgstr "Benutzername (z. B. Email-Adresse)"
+
+msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
+msgstr "Der Benutzername darf keine Leerzeichen, Schrägstriche (\"/\", \"\\\"), Pluszeichen (\"+\"), Doppelpunkte (\":\") oder Dollarzeichen (\"$\") enthalten."
+
+msgid "Validation rules"
+msgstr "Validierungsregeln"
+
+msgid "Value and unit"
+msgstr "Wert und Einheit"
+
+msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}!"
+msgstr "Der Wert {{viewValue}} ist gleich dem exklusiven Maximum {{schema.exclusiveMaximum}}."
+
+msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}!"
+msgstr "Der Wert {{viewValue}} ist gleich dem exklusiven Minimum {{schema.exclusiveMinimum}}."
+
+msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}!"
+msgstr "Der Wert {{viewValue}} ist größer als das Maximum {{schema.maximum}}."
+
+msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}!"
+msgstr "Der Wert {{viewValue}} ist kleiner als das Minimum {{schema.minimum}}."
+
+msgid "Value {{viewValue}} is not a valid number!"
+msgstr "Der Wert {{viewValue}} ist keine gültige Zahl."
+
+msgid "Value, unit and time"
+msgstr "Wert, Einheit und Zeit"
+
+msgid "Verification code"
+msgstr "Bestätigungscode"
+
+msgid "Verification code SMS resent."
+msgstr "Ein neuer Bestätigungscode wurde per SMS verschickt."
+
+msgid "Verify"
+msgstr "Überprüfen"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
+msgstr "Version: {{vm.backendVersion}} (Backend), {{vm.uiVersion}} (Benutzeroberfläche)"
+
+msgid "Vibration detector"
+msgstr "Vibrationssensor"
+
+msgid "WAITING FOR CONNECTION"
+msgstr "WARTE AUF VERBINDUNG"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN IP address"
+msgstr "WAN-IP-Adresse"
+
+msgid "WAN Profile"
+msgstr "WAN-Profil"
+
+msgid "WARNING"
+msgstr "WARNUNG"
+
+msgid "Wait while settings are loaded&hellip;"
+msgstr "Einstellungen werden geladen&hellip;"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Warnings"
+msgstr "Warnungen"
+
+msgid "Web Developers Guide"
+msgstr "Web Developers Guide"
+
+msgid "Welcome to {{vm.appName | humanizeAppName}}"
+msgstr "Willkommen zur {{vm.appName | humanizeAppName}}"
+
+msgid "When activated, a verification code sent by SMS is required to complete authentication"
+msgstr "Nach der Aktivierung ist ein Bestätigungscode erforderlich, der dem Benutzer per SMS gesendet wurde."
+
+msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
+msgstr "Durch Klicken auf OK erklären Sie sich einverstanden damit, dass ein Support-Mitarbeiter Zugang zu Ihrem Mandanten erhält, um Ihnen bei Ihrem Problem helfen zu können."
+
+msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
+msgstr "Durch Klicken auf OK erklären Sie sich damit einverstanden, dass ein Support-Mitarbeiter der {{company_name}} Zugang zu Ihrer Benutzeroberfläche erhält, um Ihnen bei Ihrem Problem helfen zu können."
+
+msgid "You are successfully disconnected from {{externalServiceName}}. Please login to your {{externalServiceName}} account, and also perform de-registration there."
+msgstr "Ihr Konto bei {{externalServiceName}} wurde erfolgreich getrennt. Bitte melden Sie sich an Ihrem {{externalServiceName}} Benutzerkonto an, und führen sie die Abmeldung auch dort aus."
+
+msgid "You will receive emails with csv/excel files attached for {{count}} series."
+msgstr "Sie erhalten {{count}} CSV/ Excel-Dateien per Email als Anhang."
+
+msgid "Your password is expired. Please set a new password."
+msgstr "Ihr Passwort ist abgelaufen. Bitte setzen Sie ein neues Passwort."
+
+msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
+msgstr "Die Passwortstärke ist nicht ausreichend. Verwenden Sie Nummern, Klein- und Großbuchstaben."
+
+msgid "Your password will expire {{expirationTime | relativeDate}}! Consider changing password now."
+msgstr "Das Passwort wird {{expirationTime | relativeDate}} ungültig. Ändern Sie das Passwort rechtzeitig."
+
+msgid "accuracy"
+msgstr "Genauigkeit"
+
+msgid "altitude"
+msgstr "Höhe"
+
+msgid "applications {{list}} added"
+msgstr "Anwendungen {{list}} hinzugefügt"
+
+msgid "applications {{list}} removed"
+msgstr "Anwendungen {{list}} gelöscht"
+
+msgid "battery value"
+msgstr "Batteriestand"
+
+msgid "ber value"
+msgstr "ber Wert"
+
+msgid "cellId"
+msgstr "Zellen-ID"
+
+msgid "configuration"
+msgstr "Konfiguration"
+
+msgid "description=\"{{description | translate}}\""
+msgstr "Beschreibung=\"{{description | translate}}\""
+
+msgid "device name"
+msgstr "Gerätename"
+
+msgid "device name=\"{{deviceName}}\""
+msgstr "Gerätename=\"{{deviceName}}\""
+
+msgid "device time"
+msgstr "Gerätezeit"
+
+msgid "device type"
+msgstr "Gerätetyp"
+
+msgid "e.g. +49 9 876 543 210"
+msgstr "z. B. +49 9 876 543 210"
+
+msgid "e.g. 1"
+msgstr "z. B. 1"
+
+msgid "e.g. 10300, you can use * as wildcard character"
+msgstr "z. B. 10300; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "e.g. 46543432321, you can use * as wildcard character"
+msgstr "z. B. 46543432321; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "e.g. 54321-123, you can use * as wildcard character"
+msgstr "z. B. 54321-123; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "e.g. ModelName, you can use * as wildcard character"
+msgstr "z. B. Modellname; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "e.g. My Device, you can use * as wildcard character"
+msgstr "z. B. Mein Gerät; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "e.g. ^\\\\d{1,9}$"
+msgstr "z. B. ^\\\\d{1,9}$"
+
+msgid "e.g. myVal*, you can use * as wildcard character"
+msgstr "z. B. myVal*; * kann als Platzhalterzeichen verwendet werden."
+
+msgid "failure reason=\"{{failureReason | translateServerMessage}}\""
+msgstr "Grund des Fehlers=\"{{failureReason | translateServerMessage}}\""
+
+msgid "failureReason"
+msgstr "Fehlergrund"
+
+msgid "fragment"
+msgstr "Fragment"
+
+msgid "hours"
+msgstr "Stunden"
+
+msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+msgstr "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+
+msgid "iccid"
+msgstr "ICCID"
+
+msgid "imei"
+msgstr "IMEI"
+
+msgid "imsi"
+msgstr "IMSI"
+
+msgid "km"
+msgstr "km"
+
+msgid "lac"
+msgstr "LAC"
+
+msgid "latitude"
+msgstr "Breitengrad"
+
+msgid "longitude"
+msgstr "Längengrad"
+
+msgid "m"
+msgstr "m"
+
+msgid "mcc"
+msgstr "MCC"
+
+msgid "medium"
+msgstr "mittel"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "mnc"
+msgstr "MNC"
+
+msgid "model"
+msgstr "Modell"
+
+msgid "name"
+msgstr "Name"
+
+msgid "parameters"
+msgstr "Parameter"
+
+msgid "password strength"
+msgstr "Passwortstärke"
+
+msgid "public"
+msgstr "öffentlich"
+
+msgid "required interval"
+msgstr "Erwartetes Sendeintervall"
+
+msgid "revision"
+msgstr "Revision"
+
+msgid "roles {{list}} added"
+msgstr "Rollen {{list}} hinzugefügt"
+
+msgid "roles {{list}} removed"
+msgstr "Rollen {{list}} entfernt"
+
+msgid "rssi value"
+msgstr "RSSI-Wert"
+
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "serialNumber"
+msgstr "Seriennummer"
+
+msgid "series"
+msgstr "Messreihe"
+
+msgid "severity"
+msgstr "Schweregrad"
+
+msgid "status=\"{{status | translate}}\""
+msgstr "Status=\"{{status | translate}}\""
+
+msgid "strong"
+msgstr "stark"
+
+msgid "temperature value"
+msgstr "Temperaturwert"
+
+msgid "text"
+msgstr "Text"
+
+msgid "time"
+msgstr "Zeit"
+
+msgid "type"
+msgstr "Typ"
+
+msgid "unique child ID"
+msgstr "Eindeutige Kind-ID"
+
+msgid "unit"
+msgstr "Einheit"
+
+msgid "url"
+msgstr "URL"
+
+msgid "value"
+msgstr "Wert"
+
+msgid "version"
+msgstr "Version"
+
+msgid "weak"
+msgstr "schwach"
+
+msgid "{{firstItem}} to {{lastItem}}"
+msgstr "{{firstItem}} bis {{lastItem}}"
+
+msgid "{{qty}} loaded"
+msgstr "{{qty}} geladen"

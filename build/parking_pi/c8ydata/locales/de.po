@@ -1,0 +1,1007 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Active alarms status"
+msgstr "Status aktiver Alarme"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address range"
+msgstr "Adressbereich"
+
+msgid "Agent config"
+msgstr "Agent-Konfiguration"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarm count 3 months"
+msgstr "Anzahl Alarme (letzte 3 Monate)"
+
+msgid "Alarm count today"
+msgstr "Anzahl Alarme (heute)"
+
+msgid "Alarm type"
+msgstr "Alarmtyp"
+
+msgid "Alarms"
+msgstr "Alarme"
+
+msgid "Altitude"
+msgstr "Höhe"
+
+msgid "Auth type"
+msgstr "Authentifizierungstyp"
+
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+msgid "Cell ID"
+msgstr "Zell-ID"
+
+msgid "Cellular WAN"
+msgstr "Mobilnetz"
+
+msgid "Change parameter"
+msgstr "Parameter ändern"
+
+msgid "Check Fresenius TDMS server IP"
+msgstr "Fresenius TDMS Server IP prüfen"
+
+msgid "Check Fresenius TDMS server port"
+msgstr "Fresenius TDMS Server Port prüfen"
+
+msgid "Check MQTT enablement"
+msgstr "MQTT-Aktivierung prüfen"
+
+msgid "Check MQTT keepalive interval"
+msgstr "MQTT Keepalive Intervall prüfen"
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr "Prüfen, ob das TCS:BUS Plugin aktiviert ist"
+
+msgid "City"
+msgstr "Stadt"
+
+msgid "City code"
+msgstr "PLZ"
+
+msgid "Clear All Logfiles"
+msgstr "Alle Logdateien löschen"
+
+msgid "Clear System Logfiles"
+msgstr "Systemlogdateien löschen"
+
+msgid "Clear device credentials"
+msgstr "Gerätezugangsdaten zurücksetzen"
+
+msgid "Communication mode"
+msgstr "Kommunikationsmodus"
+
+msgid "Config"
+msgstr "Konfiguration"
+
+msgid "Config Eifeler Vacotec server port"
+msgstr "Eifeler Vacotec Server Port konfigurieren"
+
+msgid "Config Fresenius TDMS server IP"
+msgstr "Fresenius TDMS Server IP konfigurieren"
+
+msgid "Config Fresenius TDMS server port"
+msgstr "Fresenius TDMS Server Port konfigurieren"
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr "MQTT Keepalive Intervall konfigurieren [in Sekunden]"
+
+msgid "Configuration snapshot"
+msgstr "Konfigurationssnapshot"
+
+msgid "Configure debouncing alarm text"
+msgstr "Text des entprellten Alarms konfigurieren"
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr "Entprellungsintervall für GPIO <n> (in Sekunden) konfigurieren"
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr "Statusintervall im SMS-Modus (in Sekunden) konfigurieren"
+
+msgid "Connection"
+msgstr "Verbindung"
+
+msgid "Connection type"
+msgstr "Verbindungstyp"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Creation time"
+msgstr "Erstellungszeitpunkt"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Current band"
+msgstr "Frequenzbereich"
+
+msgid "Current operator"
+msgstr "Aktueller Netzbetreiber"
+
+msgid "Custom properties"
+msgstr "Benutzerdefinierte Attribute"
+
+msgid "Cycle data connection status"
+msgstr "Datenverbindung neustarten"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "DHCP-Server"
+
+msgid "DNS 1"
+msgstr "DNS 1"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Data logging"
+msgstr "Datenlogging"
+
+msgid "Default AT Commands"
+msgstr "Standard-AT-Kommandos"
+
+msgid "Delete Active Jobs"
+msgstr "Aktive Jobs löschen"
+
+msgid "Device"
+msgstr "Gerät"
+
+msgid "Device Control"
+msgstr "Gerätesteuerung"
+
+msgid "Device Info"
+msgstr "Geräteinformation"
+
+msgid "Device config"
+msgstr "Gerätekonfiguration"
+
+msgid "Device info"
+msgstr "Geräteinformation"
+
+msgid "Device name"
+msgstr "Gerätename"
+
+msgid "Device setting"
+msgstr "Geräteeinstellung"
+
+msgid "Display selected roaming network"
+msgstr "Aktuelles Roaming-Netz anzeigen"
+
+msgid "ECN0"
+msgstr "ECN0"
+
+msgid "Enable/disable MQTT communication"
+msgstr "MQTT-Kommunikation ein-/ausschalten"
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr "TCS:BUS Plugin ein-/ausschalten"
+
+msgid "Enabled"
+msgstr "Eingeschaltet"
+
+msgid "End"
+msgstr "Ende"
+
+msgid "Enquire battery level info"
+msgstr "Batteriestand anfragen"
+
+msgid "Enquire device release info"
+msgstr "Release-Information des Geräts anfragen"
+
+msgid "Enquire presentation info"
+msgstr "Präsentationsinformationen anfragen"
+
+msgid "Enquire serial number"
+msgstr "Seriennummer anfragen"
+
+msgid "Event (no Parameter)"
+msgstr "Ereignis (ohne Parameter)"
+
+msgid "Event (with Parameter)"
+msgstr "Ereignis (mit Parametern)"
+
+msgid "Event count 3 months"
+msgstr "Anzahl Ereignisse (letzte 3 Monate)"
+
+msgid "Event count today"
+msgstr "Anzahl Ereignisse (heute)"
+
+msgid "Event type"
+msgstr "Ereignistyp"
+
+msgid "Events"
+msgstr "Ereignisse"
+
+msgid "Execute command template"
+msgstr "Kommando-Template ausführen"
+
+msgid "External reference"
+msgstr "Externe Referenz"
+
+msgid "Factory Reset"
+msgstr "Werkseinstellungen"
+
+msgid "Factory reset"
+msgstr "Werkseinstellungen"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "GPIO"
+msgstr "GPIO"
+
+msgid "GPIO Pin"
+msgstr "GPIO-Pin"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "Get Cinterion information"
+msgstr "Cinterion-Daten abfragen"
+
+msgid "Get Config"
+msgstr "Konfiguration abfragen"
+
+msgid "Get DHCP lease time [seconds]"
+msgstr "DHCP Lease Time (in Sekunden) abfragen"
+
+msgid "Get Device Serial Number"
+msgstr "Seriennummer abfragen"
+
+msgid "Get EVENTS Database"
+msgstr "EVENTS-Datenbank abfragen"
+
+msgid "Get GPIO notify mode"
+msgstr "GPIO-Benachrichtigungsmodus abfragen"
+
+msgid "Get GPIO status"
+msgstr "GPIO-Status abfragen"
+
+msgid "Get GPS enable"
+msgstr "GPS-Status abfragen"
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr "Analogeingang (in Volt) für I/O-Pin abfragen"
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr "Analogeingang (in Volt, Rohdaten) für I/O-Pin abfragen"
+
+msgid "Get I/O pin capability"
+msgstr "Konfigurationsmöglichkeiten der I/O-Pins abfragen"
+
+msgid "Get I/O pin digital input"
+msgstr "Digitaleingang für I/O-Pin abfragen"
+
+msgid "Get I/O pin digital input threshold"
+msgstr "Schwellwert des Digitaleingangs für I/O-Pin abfragen"
+
+msgid "Get I/O pin hardware gain"
+msgstr "Hardware-Verstärkung für I/O-Pin abfragen"
+
+msgid "Get I/O pin mode"
+msgstr "Modus für I/O-Pin abfragen"
+
+msgid "Get I/O pin scale"
+msgstr "Skalierung für I/O-Pin abfragen"
+
+msgid "Get IMSI"
+msgstr "IMSI abfragen"
+
+msgid "Get ISP Database"
+msgstr "ISP-Datenbank abfragen"
+
+msgid "Get LOG Database"
+msgstr "LOG-Datenbank abfragen"
+
+msgid "Get MTU"
+msgstr "MTU abfragen"
+
+msgid "Get Metric"
+msgstr "Routenpriorität abfragen"
+
+msgid "Get PARAM Database"
+msgstr "PARAM-Datenbank abfragen"
+
+msgid "Get PROCCFG Database"
+msgstr "PROCCFG-Datenbank abfragen"
+
+msgid "Get SCHEDULE Database"
+msgstr "SCHEDULE-Datenbank abfragen"
+
+msgid "Get SIM status"
+msgstr "SIM-Status abfragen"
+
+msgid "Get TEMPLATE Database"
+msgstr "TEMPLATE-Datenbank abfragen"
+
+msgid "Get Time"
+msgstr "Zeit abfragen"
+
+msgid "Get USER Database"
+msgstr "USER-Datenbank abfragen"
+
+msgid "Get actual ADC in mV"
+msgstr "ADC in mV abfragen"
+
+msgid "Get actual date and time of RTC"
+msgstr "Datum und Zeit der RTC abfragen"
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr "GPIO-Abfrageintervall abfragen (in Sekunden)"
+
+msgid "Get agent GPS interval [seconds]"
+msgstr "GPS-Abfrageintervall abfragen (in Sekunden)"
+
+msgid "Get agent connection server"
+msgstr "Cumulocity-URL abfragen"
+
+msgid "Get agent connection timeout [seconds]"
+msgstr "Verbindungstimeout des Agenten abfragen (in Sekunden)"
+
+msgid "Get agent enable"
+msgstr "Einschaltstatus des Agenten abfragen"
+
+msgid "Get agent log level"
+msgstr "Loglevel des Agenten abfragen"
+
+msgid "Get agent modbus port"
+msgstr "Modbus-Port des Agenten abfragen"
+
+msgid "Get agent network timeout [seconds]"
+msgstr "Netzwerk-Timeout des Agenten abfragen (in Sekunden)"
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr "Intervall zwischen Neuverbindungen abfragen (in Sekunden)"
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr "Abfrageintervall für Signalstärke abfragen (in Sekunden)"
+
+msgid "Get agent status"
+msgstr "Agentenstatus abfragen"
+
+msgid "Get all module events"
+msgstr "Alle Modulereignisse abfragen"
+
+msgid "Get command template"
+msgstr "“Get”-Kommando"
+
+msgid "Get current receiver number"
+msgstr "SMS-Empfänger abfragen"
+
+msgid "Get detailed Cinterion information"
+msgstr "Detaillierte Cinterion-Daten abfragen"
+
+msgid "Get device chipset"
+msgstr "Chipsatz abfragen"
+
+msgid "Get device user"
+msgstr "Gerätebenutzer abfragen"
+
+msgid "Get firmware and hardware version"
+msgstr "Firmware- und Hardwareversion abfragen"
+
+msgid "Get installed firmware"
+msgstr "Installierte Firmware abfragen"
+
+msgid "Get internal temperature of chip"
+msgstr "Interne Temperatur des Chips abfragen"
+
+msgid "Get list of files stored on device"
+msgstr "Liste der gespeicherten Dateien abfragen"
+
+msgid "Get network update interval [seconds]"
+msgstr "Abfrageintervall für Netzwerk abfragen (in Sekunden)"
+
+msgid "Get operator selection info"
+msgstr "Informationen zur Betreiberauswahl abfragen"
+
+msgid "Get power source and voltage"
+msgstr "Stromquelle und Spannung abfragen"
+
+msgid "Get power supply voltage"
+msgstr "Stromversorgung abfragen"
+
+msgid "Get pullup voltage [volts]"
+msgstr "Pull-up abfragen (in Volt)"
+
+msgid "Get reconnect delay [seconds]"
+msgstr "Pause zwischen Neuverbindungen abfragen (in Sekunden)"
+
+msgid "Get reconnect retries"
+msgstr "Anzahl Neuverbindungsversuche abfragen"
+
+msgid "Get serial baud rate"
+msgstr "Baudrate abfragen"
+
+msgid "Get serial port mode"
+msgstr "Modus der seriellen Schnittstelle abfragen"
+
+msgid "Get signal strength"
+msgstr "Signalstärke abfragen"
+
+msgid "Get sim pin"
+msgstr "SIM-Pin abfragen"
+
+msgid "Get sim protection"
+msgstr "SIM-Pin-Status abfragen"
+
+msgid "Get supported serial baud rates"
+msgstr "Unterstützte Baudraten abfragen"
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr "Anfrageintervall für Systemressourcemessungen abfragen (in Sekunden)"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "I/O and PLC"
+msgstr "I/O und PLC"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMEI"
+msgstr "IMEI"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "J2ME commands"
+msgstr "J2ME-Kommandos"
+
+msgid "LAC"
+msgstr "LAC"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Last device message"
+msgstr "Letzte Nachricht vom Gerät"
+
+msgid "Last measurement"
+msgstr "Letzter Messwert"
+
+msgid "Last message"
+msgstr "Letzte Nachricht"
+
+msgid "Last updated"
+msgstr "Zuletzt aktualisiert"
+
+msgid "Latitude"
+msgstr "Breitengrad"
+
+msgid "Limit http queue"
+msgstr "HTTP-Puffer begrenzen"
+
+msgid "Limit http requests"
+msgstr "HTTP-Anfragen begrenzen"
+
+msgid "Limit stream queue"
+msgstr "Stream-Puffer begrenzen"
+
+msgid "Limit stream requests"
+msgstr "Stream-Anfragen begrenzen"
+
+msgid "LogIn"
+msgstr "Login"
+
+msgid "LogIn CHAP"
+msgstr "CHAP-Login"
+
+msgid "LogIn CHAP Response"
+msgstr "CHAP-Login-Antwort"
+
+msgid "LogOut"
+msgstr "Logout"
+
+msgid "Longitude"
+msgstr "Längengrad"
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MCC"
+msgstr "MCC"
+
+msgid "MNC"
+msgstr "MNC"
+
+msgid "MSISDN"
+msgstr "MSISDN"
+
+msgid "Major"
+msgstr "Wichtig"
+
+msgid "Managed object"
+msgstr "Objekt"
+
+msgid "Measurements"
+msgstr "Messwerte"
+
+msgid "Minor"
+msgstr "Weniger wichtig"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Modbus-RTU config"
+msgstr "Modbus-RTU-Konfiguration"
+
+msgid "Mode"
+msgstr "Modus"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Module config"
+msgstr "Modulkonfiguration"
+
+msgid "Module version"
+msgstr "Modulversion"
+
+msgid "Motion detector"
+msgstr "Bewegungsmelder"
+
+msgid "NTC commands"
+msgstr "NTC-Kommandos"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Netmask"
+msgstr "Netzmaske"
+
+msgid "Network"
+msgstr "Netzwerk"
+
+msgid "Network service"
+msgstr "Netzwerkdienst"
+
+msgid "Notes"
+msgstr "Anmerkungen"
+
+msgid "Number of child assets"
+msgstr "Anzahl der Kind-Assets"
+
+msgid "Number of child devices"
+msgstr "Anzahl der Kindgeräte"
+
+msgid "Owner"
+msgstr "Eigentümer"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr "Vordefiniert Adeunis LoRaWan.Puls"
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr "Vordefiniert Adeunis LoRaWan-Sensor"
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr "Vordefiniert Ascocl CM868LR-CMUS915LR"
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr "Vordefiniert Ascocl CM868LRTH-CMUS915LRTH"
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr "Vordefiniert  Ascolc IR868LR-IRUS915LR"
+
+msgid "Predefined ED1608 General Sensor"
+msgstr "Vordefiniert ED1608 General Sensor"
+
+msgid "Project data"
+msgstr "Projektdaten"
+
+msgid "Pulse 1 setting"
+msgstr "Puls-1-Einstellung"
+
+msgid "Pulse 2 setting"
+msgstr "Puls-2-Einstellung"
+
+msgid "Query Active Jobs"
+msgstr "Aktive Jobs abfragen"
+
+msgid "Query Analog Input Hutline"
+msgstr "Analogeingang abfragen"
+
+msgid "Query Eifeler Vacotec server port"
+msgstr "Eifeler Vacotec Server Port abfragen"
+
+msgid "Query Enabled Servicese"
+msgstr "Eingeschaltete Services abfragen"
+
+msgid "Query Ethernet state"
+msgstr "Ethernet-Status abfragen"
+
+msgid "Query Firmware Version"
+msgstr "Firmwareversion abfragen"
+
+msgid "Query Fresenius VPN proxy status"
+msgstr "Fresenius VPN Proxy-Status abfragen"
+
+msgid "Query GSM state"
+msgstr "GSM-Status abfragen"
+
+msgid "Query Hardware"
+msgstr "Hardware abfragen"
+
+msgid "Query Inputs Hutline"
+msgstr "Eingänge abfragen"
+
+msgid "Query Outputs Hutline"
+msgstr "Ausgänge abfragen"
+
+msgid "Query ProcessVars"
+msgstr "Prozessvariablen abfragen"
+
+msgid "Query Stations Bus"
+msgstr "Stationsbus abfragen"
+
+msgid "Query WLAN state"
+msgstr "WLAN-Status abfragen"
+
+msgid "RCSP"
+msgstr "RCSP"
+
+msgid "RSSI"
+msgstr "RSSI"
+
+msgid "Read Event-Log"
+msgstr "Event-Log auslesen"
+
+msgid "Read FailedIncomingCall-Log"
+msgstr "FailedIncomingCall-Log auslesen"
+
+msgid "Read IncomingMessage-Log"
+msgstr "IncomingMessage-Log auslesen"
+
+msgid "Read Job-Report"
+msgstr "JobReport auslesen"
+
+msgid "Read Log Counter"
+msgstr "LogCounter auslesen"
+
+msgid "Read Logfile"
+msgstr "Logdatei auslesen"
+
+msgid "Read Login-Log"
+msgstr "Login-Log auslesen"
+
+msgid "Read SupportLog"
+msgstr "SupportLog auslesen"
+
+msgid "Read current network status"
+msgstr "Netzwerkstatus auslesen"
+
+msgid "Reboot device"
+msgstr "Gerät neustarten"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Remote Control"
+msgstr "Fernsteuerung"
+
+msgid "Reoccurrence count"
+msgstr "Wiederholungszähler"
+
+msgid "Report"
+msgstr "Bericht"
+
+msgid "Required availability"
+msgstr "Verbindungsüberwachung"
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Reset Update"
+msgstr "Update zurücksetzen"
+
+msgid "Response interval"
+msgstr "Erwartetes Sendeintervall"
+
+msgid "Revision"
+msgstr "Version"
+
+msgid "SIM"
+msgstr "SIM"
+
+msgid "SIM status"
+msgstr "SIM-Status"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SRT 360i Sample Commands"
+msgstr "SRT 360i Beispielkommandos"
+
+msgid "Scan M-Bus"
+msgstr "M-Bus scannen"
+
+msgid "ScanWLAN"
+msgstr "WLAN scannen"
+
+msgid "Sensor threshold"
+msgstr "Sensorschwellwert"
+
+msgid "Serial"
+msgstr "Seriennummer"
+
+msgid "Serial number"
+msgstr "Seriennummer"
+
+msgid "Serve cell information"
+msgstr "Zelleninformation lesen"
+
+msgid "Set ALIVE interval"
+msgstr "ALIVE Intervall konfigurieren"
+
+msgid "Set AT command error messaging"
+msgstr "AT-Kommando-Fehlermeldungen setzen"
+
+msgid "Set Config"
+msgstr "Konfiguration setzen"
+
+msgid "Set DHCP lease time [seconds]"
+msgstr "DHCP Lease Time (in Sekunden) setzen"
+
+msgid "Set FLAGS"
+msgstr "FLAGS setzen"
+
+msgid "Set GPIO notify mode"
+msgstr "GPIO-Benachrichtigungsmodus setzen"
+
+msgid "Set GPS enable"
+msgstr "GPS-Status setzen"
+
+msgid "Set I/O pin hardware gain"
+msgstr "Hardwareverstärkung für I/O-Pin setzen"
+
+msgid "Set I/O pin mode"
+msgstr "Modus für I/O-Pin setzen"
+
+msgid "Set I/O pin scale"
+msgstr "Skalierung für I/O-Pin setzen"
+
+msgid "Set INHIBTIME interval"
+msgstr "INHIBTIME-Intervall konfigurieren"
+
+msgid "Set MODE"
+msgstr "MODE konfigurieren"
+
+msgid "Set MTU"
+msgstr "MTU setzen"
+
+msgid "Set Metric"
+msgstr "Routenpriorität setzen"
+
+msgid "Set Output Hutline"
+msgstr "Ausgang konfigurieren"
+
+msgid "Set SignalLED"
+msgstr "Signal-LED setzen"
+
+msgid "Set TestMode"
+msgstr "TestMode setzen"
+
+msgid "Set Time"
+msgstr "Zeit setzen"
+
+msgid "Set Variable Bus"
+msgstr "Busvariable setzen"
+
+msgid "Set Variable PV"
+msgstr "Prozessvariable setzen"
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr "GPIO-Abfrageintervall setzen (in Sekunden)"
+
+msgid "Set agent GPS interval [seconds]"
+msgstr "GPS-Abfrageintervall setzen (in Sekunden)"
+
+msgid "Set agent connection server"
+msgstr "Cumulocity-URL setzen"
+
+msgid "Set agent connection timeout [seconds]"
+msgstr "Verbindungstimeout konfigurieren (in Sekunden)"
+
+msgid "Set agent enable"
+msgstr "Einschaltstatus des Agenten setzen"
+
+msgid "Set agent log level"
+msgstr "Loglevel des Agenten setzen"
+
+msgid "Set agent modbus port"
+msgstr "Modbus-Port setzen"
+
+msgid "Set agent network timeout [seconds]"
+msgstr "Netzwerk-Timeout konfigurieren (in Sekunden)"
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr "Intervall zwischen Neuverbindungen konfigurieren (in Sekunden)"
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr "Signalstärke-Abfrageintervall konfigurieren (in Sekunden)"
+
+msgid "Set command template"
+msgstr "“Set”-Kommando"
+
+msgid "Set configuration parameter"
+msgstr "Konfigurationsparameter setzen"
+
+msgid "Set humidity threshold"
+msgstr "Schwellwert für Feuchtigkeit konfigurieren"
+
+msgid "Set network update interval [seconds]"
+msgstr "Abfrageintervall für Netzwerk konfigurieren (in Sekunden)"
+
+msgid "Set pullup voltage [volts]"
+msgstr "Pull-up setzen (in Volt)"
+
+msgid "Set receiver number for SMS mode"
+msgstr "SMS-Empfänger setzen"
+
+msgid "Set reconnect delay [seconds]"
+msgstr "Pause zwischen Neuverbindungen konfigurieren (in Sekunden)"
+
+msgid "Set reconnect retries"
+msgstr "Anzahl Neuverbindungsversuche setzen"
+
+msgid "Set serial baud rate"
+msgstr "Baudrate setzen"
+
+msgid "Set serial port mode"
+msgstr "Modus der seriellen Schnittstelle setzen"
+
+msgid "Set sim pin"
+msgstr "SIM-Pin setzen"
+
+msgid "Set sim protection"
+msgstr "SIM-Pin-Status setzen"
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr "Anfrageintervall für Systemressourcenmessungen konfigurieren (in Sekunden)"
+
+msgid "Set temperature threshold"
+msgstr "Schwellwert für Temperatur konfigurieren"
+
+msgid "Severity"
+msgstr "Schweregrad"
+
+msgid "Smartbox Commands"
+msgstr "Smartbox-Kommandos"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Sound detector"
+msgstr "Geräuschmelder"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Start Process"
+msgstr "Prozess starten"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stop Process"
+msgstr "Prozess anhalten"
+
+msgid "Street"
+msgstr "Straße"
+
+msgid "Switch motion detector off"
+msgstr "Bewegungsmelder ausschalten"
+
+msgid "Switch motion detector on"
+msgstr "Bewegungsmelder einschalten"
+
+msgid "Switch sound detector off"
+msgstr "Geräuschmelder ausschalten"
+
+msgid "Switch sound detector on"
+msgstr "Geräuschmelder einschalten"
+
+msgid "Switch to ModemMode"
+msgstr "ModemMode einschalten"
+
+msgid "Switch vibration detector off"
+msgstr "Vibrationssensor ausschalten"
+
+msgid "Switch vibration detector on"
+msgstr "Vibrationssensor einschalten"
+
+msgid "Template"
+msgstr "Vorlage"
+
+msgid "Tenants"
+msgstr "Mandanten"
+
+msgid "Territory"
+msgstr "Gebiet"
+
+msgid "Test Scheduler"
+msgstr "Scheduler testen"
+
+msgid "Test Sequencer"
+msgstr "Sequencer testen"
+
+msgid "Testing"
+msgstr "Tests"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "Tixi Commands"
+msgstr "Tixi-Kommandos"
+
+msgid "TransMode"
+msgstr "TransMode"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Vibration detector"
+msgstr "Vibrationssensor"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN Profile"
+msgstr "WAN-Profil"
+
+msgid "Warning"
+msgstr "Warnung"

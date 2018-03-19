@@ -9,6 +9,6 @@
   "author": "saravana",
   "license": "ISC",
   "dependencies": {
-  "cumulocity-ui-build": "http://resources.cumulocity.com/webapps/ui/8.21.0.tar.gz"
+    "cumulocity-ui-build": "http://resources.cumulocity.com/webapps/ui/8.21.0.tar.gz"
   }
 }

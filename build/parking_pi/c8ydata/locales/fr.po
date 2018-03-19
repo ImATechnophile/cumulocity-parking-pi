@@ -1,0 +1,1006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Active alarms status"
+msgstr "Statut des alarmes actives"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address range"
+msgstr "Plage d'adresses"
+
+msgid "Agent config"
+msgstr "Configuration de l'agent"
+
+msgid "Alarm"
+msgstr "Alarme"
+
+msgid "Alarm count 3 months"
+msgstr "Nombre d’alarmes 3 mois"
+
+msgid "Alarm count today"
+msgstr "Nombre d'alarmes aujourd'hui"
+
+msgid "Alarm type"
+msgstr "Type d'alarme"
+
+msgid "Alarms"
+msgstr "Alarmes"
+
+msgid "Altitude"
+msgstr "Altitude"
+
+msgid "Auth type"
+msgstr "Type d'authentification"
+
+msgid "Availability"
+msgstr "Disponibilité"
+
+msgid "Cell ID"
+msgstr "Cell ID"
+
+msgid "Cellular WAN"
+msgstr "Cellulaire WAN"
+
+msgid "Change parameter"
+msgstr "Changer le paramètre"
+
+msgid "Check Fresenius TDMS server IP"
+msgstr "Vérifier l’IP du serveur Fresenius TDMS"
+
+msgid "Check Fresenius TDMS server port"
+msgstr "Vérifier le port du serveur Fresenius TDMS"
+
+msgid "Check MQTT enablement"
+msgstr "Vérifier l'activation de MQTT"
+
+msgid "Check MQTT keepalive interval"
+msgstr "Vérifier l’intervalle keepalive MQTT"
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr "Vérifier si le plugin TCS:BUS activé"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "City code"
+msgstr "Code de la ville"
+
+msgid "Clear All Logfiles"
+msgstr "Effacer tous les fichiers de log"
+
+msgid "Clear System Logfiles"
+msgstr "Effacer les fichiers de log système"
+
+msgid "Clear device credentials"
+msgstr "Effacer les informations d’identification d’appareil"
+
+msgid "Communication mode"
+msgstr "Mode de communication"
+
+msgid "Config"
+msgstr "Configuration"
+
+msgid "Config Eifeler Vacotec server port"
+msgstr "Configurer le port du serveur Eifeler Vacotec"
+
+msgid "Config Fresenius TDMS server IP"
+msgstr "Configurer l'IP du serveur Fresenius TDMS"
+
+msgid "Config Fresenius TDMS server port"
+msgstr "Configurer le port du serveur Fresenius TDMS"
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr "Configurer l'ntervalle de keepalive MQTT (en secondes)"
+
+msgid "Configuration snapshot"
+msgstr "Configuration"
+
+msgid "Configure debouncing alarm text"
+msgstr "Configurer le texte de l’alarme de débounce"
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr "Configurer l’intervalle de débounce GPIO <N>[secondes]"
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr "Configurer l’intervalle de rapport de statut en mode SMS (secondes)"
+
+msgid "Connection"
+msgstr "Connexion"
+
+msgid "Connection type"
+msgstr "Type de connexion"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Creation time"
+msgstr "Date de création"
+
+msgid "Critical"
+msgstr "Critique"
+
+msgid "Current band"
+msgstr "Bande actuelle"
+
+msgid "Current operator"
+msgstr "Opérateur actuel"
+
+msgid "Custom properties"
+msgstr "Propriétés personnalisées"
+
+msgid "Cycle data connection status"
+msgstr "Statut de connexion de cycle de données"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DHCP Server"
+msgstr "Serveur DHCP"
+
+msgid "DNS 1"
+msgstr "DNS 1"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Data logging"
+msgstr "Enregistrement de donnée"
+
+msgid "Default AT Commands"
+msgstr "Commandes par défaut AT"
+
+msgid "Delete Active Jobs"
+msgstr "Supprimer les missions actives"
+
+msgid "Device"
+msgstr "Appareil"
+
+msgid "Device Control"
+msgstr "Contrôle de l’appareil"
+
+msgid "Device Info"
+msgstr "Informations sur l’appareil"
+
+msgid "Device config"
+msgstr "Configuration de l’appareil"
+
+msgid "Device info"
+msgstr "Informations sur l'appareil"
+
+msgid "Device name"
+msgstr "Nom de l'appareil"
+
+msgid "Device setting"
+msgstr "Configuration de l’appareil"
+
+msgid "Display selected roaming network"
+msgstr "Afficher le réseau d’itinérance sélectionné"
+
+msgid "ECN0"
+msgstr "ECN0"
+
+msgid "Enable/disable MQTT communication"
+msgstr "Activer/désactiver les communications MQTT"
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr "Activer/désactiver le plugin TCS:BUS"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Enquire battery level info"
+msgstr "Récupérer le niveau de batterie"
+
+msgid "Enquire device release info"
+msgstr "Récupérer les informations sur la publication de l’appareil"
+
+msgid "Enquire presentation info"
+msgstr "Récupérer les informations sur la présentation"
+
+msgid "Enquire serial number"
+msgstr "Récupérer le numéro de série"
+
+msgid "Event (no Parameter)"
+msgstr "Événement (sans paramètre)"
+
+msgid "Event (with Parameter)"
+msgstr "Événement (avec paramètre)"
+
+msgid "Event count 3 months"
+msgstr "Nombre d’événements 3 mois"
+
+msgid "Event count today"
+msgstr "Nombre d’événements aujourd'hui"
+
+msgid "Event type"
+msgstr "Type d’événement"
+
+msgid "Events"
+msgstr "Événements"
+
+msgid "Execute command template"
+msgstr "Exécuter le modèle de commande"
+
+msgid "External reference"
+msgstr "Référence externe"
+
+msgid "Factory Reset"
+msgstr "Réinitialisation à la version d'usine"
+
+msgid "Factory reset"
+msgstr "Réinitialisation à la version d'usine"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "GPIO"
+msgstr "GPIO"
+
+msgid "GPIO Pin"
+msgstr "Broche GPIO"
+
+msgid "GPS"
+msgstr "GPS"
+
+msgid "Get Cinterion information"
+msgstr "Obtenir des informations de Cinterion"
+
+msgid "Get Config"
+msgstr "Obtenir la configuration"
+
+msgid "Get DHCP lease time [seconds]"
+msgstr "Obtenir la durée de bail DHCP [secondes]"
+
+msgid "Get Device Serial Number"
+msgstr "Obtenir de série de l'appareil"
+
+msgid "Get EVENTS Database"
+msgstr "Obtenir la base de données des événements "
+
+msgid "Get GPIO notify mode"
+msgstr "Obtenir le mode de notification GPIO"
+
+msgid "Get GPIO status"
+msgstr "Obtenir le statut GPIO"
+
+msgid "Get GPS enable"
+msgstr "Obtenir GPS activé"
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr "Obtenir l’entrée analogique pin I/O [v]"
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr "Obtenir la tension brute analogue de la broche I/O [v]"
+
+msgid "Get I/O pin capability"
+msgstr "Obtenir des broches fonctionnalité I/O"
+
+msgid "Get I/O pin digital input"
+msgstr "Obtenir l’input numérique de la broche I/O"
+
+msgid "Get I/O pin digital input threshold"
+msgstr "Obtenir le seuil de l’input numérique de la broche-I/O"
+
+msgid "Get I/O pin hardware gain"
+msgstr "Obtenir le gain de matériel de la broche I/O"
+
+msgid "Get I/O pin mode"
+msgstr "Obtenir le mode broche I/O"
+
+msgid "Get I/O pin scale"
+msgstr "Obtenir I/O pin échelle"
+
+msgid "Get IMSI"
+msgstr "Obtenir l’IMSI"
+
+msgid "Get ISP Database"
+msgstr "Obtenir la base de données ISP"
+
+msgid "Get LOG Database"
+msgstr "Obtenir le journal de base de données"
+
+msgid "Get MTU"
+msgstr "Obtenir le MTU"
+
+msgid "Get Metric"
+msgstr "Obtenir des métriques"
+
+msgid "Get PARAM Database"
+msgstr "Obtenir la base de données de PARAM"
+
+msgid "Get PROCCFG Database"
+msgstr "Obtenir la base de données PROCCFG"
+
+msgid "Get SCHEDULE Database"
+msgstr "Obtenir le calendrier de base de données"
+
+msgid "Get SIM status"
+msgstr "Obtenir le statut SIM"
+
+msgid "Get TEMPLATE Database"
+msgstr "Obtenir le modèle de base de données"
+
+msgid "Get Time"
+msgstr "Obtenir l'heure"
+
+msgid "Get USER Database"
+msgstr "Obtenir la base de données utilisateur"
+
+msgid "Get actual ADC in mV"
+msgstr "Obtenir ADC courante en mV"
+
+msgid "Get actual date and time of RTC"
+msgstr "Obtenir la date et l’heure courante de CCF"
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr "Obtenir l’intervalle d’agent GPIO [secondes]"
+
+msgid "Get agent GPS interval [seconds]"
+msgstr "Obtenir l’intervalle d’agent GPS [secondes]"
+
+msgid "Get agent connection server"
+msgstr "Obtenir un serveur de connexion d’agent"
+
+msgid "Get agent connection timeout [seconds]"
+msgstr "Obtenir le délai de connexion d’agent [secondes]"
+
+msgid "Get agent enable"
+msgstr "Obtenir l’activation de l’agent"
+
+msgid "Get agent log level"
+msgstr "Obtenir le niveau du journal d’agent"
+
+msgid "Get agent modbus port"
+msgstr "Obtenir le port modbus d’agent"
+
+msgid "Get agent network timeout [seconds]"
+msgstr "Obtenir le timeout du réseau d’agent [secondes]"
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr "Obtenir l'intervalle de reconnection d’agent [secondes]"
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr "Obtenir l’intervalle de la mesure de la résistance du signal d’agent [secondes]"
+
+msgid "Get agent status"
+msgstr "Obtenir le statut de l'agent"
+
+msgid "Get all module events"
+msgstr "Obtenir tous les événements de module"
+
+msgid "Get command template"
+msgstr "Obtenir le modèle de commande"
+
+msgid "Get current receiver number"
+msgstr "Obtenir le numéro du récepteur courant"
+
+msgid "Get detailed Cinterion information"
+msgstr "Obtenir des informations détaillées de Cinterion"
+
+msgid "Get device chipset"
+msgstr "Obtenir le chipset d’appareil"
+
+msgid "Get device user"
+msgstr "Obtenir l’utilisateur d’appareil"
+
+msgid "Get firmware and hardware version"
+msgstr "Obtenir la version du firmware et du matériel"
+
+msgid "Get installed firmware"
+msgstr "Obtenir le firmware installé"
+
+msgid "Get internal temperature of chip"
+msgstr "Obtenir la température interne de la puce"
+
+msgid "Get list of files stored on device"
+msgstr "Obtenir la liste des fichiers stockés sur l’appareil"
+
+msgid "Get network update interval [seconds]"
+msgstr "Obtenir l’intervalle d’actualisation du réseau [secondes]"
+
+msgid "Get operator selection info"
+msgstr "Obtenir les informations de sélection de l'opérateur"
+
+msgid "Get power source and voltage"
+msgstr "Obtenir la tension et la source d’énergie"
+
+msgid "Get power supply voltage"
+msgstr "Obtenir tension d'alimentation électrique"
+
+msgid "Get pullup voltage [volts]"
+msgstr "Obtenir le pullup de tension [volts]"
+
+msgid "Get reconnect delay [seconds]"
+msgstr "Obtenir un délai de reconnexion [secondes]"
+
+msgid "Get reconnect retries"
+msgstr "Obtenir les tentatives de reconnection"
+
+msgid "Get serial baud rate"
+msgstr "Obtenir le taux des bauds en série"
+
+msgid "Get serial port mode"
+msgstr "Obtenir le mode de port en série"
+
+msgid "Get signal strength"
+msgstr "Obtenir la force du signal"
+
+msgid "Get sim pin"
+msgstr "Obtenir le code pin sim"
+
+msgid "Get sim protection"
+msgstr "Obtenir la protection sim"
+
+msgid "Get supported serial baud rates"
+msgstr "Obtenir les taux des bauds en série  supportés"
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr "Obtenir l’intervalle de mesure des ressources du système [secondes]"
+
+msgid "Hardware"
+msgstr "Matériels"
+
+msgid "I/O and PLC"
+msgstr "I/O et PLC"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IMEI"
+msgstr "IMEI"
+
+msgid "IMSI"
+msgstr "IMSI"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "J2ME commands"
+msgstr "Commandes de J2ME"
+
+msgid "LAC"
+msgstr "LAC"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "Last device message"
+msgstr "Dernier message de l’appareil"
+
+msgid "Last measurement"
+msgstr "Dernière mesure"
+
+msgid "Last message"
+msgstr "Dernier message"
+
+msgid "Last updated"
+msgstr "Dernière actualisé"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Limit http queue"
+msgstr "Limiter la queue HTTP"
+
+msgid "Limit http requests"
+msgstr "Limiter les requêtes HTTP"
+
+msgid "Limit stream queue"
+msgstr "Limite de la file d'attente des flux"
+
+msgid "Limit stream requests"
+msgstr "Limiter les demandes de flux"
+
+msgid "LogIn"
+msgstr "Connexion"
+
+msgid "LogIn CHAP"
+msgstr "LogIn CHAP"
+
+msgid "LogIn CHAP Response"
+msgstr "Réponse CHAP LogIn"
+
+msgid "LogOut"
+msgstr "Déconnexion"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "MAC"
+msgstr "MAC"
+
+msgid "MCC"
+msgstr "MCC"
+
+msgid "MNC"
+msgstr "MNC"
+
+msgid "MSISDN"
+msgstr "MSISDN"
+
+msgid "Major"
+msgstr "Majeur"
+
+msgid "Managed object"
+msgstr "Objet géré"
+
+msgid "Measurements"
+msgstr "Mesures"
+
+msgid "Minor"
+msgstr "Mineure"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Modbus-RTU config"
+msgstr "Configuration Modbus-RTU"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Model"
+msgstr "Modèle"
+
+msgid "Module config"
+msgstr "Configuration du module"
+
+msgid "Module version"
+msgstr "Version du module"
+
+msgid "Motion detector"
+msgstr "Détecteur de mouvement"
+
+msgid "NTC commands"
+msgstr "Commandes NTC"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Netmask"
+msgstr "Masque de sous-réseau"
+
+msgid "Network"
+msgstr "Réseau"
+
+msgid "Network service"
+msgstr "Service de réseau"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Number of child assets"
+msgstr "Nombre d’actifs enfant"
+
+msgid "Number of child devices"
+msgstr "Nombre d'appareils enfants"
+
+msgid "Owner"
+msgstr "Propriétaire"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr "Adeunis LoRaWan Pulse prédéfinie"
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr "Adeunis LoRaWan Pulse prédéfini"
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr "Ascocl CM868LR-CMUS915LR prédéfini"
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr "Ascod CM868LRTH-CMUS915LRTH prédéfini"
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr "Ascolc IR868LR-IRUS915LR prédéfini"
+
+msgid "Predefined ED1608 General Sensor"
+msgstr "Détecteur général ED1608 prédéfini"
+
+msgid "Project data"
+msgstr "Données du projet"
+
+msgid "Pulse 1 setting"
+msgstr "Paramètre Pulse 1"
+
+msgid "Pulse 2 setting"
+msgstr "Paramètre Pulse 2"
+
+msgid "Query Active Jobs"
+msgstr "Demander les emplois actifs"
+
+msgid "Query Analog Input Hutline"
+msgstr "Demander le Hutline d’input analogique"
+
+msgid "Query Eifeler Vacotec server port"
+msgstr "Demander le port du serveur Eifeler Vacotec"
+
+msgid "Query Enabled Servicese"
+msgstr "Demander les services activés"
+
+msgid "Query Ethernet state"
+msgstr "Demander l’état de l’Ethernet"
+
+msgid "Query Firmware Version"
+msgstr "Demander la version du firmware"
+
+msgid "Query Fresenius VPN proxy status"
+msgstr "Demander le statut de proxy Fresenius VPN"
+
+msgid "Query GSM state"
+msgstr "Demander l’état GSM"
+
+msgid "Query Hardware"
+msgstr "Demander le matériel"
+
+msgid "Query Inputs Hutline"
+msgstr "Demander les input Hutline"
+
+msgid "Query Outputs Hutline"
+msgstr "Demander les résultats de Hutline"
+
+msgid "Query ProcessVars"
+msgstr "Demander les ProcessVars"
+
+msgid "Query Stations Bus"
+msgstr "Demander les stations Bus"
+
+msgid "Query WLAN state"
+msgstr "Demander l’état du WLAN"
+
+msgid "RCSP"
+msgstr "RCSP"
+
+msgid "RSSI"
+msgstr "RSSI"
+
+msgid "Read Event-Log"
+msgstr "Lire le journal des événements"
+
+msgid "Read FailedIncomingCall-Log"
+msgstr "Lire FailedIncomingCall-Log"
+
+msgid "Read IncomingMessage-Log"
+msgstr "Lire IncomingMessage-Log"
+
+msgid "Read Job-Report"
+msgstr "Lire Job-Report"
+
+msgid "Read Log Counter"
+msgstr "Lire le compteur de logs"
+
+msgid "Read Logfile"
+msgstr "Lire le fichier de logs"
+
+msgid "Read Login-Log"
+msgstr "Lire le log de connexion"
+
+msgid "Read SupportLog"
+msgstr "Lire le SupportLog"
+
+msgid "Read current network status"
+msgstr "Lire le statut actuel du réseau"
+
+msgid "Reboot device"
+msgstr "Redémarrer l’appareil"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "Remote Control"
+msgstr "Commande à distance"
+
+msgid "Reoccurrence count"
+msgstr "Compte de réapparition"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Required availability"
+msgstr "Disponibilité requise"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Reset Update"
+msgstr "Réinitialiser l’actualisation"
+
+msgid "Response interval"
+msgstr "Intervalle entre les réponses"
+
+msgid "Revision"
+msgstr "Révision"
+
+msgid "SIM"
+msgstr "SIM"
+
+msgid "SIM status"
+msgstr "Statut SIM"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SRT 360i Sample Commands"
+msgstr "Exemples de commandes SRT 360i"
+
+msgid "Scan M-Bus"
+msgstr "Scan de M-Bus"
+
+msgid "ScanWLAN"
+msgstr "Scan WLAN"
+
+msgid "Sensor threshold"
+msgstr "Seuil du capteur"
+
+msgid "Serial"
+msgstr "Serial"
+
+msgid "Serial number"
+msgstr "Numéro de série"
+
+msgid "Serve cell information"
+msgstr "Servir l'information de la cellule"
+
+msgid "Set ALIVE interval"
+msgstr "Définir l'intervalle ALIVE"
+
+msgid "Set AT command error messaging"
+msgstr "Définir une commande AT de messages d’erreur"
+
+msgid "Set Config"
+msgstr "Définir une configuration"
+
+msgid "Set DHCP lease time [seconds]"
+msgstr "Définir le temps de location DHCP [secondes]"
+
+msgid "Set FLAGS"
+msgstr "Définir FLAGS"
+
+msgid "Set GPIO notify mode"
+msgstr "Définir un mode de notification GPIO"
+
+msgid "Set GPS enable"
+msgstr "Définir GPS activé"
+
+msgid "Set I/O pin hardware gain"
+msgstr "Définir la broche I/O de gain de matériel"
+
+msgid "Set I/O pin mode"
+msgstr "Définir le mode broche I/O"
+
+msgid "Set I/O pin scale"
+msgstr "Définir l’échelle de broche I/O"
+
+msgid "Set INHIBTIME interval"
+msgstr "Définir l'intervalle INHIBTIME"
+
+msgid "Set MODE"
+msgstr "Définir MODE"
+
+msgid "Set MTU"
+msgstr "Définir MTU"
+
+msgid "Set Metric"
+msgstr "Choisir le système métrique"
+
+msgid "Set Output Hutline"
+msgstr "Définir le Hutline de sortie"
+
+msgid "Set SignalLED"
+msgstr "Définir SignalLED"
+
+msgid "Set TestMode"
+msgstr "Définir le TestMode"
+
+msgid "Set Time"
+msgstr "Entrer l'heure"
+
+msgid "Set Variable Bus"
+msgstr "Définir la variable Bus"
+
+msgid "Set Variable PV"
+msgstr "Définir la variable PV"
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr "Définir intervalle d’agent GPIO[secondes]"
+
+msgid "Set agent GPS interval [seconds]"
+msgstr "Définir l'intervalle d’agent GPS [secondes]"
+
+msgid "Set agent connection server"
+msgstr "Définir le serveur de connexion d’agents"
+
+msgid "Set agent connection timeout [seconds]"
+msgstr "Définir le délai de connexion d’agent [secondes]"
+
+msgid "Set agent enable"
+msgstr "Définir l’agent activé"
+
+msgid "Set agent log level"
+msgstr "Définir le niveau de log de l’agent"
+
+msgid "Set agent modbus port"
+msgstr "Définir le port de l’agent modbus"
+
+msgid "Set agent network timeout [seconds]"
+msgstr "Définir le délai de réseau d’agent [secondes]"
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr "Définir l’intervalle de réconnexion de l’agent [secondes]"
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr "Définir l’intervalle de mesure de résistance signal de l’agent[secondes]"
+
+msgid "Set command template"
+msgstr "Définir le modèle de la commande"
+
+msgid "Set configuration parameter"
+msgstr "Définir un paramètre de configuration"
+
+msgid "Set humidity threshold"
+msgstr "Fixer le seuil d'humidité"
+
+msgid "Set network update interval [seconds]"
+msgstr "Définir l’intervalle de mise à jour de réseau [secondes]"
+
+msgid "Set pullup voltage [volts]"
+msgstr "Définir la tension pullup [volts]"
+
+msgid "Set receiver number for SMS mode"
+msgstr "Définir le nombre de récepteurs pour le mode SMS"
+
+msgid "Set reconnect delay [seconds]"
+msgstr "Définir un délai de réconnexion [secondes]"
+
+msgid "Set reconnect retries"
+msgstr "Définir les tentatives de réconnexion"
+
+msgid "Set serial baud rate"
+msgstr "Définir le taux de bauds en série"
+
+msgid "Set serial port mode"
+msgstr "Définir le mode de port en série"
+
+msgid "Set sim pin"
+msgstr "Définir la broche de sim"
+
+msgid "Set sim protection"
+msgstr "Définir la protection de sim"
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr "Définir l’intervalle de mesure des ressources système [secondes]"
+
+msgid "Set temperature threshold"
+msgstr "Fixer le seuil de température"
+
+msgid "Severity"
+msgstr "Sévérité"
+
+msgid "Smartbox Commands"
+msgstr "Commandes de Smartbox"
+
+msgid "Software"
+msgstr "Logiciel"
+
+msgid "Sound detector"
+msgstr "Détecteur sonore"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Start"
+msgstr "Démarrage"
+
+msgid "Start Process"
+msgstr "Processus de démarrage"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Stop Process"
+msgstr "Processus d'arrêt"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Switch motion detector off"
+msgstr "Éteindre le détecteur de mouvement"
+
+msgid "Switch motion detector on"
+msgstr "Allumer le détecteur de mouvement"
+
+msgid "Switch sound detector off"
+msgstr "Éteindre le détecteur sonore"
+
+msgid "Switch sound detector on"
+msgstr "Éteindre le détecteur sonore"
+
+msgid "Switch to ModemMode"
+msgstr "Passer à ModemMode"
+
+msgid "Switch vibration detector off"
+msgstr "Éteindre le détecteur de vibrations"
+
+msgid "Switch vibration detector on"
+msgstr "Allumer le détecteur de vibrations"
+
+msgid "Template"
+msgstr "Modèle"
+
+msgid "Tenants"
+msgstr "Gérants"
+
+msgid "Territory"
+msgstr "Territoire"
+
+msgid "Test Scheduler"
+msgstr "Planificateur de test"
+
+msgid "Test Sequencer"
+msgstr "Séquenceur de test"
+
+msgid "Testing"
+msgstr "Test"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Tixi Commands"
+msgstr "Commandes Tixi"
+
+msgid "TransMode"
+msgstr "TransMode"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Vibration detector"
+msgstr "Détecteur de vibration"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN Profile"
+msgstr "Profil WAN"
+
+msgid "Warning"
+msgstr "Avertissement"

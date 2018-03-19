@@ -1,0 +1,51 @@
+/* =====================================================
+    BUTTONS
+   ------------------------------------------------------
+  */
+
+//## For each of Bootstrap's buttons, define text, background and border color.
+@btn-font-weight: normal;
+@btn-font-size-base: 14px;
+@btn-font-size-large: ceil((@btn-font-size-base * 1.21));
+@btn-font-size-small: ceil((@btn-font-size-base * 0.85));
+@btn-default-color: @gray-medium-dark;
+@btn-default-bg: white;
+@btn-default-border: fade(@gray-medium-dark, 10%);
+@btn-primary-color: #fff;
+@btn-primary-bg: @brand-primary;
+@btn-primary-border: darken(@btn-primary-bg, 1%);
+@btn-success-color: #fff;
+@btn-success-bg: @brand-success;
+@btn-success-border: @brand-success; //darken(@btn-success-bg, 5%);
+@btn-info-color: #fff;
+@btn-info-bg: @brand-info;
+@btn-info-border: @brand-info; //darken(@btn-info-bg, 5%);
+@btn-warning-color: #fff;
+@btn-warning-bg: @brand-warning;
+@btn-warning-border: @brand-warning; //darken(@btn-warning-bg, 5%);
+@btn-danger-color: #fff;
+@btn-danger-bg: @brand-danger;
+@btn-danger-border: @brand-danger; //darken(@btn-danger-bg, 5%);
+@btn-link-disabled-color: @gray-light;
+// Allows for customizing button radius independently from global border radius
+@btn-border-radius-base: 2px; //@border-radius-base;
+@btn-border-radius-large: @btn-border-radius-base;
+@btn-border-radius-small: @btn-border-radius-base;
+@btn-border-radius-xs: 11px;
+@btn-group-border-radius: 17px;
+@btn-shadow: inset 0 -( round((@btn-font-size-base - 2)/3)) 0 fade(black, 10%);
+//== Close
+//
+//##
+@close-font-weight: normal;
+@close-color: #000;
+@close-text-shadow: 0 0 0 transparent;
+//== SWITCH
+//
+//##
+@switch-width: 60px;
+@switch-height: 30px;
+@switch-radius: 30px;
+@switch-sm: 20px;
+@padding-btn-xs-horizontal: 12px;
+@padding-btn-small-horizontal: 14px;

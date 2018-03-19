@@ -1,0 +1,205 @@
+// CARD GROUPS
+
+/* flex grid for card groups*/
+
+.card-group,
+.card-group-block {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  margin-bottom: @margin-md;
+}
+
+.card-group {
+  margin-right: -(@grid-gutter-width/2);
+  margin-left: -(@grid-gutter-width/2);
+  /* use col-** for horizontal spacing.*/
+  >[class^="col-xs-"],
+  >[class*=" col-xs"],
+  >[class^="col-sm-"],
+  >[class*=" col-sm"],
+  >[class^="col-md-"],
+  >[class*=" col-md"],
+  >[class^="col-lg-"],
+  >[class*=" col-lg"] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    >.card,
+    >span {
+      width: 100%;
+    }
+    >span {
+      display: flex;
+      align-self: stretch;
+      >.card {
+        width: 100%;
+      }
+    }
+  }
+  .card {
+    align-self: stretch;
+  }
+}
+
+.card-group-block .card {
+  margin-bottom: 0;
+
+  .box-shadow(0 0 1px fade(black, 10%));
+}
+
+@media(min-width: @screen-sm-min) {
+  .card-group,
+  .card-group-block {
+    &.interact-list {
+      >[class^="col-xs-"],
+      >[class*=" col-xs"],
+      >[class^="col-sm-"],
+      >[class*=" col-sm"],
+      >[class^="col-md-"],
+      >[class*=" col-md"],
+      >[class^="col-lg-"],
+      >[class*=" col-lg"] {
+        width: 100%;
+        >.card {
+          display: flex;
+          margin-bottom: 1px;
+          box-shadow: 0 2px 4px 0 fade(black, 3%);
+          >hr {
+            display: none;
+          }
+        }
+      }
+      .card-header {
+        flex: 0 0 20%;
+        padding: 10px;
+        width: auto;
+        width: 20%;
+        border-bottom: 0;
+      }
+      .card-block {
+        display: flex;
+        align-items: center;
+        flex-flow: row nowrap;
+        flex-grow: 1;
+        padding: 10px;
+        p {
+          margin: 0;
+          padding: 0 5px;
+        }
+      }
+      .card-actions {
+        top: 0;
+        ~.card-block {
+          margin-right: 40px;
+          &.card-block-list {
+            display: block;
+            margin-right: 0;
+          }
+          +.card-footer {
+            margin-right: 40px;
+            margin-left: auto;
+            padding: 10px;
+            min-width: 370px;
+            &.separator {
+              border-top: 0;
+            }
+          }
+        }
+      }
+      .card-item-last {
+        flex: 0 0 220px;
+        margin-left: auto;
+      }
+      .card-actions-group {
+        order: 99;
+        margin-left: auto;
+      }
+      .smart-rule-list-card {
+        .card-actions {
+          top: 10px;
+        }
+      }
+    }
+  }
+}
+
+.interact-grid {
+  .card[ng-click]:not(.add-card),
+  a.card:not(.add-card) {
+    transition: transform .25s ease-in-out, box-shadow .25s ease-in-out;
+    &:hover,
+    &:focus {
+      z-index: @zindex-navbar - 1;
+      box-shadow: 0 20px 15px fade(black, 10%), 0 -2px 10px 1px fade(black, 3%);
+      text-decoration: none;
+
+      .scale(1.05);
+    }
+    .card-header+.card-block {
+      display: flex;
+      flex-flow: column wrap;
+      padding-top: @card-padding;
+      border-top: 1px solid @hr-border;
+      >p {
+        width: 100%;
+      }
+      >[class^="col-xs-"],
+      >[class*=" col-xs"],
+      >[class^="col-sm-"],
+      >[class*=" col-sm"],
+      >[class^="col-md-"],
+      >[class*=" col-md"],
+      >[class^="col-lg-"],
+      >[class*=" col-lg"] {
+        padding: 0;
+        width: 100%;
+      }
+    }
+  }
+  .card-actions+.card-header {
+    margin-right: 40px;
+  }
+  .card-inner-scroll & {
+    .card[ng-click]:not(.add-card),
+    a.card:not(.add-card) {
+      &:hover,
+      &:focus {
+        .scale(1);
+      }
+    }
+  }
+}
+
+@media(max-width: @screen-xs-max) {
+  .interact-list {
+    .card[ng-click] {
+      transition: transform .25s ease-in-out, box-shadow .25s ease-in-out;
+      &:hover,
+      &:focus {
+        z-index: @zindex-navbar - 1;
+        box-shadow: 0 20px 15px fade(black, 10%), 0 -2px 10px 1px fade(black, 3%);
+        text-decoration: none;
+
+        .scale(1.05);
+      }
+      .card-header+.card-block {
+        display: flex;
+        flex-flow: column wrap;
+        border-top: 1px solid @hr-border;
+        >p {
+          width: 100%;
+        }
+      }
+    }
+    .card-actions+.card-header {
+      margin-right: 40px;
+    }
+  }
+}

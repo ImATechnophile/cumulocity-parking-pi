@@ -1,0 +1,1 @@
+{"availability":"PRIVATE","contextPath":"parking_pi","key":"parking_pi-parking_pikey","name":"stanley","icon":"parking","imports":["core","c8ydata","core_c8yBranding","parking_pi_parking-pi-core","parking_pi_info"],"_webpaas":true}
