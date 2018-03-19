@@ -27,7 +27,7 @@
                 <tr ng-repeat="CU in entire | filter : searchtxt">
                     <td class="rwstyle">{{CU.serialNo}}</td>
                     <td class="rwstyle" ng-model="DeviceName">{{CU.name}}</td>
-                    <td class="rwstyle">{{CU.lat}} , {{CU.lng}} </td>
+                    <td class="rwstyle">{{CU.location}} </td>
                     <td class="rwstyle"><a><i class="fa {{CU.status}} table-logo" aria-hidden="true"></i></a></td>
                     <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()"><i class="fa fa-eye table-logo" aria-hidden="true"></i></a></td>
                 </tr>
@@ -36,3 +36,6 @@
     </div>
 </div>
 </div>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTvweI36MruTx_0QMFzaPMvLOwiLhOvPs">
+</script>
