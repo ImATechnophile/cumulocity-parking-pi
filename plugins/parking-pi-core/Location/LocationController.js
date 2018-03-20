@@ -35,8 +35,8 @@
               accessToken: 'sk.eyJ1Ijoic2FyYXZhbmFwcmFrYXNoIiwiYSI6ImNqZWk0cHl3NjA0OHcycG9zY2drNTh6NzYifQ.9k4pUoma8BUHyjyo1smidg'
           }).addTo(mymap);
               var greenIcon = L.icon({
-                iconUrl: 'parking_pi_parking-pi-core/Images/Location-markerred-300px.png',
-                shadowUrl: 'parking_pi_parking-pi-core/Images/marker-shadow.png',
+                iconUrl: 'parking_pi_parking-pi-core/Images/Location-markerred-red-ball.png',
+                shadowUrl: '',
 
                 iconSize:     [58, 68], // size of the icon
                 shadowSize:   [18, 18], // size of the shadow
