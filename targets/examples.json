@@ -1,28 +1,23 @@
 {
-  "name": "Examples",
-  "comment": "Release with additional example plugins",
-  "replaceImports": {
-    "core/c8yBranding": "editing/myBranding" 
-  },
+  "name": "parking_pi icon",
+  "comment": "Display parking_pi icon in all the core apps",
   "applications": [
     {
       "contextPath": "administration",
       "addImports": [
-        "editing/myplugin"
+        "parking_pi/parking-pi-appIcon"
       ]
     },
     {
       "contextPath": "devicemanagement",
       "addImports": [
-        "editing/myplugin", 
-        "editing/deviceContact" 
+        "parking_pi/parking-pi-appIcon"
       ]
     },
     {
       "contextPath": "cockpit",
       "addImports": [ 
-        "editing/myplugin", 
-        "editing/iconmap" 
+        "parking_pi/parking-pi-appIcon"
       ]
     }
   ]
