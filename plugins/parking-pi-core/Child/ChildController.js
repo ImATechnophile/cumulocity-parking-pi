@@ -41,41 +41,38 @@
                     series: 'distance'
                 };
 
-                c8yMeasurements.latest(filter, true).then(function (latestMeasurement) {
-                    var childStatusArray = $filter('filter')($scope.ReDist, {'name': child.name});
-                    var x={};
-                    if (childStatusArray.length == 0) {
-                        x.name = child.name;
-                        $scope.ReDist.push(x)
-                    } else {
-                        x = childStatusArray[0];
-                    }
-                    if(_.isEmpty(latestMeasurement)){
-                        var message="Oops!! Child devices doesn't send any measurements";
-                        onFailure(message);
-                    } else {
-                        var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                        if(value<=80){
-                            x.stausImage="parking_pi_parking-pi-core/Images/car.png";
-                            x.status="Parking occupied";
+                $interval(function () {
+                    console.log("Inside the timer for device", filter.device);
+                    c8yMeasurements.latest(filter, true).then(function (latestMeasurement) {
+                        var childStatusArray = $filter('filter')($scope.ReDist, {'name': child.name});
+                        var x={};
+                        if (childStatusArray.length == 0) {
+                            x.name = child.name;
+                            $scope.ReDist.push(x)
+                        } else {
+                            x = childStatusArray[0];
                         }
-                        else{
-                            x.stausImage="parking_pi_parking-pi-core/Images/empty.png";
-                            x.status="Parking available";
+                        if(_.isEmpty(latestMeasurement)){
+                            var message="Oops!! Child devices doesn't send any measurements";
+                            onFailure(message);
+                        } else {
+                            var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
+                            if(value<=80){
+                                x.stausImage="parking_pi_parking-pi-core/Images/car.png";
+                                x.status="Parking occupied";
+                            }
+                            else{
+                                x.stausImage="parking_pi_parking-pi-core/Images/empty.png";
+                                x.status="Parking available";
+                            }
                         }
-                    }
-                });
+                    });
+                }, 1000);
             });
         }
         });
     }
+
     load();
-    var stop;
-    function onLoadTimer(){
-      stop=$interval(function () {
-        load();
-      }, 1000);
-     }
-    onLoadTimer();
   }
 }());
