@@ -14,6 +14,6 @@
   "Health/HealthController.js"
   ],
   "imports": [],
-  "css": ["Device/device.css","Child/child.css","Manage/manage.css","Health/health.css"],
+  "css": ["Device/device.css","Child/child.css","Manage/manage.css","Health/health.css","Location/location.css"],
   "copy": ["Images"]
 }
