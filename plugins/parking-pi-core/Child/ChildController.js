@@ -55,7 +55,7 @@
                         onFailure(message);
                     } else {
                         var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                        if(value<=80){
+                        if(value<=20){
                             x.stausImage="parking_pi_parking-pi-core/Images/car.png";
                             x.status="Parking occupied";
                         }
