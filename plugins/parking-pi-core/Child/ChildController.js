@@ -41,9 +41,10 @@
                     series: 'distance'
                 };
 
-                $interval(function () {
+                stop=$interval(function () {
                     console.log("Inside the timer for device", filter.device);
                     c8yMeasurements.latest(filter, true).then(function (latestMeasurement) {
+                        console.log("individual child counter"+ child.id);
                         var childStatusArray = $filter('filter')($scope.ReDist, {'name': child.name});
                         var x={};
                         if (childStatusArray.length == 0) {
@@ -57,7 +58,7 @@
                             onFailure(message);
                         } else {
                             var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;
-                            if(value<=80){
+                            if(value<=20){
                                 x.stausImage="parking_pi_parking-pi-core/Images/car.png";
                                 x.status="Parking occupied";
                             }
@@ -66,6 +67,7 @@
                                 x.status="Parking available";
                             }
                         }
+                        console.log(child.id + " latest measurement ended");
                     });
                 }, 1000);
             });
@@ -73,6 +75,20 @@
         });
     }
 
+    var stop;
     load();
+    var globalstop;
+
+    //below thread is used to run the entire load to find if the child delete or added during user in UI - Future purpose
+    function onLoadTimer(){
+        globalstop=$interval(function () {
+            if (angular.isDefined(stop)) {
+                $interval.cancel(stop);
+                stop = undefined;
+            }
+            load();
+            }, 5000);
+      }
+      onLoadTimer();
   }
 }());

@@ -34,8 +34,8 @@
                     }
 
                     if (device.com_softwareag_parkingpi_ParkingPiStatus) {
-                        console.log(typeof(device.c8y_Connection.status));
-                        console.log(device.c8y_Connection.status);
+                        //console.log(typeof(device.c8y_Connection.status));
+                        //console.log(device.c8y_Connection.status);
                         if(device.com_softwareag_parkingpi_ParkingPiStatus.status=="INACTIVE") {
                             deviceDetail.status = "fa-power-off text-danger";
                         } else if(device.com_softwareag_parkingpi_ParkingPiStatus.status=="ACTIVE") {
