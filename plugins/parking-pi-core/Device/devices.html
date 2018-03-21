@@ -1,4 +1,6 @@
 <div ng-app="device" ng-controller="DevicesController">
+    <h1>{{onlylatlng}}</h1>
+    <h1>{{address}}</h1>
 <div class="card">
     <div class="card-body">
         <table class="table table-striped">
@@ -6,6 +8,7 @@
                 <tr>
                     <th class="thstyle">NO</th>
                     <th class="thstyle">NAME</th>
+                    <th class="thstyle">ADDRESS</th>
                     <th class="thstyle">LOCATION</th>
                     <th class="thstyle">STATUS</th>
                     <th class="thstyle">DETAILS</th>
@@ -16,6 +19,7 @@
                     <td class="rwstyle">{{CU.serialNo}}</td>
                     <td class="rwstyle" ng-model="DeviceName">{{CU.name}}</td>
                     <td class="rwstyle">{{CU.location}} </td>
+                    <td class="rwstyle">{{CU.lat}},{{CU.lng}} </td>
                     <td class="rwstyle"><a><i class="fa {{CU.status}} table-logo" aria-hidden="true"></i></a></td>
                     <td class="rwstyle"><a ng-href="#/DevicesInfo/{{CU.deviceId}}" ng-click="deviceInfo()"><i class="fa fa-eye table-logo" aria-hidden="true"></i></a></td>
                 </tr>

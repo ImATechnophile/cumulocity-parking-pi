@@ -15,6 +15,8 @@
     c8yAlert,
     $filter
   ) {
+    $scope.ReDist=[];
+
 
     function onFailure(message) {
       c8yAlert.danger(message);
@@ -38,7 +40,7 @@
                     fragment: 'c8y_DistanceMeasurement',
                     series: 'distance'
                 };
-
+                stop=$interval(function(){
                 c8yMeasurements.latest(filter, true).then(function (latestMeasurement) {
                     var childStatusArray = $filter('filter')($scope.ReDist, {'name': child.name});
                     var x={};
@@ -66,19 +68,13 @@
                         }
                     }
                 });
+              },1000);
             });
           }
         });
     }
 
-    $scope.ReDist=[];
-    load();
     var stop;
-    function onLoadTimer(){
-      stop=$interval(function () {
-        load();
-      }, 1000);
-     }
-    onLoadTimer();
+    load();
   }
 }());
