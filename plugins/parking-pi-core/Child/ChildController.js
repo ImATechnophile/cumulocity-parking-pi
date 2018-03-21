@@ -77,17 +77,18 @@
 
     var stop;
     load();
+    var globalstop;
+
     //below thread is used to run the entire load to find if the child delete or added during user in UI - Future purpose
-   // var globalstop;
-   // function onLoadTimer(){
-   //     globalstop=$interval(function () {
-    //        if (angular.isDefined(stop)) {
-     //           $interval.cancel(stop);
-     //           stop = undefined;
-      //      }
-       //     load();
-        //    }, 5000);
-     // }
-     // onLoadTimer();
+    function onLoadTimer(){
+        globalstop=$interval(function () {
+            if (angular.isDefined(stop)) {
+                $interval.cancel(stop);
+                stop = undefined;
+            }
+            load();
+            }, 5000);
+      }
+      onLoadTimer();
   }
 }());
