@@ -5,7 +5,10 @@ Parking-Pi is an AngularJS application built on **Cumulocity web SDK** also know
 ## Task list
 
 - [ ] What are the Software requirements you need to run this app?
-- [ ] How to create our Parking-Pi app in your tenant? 
+- [ ] How to deploy our Parking-Pi app in your tenant? 
+- [ ] How to run our Parking-Pi app in your localhost?
+- [ ] About plugins and its functionalites of parking-pi app? 
+- [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Getting Started
 
@@ -51,6 +54,14 @@ PUT /application/applications/31337 200
 ```
 
 Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
+
+## Completed Task list:
+
+- [x] What are the Software requirements you need to run this app?
+- [x] How to deploy our Parking-Pi app in your tenant? 
+- [ ] How to run our Parking-Pi app in your localhost?
+- [ ] About plugins and its functionalites of parking-pi app? 
+- [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Built With
 
