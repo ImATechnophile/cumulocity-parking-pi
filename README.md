@@ -182,6 +182,6 @@ and then in your css file you must add
 
 See also the list of [contributors](https://github.com/ImATechnophile/parking-pi-app/graphs/contributors) who participated in this project.
 
-* **Linkekin** - *Saravana Prakash* - [About myself](https://www.linkedin.com/in/saravana-prakash-j-116035124/)
+* **Linkedin** - *Saravana Prakash* - [About myself](https://www.linkedin.com/in/saravana-prakash-j-116035124/)
 
 
