@@ -42,7 +42,7 @@ $ npm i cumulocity-tools -g
 
 ## Deployment
 
-CREATE THE APPLICATION IN YOUR TENANT.Follow the below steps on your terminal with your Cumulocity credentials.
+*Create the application in your tanent*.Follow the below steps on your terminal with your Cumulocity credentials.
 ```
 $ c8y deploy:app parking_pi
 ? Tenant yourTenantName
