@@ -17,8 +17,8 @@ Before getting into this project You should be familiar with the following techn
 Software requirements:
 
 * You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
-* You will need npm (installed with Node.js)
-*Y ou will need access to your Cumulocity account, i.e. you need your tenant name, username and password.
+* You will need [npm](https://www.npmjs.com/), (installed with Node.js)
+* You will need access to your Cumulocity account, i.e. you need your tenant name, username and password.(Create a 1 month *free account* in [cumulocity.com](https://www.cumulocity.com/)
 
 
 ### Installing
@@ -31,35 +31,19 @@ To install the npm package, execute the following command on your terminal.
 $ npm i cumulocity-tools -g
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
+
+CREATE THE APPLICATION IN YOUR TENANT.Follow the below steps on your terminal with your Cumulocity credentials.
+```
+$ c8y deploy:app parking_pi
+? Tenant yourTenantName
+? User yourUserName
+? Password ***********
+? Base url https://yourTenantName.cumulocity.com
+GET application/applicationsByOwner/yourTenantName?pageSize=10000 200
+POST application/applications/31337/binaries/ 201
+PUT /application/applications/31337 200
+```
 
 Add additional notes about how to deploy this on a live system
 
