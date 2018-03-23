@@ -132,18 +132,18 @@ and then in your css file you must add
 * Folder structure is given below:
   
 * parking-pi-core
-   1. Child
+   - Child
      - child.css
      - child.html
      - ChildController.js
-   2. Device
+   - Device
      - device.css
      - device.html
      - DeviceController.js
-   3. Global
+   - Global
      - GlobalConfig.js
      - GlobalMobule.js
-   4. Health
+   - Health
      - health.css
      - ...
      - ...
@@ -180,6 +180,8 @@ and then in your css file you must add
 
 * **Saravana Prakash** - *Initial work* - [Available projects in python](https://bitbucket.org/dashboard/overview)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ImATechnophile/parking-pi-app/graphs/contributors) who participated in this project.
+
+* **Linkekin** - *Saravana Prakash* - [About myself](https://www.linkedin.com/in/saravana-prakash-j-116035124/)
 
 
