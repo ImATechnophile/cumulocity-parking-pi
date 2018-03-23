@@ -178,7 +178,7 @@ and then in your css file you must add
 
 ## Authors
 
-* **Saravana Prakash** - *Initial work* - [Available projects in python](https://bitbucket.org/dashboard/overview)
+* **Saravana Prakash** - *Initial work* - [Projects in python](https://bitbucket.org/dashboard/overview)
 
 See also the list of [contributors](https://github.com/ImATechnophile/parking-pi-app/graphs/contributors) who participated in this project.
 
