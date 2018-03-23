@@ -94,7 +94,33 @@ Our Parking-Pi app consists of three main plugins, they are:
 
 I guess, the name of plugins gives some idea about it's functionalities 😎
 
-## Versioning
+## Functionalities of our plugins:
+
+**parking-pi-appIcon :**
+* This plugin is used to create an logo for your Application.
+* To set an unique logo for your application our product Cumulocity will provide you an special angular module.That is given below
+
+```
+angular.module('c8y.ui').run(runBlock);
+
+function runBlock(c8yAppIconsList) {
+  c8yAppIconsList['yourappcontextpath'] = 'yourappcontextpath'
+}
+
+```
+and then in your css file you must add
+
+```
+.c8y-icon-yourappcontextpath:before {
+  content: '';
+  background-image: url('youricon.svg');
+}
+
+```
+* Each angular module will call an REST API at back.
+* The above angular module is *not in the cumulocity documentation*. So make use of it.
+You can refer all the available API's in our [API DOCUMENTATION] (http://resources.cumulocity.com/documentation/jssdk/latest/#/api)
+
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
