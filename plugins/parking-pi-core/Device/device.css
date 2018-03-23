@@ -1,10 +1,3 @@
-/*.style{
-  font-style: oblique;
-  font-size: 24px;
-  color:#5107ff;
-  text-shadow: 3px 2px red;
-}*/
-
 .input-group.md-form.form-sm.form-2 input {
     border: 1px solid #bdbdbd;
     border-top-left-radius: 0.25rem;
@@ -23,10 +16,4 @@
     padding-left: 13px;
     font-size: 18px;
 }
-/*.rwstyle{
-  font-size: 18px !important;
-}
-.thstyle{
-  font-size: 20px !important;
-}*/
 
