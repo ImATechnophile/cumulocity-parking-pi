@@ -69,7 +69,7 @@ Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
 After creating your app in your cumulocity tanent.You can able to run our app locally.
 
 ```
-$ c8y server -u https://knights.cumulocity.com
+$ c8y server -u https://yourTenantName.cumulocity.com
 [HPM] Proxy created: /  ->  https://yourtenantName.cumulocity.com
 Cumulocity UI development server running in port 9000.
 Proxying api requests to https://yourTanentName.cumulocity.com
@@ -81,7 +81,7 @@ http://localhost:9000/apps/cockpit/  Packaged App
 http://localhost:9000/apps/devicemanagement/  Packaged App
 ```
 
-In the above example c8y server -u https://knights.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
+In the above example c8y server -u https://yourTanentName.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
 
 ## Plugins of parking-pi app:
 
@@ -132,40 +132,54 @@ and then in your css file you must add
 * Folder structure is given below:
   
 * parking-pi-core
-   - Child
+   1. Child
      - child.css
      - child.html
      - ChildController.js
-   - Device
+   2. Device
      - device.css
      - device.html
      - DeviceController.js
-   - Global
+   3. Global
      - GlobalConfig.js
      - GlobalMobule.js
-   - Health
+   4. Health
      - health.css
      - ...
      - ...
      
+## Cumulocity angular modules used in this app:
+
+  1.  c8yDevices
+  2.  c8yMeasurements
+  3.  c8yAlert
+  4.  c8yInventory
+  5.  c8yNavigatorProvider
+  6.  c8yViewsProvider
+  7.  c8yTittleProvider
+  8.  c8yBinary
+  9.  c8yDeviceStatus
+  10. c8yTabProvider
+  11. c8ySearchProvider
+  12. c8yKeyProvider
+  13. c8yEvents
+  14. c8yCounter
+  14. c8yIdentity
   
-   
+  You can refer the description of the above modules in our [API DOCUMENTATION](http://resources.cumulocity.com/documentation/jssdk/latest/#/api)
+  
+ ## Completed Task list:
 
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+- [x] What are the Software requirements you need to run this app?
+- [x] How to deploy our Parking-Pi app in your tenant? 
+- [x] How to run our Parking-Pi app in your localhost?
+- [x] About plugins and its functionalites of parking-pi app? 
+- [x] What are the Cumulocity angular modules used in this app?
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Saravana Prakash** - *Initial work* - [Available projects in python](https://bitbucket.org/dashboard/overview)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
