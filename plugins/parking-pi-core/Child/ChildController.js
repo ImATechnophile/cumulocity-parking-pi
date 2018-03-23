@@ -63,7 +63,7 @@
                                 x.status="Parking occupied";
                             }
                             else{
-                                x.stausImage="parking_pi_parking-pi-core/Images/empty.png";
+                                x.stausImage="parking_pi_parking-pi-core/Images/FreeSmall.png";
                                 x.status="Parking available";
                             }
                         }
