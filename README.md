@@ -81,7 +81,7 @@ http://localhost:9000/apps/cockpit/  Packaged App
 http://localhost:9000/apps/devicemanagement/  Packaged App
 ```
 
-In the above example c8y server -u https://knights.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/] (http://localhost:9000/apps/parking_pi/) 
+In the above example c8y server -u https://knights.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
 
 ## Plugins of parking-pi app:
 
@@ -119,7 +119,37 @@ and then in your css file you must add
 ```
 * Each angular module will call an REST API at back.
 * The above angular module is *not in the cumulocity documentation*. So make use of it.
-You can refer all the available API's in our [API DOCUMENTATION] (http://resources.cumulocity.com/documentation/jssdk/latest/#/api)
+**You can refer all the available API's in our** [API DOCUMENTATION](http://resources.cumulocity.com/documentation/jssdk/latest/#/api)
+
+**parking-pi-branding :**
+* This plugin is used to change your app's look and feel.
+* This plugin fully consists of less files.You just go and make some changes in colors, logo. So that you can make your app looks different from other's.
+
+**parking-pi-core :**
+* This plugin consists of all the important functionalities.
+* It consists of 6 folders.Each and every folder consists of a **separate controller**.
+* This plugin consists of full modularised code.
+* Folder structure is given below:
+  
+* parking-pi-core
+   - Child
+     - child.css
+     - child.html
+     - ChildController.js
+   - Device
+     - device.css
+     - device.html
+     - DeviceController.js
+   - Global
+     - GlobalConfig.js
+     - GlobalMobule.js
+   - Health
+     - health.css
+     - ...
+     - ...
+     
+  
+   
 
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
