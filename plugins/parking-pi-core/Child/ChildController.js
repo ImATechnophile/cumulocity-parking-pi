@@ -27,7 +27,7 @@
     function load() {
         c8yDevices.listChildren($routeParams.deviceId).then(function (children) {
           if(children.length==0){
-          var message="Oops!! This device doesn't have any child devices";
+          var message="Oops!! This place doesn't have any parking slots";
           onFailure(message);
           }
           else{
@@ -51,7 +51,7 @@
                             x = childStatusArray[0];
                         }
                         if(_.isEmpty(latestMeasurement)){
-                            var message="Oops!! Child devices doesn't send any measurements";
+                            var message="Oops!! Parking slots are closed";
                             onFailure(message);
                         } else {
                             var value=latestMeasurement.c8y_DistanceMeasurement.distance.value;

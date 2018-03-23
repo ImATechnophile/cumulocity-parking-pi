@@ -25,7 +25,7 @@
     });
 
       c8yViewsProvider.when('/DevicesInfo/:deviceId', {
-      name: 'Child Devices',
+      name: 'Parking slots',
       icon: 'code-fork',
       priority: 1009,
       templateUrl: ':::PLUGIN_PATH:::/Child/child.html',
