@@ -15,10 +15,7 @@
     c8yMeasurements,
     c8yAlert
   ) {
-    //Initiate the Timer object.
-    // $scope.Timer = null;
-     $scope.ReDist = [];
-
+    $scope.ReDist = [];
     function onFailure(message) {
       c8yAlert.danger(message);
       if (angular.isDefined(stop)) {
