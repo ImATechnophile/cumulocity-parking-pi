@@ -1,6 +1,7 @@
 # Parking-Pi
 
-Parking-Pi is an AngularJS application built on **Cumulocity web SDK** also known as Cumulocity Parking-Pi application.Parking-Pi gives you very fast visibility and control over your remote parking slots, be these companies parking slot, malls parking slot, hospital or any other parking slots that you need to know whether the free space is available or not.
+* Parking-Pi is an AngularJS application built on **Cumulocity web SDK** also known as Cumulocity Parking-Pi application.
+* Parking-Pi gives you very fast visibility and control over your remote parking slots, be these companies parking slot, malls parking slot, hospital or any other parking slots that you need to know whether the free space is available or not.
 
 ## Task list
 
@@ -63,13 +64,33 @@ Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
 - [ ] About plugins and its functionalites of parking-pi app? 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
-## Built With
+## Running locally:
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+After creating your app in your cumulocity tanent.You can able to run our app locally.
 
-## Contributing
+```
+$ c8y server -u https://knights.cumulocity.com
+[HPM] Proxy created: /  ->  https://yourtenantName.cumulocity.com
+Cumulocity UI development server running in port 9000.
+Proxying api requests to https://yourTanentName.cumulocity.com
+162 modules loaded.
+4 application manifest loaded.
+http://localhost:9000/apps/parking_pi/ cumulocity.json
+http://localhost:9000/apps/administration/  Packaged App
+http://localhost:9000/apps/cockpit/  Packaged App
+http://localhost:9000/apps/devicemanagement/  Packaged App
+```
+
+In the above example c8y server -u https://knights.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/] (http://localhost:9000/apps/parking_pi/) 
+
+## Plugins of parking-pi app:
+
+*Every Cumulocity AngularJs app is a collection of Plugins*
+
+Our Parking-Pi app consists of three main plugins, they are:
+* parking-pi-appIcon
+* parking-pi-branding
+* parking-pi-core
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
