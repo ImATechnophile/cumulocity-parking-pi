@@ -92,7 +92,7 @@ Our Parking-Pi app consists of three main plugins, they are:
 * parking-pi-branding
 * parking-pi-core
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+I guess, the name of plugins gives some idea about it's functionalities 😎
 
 ## Versioning
 
