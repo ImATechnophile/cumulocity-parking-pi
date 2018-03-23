@@ -14,13 +14,12 @@ Before getting into this project You should be familiar with the following techn
 * JavaScript
 * AngularJS 1.x.
 
-What things you need to install the software and how to install them
+Software requirements:
 
-```
-You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
-You will need npm (installed with Node.js)
-You will need access to your Cumulocity account, i.e. you need your tenant name, username and password.
-```
+* You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
+* You will need npm (installed with Node.js)
+*Y ou will need access to your Cumulocity account, i.e. you need your tenant name, username and password.
+
 
 ### Installing
 
