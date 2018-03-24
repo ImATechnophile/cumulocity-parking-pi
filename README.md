@@ -151,9 +151,7 @@ and then in your css file you must add
      - ...
 ## Cumulocity Parking-Pi screenshots:
 In the words of **Steven Pinker**:
-```
-We are visual creatures. Visual things stay put, whereas sounds fade.
-```
+> We are visual creatures. Visual things stay put, whereas sounds fade.
 1. *Login*:
 ![login](https://user-images.githubusercontent.com/35361302/37862701-5bcb6f38-2f77-11e8-86c6-498779d0132c.png)
 2. *Loding*:
