@@ -9,6 +9,7 @@
 - [ ] How to deploy our Parking-Pi app on your tenant? 
 - [ ] How to run our Parking-Pi app on your localhost?
 - [ ] About plugins and its functionalities of the Parking-Pi app? 
+- [ ] How our Cumulocity Parking-Pi app looks like? (*screenshots are included*) 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Getting Started
@@ -62,6 +63,7 @@ Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
 - [x] How to deploy our Parking-Pi app on your tenant? 
 - [ ] How to run our Parking-Pi app on your localhost?
 - [ ] About plugins and its functionalities of the Parking-Pi app? 
+- [ ] How our Cumulocity Parking-Pi app looks like? (*screenshots are included*) 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Running locally:
@@ -173,7 +175,8 @@ and then in your css file you must add
 - [x] What are the Software requirements you need to run this app?
 - [x] How to deploy our Parking-Pi app on your tenant? 
 - [x] How to run our Parking-Pi app on your localhost?
-- [x] About plugins and its functionalities of the Parking-Pi app? 
+- [x] About plugins and its functionalities of the Parking-Pi app?
+- [x] How our Cumulocity Parking-Pi app looks like? (*screenshots are included*) 
 - [x] What are the Cumulocity angular modules used in this app?
 
 ## Authors
