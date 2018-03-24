@@ -149,7 +149,26 @@ and then in your css file you must add
      - health.css
      - ...
      - ...
-     
+## Cumulocity Parking-Pi screenshots:
+In the words of **Steven Pinker**:
+```
+We are visual creatures. Visual things stay put, whereas sounds fade.
+```
+1. *Login*:
+![login](https://user-images.githubusercontent.com/35361302/37862701-5bcb6f38-2f77-11e8-86c6-498779d0132c.png)
+2. *Loding*:
+![loading](https://user-images.githubusercontent.com/35361302/37862712-83c5c182-2f77-11e8-8905-200b40a9fdf2.png)
+3. *List*:
+![list](https://user-images.githubusercontent.com/35361302/37862716-8fdaa104-2f77-11e8-90e5-4d6b0a016098.png)
+4. *Slots*:
+![slots](https://user-images.githubusercontent.com/35361302/37862718-9c340fbc-2f77-11e8-8076-7d883777e66a.png)
+5. *Location*:
+![location](https://user-images.githubusercontent.com/35361302/37862719-a4d3b8d4-2f77-11e8-82d5-693de58e2563.png)
+6. *Health*:
+![health](https://user-images.githubusercontent.com/35361302/37862722-ae790948-2f77-11e8-91a8-dc8a44e672d0.png)
+
+
+
 ## Cumulocity angular modules used in this app:
 
   1.  c8yDevices
