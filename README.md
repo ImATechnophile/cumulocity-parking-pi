@@ -6,9 +6,9 @@
 ## Task list
 
 - [ ] What are the Software requirements you need to run this app?
-- [ ] How to deploy our Parking-Pi app in your tenant? 
-- [ ] How to run our Parking-Pi app in your localhost?
-- [ ] About plugins and its functionalites of parking-pi app? 
+- [ ] How to deploy our Parking-Pi app on your tenant? 
+- [ ] How to run our Parking-Pi app on your localhost?
+- [ ] About plugins and its functionalities of the Parking-Pi app? 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Getting Started
@@ -27,12 +27,12 @@ Software requirements:
 
 * You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
 * You will need [npm](https://www.npmjs.com/), (installed with Node.js)
-* You will need access to your Cumulocity account, i.e. you need your tenant name, username and password.(Create a 1 month *free account* in [cumulocity.com](https://www.cumulocity.com/)
+* You will need access to your Cumulocity account, i.e. you need your tenant name, username, and password.(Create a 1 month *free account* in [cumulocity.com](https://www.cumulocity.com/)
 
 
 ### Installing
 
-Once all prerequisites are fulfilled, you are almost ready to see the Parking-Pi application in your desktop. For the process of deploying our Parking-Pi, you will need the npm package "cumulocity-tools" installed globally on your machine. 
+Once all prerequisites are fulfilled, you are almost ready to see the Parking-Pi application on your desktop. For the process of deploying our Parking-Pi, you will need the npm package "cumulocity-tools" installed globally on your machine. 
 
 To install the npm package, execute the following command on your terminal.
 
@@ -42,7 +42,7 @@ $ npm i cumulocity-tools -g
 
 ## Deployment
 
-*Create the application in your tanent*.Follow the below steps on your terminal with your Cumulocity credentials.
+*Create the application in your tenant*.Follow the below steps on your terminal with your Cumulocity credentials.
 ```
 $ c8y deploy:app parking_pi
 ? Tenant yourTenantName
@@ -59,14 +59,14 @@ Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
 ## Completed Task list:
 
 - [x] What are the Software requirements you need to run this app?
-- [x] How to deploy our Parking-Pi app in your tenant? 
-- [ ] How to run our Parking-Pi app in your localhost?
-- [ ] About plugins and its functionalites of parking-pi app? 
+- [x] How to deploy our Parking-Pi app on your tenant? 
+- [ ] How to run our Parking-Pi app on your localhost?
+- [ ] About plugins and its functionalities of the Parking-Pi app? 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
 ## Running locally:
 
-After creating your app in your cumulocity tanent.You can able to run our app locally.
+After creating your app in your cumulocity tenant.You can able to run our app locally.
 
 ```
 $ c8y server -u https://yourTenantName.cumulocity.com
@@ -81,9 +81,9 @@ http://localhost:9000/apps/cockpit/  Packaged App
 http://localhost:9000/apps/devicemanagement/  Packaged App
 ```
 
-In the above example c8y server -u https://yourTanentName.cumulocity.com is the command to run your app locally.After executing the above command go and visit this url to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
+In the above example c8y server -u https://yourTanentName.cumulocity.com is the command to run your app locally.After executing the above command go and visit this URL to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
 
-## Plugins of parking-pi app:
+## Plugins of the Parking-Pi app:
 
 *Every Cumulocity AngularJs app is a collection of Plugins*
 
@@ -92,13 +92,13 @@ Our Parking-Pi app consists of three main plugins, they are:
 * parking-pi-branding
 * parking-pi-core
 
-I guess, the name of plugins gives some idea about it's functionalities 😎
+I guess the name of plugins gives some idea about its functionalities 😎
 
 ## Functionalities of our plugins:
 
 **parking-pi-appIcon :**
-* This plugin is used to create an logo for your Application.
-* To set an unique logo for your application our product Cumulocity will provide you an special angular module.That is given below
+* This plugin is used to create a logo for your Application.
+* To set a unique logo for your application our product Cumulocity will provide you a special angular module.That is given below
 
 ```
 angular.module('c8y.ui').run(runBlock);
@@ -117,13 +117,13 @@ and then in your css file you must add
 }
 
 ```
-* Each angular module will call an REST API at back.
+* Each angular module will call a REST API at back.
 * The above angular module is *not in the cumulocity documentation*. So make use of it.
 **You can refer all the available API's in our** [API DOCUMENTATION](http://resources.cumulocity.com/documentation/jssdk/latest/#/api)
 
 **parking-pi-branding :**
 * This plugin is used to change your app's look and feel.
-* This plugin fully consists of less files.You just go and make some changes in colors, logo. So that you can make your app looks different from other's.
+* This plugin fully consists of less files.You just go and make some changes in colors, logo. So that you can make your app looks different from others.
 
 **parking-pi-core :**
 * This plugin consists of all the important functionalities.
@@ -171,9 +171,9 @@ and then in your css file you must add
  ## Completed Task list:
 
 - [x] What are the Software requirements you need to run this app?
-- [x] How to deploy our Parking-Pi app in your tenant? 
-- [x] How to run our Parking-Pi app in your localhost?
-- [x] About plugins and its functionalites of parking-pi app? 
+- [x] How to deploy our Parking-Pi app on your tenant? 
+- [x] How to run our Parking-Pi app on your localhost?
+- [x] About plugins and its functionalities of the Parking-Pi app? 
 - [x] What are the Cumulocity angular modules used in this app?
 
 ## Authors
