@@ -1,4 +1,5 @@
-# Parking-Pi  *screenshots of this app are included at the bottom*
+# Parking-Pi  
+
 * Parking-Pi is an AngularJS application built on **Cumulocity web SDK** also known as Cumulocity Parking-Pi application.
 * Parking-Pi gives you very fast visibility and control over your remote parking slots, be these companies parking slot, malls parking slot, hospital or any other parking slots that you need to know whether the free space is available or not.
 
