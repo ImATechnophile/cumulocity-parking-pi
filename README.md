@@ -5,12 +5,12 @@
 
 ## Task list
 
-- [ ] [What are the Software requirements you need to run this app?](#software)
-- [ ] [How to deploy our Parking-Pi app on your tenant?](#deploy) 
-- [ ] [How to run our Parking-Pi app on your localhost?](#localhost)
-- [ ] [About plugins and its functionalities of the Parking-Pi app?](#functionalities) 
-- [ ] [How our Cumulocity Parking-Pi app looks like? (*screenshots are included*)](#look) 
-- [ ] [What are the Cumulocity angular modules used in this app?](#modules) 
+- [ ] What are the [Software requirements](#software) you need to run this app?
+- [ ] How to [deploy](#deploy) our Parking-Pi app on your tenant? 
+- [ ] How to run our Parking-Pi app on your [localhost](#localhost)?
+- [ ] About plugins and its [functionalities](#functionalities) of the Parking-Pi app? 
+- [ ] How our Cumulocity Parking-Pi app [looks](#look)  like? (*screenshots are included*)
+- [ ] What are the Cumulocity angular [modules](#modules)  used in this app?
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Before getting into this project You should be familiar with the following techn
 * JavaScript
 * AngularJS 1.x.
 
-<a name="prerequisites"></a>Software requirements:
+<a name="software"></a>Software requirements:
 
 * You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
 * You will need [npm](https://www.npmjs.com/), (installed with Node.js)
@@ -43,7 +43,7 @@ To install the npm package, execute the following command on your terminal.
 $ npm i cumulocity-tools -g
 ```
 
-## Deployment
+## <a name="deploy"></a>Deployment
 
 *Create the application in your tenant*.Follow the below steps on your terminal with your Cumulocity credentials.
 ```
@@ -68,7 +68,7 @@ Almost Done :+1: Now you can view our *Parking-Pi* app in your tanent.
 - [ ] How our Cumulocity Parking-Pi app looks like? (*screenshots are included*) 
 - [ ] What are the Cumulocity angular modules used in this app? 
 
-## Running locally:
+## <a name="localhost"></a>Running locally:
 
 After creating your app in your cumulocity tenant.You can able to run our app locally.
 
@@ -87,7 +87,7 @@ http://localhost:9000/apps/devicemanagement/  Packaged App
 
 In the above example c8y server -u https://yourTanentName.cumulocity.com is the command to run your app locally.After executing the above command go and visit this URL to see our app. [http://localhost:9000/apps/parking_pi/](http://localhost:9000/apps/parking_pi/) 
 
-## Plugins of the Parking-Pi app:
+## <a name="functionalities"></a>Plugins of the Parking-Pi app:
 
 *Every Cumulocity AngularJs app is a collection of Plugins*
 
@@ -151,7 +151,7 @@ and then in your css file you must add
      - health.css
      - ...
      - ...
-## Cumulocity Parking-Pi screenshots:
+## <a name="looks"></a>Cumulocity Parking-Pi screenshots:
 In the words of **Steven Pinker**:
 > We are visual creatures. Visual things stay put, whereas sounds fade.
 1. *Login*:
@@ -169,7 +169,7 @@ In the words of **Steven Pinker**:
 
 
 
-## Cumulocity angular modules used in this app:
+## <a name="modules"></a>Cumulocity angular modules used in this app:
 
   1.  c8yDevices
   2.  c8yMeasurements
