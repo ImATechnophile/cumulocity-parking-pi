@@ -151,7 +151,7 @@ and then in your css file you must add
      - health.css
      - ...
      - ...
-## <a name="looks"></a>Cumulocity Parking-Pi screenshots:
+## <a name="look"></a>Cumulocity Parking-Pi screenshots:
 In the words of **Steven Pinker**:
 > We are visual creatures. Visual things stay put, whereas sounds fade.
 1. *Login*:
