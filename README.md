@@ -30,6 +30,8 @@ Software requirements:
 * You will need [npm](https://www.npmjs.com/), (installed with Node.js)
 * You will need access to your Cumulocity account, i.e. you need your tenant name, username, and password.(Create a 1 month *free account* in [cumulocity.com](https://www.cumulocity.com/)
 
+If you have never worked with a Cumulocity UI application I recommend following the basic introduction to [get started](https://cumulocity.com/guides/web/introduction/)
+
 
 ### Installing
 
