@@ -5,12 +5,12 @@
 
 ## Task list
 
-- [ ] What are the Software requirements you need to run this app?
-- [ ] How to deploy our Parking-Pi app on your tenant? 
-- [ ] How to run our Parking-Pi app on your localhost?
-- [ ] About plugins and its functionalities of the Parking-Pi app? 
-- [ ] How our Cumulocity Parking-Pi app looks like? (*screenshots are included*) 
-- [ ] What are the Cumulocity angular modules used in this app? 
+- [ ] [What are the Software requirements you need to run this app?](#software)
+- [ ] [How to deploy our Parking-Pi app on your tenant?](#deploy) 
+- [ ] [How to run our Parking-Pi app on your localhost?](#localhost)
+- [ ] [About plugins and its functionalities of the Parking-Pi app?](#functionalities) 
+- [ ] [How our Cumulocity Parking-Pi app looks like? (*screenshots are included*)](#look) 
+- [ ] [What are the Cumulocity angular modules used in this app?](#modules) 
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Before getting into this project You should be familiar with the following techn
 * JavaScript
 * AngularJS 1.x.
 
-Software requirements:
+<a name="prerequisites"></a>Software requirements:
 
 * You will need [Node.js](https://nodejs.org/en/), (6.7 or newer)
 * You will need [npm](https://www.npmjs.com/), (installed with Node.js)
