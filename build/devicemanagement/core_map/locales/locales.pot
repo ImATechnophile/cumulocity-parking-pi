@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_map/views/geofenceEdit.html:28
+msgid "Cancel"
+msgstr ""
+
+#: core_map/views/geofenceEdit.html:25
+msgid "Center map"
+msgstr ""
+
+#: core_map/views/geofenceEdit.html:26
+msgid "Clear geofence"
+msgstr ""
+
+#: core_map/index.js:12
+msgid "Displays a map with position markers for selected devices."
+msgstr ""
+
+#: core_map/views/geofenceEdit.html:11
+msgid "Double click to add points and set the area. Click and drag the points to adjust."
+msgstr ""
+
+#: core_map/services/geofence.js:11
+msgid "Edit geofence"
+msgstr ""
+
+#: core_map/views/geofenceEdit.html:16
+msgid "Enter address"
+msgstr ""
+
+#: core_map/index.js:11
+msgid "Map"
+msgstr ""
+
+#: core_map/views/geofenceEdit.html:29
+msgid "Save"
+msgstr ""

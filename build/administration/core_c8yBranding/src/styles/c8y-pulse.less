@@ -1,0 +1,56 @@
+.c8y-pulse {
+  display: inline-block!important; // to override display in panels
+  margin: 0 5px 0 0!important;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: @pulse-color;
+  box-shadow: 0 0 0 fade(@pulse-color, 40%);
+  animation: c8ypulse 2s infinite;
+}
+
+.c8y-realtime {
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+  .c8y-pulse.inactive {
+    border: 1px solid white;
+    background-color: fade(@navbar-default-link-color, 10%);
+    animation: none;
+
+    .transition(border .25s ease);
+  }
+  .c8y-pulse.active {
+    border: 1px solid white;
+    background-color: @pulse-color;
+    animation: c8ypulse 2s infinite;
+  }
+}
+
+@-webkit-keyframes c8ypulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 fade(@pulse-color, 40%);
+  }
+  70% {
+    -webkit-box-shadow: 0 0 0 10px fade(@pulse-color, 0%);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 0 fade(@pulse-color, 0%);
+  }
+}
+
+@keyframes c8ypulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 fade(@pulse-color, 40%);
+    box-shadow: 0 0 0 0 fade(@pulse-color, 40%);
+  }
+  70% {
+    -moz-box-shadow: 0 0 0 10px fade(@pulse-color, 0%);
+    box-shadow: 0 0 0 10px fade(@pulse-color, 0%);
+  }
+  100% {
+    -moz-box-shadow: 0 0 0 0 fade(@pulse-color, 0%);
+    box-shadow: 0 0 0 0 fade(@pulse-color, 0%);
+  }
+}

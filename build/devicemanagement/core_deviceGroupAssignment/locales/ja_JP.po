@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Assign"
+msgstr "割り当てる"
+
+msgid "Assign the device to a group below."
+msgstr "デバイスを以下のグループに割り当ててください"
+
+msgid "Choose group"
+msgstr "グループを選択"
+
+msgid "Device added to group"
+msgstr "グループに追加されたデバイス"
+
+msgid "Device group assignment"
+msgstr "デバイスグループの割り当て"
+
+msgid "Device not assigned."
+msgstr "デバイスが割り当てられていません"
+
+msgid "Device removed from group"
+msgstr "グループからデバイスが削除されました"
+
+msgid "Unassign device"
+msgstr "デバイスの割り当てを解除"
+
+msgid "Widget can assign device to selected group"
+msgstr "ウィジェットは選択したグループにデバイスを割り当てることができます"

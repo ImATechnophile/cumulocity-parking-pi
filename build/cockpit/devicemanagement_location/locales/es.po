@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add location"
+msgstr "Añadir ubicación"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Address could not be found!"
+msgstr "¡No se pudo encontrar la dirección!"
+
+msgid "Altitude"
+msgstr "Altitud"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Center map"
+msgstr "Centrar mapa"
+
+msgid "Current location"
+msgstr "Ubicación actual"
+
+msgid "Device location may be set by the device itself, or manually in the platform"
+msgstr "La ubicación del dispositivo puede ser configurada por el propio dispositivo, o manualmente en la plataforma"
+
+msgid "Displays a map with device position marker"
+msgstr "Muestra un mapa con el marcador de posición del dispositivo"
+
+msgid "Edit location"
+msgstr "Editar ubicación"
+
+msgid "Find lat/long by address"
+msgstr "Buscar lat/long por dirección"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Location"
+msgstr "Ubicación"
+
+msgid "Location successfully saved!"
+msgstr "Ubicación guardada con éxito!"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Save"
+msgstr "Guardar"

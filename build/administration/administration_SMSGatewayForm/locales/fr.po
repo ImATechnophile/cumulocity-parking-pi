@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Credentials"
+msgstr "Identifiants"
+
+msgid "Credentials successfully deleted"
+msgstr "Informations d’identification ont été supprimées avec succès"
+
+msgid "Credentials successfully updated"
+msgstr "Informations d’identification ont été actualisées avec succès"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Deleting credentials will lock out any users with SMS-based two-factors authentication, and disable the SMS-based smart rules and device communication. Are you sure you want to delete your OpenIT credentials?"
+msgstr "Suppression d’informations d’identification est verrouiller tous les utilisateurs avec l’authentification de deux facteurs axés sur les SMS et désactiver les Smart Rules basées sur SMS et communication de l’appareil. Êtes-vous sûr de que vous voulez supprimer vos informations d’identification OpenIT ?"
+
+msgid "OpenIT credentials"
+msgstr "Informations d'identification OpenIT"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Please enter your OpenIT credentials. These credentials are used for {{uses}}."
+msgstr "Entrez vos informations d'identification OpenIT. Ces informations d'identification sont utilisées pour {{uses}}."
+
+msgid "Please enter your credentials from your SMS provider.  This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
+msgstr "Veuillez saisir vos informations d'identification de votre fournisseur de SMS. Cela permet aux fonctionnalités de la plate-forme qui utilisent les services SMS (par exemple, l'authentification à deux facteurs et les notifications des utilisateurs)."
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "This field is required!"
+msgstr "Ce champ est requis!"
+
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+msgid "and"
+msgstr "et"
+
+msgid "sending SMSs in smart rules"
+msgstr "envoi de SMS en smart rules"
+
+msgid "the communication with some devices"
+msgstr "la communication avec certains appareils"
+
+msgid "two-factors authentication"
+msgstr "authentification de deux facteurs"

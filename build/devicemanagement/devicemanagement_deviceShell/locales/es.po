@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+msgid "An operation to change transport mode is currently in progress."
+msgstr "Una operación para cambiar el modo de transporte está en curso."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Cancel operation"
+msgstr "Cancelar la operación"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Command"
+msgstr "Comando"
+
+msgid "Command has been sent!"
+msgstr "¡El comando ha sido enviado!"
+
+msgid "Command template"
+msgstr "Plantilla de comando"
+
+msgid "Command's status has been updated!"
+msgstr "¡Se ha actualizado el estado del comando!"
+
+msgid "Communication mode successfully changed!"
+msgstr "¡El modo de comunicación ha cambiado con éxito!"
+
+msgid "Device is offline"
+msgstr "El dispositivo está desconectado"
+
+msgid "Device is ready to receive commands"
+msgstr "Dispositivo está listo para recibir comandos"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Execute"
+msgstr "Ejecutar"
+
+msgid "Execute (SMS)"
+msgstr "Ejecutar (SMS)"
+
+msgid "Execute shell command"
+msgstr "Ejecutar comandos de shell"
+
+msgid "Get predefined command"
+msgstr "Obtenga un comando predefinido"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No operations have been invoked yet."
+msgstr "Sin operaciones invocadas todavía."
+
+msgid "Operation to change communication mode successfully created!"
+msgstr "¡Operación para cambiar el modo de comunicación creada con éxito!"
+
+msgid "Refresh device status"
+msgstr "Actualizar el estado del dispositivo"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Response"
+msgstr "Respuesta"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Search command by name or text"
+msgstr "Buscar comando por nombre o texto"
+
+msgid "Select a predefined command"
+msgstr "Seleccione un comando predefinido"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Shell command template removed."
+msgstr "Plantilla de comando Shell eliminada."
+
+msgid "The MSISDN is not defined."
+msgstr "El MSISDN no está definido."
+
+msgid "This is currently defined communication mode"
+msgstr "Este es el modo de comunicación actualmente definido"
+
+msgid "Use"
+msgstr "Uso"
+
+msgid "View history"
+msgstr "Ver historial"

@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add resource"
+msgstr "リソースを追加"
+
+msgid "BOOLEAN"
+msgstr "ブール値"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Date created"
+msgstr "日付が作成されました"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Device protocol updated"
+msgstr "デバイスプロトコルが更新されました"
+
+msgid "Do you want to remove the resource with the id \"{{id}}\""
+msgstr "ID \"{{id}}\" のリソースを削除しますか？"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "FLOAT"
+msgstr "浮動小数点型"
+
+msgid "Functionalities"
+msgstr "機能"
+
+msgid "IMPACT"
+msgstr "IMPACT"
+
+msgid "INTEGER"
+msgstr "整数"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Instance type"
+msgstr "インスタンスタイプ"
+
+msgid "Last update"
+msgstr "最終更新"
+
+msgid "Multiple"
+msgstr "複数"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No resources to display. Click below to add."
+msgstr "表示できるリソースがありません。以下をクリックして追加してください"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove resource?"
+msgstr "リソースを削除しますか？"
+
+msgid "Resource successfully removed"
+msgstr "リソースは正常に削除されました"
+
+msgid "Resources"
+msgstr "リソース"
+
+msgid "STRING"
+msgstr "文字列"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Single"
+msgstr "信号"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Unit"
+msgstr "単位"

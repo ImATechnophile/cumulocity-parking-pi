@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add retention rule"
+msgstr "Añadir regla de retención"
+
+msgid "Add rule"
+msgstr "Añadir regla"
+
+msgid "Add your first retention rule by clicking below."
+msgstr "Agregue su primera regla de retención haciendo clic a continuación."
+
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Click to edit"
+msgstr "Click para editar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Do you want to remove this rule?"
+msgstr "¿Desea eliminar esta regla?"
+
+msgid "Find out more on the <a c8y-guide-href=\"reference/retention-rules/\">Reference Guide</a>."
+msgstr "Averigüe más sobre la <a c8y-guide-href=\"reference/retention-rules\">Guía de referencia</a>."
+
+msgid "Fragment type"
+msgstr "Tipo de fragmento"
+
+msgid "Management"
+msgstr "Dirección"
+
+msgid "Maximum age"
+msgstr "Edad máxima"
+
+msgid "No retention rules to display."
+msgstr "No hay reglas de retención para mostrar."
+
+msgid "Not editable"
+msgstr "No editable"
+
+msgid "Reload"
+msgstr "Actualizar"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Retention rules"
+msgstr "Reglas de retención"
+
+msgid "Rule is removed successfully."
+msgstr "La regla se eliminó correctamente."
+
+msgid "Source"
+msgstr "Fuente"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "You need these roles to access retention rules: Retention Rule Read / Admin"
+msgstr "Necesita estas funciones para acceder a las reglas de retención: Regla de retención de lectura / Admin"
+
+msgid "days"
+msgstr "dias"

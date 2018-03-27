@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Aggregation"
+msgstr "Agregación"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Auto"
+msgstr "Automática"
+
+msgid "Bars"
+msgstr "Bares"
+
+msgid "Change aggregation or select shorter date range."
+msgstr "Cambiar agregación o seleccione un rango de fecha más corto."
+
+msgid "Daily"
+msgstr "Diario"
+
+msgid "Daily aggregation"
+msgstr "Agregación diaria"
+
+msgid "Data has been truncated. Please use aggregation."
+msgstr "Los datos se han truncado. Por favor use agregación."
+
+msgid "Drag X-Axis to move time.<br>Select time period to zoom.<br>Double click to zoom out."
+msgstr "Arrastre el X-Axis para mover el tiempo. <br> Seleccione el período de tiempo para ampliar. <br> Haga doble clic para alejar el zoom."
+
+msgid "From"
+msgstr "De"
+
+msgid "Hourly"
+msgstr "Cada hora"
+
+msgid "Hourly aggregation"
+msgstr "Agregación por hora"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Line"
+msgstr "Línea"
+
+msgid "Line and points"
+msgstr "Línea y puntos"
+
+msgid "Loading"
+msgstr "Cargando"
+
+msgid "Maximum"
+msgstr "Máximo"
+
+msgid "Minimum"
+msgstr "Mínimo"
+
+msgid "Minimum and maximum"
+msgstr "Mínimo y máximo"
+
+msgid "Minutely"
+msgstr "Cada minuto"
+
+msgid "Minutely aggregation"
+msgstr "Agregación a cada minuto"
+
+msgid "Nearest measurement:"
+msgstr "Medición más cercana:"
+
+msgid "No aggregation"
+msgstr "Sin agregación"
+
+msgid "No data available."
+msgstr "No hay datos disponibles."
+
+msgid "Points"
+msgstr "Puntos"
+
+msgid "Real time active"
+msgstr "Tiempo real activo"
+
+msgid "Real time inactive"
+msgstr "Tiempo real inactivo"
+
+msgid "Reload"
+msgstr "Actualizar"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Select data points"
+msgstr "Seleccionar puntos de datos"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "Truncated data."
+msgstr "Datos truncados."

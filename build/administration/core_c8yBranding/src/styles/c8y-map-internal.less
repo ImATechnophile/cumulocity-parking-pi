@@ -1,0 +1,27 @@
+.c8y-map-internal {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.container-fluid>.fullpage-map {
+  position: relative;
+  margin: -30px -30px 0;
+  min-height: calc(~'100vh - @{headerHeight}');
+  .leaflet-top.leaflet-left {
+    top: 50px;
+  }
+  .leaflet-top.leaflet-right {
+    left: 0;
+    padding-right: 30px;
+    padding-left: 30px;
+    min-height: 50px;
+    background-color: white;
+    box-shadow: 0 1px 11px 1px rgba(0, 0, 0, 0.1);
+    .btn-link {
+      color: @gray-medium-dark;
+    }
+  }
+}

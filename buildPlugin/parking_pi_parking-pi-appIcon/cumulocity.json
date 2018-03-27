@@ -1,0 +1,1 @@
+{"name":"icon","description":"Icon for an app","ngModules":["c8y.ui"],"js":["main.js"],"imports":[],"css":[],"version":"1.0.0","compatibility":{"app":"parking_pi","contextPath":"parking-pi-appIcon","rootContextPath":"parking_pi/parking-pi-appIcon"},"contextPath":"parking_pi_parking-pi-appIcon"}

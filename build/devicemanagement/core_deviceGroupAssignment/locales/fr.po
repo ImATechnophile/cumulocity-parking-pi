@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Assign"
+msgstr "Assigner"
+
+msgid "Assign the device to a group below."
+msgstr "Assigner l’appareil à un groupe ci-dessous."
+
+msgid "Choose group"
+msgstr "Choisir un groupe"
+
+msgid "Device added to group"
+msgstr "Appareil ajoutée au groupe"
+
+msgid "Device group assignment"
+msgstr "Assignement de groupe d’appareils"
+
+msgid "Device not assigned."
+msgstr "Appareil non assigné."
+
+msgid "Device removed from group"
+msgstr "Appareil supprimé du groupe"
+
+msgid "Unassign device"
+msgstr "Retirer l’appareil"
+
+msgid "Widget can assign device to selected group"
+msgstr "Widget peut assigner l’appareil au groupe choisis"

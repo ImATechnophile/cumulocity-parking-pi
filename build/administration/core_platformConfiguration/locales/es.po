@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Applications"
+msgstr "Aplicacio­nes"
+
+msgid "Comma-separated list of application names"
+msgstr "Lista de nombres de aplicación separados por comas"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Configuration reloaded!"
+msgstr "Configuración cargada!"
+
+msgid "Configuration saved successfully!"
+msgstr "¡Configuración guardada con éxito!"
+
+msgid "Data export"
+msgstr "Exportar datos"
+
+msgid "Default applications for new tenants"
+msgstr "Aplicaciones predeterminadas para nuevos inquilinos"
+
+msgid "E-mail sent after over-limit data has been removed"
+msgstr "Correo electrónico enviado después de que se hayan eliminado los datos de sobrelímite"
+
+msgid "E-mail sent after over-limit data has been removed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "Correo enviado después de haber extraído datos de exceso de límite. Marcadores de posición: {tenant}, {size} - uso de almacenamiento de información en %"
+
+msgid "E-mail sent one day before data removal is performed"
+msgstr "Correo electrónico enviado un día antes de realizar la eliminación de datos"
+
+msgid "E-mail sent one day before data removal is performed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "Correo electrónico enviado un día antes de realizar la eliminación de datos. Marcadores de posición: {tenant}, {size} - uso de almacenamiento de información en %"
+
+msgid "E-mail server"
+msgstr "Servidor de correo electrónico"
+
+msgid "E-mail subject"
+msgstr "Asunto del email"
+
+msgid "E-mail template"
+msgstr "Plantilla de correo electrónico"
+
+msgid "Enable support user"
+msgstr "Habilitar soporte de usuario"
+
+msgid "Enforce \"green\" passwords for all users"
+msgstr "Hacer cumplir las contraseñas \"verdes\" para todos los usuarios"
+
+msgid "Host"
+msgstr "Servidor"
+
+msgid "Invitation e-mail template"
+msgstr "Plantilla de correo electrónico de invitación"
+
+msgid "Leave empty to skip this constraint"
+msgstr "Deje en blanco para saltar esta restricción"
+
+msgid "Leave empty to use value from tenant options"
+msgstr "Deje en blanco para utilizar valores de opciones de inquilino"
+
+msgid "Limit exceeded e-mail subject"
+msgstr "Límite del tema del correo electrónico excedido"
+
+msgid "Limit exceeded e-mail template"
+msgstr "Límite de la plantilla del correo electrónico excedido"
+
+msgid "Minimal length of \"green\" password"
+msgstr "Longitud mínima de contraseña verde"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Password change confirmation e-mail template"
+msgstr "Plantilla de correo electrónico de confirmación de cambio de contraseña"
+
+msgid "Password history size"
+msgstr "Tamaño de historial de contraseña"
+
+msgid "Password reset"
+msgstr "Restablecer contraseña"
+
+msgid "Password reset e-mail template (when address is known)"
+msgstr "Plantilla de restablecimiento de contraseña de correo electrónico (cuando se conoce la dirección)"
+
+msgid "Password reset e-mail template (when address is not known)"
+msgstr "Plantilla de restablecimiento de contraseña de correo electrónico (cuando se conoce la dirección)"
+
+msgid "Password validity limit (days)"
+msgstr "Límite de validez de la contraseña (días)"
+
+msgid "Passwords"
+msgstr "Contraseñas"
+
+msgid "Placeholder: {tenant} - suspended tenant's id"
+msgstr "Marcador de posición: {tenant} - id suspendido del inquilino"
+
+msgid "Placeholder: {token} - generated token"
+msgstr "Marcador de posición: {token} - genera token"
+
+msgid "Placeholders: {host}, {binaryId}. Whole link to result file is: {host}/inventory/binaries/{binaryId}"
+msgstr "Marcadores de posición: {host}, {binaryId}. Todo el enlace a archivo de resultados es: {host} /inventory/binaries/{binaryId}"
+
+msgid "Placeholders: {host}, {tenant-domain}"
+msgstr "Marcadores de posición: {host}, {tenant-domain}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to reset password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "Marcadores de posición: {host}, {tenant-domain}, {token}. Todo enlace para restablecer contraseña puede ser por ejemplo: {host}/apps/devicemanagement/index.html?token={token}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to setup password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "Marcadores de posición: {host}, {tenant-domain}, {token}. Todo enlace a contraseña de configuración puede ser por ejemplo: {host}/apps/devicemanagement/index.html?token={token}"
+
+msgid "Placeholders: {user}, {exportApi}"
+msgstr "Marcadores de posición: {user}, {exportApi}"
+
+msgid "Port"
+msgstr "Puerto"
+
+msgid "Possible values: true, false, date until user should remain enabled"
+msgstr "Valores posibles: verdadero, falso, fecha hasta que el usuario debe permanecer habilitado"
+
+msgid "Possible values: url string, \"false\" (hides the link), leave empty to use default"
+msgstr "Valores posibles: url string,”falsa” (oculta el enlace), dejar vacío para usar por defecto"
+
+msgid "Protocol"
+msgstr "Protocolo"
+
+msgid "Save configuration"
+msgstr "Guardar configuración"
+
+msgid "Send e-mail to suspended tenant's administrator"
+msgstr "Enviar correo electrónico al administrador del inquilino suspendido"
+
+msgid "Send notifications to unknown e-mail addresses"
+msgstr "Enviar notificaciones a direcciones de correo electrónico desconocido"
+
+msgid "Sender address"
+msgstr "Dirección del remitente"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Storage limit"
+msgstr "Límite de almacenamiento"
+
+msgid "Subject used for all password reset related e-mails"
+msgstr "Asunto utilizado para todos los correos electrónicos relacionados con restablecimiento de contraseña"
+
+msgid "Support link"
+msgstr "Enlace de apoyo"
+
+msgid "Support user"
+msgstr "Soporte de usuario"
+
+msgid "Suspending tenants"
+msgstr "Suspendiendo inquilinos"
+
+msgid "Tenant suspended e-mail additional receiver"
+msgstr "Receptor adicional de correo electrónico suspendido de inquilino"
+
+msgid "Tenant suspended e-mail subject"
+msgstr "Tema de correo electrónico suspendido de inquilino"
+
+msgid "Tenant suspended e-mail template"
+msgstr "Plantilla de correo electrónico suspendido de inquilino"
+
+msgid "Two-factor authentication"
+msgstr "Autenticación en dos fases"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "User unauthorized error message"
+msgstr "Mensaje de error no autorizado por el usuario"
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Verification token SMS template"
+msgstr "Plantilla de verificación de token SMS"
+
+msgid "Warning e-mail subject"
+msgstr "Tema de correo electrónico de alerta"
+
+msgid "Warning e-mail template"
+msgstr "Plantilla de correo electrónico de alerta"
+
+msgid "e.g.: 10"
+msgstr "por ejemplo: 10"
+
+msgid "e.g.: 25"
+msgstr "por ejemplo: 25"
+
+msgid "e.g.: Verification code: {token}"
+msgstr "por ejemplo: código de verificación: {token}"
+
+msgid "e.g.: administration,devicemanagement,cockpit"
+msgstr "por ejemplo: administración, gestióndedispositivo , Cockpit"
+
+msgid "e.g.: localhost"
+msgstr "por ejemplo: localhost"
+
+msgid "e.g.: {{expireDate}}"
+msgstr "por ejemplo: {{expireDate}}"

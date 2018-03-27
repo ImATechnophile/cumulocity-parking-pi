@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_dashboardUI/dashboardUi.provider.js:22
+msgid "New dashboard"
+msgstr ""
+
+#: core_dashboardUI/dashboardUi.provider.js:137
+msgid "Paste dashboard \"{{name}}\""
+msgstr ""

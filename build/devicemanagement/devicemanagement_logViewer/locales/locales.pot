@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_logViewer/views/index.html:72
+msgid "Cancel operation"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:119
+msgid "Cancelled log file request!"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:126
+msgid "Confirm removing log"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:191
+msgid "Could not load file!"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:149
+msgid "Date from"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:157
+msgid "Date to"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:144
+msgid "Details"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:131
+msgid "Device"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:127
+msgid "Do you really want to remove this log?"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:106
+#: devicemanagement_logViewer/views/index.html:111
+msgid "Download"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:82
+msgid "Expand"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:37
+#: devicemanagement_logViewer/views/index.html:38
+msgid "Filter by text"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:173
+msgid "Filtered by text"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:17
+#: devicemanagement_logViewer/views/index.html:18
+msgid "From`date`"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:180
+msgid "Last N lines"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:42
+msgid "Last lines to display"
+msgstr ""
+
+#: devicemanagement_logViewer/providers/logViewer.js:42
+msgid "Loading logfiles..."
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:185
+msgid "Log"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:169
+msgid "Log file request"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:132
+msgid "Log file successfully removed!"
+msgstr ""
+
+#: devicemanagement_logViewer/config.js:9
+msgid "Logs"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:57
+msgid "No logs found."
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:101
+msgid "Remove log"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:45
+msgid "Request log"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:10
+msgid "Request log file"
+msgstr ""
+
+#: devicemanagement_logViewer/directives/logViewer.js:23
+msgid "The file is no longer available."
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:110
+msgid "The file is not available!"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:22
+#: devicemanagement_logViewer/views/index.html:23
+msgid "To`date`"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:27
+#: devicemanagement_logViewer/views/index.html:29
+msgid "Type of log"
+msgstr ""
+
+#: devicemanagement_logViewer/views/index.html:165
+msgid "Type of log to"
+msgstr ""
+
+#: devicemanagement_logViewer/controllers/logViewer.js:222
+msgid "no description available"
+msgstr ""

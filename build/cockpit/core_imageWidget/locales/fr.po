@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "(file size up to {{maxFileSizeKB}} KB)"
+msgstr "(Taille du fichier jusqu'à {{maxFileSizeKB}} KB)"
+
+msgid "Display a single image selected from the user's computer."
+msgstr "Afficher une seule image sélectionnée de l’ordinateur de l’utilisateur."
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Selected file has invalid extension!"
+msgstr "Le fichier sélectionné a une extension invalide!"
+
+msgid "Selected file is too large!"
+msgstr "Le fichier sélectionné est trop grand!"

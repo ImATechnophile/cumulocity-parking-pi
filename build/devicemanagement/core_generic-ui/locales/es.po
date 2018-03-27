@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 operation executing"
+msgid_plural "{{$count}} operations executing"
+msgstr[0] "1 operación ejecutándose"
+msgstr[1] "{{$count}} operaciones ejecutándose"
+
+msgid "1 operation failed"
+msgid_plural "{{$count}} operations failed"
+msgstr[0] "1 operación fallida"
+msgstr[1] "{{$count}} operaciones fallidas"
+
+msgid "1 operation pending"
+msgid_plural "{{$count}} operations pending"
+msgstr[0] "1 operación pendiente"
+msgstr[1] "{{$count}} operaciones pendientes"
+
+msgid "1 operation successful"
+msgid_plural "{{$count}} operations successful"
+msgstr[0] "1 operación realizada con éxito"
+msgstr[1] "{{$count}} operaciones realizadas con éxito"
+
+msgid "Execute"
+msgstr "Ejecutar"
+
+msgid "Input value"
+msgstr "Valor de entrada"
+
+msgid "No recent operations"
+msgstr "No hay operaciones recientes"
+
+msgid "Object successfully updated."
+msgstr "Objeto actualizado exitosamente."
+
+msgid "Objects"
+msgstr "Objetos"
+
+msgid "Operation \"{{description}}\" completed successfully."
+msgstr "Operación “{{description}}” completada con éxito."
+
+msgid "Operation \"{{description}}\" completed with failure."
+msgstr "¡Operación “{{description}}” hcompletada con fallo."
+
+msgid "Operation \"{{description}}\" completed with failure: \"{{failureReason}}\"."
+msgstr "Operación “{{description}}” completada con fallo: “{{failureReason}}”."
+
+msgid "Operation created successfully."
+msgstr "Operación creada con éxito."
+
+msgid "Recent operations"
+msgstr "Operaciones recientes"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "View history"
+msgstr "Ver historial"

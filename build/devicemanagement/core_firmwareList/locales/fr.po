@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add a firmware using the button on the toolbar."
+msgstr "Ajoutez un firmware à l'aide du bouton sur la barre d'outils."
+
+msgid "Add firmware"
+msgstr "Ajouter le firmware"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete firmware"
+msgstr "Supprimer le firmware"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Do you really want to remove firmware \"{{name}}\"?"
+msgstr "Voulez-vous vraiment supprimer le firmware \" {{name}} \" ?"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Firmware repository"
+msgstr "Archive du firmware"
+
+msgid "Firmware successfully added."
+msgstr "Firmware ajouté avec succès."
+
+msgid "Firmware successfully removed."
+msgstr "Firmware supprimé avec succès."
+
+msgid "Management"
+msgstr "Gestion"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No firmwares to display."
+msgstr "Aucun firmware à afficher."
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Version"
+msgstr "Version"

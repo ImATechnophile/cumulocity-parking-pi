@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Applications"
+msgstr "Applications"
+
+msgid "Comma-separated list of application names"
+msgstr "Liste séparée par des virgules des noms d’applications"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "Configuration reloaded!"
+msgstr "Configuration rechargée !"
+
+msgid "Configuration saved successfully!"
+msgstr "Configuration enregistrée avec succès!"
+
+msgid "Data export"
+msgstr "Exportation de données"
+
+msgid "Default applications for new tenants"
+msgstr "Applications par défaut pour les nouveaux gérants"
+
+msgid "E-mail sent after over-limit data has been removed"
+msgstr "E-mail envoyé après avoir supprimé les données de dépassement de limite"
+
+msgid "E-mail sent after over-limit data has been removed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "E-mail envoyé après avoir supprimé les données de dépassement de limite. Espaces réservés : {tenant}, {size} - utilisation du stockage en %"
+
+msgid "E-mail sent one day before data removal is performed"
+msgstr "E-mail envoyé un jour avant la suppression de données est effectuée"
+
+msgid "E-mail sent one day before data removal is performed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "E-mail envoyé un jour avant la suppression des données. Espaces réservés : {tenant}, {size} - utilisation du stockage en %"
+
+msgid "E-mail server"
+msgstr "Serveur mail"
+
+msgid "E-mail subject"
+msgstr "Objet de l'e-mail"
+
+msgid "E-mail template"
+msgstr "Modèle d'e-mail"
+
+msgid "Enable support user"
+msgstr "Activer l’utilisateur de support"
+
+msgid "Enforce \"green\" passwords for all users"
+msgstr "Forcer des mots de passe \" verts \" pour tous les utilisateurs"
+
+msgid "Host"
+msgstr "Hôte"
+
+msgid "Invitation e-mail template"
+msgstr "Modèle d'e-mail d’invitation"
+
+msgid "Leave empty to skip this constraint"
+msgstr "Laisser vide pour ignorer cette contrainte"
+
+msgid "Leave empty to use value from tenant options"
+msgstr "Laisser vide pour utiliser la valeur des options de gérant"
+
+msgid "Limit exceeded e-mail subject"
+msgstr "Limite du sujet de l'e-mail dépassée"
+
+msgid "Limit exceeded e-mail template"
+msgstr "Limite du modèle de courrier électronique dépassée"
+
+msgid "Minimal length of \"green\" password"
+msgstr "Longueur minimale du mot de passe \" vert \""
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Password change confirmation e-mail template"
+msgstr "Confirmation de changement de mot de passe de modèle de courriel "
+
+msgid "Password history size"
+msgstr "Taille de l'historique des mots de passe"
+
+msgid "Password reset"
+msgstr "Réinitialisation du mot de passe"
+
+msgid "Password reset e-mail template (when address is known)"
+msgstr "Modèle d'e-mail de réinitialisation de mot de passe (lorsque l'adresse est connue)"
+
+msgid "Password reset e-mail template (when address is not known)"
+msgstr "Modèle d'e-mail de réinitialisation de mot de passe (lorsque l'adresse n'est pas connue)"
+
+msgid "Password validity limit (days)"
+msgstr "Limite de validité du mot de passe (jours)"
+
+msgid "Passwords"
+msgstr "Mots de passe"
+
+msgid "Placeholder: {tenant} - suspended tenant's id"
+msgstr "Espace réservé: {tenant} - identifiant du gérant suspendu"
+
+msgid "Placeholder: {token} - generated token"
+msgstr "Espace réservé: {token} - jeton généré"
+
+msgid "Placeholders: {host}, {binaryId}. Whole link to result file is: {host}/inventory/binaries/{binaryId}"
+msgstr "Espaces réservés: {host}, {binaryId}. Le lien complet du fichier de résultat est: {host}/inventory/binaries/{binaryId}"
+
+msgid "Placeholders: {host}, {tenant-domain}"
+msgstr "Les espaces réservés: {host}, {tenant-domain}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to reset password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "Les espaces réservés: {host}, {tenant-domain}, {token}. Le lien complet pour réinitialiser le mot de passe peut être par exemple: {host} /apps/devicemanagement/index.html?token= {token}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to setup password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "Les espaces réservés: {host}, {tenant-domain}, {token}. Le lien complet pour installer le mot de passe peut être par exemple: {host} /apps/devicemanagement/index.html?token= {token}"
+
+msgid "Placeholders: {user}, {exportApi}"
+msgstr "Espaces réservés: {user}, {exportApi}"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Possible values: true, false, date until user should remain enabled"
+msgstr "Valeurs possibles: vrai, faux, date jusqu'à laquelle l'utilisateur reste activé"
+
+msgid "Possible values: url string, \"false\" (hides the link), leave empty to use default"
+msgstr "Valeurs possibles: url string,\"false\" (cache le lien), laisser vide pour utiliser la valeur par défaut"
+
+msgid "Protocol"
+msgstr "Protocole"
+
+msgid "Save configuration"
+msgstr "Enregistrer la configuration"
+
+msgid "Send e-mail to suspended tenant's administrator"
+msgstr "Envoyer un e-mail à l'administrateur du gérant suspendu"
+
+msgid "Send notifications to unknown e-mail addresses"
+msgstr "Envoyer des notifications à des adresses e-mail inconnues"
+
+msgid "Sender address"
+msgstr "Adresse de l’expéditeur"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Storage limit"
+msgstr "Limite de stockage"
+
+msgid "Subject used for all password reset related e-mails"
+msgstr "Sujet utilisé pour tous les mots de passe réinitialisez les e-mails associés"
+
+msgid "Support link"
+msgstr "Lien vers le support"
+
+msgid "Support user"
+msgstr "Utilisateur de support"
+
+msgid "Suspending tenants"
+msgstr "Suspension des gérants"
+
+msgid "Tenant suspended e-mail additional receiver"
+msgstr "Gérant a suspendu récepteur de e-mail supplémentaire"
+
+msgid "Tenant suspended e-mail subject"
+msgstr "Sujet de l'e-mail de suspension du gérant"
+
+msgid "Tenant suspended e-mail template"
+msgstr "Modèle de l'e-mail de suspension du gérant"
+
+msgid "Two-factor authentication"
+msgstr "Authentification à deux facteurs"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "User unauthorized error message"
+msgstr "Message d’erreur non autorisé de l’utilisateur"
+
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+msgid "Verification token SMS template"
+msgstr "Modèle de token de SMS de vérification"
+
+msgid "Warning e-mail subject"
+msgstr "Sujet de l'e-mail d’avertissement"
+
+msgid "Warning e-mail template"
+msgstr "Modèle de l'e-mail d’avertissement"
+
+msgid "e.g.: 10"
+msgstr "p. ex.: 10"
+
+msgid "e.g.: 25"
+msgstr "p. ex.: 25"
+
+msgid "e.g.: Verification code: {token}"
+msgstr "p. ex.: code de vérification : {token}"
+
+msgid "e.g.: administration,devicemanagement,cockpit"
+msgstr "p. ex.: administration, gestion des appareils, cockpit"
+
+msgid "e.g.: localhost"
+msgstr "p. ex.: localhost"
+
+msgid "e.g.: {{expireDate}}"
+msgstr "p. ex. : {{expireDate}}"

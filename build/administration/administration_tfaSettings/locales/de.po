@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Allow two-factor authentication"
+msgstr "Zwei-Faktor-Authentifizierung zulassen"
+
+msgid "Limit token validity for"
+msgstr "Token-Gültigkeit begrenzen für"
+
+msgid "Limit verification code validity for"
+msgstr "Token-Gültigkeit begrenzen für"
+
+msgid "Save TFA settings"
+msgstr "TFA Einstellungen speichern"
+
+msgid "TFA Settings"
+msgstr "TFA-Einstellungen"
+
+msgid "TFA settings updated successfully!"
+msgstr "TFA-Einstellungen erfolgreich aktualisiert."
+
+msgid "You cannot edit TFA settings because they are disabled on the platform level."
+msgstr "Sie können keine TFA-Einstellungen bearbeiten, weil diese auf Plattformebene deaktiviert sind."
+
+msgid "minutes"
+msgstr "Minuten"

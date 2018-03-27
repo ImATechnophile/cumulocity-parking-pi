@@ -1,0 +1,5982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+
+msgid "\"{{field}}\" must be less than or equal to {{maxValue}}"
+msgstr ""
+
+msgid "\"{{field}}\" must not be null"
+msgstr ""
+
+msgid "\"{{field}}\" should not be null"
+msgstr ""
+
+msgid "\"{{field}}\" should not contain null values"
+msgstr ""
+
+msgid "(1 child)"
+msgid_plural "({{$count}} children)"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "(e.g. \"c8y_UnavailabilityAlarm\". The alarm type can be found in alarm details in Device management alarm section)"
+msgstr ""
+
+msgid "({{paging.more}} left)"
+msgstr ""
+
+msgid "- Show all"
+msgstr ""
+
+msgid "- Show all -"
+msgstr ""
+
+msgid "1 API request, including:"
+msgid_plural "{{requestCount}} API requests, including:"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 application"
+msgid_plural "{{$count}} applications"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 day"
+msgid_plural "{{$count}} days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 device"
+msgid_plural "{{devicesCount}} devices"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 device API request"
+msgid_plural "{{deviceRequestCount}} device API requests"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 mapping"
+msgid_plural "{{qty}} mappings"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 root device"
+msgid_plural "{{rootDevicesCount}} root devices"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 rule"
+msgid_plural "{{qty}} rules"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 selected"
+msgid_plural "{{$count}} selected"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 tenant"
+msgid_plural "{{$count}} tenants"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "1 user"
+msgid_plural "{{count}} users"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "<Not calculated>"
+msgstr ""
+
+msgid ""
+"<b>Drop file here</b><br>\n"
+"          or click to browse your computer."
+msgstr ""
+
+msgid ""
+"<b>You are about to delete user \"{{vm.resolve.user.userName}}\"</b>\n"
+"  <br>How should subusers be handled?"
+msgstr ""
+
+msgid "<em>No description available</em>"
+msgstr ""
+
+msgid "<kept as is>"
+msgstr ""
+
+msgid "<no name>"
+msgstr ""
+
+msgid "<strong>No data filters defined.</strong><br>Data filters define the set of data to be forwarded. You must set at least one filter."
+msgstr ""
+
+msgid "<strong>No properties found.</strong> Click below to add the first one."
+msgstr ""
+
+msgid "A <strong>global role</strong> contains generally applicable permissions. Select, for example, \"read\" in the row \"Inventory\", if you want to permit a user in this role to access the whole inventory with all devices."
+msgstr ""
+
+msgid "A graph display of a collection of data points"
+msgstr ""
+
+msgid "A link to existing remote fonts (e.g. google fonts)"
+msgstr ""
+
+msgid "ACCEPTED"
+msgstr ""
+
+msgid "ACKNOWLEDGED"
+msgstr ""
+
+msgid "ACKNOWLEDGED by: {{ackBy}} {{ackTimeFromNow}}"
+msgstr ""
+
+msgid "ACTIVE"
+msgstr ""
+
+msgid "ACTIVE: triggered {{alarmTimeFromNow}}"
+msgstr ""
+
+msgid "ADMIN"
+msgstr ""
+
+msgid "ALARM"
+msgstr ""
+
+msgid "ALARM STATUS"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "API requests"
+msgstr ""
+
+msgid "APN"
+msgstr ""
+
+msgid "ARRAY"
+msgstr ""
+
+msgid "AUDIT"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Accept operation completed successfully!"
+msgstr ""
+
+msgid "Accept to finish data subscription setup, discard to remove it."
+msgstr ""
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Access allowed from domain(s): {{value}}!"
+msgstr ""
+
+msgid "Access control"
+msgstr ""
+
+msgid "Access control has been disabled"
+msgstr ""
+
+msgid "Access denied requests"
+msgstr ""
+
+msgid "Access is denied!"
+msgstr ""
+
+msgid "Access is denied."
+msgstr ""
+
+msgid "Access technology"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "Acknowledge"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activate also for 1 child asset"
+msgid_plural "Activate also for {{$count}} child assets"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Activate for this device"
+msgstr ""
+
+msgid "Activate for this group"
+msgstr ""
+
+msgid "Activate for this object"
+msgstr ""
+
+msgid "Activate notification"
+msgstr ""
+
+msgid "Activate tenant"
+msgstr ""
+
+msgid "Activate user"
+msgstr ""
+
+msgid "Activated for target asset or devices"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active alarms status"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Byte Order Mask (for Windows)"
+msgstr ""
+
+msgid "Add Smart Rule"
+msgstr ""
+
+msgid "Add a data subscription by clicking below."
+msgstr ""
+
+msgid "Add action"
+msgstr ""
+
+msgid "Add alarm mapping"
+msgstr ""
+
+msgid "Add alarm type"
+msgstr ""
+
+msgid "Add application"
+msgstr ""
+
+msgid "Add data connector"
+msgstr ""
+
+msgid "Add data point"
+msgstr ""
+
+msgid "Add data subscription"
+msgstr ""
+
+msgid "Add device"
+msgstr ""
+
+msgid "Add file"
+msgstr ""
+
+msgid "Add filter"
+msgstr ""
+
+msgid "Add global Smart Rule"
+msgstr ""
+
+msgid "Add group"
+msgstr ""
+
+msgid "Add module"
+msgstr ""
+
+msgid "Add or remove <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr ""
+
+msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr ""
+
+msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
+msgstr ""
+
+msgid "Add plugin"
+msgstr ""
+
+msgid "Add property"
+msgstr ""
+
+msgid "Add retention rule"
+msgstr ""
+
+msgid "Add role"
+msgstr ""
+
+msgid "Add rule"
+msgstr ""
+
+msgid "Add step"
+msgstr ""
+
+msgid "Add tenant option definition"
+msgstr ""
+
+msgid "Add tenant policy"
+msgstr ""
+
+msgid "Add to group"
+msgstr ""
+
+msgid "Add user"
+msgstr ""
+
+msgid "Add your first alarm mapping using the button on the toolbar."
+msgstr ""
+
+msgid "Add your first data connector by clicking below."
+msgstr ""
+
+msgid "Add your first module by clicking below."
+msgstr ""
+
+msgid "Add your first retention rule by clicking below."
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address range"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Administrator's email"
+msgstr ""
+
+msgid "Administrator's password"
+msgstr ""
+
+msgid "Administrator's username"
+msgstr ""
+
+msgid "After completing the process you will no longer be able to access your tenant with <b>{{vm.domainName}}</b>, instead use your new domain name. If you encounter any problems accessing your tenant, please contact support."
+msgstr ""
+
+msgid "After completing the process you will no longer be able to access your tenant with your custom domain name, instead use your old domain name. If you encounter any problems accessing your tenant, please contact support."
+msgstr ""
+
+msgid "After the activation is completed you will no longer be able to access your tenant with {{vm.domainName}}, instead use your new custom domain name."
+msgstr ""
+
+msgid "Agent config"
+msgstr ""
+
+msgid "Aggregation"
+msgstr ""
+
+msgid "Alarm"
+msgstr ""
+
+msgid "Alarm count 3 months"
+msgstr ""
+
+msgid "Alarm count today"
+msgstr ""
+
+msgid "Alarm created"
+msgstr ""
+
+msgid "Alarm mapping"
+msgstr ""
+
+msgid "Alarm mappings automatically transform the description and severity based on alarm type matching. Alarm types are a defined property of each alarm created on the platform."
+msgstr ""
+
+msgid "Alarm status changed to \"{{status}}\"."
+msgstr ""
+
+msgid "Alarm type"
+msgstr ""
+
+msgid "Alarm type to match"
+msgstr ""
+
+msgid "Alarm updated"
+msgstr ""
+
+msgid "Alarms"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All devices"
+msgstr ""
+
+msgid "All groups and devices"
+msgstr ""
+
+msgid "All selected"
+msgstr ""
+
+msgid "All types"
+msgstr ""
+
+msgid "Allow creation of subtenants"
+msgstr ""
+
+msgid "Allow editing"
+msgstr ""
+
+msgid "Allow subtenants to edit this retention rule"
+msgstr ""
+
+msgid "Allow subtenants to edit this system option."
+msgstr ""
+
+msgid "Allow subtenants to edit this tenant option."
+msgstr ""
+
+msgid "Allow support user access"
+msgstr ""
+
+msgid "Allow two-factor authentication"
+msgstr ""
+
+msgid "Allowed domain"
+msgstr ""
+
+msgid "Allows for CREATE, UPDATE and DELETE actions"
+msgstr ""
+
+msgid "Also delete all devices inside this group and its sub-groups."
+msgstr ""
+
+msgid "Also delete child devices of this device."
+msgstr ""
+
+msgid "Altitude"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Amount of data in use on {{end}}"
+msgstr ""
+
+msgid "An <strong>inventory role</strong> contains permissions that can be attached to devices and groups of devices. You can define own inventory roles <a href=\"#/roles\">here</a>."
+msgstr ""
+
+msgid ""
+"An <strong>inventory role</strong> contains permissions that can be attached to groups of devices.<br>\n"
+"        Click <i c8y-icon=\"plus-circle\" class=\"text-primary\"></i> to add a new permission. In the permission drop-down,\n"
+"        you can further restrict the access to objects containing the defined type."
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "An error has occurred, contact support."
+msgstr ""
+
+msgid "An error has occurred. Please try again later."
+msgstr ""
+
+msgid "And before"
+msgstr ""
+
+msgid "And sort"
+msgstr ""
+
+msgid "Apama CEP rule"
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Application \"{{appName | humanizeAppName}}\" is now the default application for the tenant!"
+msgstr ""
+
+msgid "Application EUI"
+msgstr ""
+
+msgid "Application access"
+msgstr ""
+
+msgid "Application archive has been uploaded and activated!"
+msgstr ""
+
+msgid "Application created"
+msgstr ""
+
+msgid "Application has been saved successfully!"
+msgstr ""
+
+msgid "Application has been successfully created."
+msgstr ""
+
+msgid "Application key"
+msgstr ""
+
+msgid "Application management"
+msgstr ""
+
+msgid "Application manifest updated!"
+msgstr ""
+
+msgid "Application settings"
+msgstr ""
+
+msgid "Application subscriptions management"
+msgstr ""
+
+msgid "Application with given name already exists!"
+msgstr ""
+
+msgid "Application with the following values ({{valuesList}}, contextPath={{contextPath}}) already exists!"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Applications owned <br>by your tenant"
+msgstr ""
+
+msgid "Applications owned by your tenant"
+msgstr ""
+
+msgid "Applications your tenant is subscribed to"
+msgstr ""
+
+msgid "Applications your tenant<br>is subscribed to"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Apply filters"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Archives"
+msgstr ""
+
+msgid "Archives listing is currently not supported for this application."
+msgstr ""
+
+msgid "Archives to upload"
+msgstr ""
+
+msgid "Are you sure you want to delete tenant policy \"{{name}}\"?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to edit the global role?\n"
+"      Please enter \"{{vm.randomString}}\" to confirm:"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Assign inventory roles to groups."
+msgstr ""
+
+msgid "At least 1 data point must be selected"
+msgstr ""
+
+msgid "At least one step needs to be executed always."
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Audit"
+msgstr ""
+
+msgid "Audit logs"
+msgstr ""
+
+msgid "Audits"
+msgstr ""
+
+msgid "Auth type"
+msgstr ""
+
+msgid "Authentication failed! User account is locked."
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Availability monitoring record"
+msgstr ""
+
+msgid "Available applications"
+msgstr ""
+
+msgid "Available plugins"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Background color of current item in navigator"
+msgstr ""
+
+msgid "Band"
+msgstr ""
+
+msgid "Bars"
+msgstr ""
+
+msgid "Base URL"
+msgstr ""
+
+msgid "Base font stack"
+msgstr ""
+
+msgid "Batch operations"
+msgstr ""
+
+msgid "Before activating the custom domain name, please:"
+msgstr ""
+
+msgid "Beware not to lock yourself out of the platform."
+msgstr ""
+
+msgid "Beware that e-mail is required to reset password"
+msgstr ""
+
+msgid "Boolean"
+msgstr ""
+
+msgid "Brand logo"
+msgstr ""
+
+msgid "Brand logo height"
+msgstr ""
+
+msgid "Branded applications creation process completed."
+msgstr ""
+
+msgid "Branded applications creation process started."
+msgstr ""
+
+msgid "Branding"
+msgstr ""
+
+msgid "Branding saved successfully!"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Built-in applications"
+msgstr ""
+
+msgid "Built-in applications generated"
+msgstr ""
+
+msgid "Bulk operation cancelled by user."
+msgstr ""
+
+msgid "Bulk operation delay must be greater than {{minSeconds}} seconds!"
+msgstr ""
+
+msgid "Bulk operations"
+msgstr ""
+
+msgid "Business rules"
+msgstr ""
+
+msgid "Button border-radius"
+msgstr ""
+
+msgid "Button hover text color"
+msgstr ""
+
+msgid "CANCELLED"
+msgstr ""
+
+msgid "CEP Manager"
+msgstr ""
+
+msgid "CEP management"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" created"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" deleted"
+msgstr ""
+
+msgid "CEP module \"{{name}}\" updated"
+msgstr ""
+
+msgid "CEP module created"
+msgstr ""
+
+msgid "CEP module deleted"
+msgstr ""
+
+msgid "CEP module updated"
+msgstr ""
+
+msgid "CLEARED"
+msgstr ""
+
+msgid "CLEARED: was active for {{alarmDuration}}"
+msgstr ""
+
+msgid "COMPLETED SUCCESSFULLY"
+msgstr ""
+
+msgid "COMPLETED WITH FAILURES"
+msgstr ""
+
+msgid "CRITICAL"
+msgstr ""
+
+msgid "Can access and modify the full user hierarchy"
+msgstr ""
+
+msgid "Can create new user as his own sub-users and manage this"
+msgstr ""
+
+msgid "Can manage tenant wide configurations like applications, tenant options and retention rules"
+msgstr ""
+
+msgid "Can read all data from all devices"
+msgstr ""
+
+msgid "Can read all data of the asset and manage all inventory data, but cannot perform operations. Can also acknowledge and clear alarms. Can create and updates dashboards."
+msgstr ""
+
+msgid "Can read all data of the asset."
+msgstr ""
+
+msgid "Can read and write all data from all devices"
+msgstr ""
+
+msgid "Can remotely manage the assets by sending operations to the device. This includes for example remote configuration, software update, etc."
+msgstr ""
+
+msgid "Can restart devices."
+msgstr ""
+
+msgid "Can't change type if other step depends on this one."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel operation"
+msgstr ""
+
+msgid "Cancel password change"
+msgstr ""
+
+msgid "Cannot activate a certificate which is either expired or not yet valid!"
+msgstr ""
+
+msgid "Cannot add group as its own child."
+msgstr ""
+
+msgid "Cannot be greater than 3650 days."
+msgstr ""
+
+msgid "Cannot change password: provided token is invalid!"
+msgstr ""
+
+msgid "Cannot deploy module '{{moduleName}}'! Compilation failed in expression '{{expression}}': incorrect syntax near '{{syntaxError}}'!"
+msgstr ""
+
+msgid "Cannot deploy module {{errorMessage}}"
+msgstr ""
+
+msgid "Cannot enable custom domain. DNS is setup incorrectly!"
+msgstr ""
+
+msgid "Cannot execute bulk operation on empty group. Group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+msgid "Cannot execute bulk operation on empty group. Smart group with id \"{{groupId}}\" has no child assets!"
+msgstr ""
+
+msgid "Cannot introduce cyclic ownership dependency!"
+msgstr ""
+
+msgid "Cannot reschedule bulk operation. All its operations are already successful."
+msgstr ""
+
+msgid "Cannot reset password for user with such e-mail: e-mail not found!"
+msgstr ""
+
+msgid "Cannot update/delete application binary via this endpoint"
+msgstr ""
+
+msgid "Cannot use a reserved SQL keyword '{{tenantId}}' as domain!"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Cell ID"
+msgstr ""
+
+msgid "Cellular WAN"
+msgstr ""
+
+msgid "Center map"
+msgstr ""
+
+msgid "Certificate deactivation"
+msgstr ""
+
+msgid "Certificate has been deleted!"
+msgstr ""
+
+msgid "Certificate is deactivated."
+msgstr ""
+
+msgid "Certificate is deployed."
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
+msgstr ""
+
+msgid "Change aggregation or select shorter date range."
+msgstr ""
+
+msgid "Change color"
+msgstr ""
+
+msgid "Change log"
+msgstr ""
+
+msgid "Change page size {{pageSize}}"
+msgstr ""
+
+msgid "Change parameter"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Change the severities of alarms based on activity time"
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid "Changes not saved"
+msgstr ""
+
+msgid "Changes successfully saved!"
+msgstr ""
+
+msgid ""
+"Changing the global role \"devices\" can lead to security hole. E.g. if a device is compromised, attackers might\n"
+"      have extended access to the platform."
+msgstr ""
+
+msgid "Charset"
+msgstr ""
+
+msgid "Chart type"
+msgstr ""
+
+msgid "Check Fresenius TDMS server IP"
+msgstr ""
+
+msgid "Check Fresenius TDMS server port"
+msgstr ""
+
+msgid "Check MQTT enablement"
+msgstr ""
+
+msgid "Check MQTT keepalive interval"
+msgstr ""
+
+msgid "Check all visible"
+msgstr ""
+
+msgid "Check if TCS:BUS plugin enabled"
+msgstr ""
+
+msgid "Checked"
+msgstr ""
+
+msgid "Checking that DNS is correctly set up."
+msgstr ""
+
+msgid "Checking that SSL certificate is valid."
+msgstr ""
+
+msgid "Checking that domain name is available."
+msgstr ""
+
+msgid "Child device creation"
+msgstr ""
+
+msgid "Children"
+msgstr ""
+
+msgid "Choose"
+msgstr ""
+
+msgid "Choose data point from library"
+msgstr ""
+
+msgid "Choose date"
+msgstr ""
+
+msgid "Choose file"
+msgstr ""
+
+msgid "Choose group"
+msgstr ""
+
+msgid "Choose language"
+msgstr ""
+
+msgid "Choose method"
+msgstr ""
+
+msgid "Choose owner…"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "City code"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Clear All Logfiles"
+msgstr ""
+
+msgid "Clear System Logfiles"
+msgstr ""
+
+msgid "Clear date range"
+msgstr ""
+
+msgid "Clear device credentials"
+msgstr ""
+
+msgid "Clear existing alarm"
+msgstr ""
+
+msgid "Clear filters"
+msgstr ""
+
+msgid "Clear geofence"
+msgstr ""
+
+msgid "Click below to add your first tenant policy."
+msgstr ""
+
+msgid "Click below to create your first tenant."
+msgstr ""
+
+msgid "Click to edit"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Clone Smart Rule"
+msgstr ""
+
+msgid "Clone application"
+msgstr ""
+
+msgid "Clone existing application"
+msgstr ""
+
+msgid "Clone of {{name}}"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Cockpit"
+msgstr ""
+
+msgid "Cockpit User"
+msgstr ""
+
+msgid "Collapse"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Collapse breadcrumbs"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Comma-separated list of application names"
+msgstr ""
+
+msgid "Command state is invalid: {{violations}}"
+msgstr ""
+
+msgid "Common name"
+msgstr ""
+
+msgid "Communication mode"
+msgstr ""
+
+msgid "Complete Object"
+msgstr ""
+
+msgid "Compressed files must have an index.html at root. URLs in the web application can be relative."
+msgstr ""
+
+msgid "Computed Property"
+msgstr ""
+
+msgid "Computed property configuration"
+msgstr ""
+
+msgid "Concepts Guide"
+msgstr ""
+
+msgid "Config"
+msgstr ""
+
+msgid "Config Eifeler Vacotec server port"
+msgstr ""
+
+msgid "Config Fresenius TDMS server IP"
+msgstr ""
+
+msgid "Config Fresenius TDMS server port"
+msgstr ""
+
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr ""
+
+msgid "Config renderer"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configuration reloaded!"
+msgstr ""
+
+msgid "Configuration saved successfully!"
+msgstr ""
+
+msgid "Configuration snapshot"
+msgstr ""
+
+msgid "Configure computed property"
+msgstr ""
+
+msgid "Configure debouncing alarm text"
+msgstr ""
+
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr ""
+
+msgid "Configure hardware"
+msgstr ""
+
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr ""
+
+msgid "Configure mobile"
+msgstr ""
+
+msgid "Configure position"
+msgstr ""
+
+msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
+msgstr ""
+
+msgid "Configure your DNS to point to the platform. <span c8y-guide-docs=\"\">The detailed steps are provided on the <a c8y-guide-href=\"users-guide/administration/\">User guide</a>.</span>"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm application removal?"
+msgstr ""
+
+msgid "Confirm delete?"
+msgstr ""
+
+msgid "Confirm new password"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Confirm saving changes?"
+msgstr ""
+
+msgid "Confirm suspend?"
+msgstr ""
+
+msgid "Confirm unassignment?"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection established"
+msgstr ""
+
+msgid "Connection from server to device is established"
+msgstr ""
+
+msgid "Connection from server to device is not established (not supported by device or no connectivity)"
+msgstr ""
+
+msgid "Connection monitoring"
+msgstr ""
+
+msgid "Connection not monitored"
+msgstr ""
+
+msgid "Connection refused"
+msgstr ""
+
+msgid "Connection type"
+msgstr ""
+
+msgid "Connectivity"
+msgstr ""
+
+msgid "Connectivity credentials successfully updated"
+msgstr ""
+
+msgid "Connector is working"
+msgstr ""
+
+msgid "Connector name updated!"
+msgstr ""
+
+msgid "Connector not bootstrapped but suspended by source tenant"
+msgstr ""
+
+msgid "Connector not bootstrapped yet"
+msgstr ""
+
+msgid "Connector removed!"
+msgstr ""
+
+msgid "Connector saved!"
+msgstr ""
+
+msgid "Connector successfully deleted!"
+msgstr ""
+
+msgid "Connector suspended by source tenant"
+msgstr ""
+
+msgid "Contact name"
+msgstr ""
+
+msgid "Contact phone"
+msgstr ""
+
+msgid "Controls access as a support user"
+msgstr ""
+
+msgid "Controls access in all scopes"
+msgstr ""
+
+msgid "Controls access to audit logs."
+msgstr ""
+
+msgid "Controls access to device alarms."
+msgstr ""
+
+msgid "Controls access to device operations."
+msgstr ""
+
+msgid "Controls access to events."
+msgstr ""
+
+msgid "Controls access to managed objects in inventory."
+msgstr ""
+
+msgid "Controls access to meausurements."
+msgstr ""
+
+msgid "Copied to clipboard"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy all fragments"
+msgstr ""
+
+msgid "Copy inventory roles from another user"
+msgstr ""
+
+msgid "Copy inventory roles from..."
+msgstr ""
+
+msgid "Copy roles from..."
+msgstr ""
+
+msgid "Copy: all"
+msgstr ""
+
+msgid "Copy: standard only"
+msgstr ""
+
+msgid "Copy: {{fragments}}"
+msgstr ""
+
+msgid "Corresponding data will be removed forever after {{maximumAge}} days (executed at night). Do you want to create this rule?"
+msgstr ""
+
+msgid "Could not create application due to an error! Click \"More\" for details."
+msgstr ""
+
+msgid "Could not create tenant! Tenant with given domain/URL already exists."
+msgstr ""
+
+msgid "Could not find managed object with id '{{deviceId}}' in database!"
+msgstr ""
+
+msgid "Could not load Smart Rules list."
+msgstr ""
+
+msgid "Could not remove application assigned to other tenants!"
+msgstr ""
+
+msgid "Could not update phone number!"
+msgstr ""
+
+msgid "Could not update user '{{username}}'!"
+msgstr ""
+
+msgid "Could not upload the files!"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create CRITICAL alarm"
+msgstr ""
+
+msgid "Create MAJOR alarm"
+msgstr ""
+
+msgid "Create MINOR alarm"
+msgstr ""
+
+msgid "Create Smart Rule"
+msgstr ""
+
+msgid "Create WARNING alarm"
+msgstr ""
+
+msgid "Create alarm if temperature was to low for 15 minutes"
+msgstr ""
+
+msgid "Create alarm on not processed operation"
+msgstr ""
+
+msgid "Create alarm when temperature below 0 degree"
+msgstr ""
+
+msgid "Create alarm when temperature over 100 degree"
+msgstr ""
+
+msgid "Create basic event"
+msgstr ""
+
+msgid "Create battery measurement"
+msgstr ""
+
+msgid "Create close relay operation when temperature readings over 100 degree"
+msgstr ""
+
+msgid "Create custom measurement"
+msgstr ""
+
+msgid "Create legacy smartapp"
+msgstr ""
+
+msgid "Create location update event"
+msgstr ""
+
+msgid "Create location update event with device update"
+msgstr ""
+
+msgid "Create new subscription"
+msgstr ""
+
+msgid "Create retention rule"
+msgstr ""
+
+msgid "Create signal strength measurement"
+msgstr ""
+
+msgid "Create smart group"
+msgstr ""
+
+msgid "Create temperature measurement"
+msgstr ""
+
+msgid "Create tenant"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Created operation: \"{{description | translate}}\"!"
+msgstr ""
+
+msgid "Creating application"
+msgstr ""
+
+msgid "Creation time"
+msgstr ""
+
+msgid "Credentials"
+msgstr ""
+
+msgid ""
+"Credentials have already been provided.<br>\n"
+"          Click \"Replace credentials\" below to overwrite them."
+msgstr ""
+
+msgid "Credentials successfully deleted"
+msgstr ""
+
+msgid "Credentials successfully removed!"
+msgstr ""
+
+msgid "Credentials successfully saved"
+msgstr ""
+
+msgid "Credentials successfully updated"
+msgstr ""
+
+msgid "Credentials successfully updated!"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Critical alarms"
+msgstr ""
+
+msgid "Current RDB snapshot"
+msgstr ""
+
+msgid "Current band"
+msgstr ""
+
+msgid "Current month usage"
+msgstr ""
+
+msgid "Current operator"
+msgstr ""
+
+msgid "Current password invalid!"
+msgstr ""
+
+msgid "Current roles"
+msgstr ""
+
+msgid "Current value out of defined range."
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom applications"
+msgstr ""
+
+msgid "Custom domain activation"
+msgstr ""
+
+msgid "Custom domain name"
+msgstr ""
+
+msgid "Custom properties"
+msgstr ""
+
+msgid "Custom properties saved!"
+msgstr ""
+
+msgid "Cycle data connection status"
+msgstr ""
+
+msgid "Cycle detected for route {{route}}!"
+msgstr ""
+
+msgid "DATE"
+msgstr ""
+
+msgid "DHCP"
+msgstr ""
+
+msgid "DHCP Server"
+msgstr ""
+
+msgid "DNS 1"
+msgstr ""
+
+msgid "DNS 2"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Daily aggregation"
+msgstr ""
+
+msgid "Data broker"
+msgstr ""
+
+msgid "Data connectors"
+msgstr ""
+
+msgid "Data explorer"
+msgstr ""
+
+msgid "Data export"
+msgstr ""
+
+msgid "Data filters"
+msgstr ""
+
+msgid "Data has been truncated. Please use aggregation."
+msgstr ""
+
+msgid "Data logging"
+msgstr ""
+
+msgid "Data points"
+msgstr ""
+
+msgid "Data points graph"
+msgstr ""
+
+msgid "Data subscriptions"
+msgstr ""
+
+msgid "Data type"
+msgstr ""
+
+msgid "Date from"
+msgstr ""
+
+msgid "Date to"
+msgstr ""
+
+msgid "Date/time"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Deactivate for this device"
+msgstr ""
+
+msgid "Deactivate for this group"
+msgstr ""
+
+msgid "Deactivate for this object"
+msgstr ""
+
+msgid "Deactivate owner"
+msgstr ""
+
+msgid "Deactivated for target asset or devices"
+msgstr ""
+
+msgid "Deactivating SSL certificate"
+msgstr ""
+
+msgid "Debugging and monitoring"
+msgstr ""
+
+msgid "Decimal separator"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default AT Commands"
+msgstr ""
+
+msgid "Default application"
+msgstr ""
+
+msgid "Default applications for new tenants"
+msgstr ""
+
+msgid "Default unit"
+msgstr ""
+
+msgid "Default value"
+msgstr ""
+
+msgid "Delegate"
+msgstr ""
+
+msgid "Delegated by"
+msgstr ""
+
+msgid "Delegated by {{::user.delegatedBy}}"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Active Jobs"
+msgstr ""
+
+msgid "Delete all subusers"
+msgstr ""
+
+msgid "Delete credentials"
+msgstr ""
+
+msgid "Delete device"
+msgstr ""
+
+msgid "Delete property"
+msgstr ""
+
+msgid "Delete tenant policy"
+msgstr ""
+
+msgid "Deleting credentials will break connection to IMPACT instance. Are you sure you want to delete your IMPACT credentials?"
+msgstr ""
+
+msgid "Deleting credentials will lock out any users with SMS-based two-factors authentication, and disable the SMS-based smart rules and device communication. Are you sure you want to delete your OpenIT credentials?"
+msgstr ""
+
+msgid "Deployed"
+msgstr ""
+
+msgid "Deploying certificate."
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Deselect all"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device API requests"
+msgstr ""
+
+msgid "Device Control"
+msgstr ""
+
+msgid "Device Guides"
+msgstr ""
+
+msgid "Device ID must not contain spaces or slashes (\"/\")."
+msgstr ""
+
+msgid "Device Info"
+msgstr ""
+
+msgid "Device added to group"
+msgstr ""
+
+msgid "Device bootstrap"
+msgstr ""
+
+msgid "Device config"
+msgstr ""
+
+msgid "Device control"
+msgstr ""
+
+msgid "Device creation"
+msgstr ""
+
+msgid "Device has been deleted!"
+msgstr ""
+
+msgid "Device info"
+msgstr ""
+
+msgid "Device management"
+msgstr ""
+
+msgid "Device name"
+msgstr ""
+
+msgid "Device name: \"{{deviceName}}\", alarm text: \"{{alarmText | translateServerMessage}}\""
+msgstr ""
+
+msgid "Device profile"
+msgstr ""
+
+msgid "Device registration request with ID {{id}} already exists."
+msgstr ""
+
+msgid "Device removed from group"
+msgstr ""
+
+msgid "Device setting"
+msgstr ""
+
+msgid "Device time"
+msgstr ""
+
+msgid "Device {{id}}"
+msgstr ""
+
+msgid "Device's name or value of any device's property"
+msgstr ""
+
+msgid "Devicemanagement User"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Discard operation completed successfully!"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Display as"
+msgstr ""
+
+msgid "Display current temperature on device"
+msgstr ""
+
+msgid "Display selected roaming network"
+msgstr ""
+
+msgid "Displays a map with position markers for selected devices."
+msgstr ""
+
+msgid "Do you really want to alarm mapping for alarm type \"{{optionKey}}\"?"
+msgstr ""
+
+msgid "Do you really want to delete connector \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you really want to delete device \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to delete group \"{{name}}\" and its sub-groups recursively? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to delete group \"{{name}}\"? This operation is irreversible."
+msgstr ""
+
+msgid "Do you really want to delete subscription \"{{connectorName}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove application \"{{app | humanizeAppName}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove application \"{{appName}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove archive \"{{name}}{{description ? (' (' + description + ')') : ''}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove file \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove plugin \"{{pluginPackage.name || pluginName}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove role \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove rule \"{{name}}\" with the id {{id}}?"
+msgstr ""
+
+msgid "Do you really want to remove tenant \"{{tenantId}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove the module \"{{moduleName}}\"?"
+msgstr ""
+
+msgid "Do you really want to remove user \"{{userName}}\"?"
+msgstr ""
+
+msgid "Do you really want to suspend tenant \"{{id}}\"?"
+msgstr ""
+
+msgid "Do you really want to unassign device \"{{name}}\"?"
+msgstr ""
+
+msgid "Do you want to leave this page and discard the changes made?"
+msgstr ""
+
+msgid "Do you want to reload?"
+msgstr ""
+
+msgid "Do you want to remove this rule?"
+msgstr ""
+
+msgid "Does not match pattern {{vm.field.attrs.ngPattern.toString()}}"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Domain / URL"
+msgstr ""
+
+msgid "Domain name"
+msgstr ""
+
+msgid "Domain name in uploaded certificate differs from the one in use. Please deactivate the custom domain before uploading new certificate."
+msgstr ""
+
+msgid "Domain name is already in use by another tenant!"
+msgstr ""
+
+msgid "Don't sort"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Double click to add points and set the area. Click and drag the points to adjust."
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download as CSV"
+msgstr ""
+
+msgid "Download as Excel"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Downloading&hellip;"
+msgstr ""
+
+msgid "Drag X-Axis to move time.<br>Select time period to zoom.<br>Double click to zoom out."
+msgstr ""
+
+msgid "Drop"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Duplicate of {{name}}"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "E-mail address"
+msgstr ""
+
+msgid "E-mail sent after over-limit data has been removed"
+msgstr ""
+
+msgid "E-mail sent after over-limit data has been removed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr ""
+
+msgid "E-mail sent one day before data removal is performed"
+msgstr ""
+
+msgid "E-mail sent one day before data removal is performed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr ""
+
+msgid "E-mail server"
+msgstr ""
+
+msgid "E-mail subject"
+msgstr ""
+
+msgid "E-mail template"
+msgstr ""
+
+msgid "ECN0"
+msgstr ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid "EVENT"
+msgstr ""
+
+msgid "EXECUTING"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Smart Rule"
+msgstr ""
+
+msgid "Edit geofence"
+msgstr ""
+
+msgid "Edit global Smart Rule"
+msgstr ""
+
+msgid "Edit retention rule"
+msgstr ""
+
+msgid "Edit user"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable or disable data subscription"
+msgstr ""
+
+msgid "Enable support"
+msgstr ""
+
+msgid "Enable support user"
+msgstr ""
+
+msgid "Enable two-factor authentication"
+msgstr ""
+
+msgid "Enable/disable MQTT communication"
+msgstr ""
+
+msgid "Enable/disable TCS:BUS plugin"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Endpoint devices"
+msgstr ""
+
+msgid "Enforce \"green\" passwords for all users"
+msgstr ""
+
+msgid "Enforce that all passwords are \"strong\" (green)"
+msgstr ""
+
+msgid "Enquire battery level info"
+msgstr ""
+
+msgid "Enquire device release info"
+msgstr ""
+
+msgid "Enquire presentation info"
+msgstr ""
+
+msgid "Enquire serial number"
+msgstr ""
+
+msgid "Enter a valid international phone number. Accepted format is +49 9 876 543 210"
+msgstr ""
+
+msgid "Enter a valid international phone number. The accepted format is +49 9 876 543 210."
+msgstr ""
+
+msgid "Enter address"
+msgstr ""
+
+msgid "Enter starting fragment of device id or name to search"
+msgstr ""
+
+msgid "Enterprise edition"
+msgstr ""
+
+msgid "Error detail"
+msgstr ""
+
+msgid "Error in statement {{moduleName}}:{{statementNumber}}! Incorrect syntax near: {{errorDetails}}"
+msgstr ""
+
+msgid "Errors occurred while running event processing rules. <br> Please check the <a href=\"/apps/devicemanagement/#/alarms\">alarms created</a> for more details."
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Event (no Parameter)"
+msgstr ""
+
+msgid "Event (with Parameter)"
+msgstr ""
+
+msgid "Event count 3 months"
+msgstr ""
+
+msgid "Event count today"
+msgstr ""
+
+msgid "Event processing"
+msgstr ""
+
+msgid "Event processing rules"
+msgstr ""
+
+msgid "Event processing rules examples"
+msgstr ""
+
+msgid "Event type"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Every"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Execute command template"
+msgstr ""
+
+msgid "Executing. Takes about 2 minutes"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Expected target value for datapoint"
+msgstr ""
+
+msgid "Export CSV"
+msgstr ""
+
+msgid "Export as CSV"
+msgstr ""
+
+msgid "External URL"
+msgstr ""
+
+msgid "External application"
+msgstr ""
+
+msgid "External id for type '{{type}}' and value '{{value}}' already exists!"
+msgstr ""
+
+msgid "External id not found for type '{{type}}' and value '{{value}}'."
+msgstr ""
+
+msgid "External reference"
+msgstr ""
+
+msgid "External url"
+msgstr ""
+
+msgid "FAILED"
+msgstr ""
+
+msgid "FLAG"
+msgstr ""
+
+msgid "Factory Reset"
+msgstr ""
+
+msgid "Factory reset"
+msgstr ""
+
+msgid "Failed to connect using given credentials"
+msgstr ""
+
+msgid "Failed to extract certificate from PKCS12!"
+msgstr ""
+
+msgid "Failed to retrieve RDB snapshot because of \"{{failureReason}}\"!"
+msgstr ""
+
+msgid "Failed to retrieve RDB snapshot!"
+msgstr ""
+
+msgid "Failed to update domain at the platform."
+msgstr ""
+
+msgid "Failure reason"
+msgstr ""
+
+msgid "Favicon"
+msgstr ""
+
+msgid "Field separator"
+msgstr ""
+
+msgid "Fieldbus4"
+msgstr ""
+
+msgid "Fields marked * are mandatory."
+msgstr ""
+
+msgid "Fields marked * are required."
+msgstr ""
+
+msgid "Files repository"
+msgstr ""
+
+msgid "Files successfully uploaded!"
+msgstr ""
+
+msgid "Files to upload"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter by category"
+msgstr ""
+
+msgid "Filter by global roles"
+msgstr ""
+
+msgid "Filter by maximum date"
+msgstr ""
+
+msgid "Filter by maximum value"
+msgstr ""
+
+msgid "Filter by minimum date"
+msgstr ""
+
+msgid "Filter by minimum value"
+msgstr ""
+
+msgid "Filter by pattern"
+msgstr ""
+
+msgid "Filter date range"
+msgstr ""
+
+msgid "Filter notifications"
+msgstr ""
+
+msgid "Filter options"
+msgstr ""
+
+msgid "Filter properties"
+msgstr ""
+
+msgid "Filter users"
+msgstr ""
+
+msgid "Filter: none"
+msgstr ""
+
+msgid "Filter: {{fragments}}"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Filter…"
+msgstr ""
+
+msgid "Find out more on <a c8y-guide-href=\"concepts/applications/\">User guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"reference/retention-rules/\">Reference Guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/administration/#event-processing\">User Guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/administration/#reprio-alarms\">User Guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#rules\">User Guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#visualize\">User Guide</a>."
+msgstr ""
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/overview/\">User guide</a>."
+msgstr ""
+
+msgid "Firmware"
+msgstr ""
+
+msgid "Firmware version"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "First occurrence"
+msgstr ""
+
+msgid "Following mandatory fields should be included: {{fields}}"
+msgstr ""
+
+msgid "Forgot password?"
+msgstr ""
+
+msgid "Forum support"
+msgstr ""
+
+msgid "Fragment"
+msgstr ""
+
+msgid "Fragment type"
+msgstr ""
+
+msgid "Fragments to copy"
+msgstr ""
+
+msgid "Fragments to filter"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From`date`"
+msgstr ""
+
+msgid "Full access"
+msgstr ""
+
+msgid "GPIO"
+msgstr ""
+
+msgid "GPIO Pin"
+msgstr ""
+
+msgid "GPS"
+msgstr ""
+
+msgid "GPS tracks hidden"
+msgstr ""
+
+msgid "GPS tracks visible"
+msgstr ""
+
+msgid "GSM tracks hidden"
+msgstr ""
+
+msgid "GSM tracks visible"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Generate"
+msgstr ""
+
+msgid "Generate applications"
+msgstr ""
+
+msgid "Generate branded built-in apps"
+msgstr ""
+
+msgid "Generating report"
+msgstr ""
+
+msgid "Get Cinterion information"
+msgstr ""
+
+msgid "Get Config"
+msgstr ""
+
+msgid "Get DHCP lease time [seconds]"
+msgstr ""
+
+msgid "Get Device Serial Number"
+msgstr ""
+
+msgid "Get EVENTS Database"
+msgstr ""
+
+msgid "Get GPIO notify mode"
+msgstr ""
+
+msgid "Get GPIO status"
+msgstr ""
+
+msgid "Get GPS enable"
+msgstr ""
+
+msgid "Get I/O pin analogue input [volts]"
+msgstr ""
+
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr ""
+
+msgid "Get I/O pin capability"
+msgstr ""
+
+msgid "Get I/O pin digital input"
+msgstr ""
+
+msgid "Get I/O pin digital input threshold"
+msgstr ""
+
+msgid "Get I/O pin hardware gain"
+msgstr ""
+
+msgid "Get I/O pin mode"
+msgstr ""
+
+msgid "Get I/O pin scale"
+msgstr ""
+
+msgid "Get IMSI"
+msgstr ""
+
+msgid "Get ISP Database"
+msgstr ""
+
+msgid "Get LOG Database"
+msgstr ""
+
+msgid "Get MTU"
+msgstr ""
+
+msgid "Get Metric"
+msgstr ""
+
+msgid "Get PARAM Database"
+msgstr ""
+
+msgid "Get PENDING operations"
+msgstr ""
+
+msgid "Get PROCCFG Database"
+msgstr ""
+
+msgid "Get SCHEDULE Database"
+msgstr ""
+
+msgid "Get SIM status"
+msgstr ""
+
+msgid "Get TEMPLATE Database"
+msgstr ""
+
+msgid "Get Time"
+msgstr ""
+
+msgid "Get USER Database"
+msgstr ""
+
+msgid "Get actual ADC in mV"
+msgstr ""
+
+msgid "Get actual date and time of RTC"
+msgstr ""
+
+msgid "Get agent GPIO interval [seconds]"
+msgstr ""
+
+msgid "Get agent GPS interval [seconds]"
+msgstr ""
+
+msgid "Get agent connection server"
+msgstr ""
+
+msgid "Get agent connection timeout [seconds]"
+msgstr ""
+
+msgid "Get agent enable"
+msgstr ""
+
+msgid "Get agent log level"
+msgstr ""
+
+msgid "Get agent modbus port"
+msgstr ""
+
+msgid "Get agent network timeout [seconds]"
+msgstr ""
+
+msgid "Get agent reconnect interval [seconds]"
+msgstr ""
+
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr ""
+
+msgid "Get agent status"
+msgstr ""
+
+msgid "Get all module events"
+msgstr ""
+
+msgid "Get child device"
+msgstr ""
+
+msgid "Get command template"
+msgstr ""
+
+msgid "Get current receiver number"
+msgstr ""
+
+msgid "Get detailed Cinterion information"
+msgstr ""
+
+msgid "Get device chipset"
+msgstr ""
+
+msgid "Get device user"
+msgstr ""
+
+msgid "Get firmware and hardware version"
+msgstr ""
+
+msgid "Get installed firmware"
+msgstr ""
+
+msgid "Get internal temperature of chip"
+msgstr ""
+
+msgid "Get list of files stored on device"
+msgstr ""
+
+msgid "Get network update interval [seconds]"
+msgstr ""
+
+msgid "Get operator selection info"
+msgstr ""
+
+msgid "Get power source and voltage"
+msgstr ""
+
+msgid "Get power supply voltage"
+msgstr ""
+
+msgid "Get pullup voltage [volts]"
+msgstr ""
+
+msgid "Get reconnect delay [seconds]"
+msgstr ""
+
+msgid "Get reconnect retries"
+msgstr ""
+
+msgid "Get serial baud rate"
+msgstr ""
+
+msgid "Get serial port mode"
+msgstr ""
+
+msgid "Get signal strength"
+msgstr ""
+
+msgid "Get sim pin"
+msgstr ""
+
+msgid "Get sim protection"
+msgstr ""
+
+msgid "Get supported serial baud rates"
+msgstr ""
+
+msgid "Get system resources measurement interval [seconds]"
+msgstr ""
+
+msgid "Get the new RDB snapshot from device"
+msgstr ""
+
+msgid "Gives access to bulk operations and device management application. This does not include access to any device data."
+msgstr ""
+
+msgid "Global Manager"
+msgstr ""
+
+msgid "Global Reader"
+msgstr ""
+
+msgid "Global Smart Rules"
+msgstr ""
+
+msgid "Global User Manager"
+msgstr ""
+
+msgid "Global inventory permissions override Inventory role permissions. If you want to limit Inventory access, enable it only on inventory roles."
+msgstr ""
+
+msgid "Global role"
+msgstr ""
+
+msgid "Global role \"{{name}}\" updated"
+msgstr ""
+
+msgid "Global role \"{{name}}\" updated: {{updatesList}}"
+msgstr ""
+
+msgid "Global role saved successfully"
+msgstr ""
+
+msgid "Global role updated"
+msgstr ""
+
+msgid "Global roles"
+msgstr ""
+
+msgid "Go to OpenCellID and see location"
+msgstr ""
+
+msgid "Go to device"
+msgstr ""
+
+msgid "Go to source"
+msgstr ""
+
+msgid "Grant permissions on a general level."
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Group has been deleted!"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "Group or device"
+msgstr ""
+
+msgid "Group:&nbsp;"
+msgstr ""
+
+msgid "Groups assignment"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Has full access to all deployed CEP modules and SmartRules"
+msgstr ""
+
+msgid "Headings font stack"
+msgstr ""
+
+msgid "Height for setting the right proportion for the logo: width / height x 100"
+msgstr ""
+
+msgid "Height for setting the right proportion for the navigator logo: width / height x 100 - should be 230px wide"
+msgstr ""
+
+msgid "Help & Service"
+msgstr ""
+
+msgid "Help &amp; Documentation"
+msgstr ""
+
+msgid "Help &amp; support"
+msgstr ""
+
+msgid "Here are a few data points to get you started"
+msgstr ""
+
+msgid "Hex, rgb or rgba value."
+msgstr ""
+
+msgid "Hex, rgb or rgba value. Default: {{defaultColor}}"
+msgstr ""
+
+msgid "History of changes"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Hosted application"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hourly"
+msgstr ""
+
+msgid "Hourly aggregation"
+msgstr ""
+
+msgid "I/O and PLC"
+msgstr ""
+
+msgid "ICCID"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "IMEI"
+msgstr ""
+
+msgid "IMPACT group name prefix"
+msgstr ""
+
+msgid "IMPACT provider settings"
+msgstr ""
+
+msgid "IMSI"
+msgstr ""
+
+msgid "INTEGER"
+msgstr ""
+
+msgid "IP"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Identification"
+msgstr ""
+
+msgid "Identity"
+msgstr ""
+
+msgid "Imperial"
+msgstr ""
+
+msgid "In order to see the 'Connectivity' tab in device details, the user needs to have 'Read' permission for 'Connectivity'. To change SIM card status and send text messages, the user needs to have 'Admin' permission for 'Connectivity'."
+msgstr ""
+
+msgid "In this location since"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Include lowercase characters (e.g. abcdef)"
+msgstr ""
+
+msgid "Include numbers (e.g. 123456)"
+msgstr ""
+
+msgid "Include symbols (e.g. !@#$%^)"
+msgstr ""
+
+msgid "Include uppercase characters (e.g. ABCDEF)"
+msgstr ""
+
+msgid "Insert code provided by source tenant."
+msgstr ""
+
+msgid "Insert security code"
+msgstr ""
+
+msgid "Insert the code received via SMS"
+msgstr ""
+
+msgid "Inspect"
+msgstr ""
+
+msgid "Inspect Smart Rule"
+msgstr ""
+
+msgid "Integer"
+msgstr ""
+
+msgid "International phone number required, in the format +49 9 876 543 210."
+msgstr ""
+
+msgid "Invalid credentials!"
+msgstr ""
+
+msgid "Invalid e-mail"
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+msgid "Invalid pattern."
+msgstr ""
+
+msgid "Invalid phone number format. Only digits, spaces, slashes (\"/\") and dashes (\"-\") allowed."
+msgstr ""
+
+msgid "Inventory"
+msgstr ""
+
+msgid "Inventory role"
+msgstr ""
+
+msgid "Inventory role \"{{name}}\" removed"
+msgstr ""
+
+msgid "Inventory role \"{{name}}\" updated"
+msgstr ""
+
+msgid "Inventory role removed"
+msgstr ""
+
+msgid "Inventory role saved successfully"
+msgstr ""
+
+msgid "Inventory role updated"
+msgstr ""
+
+msgid "Inventory roles"
+msgstr ""
+
+msgid "Inventory structure synchronization in progress"
+msgstr ""
+
+msgid "Invitation e-mail template"
+msgstr ""
+
+msgid "J2ME commands"
+msgstr ""
+
+msgid "Java Developers Guide"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "LAC"
+msgstr ""
+
+msgid "LAN"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Last communication"
+msgstr ""
+
+msgid "Last day"
+msgstr ""
+
+msgid "Last device message"
+msgstr ""
+
+msgid "Last hour"
+msgstr ""
+
+msgid "Last measurement"
+msgstr ""
+
+msgid "Last message"
+msgstr ""
+
+msgid "Last message: {{date}}"
+msgstr ""
+
+msgid "Last minute"
+msgstr ""
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Last modified: {{vm.module.lastModified | absoluteDate}}"
+msgstr ""
+
+msgid "Last month"
+msgstr ""
+
+msgid "Last month usage"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Last occurrence of this alarm (device time)."
+msgstr ""
+
+msgid "Last request from device to server:<br>{{date}}"
+msgstr ""
+
+msgid "Last update"
+msgstr ""
+
+msgid "Last updated"
+msgstr ""
+
+msgid "Last week"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Leaf machines (without gateways and edges)"
+msgstr ""
+
+msgid "Leave empty to skip this constraint"
+msgstr ""
+
+msgid "Leave empty to use value from tenant options"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "License key"
+msgstr ""
+
+msgid "Limit exceeded e-mail subject"
+msgstr ""
+
+msgid "Limit exceeded e-mail template"
+msgstr ""
+
+msgid "Limit http queue"
+msgstr ""
+
+msgid "Limit http requests"
+msgstr ""
+
+msgid "Limit storage per device"
+msgstr ""
+
+msgid "Limit stream queue"
+msgstr ""
+
+msgid "Limit stream requests"
+msgstr ""
+
+msgid "Limit token validity for"
+msgstr ""
+
+msgid "Limit validity for"
+msgstr ""
+
+msgid "Limit verification code validity for"
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid "Line and points"
+msgstr ""
+
+msgid "Link color"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "List of 3 values per software"
+msgstr ""
+
+msgid "List of supported operations"
+msgstr ""
+
+msgid "LoRa provider settings"
+msgstr ""
+
+msgid "Load '<small><i>{{kpi.c8y_Kpi.label}}</i></small>' from library"
+msgstr ""
+
+msgid "Load more"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Loading data points…"
+msgstr ""
+
+msgid "Loading users&hellip;"
+msgstr ""
+
+msgid "Locate"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "LogIn"
+msgstr ""
+
+msgid "LogIn CHAP"
+msgstr ""
+
+msgid "LogIn CHAP Response"
+msgstr ""
+
+msgid "LogOut"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login options"
+msgstr ""
+
+msgid "Logo wrapper background color"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Longitude"
+msgstr ""
+
+msgid "MAC"
+msgstr ""
+
+msgid "MAJOR"
+msgstr ""
+
+msgid "MANAGED_OBJECT"
+msgstr ""
+
+msgid "MCC"
+msgstr ""
+
+msgid "MEASUREMENT"
+msgstr ""
+
+msgid "MINOR"
+msgstr ""
+
+msgid "MNC"
+msgstr ""
+
+msgid "MSISDN"
+msgstr ""
+
+msgid "Main background color"
+msgstr ""
+
+msgid "Main brand color"
+msgstr ""
+
+msgid "Main logo"
+msgstr ""
+
+msgid "Maintenance off"
+msgstr ""
+
+msgid "Maintenance on"
+msgstr ""
+
+msgid "Major"
+msgstr ""
+
+msgid "Major alarms"
+msgstr ""
+
+msgid "Manage user permissions on a particular group and/or its children."
+msgstr ""
+
+msgid "Managed object"
+msgstr ""
+
+msgid "Managed object \"{{name}}\" deleted"
+msgstr ""
+
+msgid "Managed object deleted"
+msgstr ""
+
+msgid "Managed objects"
+msgstr ""
+
+msgid "Management"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Mark as resolved"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Max length: 1"
+msgid_plural "Max length: {{vm.field.attrs.maxlength}}"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Max value: {{vm.field.attrs.c8yMax}}"
+msgstr ""
+
+msgid "Max value: {{vm.field.attrs.max}}"
+msgstr ""
+
+msgid "Max:"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Maximum age"
+msgstr ""
+
+msgid "Maximum age (days)"
+msgstr ""
+
+msgid "Maximum age cannot be bigger than 10 years."
+msgstr ""
+
+msgid "Maximum length"
+msgstr ""
+
+msgid "Measurement"
+msgstr ""
+
+msgid "Measurement:"
+msgstr ""
+
+msgid "Measurements"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message with id \"{{messageId}}\" doesn't exist in SmartREST template with id \"{{templateId}}\""
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Method"
+msgstr ""
+
+msgid "Metric"
+msgstr ""
+
+msgid "Metrics"
+msgstr ""
+
+msgid "Microservice"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Min value: {{vm.field.attrs.c8yMin}}"
+msgstr ""
+
+msgid "Min value: {{vm.field.attrs.min}}"
+msgstr ""
+
+msgid "Min:"
+msgstr ""
+
+msgid "Minimal length of \"green\" password"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Minimum and maximum"
+msgstr ""
+
+msgid "Minimum length"
+msgstr ""
+
+msgid "Minor"
+msgstr ""
+
+msgid "Minor alarms"
+msgstr ""
+
+msgid "Minutely"
+msgstr ""
+
+msgid "Minutely aggregation"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Modbus-RTU config"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Module \"{{name}}\" has been renamed!"
+msgstr ""
+
+msgid "Module \"{{name}}\" has been saved successfully!"
+msgstr ""
+
+msgid "Module config"
+msgstr ""
+
+msgid "Module version"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "More data may be available"
+msgstr ""
+
+msgid "More…"
+msgstr ""
+
+msgid "Motion detector"
+msgstr ""
+
+msgid "Must be valid JSONPath expression."
+msgstr ""
+
+msgid "Must have at least {{length}} characters"
+msgstr ""
+
+msgid "NEW"
+msgstr ""
+
+msgid "NTC commands"
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name and email"
+msgstr ""
+
+msgid "Navigator"
+msgstr ""
+
+msgid "Navigator font stack"
+msgstr ""
+
+msgid "Navigator logo"
+msgstr ""
+
+msgid "Navigator logo height"
+msgstr ""
+
+msgid "Nearest measurement:"
+msgstr ""
+
+msgid "Netmask"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network service"
+msgstr ""
+
+msgid "New data connector"
+msgstr ""
+
+msgid "New data subscription"
+msgstr ""
+
+msgid "New description"
+msgstr ""
+
+msgid "New global Smart Rule"
+msgstr ""
+
+msgid "New global role"
+msgstr ""
+
+msgid "New inventory role"
+msgstr ""
+
+msgid "New module"
+msgstr ""
+
+msgid "New password"
+msgstr ""
+
+msgid "New password can't be the same as current one!"
+msgstr ""
+
+msgid "New severity"
+msgstr ""
+
+msgid "New subscription code registered successfully!"
+msgstr ""
+
+msgid "New tenant"
+msgstr ""
+
+msgid "New tenant policy"
+msgstr ""
+
+msgid "New tenant policy description"
+msgstr ""
+
+msgid "New user"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No LoRa provider settings are found. Please configure the connectivity settings."
+msgstr ""
+
+msgid "No RDB snapshot assigned to this device. Get current RDB snapshot from device."
+msgstr ""
+
+msgid "No Smart Rules defined."
+msgstr ""
+
+msgid "No aggregation"
+msgstr ""
+
+msgid "No alarms"
+msgstr ""
+
+msgid "No alarms to display."
+msgstr ""
+
+msgid "No applications found."
+msgstr ""
+
+msgid "No assets or devices found for '{{searchData.lastText}}'"
+msgstr ""
+
+msgid "No certificate available"
+msgstr ""
+
+msgid "No communication with device since {{timestamp | absoluteDate}}!"
+msgstr ""
+
+msgid "No conversion"
+msgstr ""
+
+msgid "No data available."
+msgstr ""
+
+msgid "No data connectors to display."
+msgstr ""
+
+msgid "No data points found."
+msgstr ""
+
+msgid "No data received from device within required interval."
+msgstr ""
+
+msgid "No data subscriptions to display."
+msgstr ""
+
+msgid "No delegation"
+msgstr ""
+
+msgid "No devices to display."
+msgstr ""
+
+msgid "No entries to display."
+msgstr ""
+
+msgid "No escalation steps defined."
+msgstr ""
+
+msgid "No event processing modules found"
+msgstr ""
+
+msgid "No events to display."
+msgstr ""
+
+msgid "No file selected"
+msgstr ""
+
+msgid "No file selected."
+msgstr ""
+
+msgid "No files found containing <strong>{{vm.searchString}}</strong>."
+msgstr ""
+
+msgid "No files to display."
+msgstr ""
+
+msgid "No items to display!"
+msgstr ""
+
+msgid "No items to display."
+msgstr ""
+
+msgid "No matching Smart Rules available."
+msgstr ""
+
+msgid "No matching data points found in library. First enter red/yellow ranges and save it with \"Save to Library\"."
+msgstr ""
+
+msgid "No metrics available"
+msgstr ""
+
+msgid "No notifications received yet"
+msgstr ""
+
+msgid "No operations have been invoked yet."
+msgstr ""
+
+msgid "No options defined."
+msgstr ""
+
+msgid "No permissions for this scope."
+msgstr ""
+
+msgid "No position fragment in selected devices"
+msgstr ""
+
+msgid "No request was denied."
+msgstr ""
+
+msgid "No results found."
+msgstr ""
+
+msgid "No retention rules defined."
+msgstr ""
+
+msgid "No retention rules to display."
+msgstr ""
+
+msgid "No tenant policies to display"
+msgstr ""
+
+msgid "No tenants to display."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "None selected"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not deployed"
+msgstr ""
+
+msgid "Not editable"
+msgstr ""
+
+msgid "Not monitored"
+msgstr ""
+
+msgid "Note: report generation can take a long time to complete."
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Nothing found."
+msgstr ""
+
+msgid "Notification email settings successfully updated!"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Notified user group"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Number of child assets"
+msgstr ""
+
+msgid "Number of child devices"
+msgstr ""
+
+msgid "Number of devices on {{end}}, including child devices."
+msgstr ""
+
+msgid "Number of devices, including child devices"
+msgstr ""
+
+msgid "Number of occurrences"
+msgstr ""
+
+msgid "Number of root devices on {{end}}. Does not include child devices."
+msgstr ""
+
+msgid "Number of root devices, excluding child devices"
+msgstr ""
+
+msgid "OBJECT ARRAY"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "OPERATION"
+msgstr ""
+
+msgid "OPERATION STATUS"
+msgstr ""
+
+msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission. Note that to have access to an object, user has to have access to all its fragments. Use an asterisk (*) to grant permission to any object's fragment type."
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "On step {{stepNo}} failed"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Only global roles defined on the owner can be defined on the owned user"
+msgstr ""
+
+msgid "Only letters and digits are allowed!"
+msgstr ""
+
+msgid "Only letters, digits and underscore allowed, must not start with a digit!"
+msgstr ""
+
+msgid "Only lowercase letters, digits and underscore character allowed in the first part of the URI! It must start with a letter, underscore only allowed in the middle. Must be a valid URI."
+msgstr ""
+
+msgid "Only lowercase letters, digits and underscore character allowed! Must start with a letter, underscore only allowed in the middle, minimum 2 characters."
+msgstr ""
+
+msgid "Only showing {{count}} devices due to performance reasons"
+msgstr ""
+
+msgid "Only value"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open in Device management"
+msgstr ""
+
+msgid "OpenCellId"
+msgstr ""
+
+msgid "OpenIT credentials"
+msgstr ""
+
+msgid "Operation"
+msgstr ""
+
+msgid "Operation cancelled by user."
+msgstr ""
+
+msgid "Operation created"
+msgstr ""
+
+msgid "Operation created: status=\"{{status | translate}}\"."
+msgstr ""
+
+msgid "Operation updated"
+msgstr ""
+
+msgid "Operation updated: {{updatesList}}"
+msgstr ""
+
+msgid "Operations: All"
+msgstr ""
+
+msgid "Operations: Restart Device"
+msgstr ""
+
+msgid "Operator"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Option \"{{option}}\" created"
+msgstr ""
+
+msgid "Option \"{{option}}\" deleted"
+msgstr ""
+
+msgid "Option created"
+msgstr ""
+
+msgid "Option deleted"
+msgstr ""
+
+msgid "Option management"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Own applications"
+msgstr ""
+
+msgid "Own user management"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "PAUSED"
+msgstr ""
+
+msgid "PENDING"
+msgstr ""
+
+msgid "PENDING ACCEPTANCE"
+msgstr ""
+
+msgid "Page should be reloaded to correctly apply measurement units setting changes"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
+msgid "Parent tenant"
+msgstr ""
+
+msgid "Pass strength"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password change confirmation e-mail template"
+msgstr ""
+
+msgid "Password confirmation does not match"
+msgstr ""
+
+msgid "Password confirmation does not match."
+msgstr ""
+
+msgid "Password expiration"
+msgstr ""
+
+msgid "Password history size"
+msgstr ""
+
+msgid "Password is invalid! It must have at least {{minCharactersCount}} and no more than {{maxCharactersCount}} characters."
+msgstr ""
+
+msgid "Password must have at least 8 characters and no more than 32 and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+msgid "Password must have at least 8 characters and no more than 32."
+msgstr ""
+
+msgid "Password must have at least {{min}} characters and no more than {{max}} and can only contain letters, numbers and following symbols: `~!@#$%^&*()_|+-=?;:'\",.<>{}[]\\/"
+msgstr ""
+
+msgid "Password not good enough, password must be be stronger (green)."
+msgstr ""
+
+msgid "Password not good enough, password must be stronger (green)."
+msgstr ""
+
+msgid "Password reset"
+msgstr ""
+
+msgid "Password reset e-mail template (when address is known)"
+msgstr ""
+
+msgid "Password reset e-mail template (when address is not known)"
+msgstr ""
+
+msgid "Password reset request has been sent. Please check your e-mail."
+msgstr ""
+
+msgid "Password settings updated successfully!"
+msgstr ""
+
+msgid "Password successfully changed. You can now login with your new password."
+msgstr ""
+
+msgid "Password validity limit (days)"
+msgstr ""
+
+msgid "Passwords"
+msgstr ""
+
+msgid "Passwords do not match!"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Pending acceptance"
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Pick your Smart Rule"
+msgstr ""
+
+msgid "Placeholder: {tenant} - suspended tenant's id"
+msgstr ""
+
+msgid "Placeholder: {token} - generated token"
+msgstr ""
+
+msgid "Placeholders: {host}, {binaryId}. Whole link to result file is: {host}/inventory/binaries/{binaryId}"
+msgstr ""
+
+msgid "Placeholders: {host}, {tenant-domain}"
+msgstr ""
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to reset password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr ""
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to setup password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr ""
+
+msgid "Placeholders: {user}, {exportApi}"
+msgstr ""
+
+msgid "Platform application cannot be added to, nor removed from any tenant."
+msgstr ""
+
+msgid "Please enter your OpenIT credentials. These credentials are used for {{uses}}."
+msgstr ""
+
+msgid "Please enter your credentials from your SMS provider.  This enables platform features that utilize SMS services (e.g. two-factor authentication and user notifications)."
+msgstr ""
+
+msgid "Please meet 4 out of 5 the conditions below"
+msgstr ""
+
+msgid "Please type something to execute a search."
+msgstr ""
+
+msgid "Plugin \"{{pluginPackage.name || pluginName}}\" removed from application!"
+msgstr ""
+
+msgid "Plugin already subscribed!"
+msgstr ""
+
+msgid "Plugin successfully added to application!"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Points"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Possible values: true, false, date until user should remain enabled"
+msgstr ""
+
+msgid "Possible values: url string, \"false\" (hides the link), leave empty to use default"
+msgstr ""
+
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr ""
+
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr ""
+
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr ""
+
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr ""
+
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr ""
+
+msgid "Predefined ED1608 General Sensor"
+msgstr ""
+
+msgid "Press Ctrl/Cmd+C to copy"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview branding"
+msgstr ""
+
+msgid "Preview file"
+msgstr ""
+
+msgid "Previous page"
+msgstr ""
+
+msgid "Process is being executed"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Profile / Global roles"
+msgstr ""
+
+msgid "Profile ID"
+msgstr ""
+
+msgid "Project data"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Properties library"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Property removed!"
+msgstr ""
+
+msgid "Property saved!"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Provide your phone number"
+msgstr ""
+
+msgid "Pulse 1 setting"
+msgstr ""
+
+msgid "Pulse 2 setting"
+msgstr ""
+
+msgid "Push connection: active"
+msgstr ""
+
+msgid "Push connection: inactive"
+msgstr ""
+
+msgid "Query Active Jobs"
+msgstr ""
+
+msgid "Query Analog Input Hutline"
+msgstr ""
+
+msgid "Query Eifeler Vacotec server port"
+msgstr ""
+
+msgid "Query Enabled Servicese"
+msgstr ""
+
+msgid "Query Ethernet state"
+msgstr ""
+
+msgid "Query Firmware Version"
+msgstr ""
+
+msgid "Query Fresenius VPN proxy status"
+msgstr ""
+
+msgid "Query GSM state"
+msgstr ""
+
+msgid "Query Hardware"
+msgstr ""
+
+msgid "Query Inputs Hutline"
+msgstr ""
+
+msgid "Query Outputs Hutline"
+msgstr ""
+
+msgid "Query ProcessVars"
+msgstr ""
+
+msgid "Query Stations Bus"
+msgstr ""
+
+msgid "Query WLAN state"
+msgstr ""
+
+msgid "Quick links"
+msgstr ""
+
+msgid "Quote strings"
+msgstr ""
+
+msgid "RCSP"
+msgstr ""
+
+msgid "RDB snapshot"
+msgstr ""
+
+msgid "RDB snapshot file"
+msgstr ""
+
+msgid "RDB snapshot has been stored in files repository!"
+msgstr ""
+
+msgid "READ"
+msgstr ""
+
+msgid "REST Developers Guide"
+msgstr ""
+
+msgid "RSSI"
+msgstr ""
+
+msgid "RUNNING"
+msgstr ""
+
+msgid "Raw error code"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "Read Event-Log"
+msgstr ""
+
+msgid "Read FailedIncomingCall-Log"
+msgstr ""
+
+msgid "Read IncomingMessage-Log"
+msgstr ""
+
+msgid "Read Job-Report"
+msgstr ""
+
+msgid "Read Log Counter"
+msgstr ""
+
+msgid "Read Logfile"
+msgstr ""
+
+msgid "Read Login-Log"
+msgstr ""
+
+msgid "Read SupportLog"
+msgstr ""
+
+msgid "Read current network status"
+msgstr ""
+
+msgid "Read timed out"
+msgstr ""
+
+msgid "Reader"
+msgstr ""
+
+msgid "Real time active"
+msgstr ""
+
+msgid "Real time inactive"
+msgstr ""
+
+msgid "Realtime"
+msgstr ""
+
+msgid "Realtime is active. Deactivate it to edit date and time."
+msgstr ""
+
+msgid "Reboot device"
+msgstr ""
+
+msgid "Received signal code power"
+msgstr ""
+
+msgid "Red range"
+msgstr ""
+
+msgid "Reference Guide"
+msgstr ""
+
+msgid "Refresh alarm list contents"
+msgstr ""
+
+msgid "Refresh token"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Register new subscription"
+msgstr ""
+
+msgid "Registration date"
+msgstr ""
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Remember me"
+msgstr ""
+
+msgid "Remote Control"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Smart Rule"
+msgstr ""
+
+msgid "Remove from list"
+msgstr ""
+
+msgid "Remove owner"
+msgstr ""
+
+msgid "Remove permission"
+msgstr ""
+
+msgid "Remove tenant"
+msgstr ""
+
+msgid "Render type"
+msgstr ""
+
+msgid "Reoccurrence count"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace certificate"
+msgstr ""
+
+msgid "Replace credentials"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Repository"
+msgstr ""
+
+msgid "Request support"
+msgstr ""
+
+msgid "Requested data denied access"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Required availability"
+msgstr ""
+
+msgid "Required interval"
+msgstr ""
+
+msgid "Required interval must be a number and cannot be longer than a year!"
+msgstr ""
+
+msgid "Required interval must be a positive number!"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset Update"
+msgstr ""
+
+msgid "Reset password"
+msgstr ""
+
+msgid "Response"
+msgstr ""
+
+msgid "Response interval"
+msgstr ""
+
+msgid "Responses"
+msgstr ""
+
+msgid "Restart device"
+msgstr ""
+
+msgid "Retention rules"
+msgstr ""
+
+msgid "Retrieve RDB snapshot"
+msgstr ""
+
+msgid "Retrieving Smart Rules…"
+msgstr ""
+
+msgid "Retrieving alarms…"
+msgstr ""
+
+msgid "Return type"
+msgstr ""
+
+msgid "Revision"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Role cannot be deleted because it is assigned to users."
+msgstr ""
+
+msgid "Role removed."
+msgstr ""
+
+msgid "Roles"
+msgstr ""
+
+msgid "Root Device"
+msgstr ""
+
+msgid "Root devices"
+msgstr ""
+
+msgid "Rule \"{{name}}\" activated!"
+msgstr ""
+
+msgid "Rule \"{{name}}\" activated/deactivated for children!"
+msgstr ""
+
+msgid "Rule \"{{name}}\" deactivated!"
+msgstr ""
+
+msgid "Rule is removed successfully."
+msgstr ""
+
+msgid "Rule name"
+msgstr ""
+
+msgid "SCHEDULED"
+msgstr ""
+
+msgid "SEVERITY"
+msgstr ""
+
+msgid "SIM"
+msgstr ""
+
+msgid "SIM provider settings"
+msgstr ""
+
+msgid "SIM status"
+msgstr ""
+
+msgid "SMS"
+msgstr ""
+
+msgid "SRT 360i Sample Commands"
+msgstr ""
+
+msgid "SSL certificate"
+msgstr ""
+
+msgid "SSL certificate upload"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "SUCCESSFUL"
+msgstr ""
+
+msgid "SUPPORT"
+msgstr ""
+
+msgid "SUSPENDED"
+msgstr ""
+
+msgid "Same as base font"
+msgstr ""
+
+msgid "Same as headings font"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save TFA settings"
+msgstr ""
+
+msgid "Save access control"
+msgstr ""
+
+msgid "Save and continue"
+msgstr ""
+
+msgid "Save changes"
+msgstr ""
+
+msgid "Save configuration"
+msgstr ""
+
+msgid "Save credentials"
+msgstr ""
+
+msgid "Save default application"
+msgstr ""
+
+msgid "Save to library"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "Scan M-Bus"
+msgstr ""
+
+msgid "ScanWLAN"
+msgstr ""
+
+msgid "Schedule device restart every day at 1am"
+msgstr ""
+
+msgid "Scope"
+msgstr ""
+
+msgid "Search asset hierarchy"
+msgstr ""
+
+msgid "Search files"
+msgstr ""
+
+msgid "Search for groups or assets…"
+msgstr ""
+
+msgid "Search in examples"
+msgstr ""
+
+msgid "Search more"
+msgstr ""
+
+msgid "Searching devices…"
+msgstr ""
+
+msgid "Secondary brand color"
+msgstr ""
+
+msgid "Security code"
+msgstr ""
+
+msgid "Security code will be requested on the target tenant to establish connection."
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select a new owner"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Select at least one"
+msgstr ""
+
+msgid "Select data point"
+msgstr ""
+
+msgid "Select data points"
+msgstr ""
+
+msgid "Select device"
+msgstr ""
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select inventory roles..."
+msgstr ""
+
+msgid "Select location change event once for 60 seconds"
+msgstr ""
+
+msgid "Select managed object from list"
+msgstr ""
+
+msgid "Select or search"
+msgstr ""
+
+msgid "Select or search group"
+msgstr ""
+
+msgid "Select properties"
+msgstr ""
+
+msgid "Select temperature readings over 100 degree"
+msgstr ""
+
+msgid "Select the application you would like to preview"
+msgstr ""
+
+msgid "Select the applications that can be accessed by this role below."
+msgstr ""
+
+msgid "Select unit conversion"
+msgstr ""
+
+msgid "Selected file is no longer available in the platform!"
+msgstr ""
+
+msgid "Selected file is not a ZIP archive! Please choose appropriate file."
+msgstr ""
+
+msgid "Selected file is too large &ndash; size limit is {{limitBytes | bytes}}!"
+msgstr ""
+
+msgid "Selected unit conversion will be used for displaying data. Choose \"No conversion\" to see original units sent by devices"
+msgstr ""
+
+msgid "Selection change is disabled."
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send a warning e-mail to a user group when the storage quota is nearly reached."
+msgstr ""
+
+msgid "Send alarms that are active since 30 minutes to email"
+msgstr ""
+
+msgid "Send as widget to dashboard"
+msgstr ""
+
+msgid "Send as widget to report"
+msgstr ""
+
+msgid "Send connection status unknown"
+msgstr ""
+
+msgid "Send connection: not monitored"
+msgstr ""
+
+msgid "Send connection: offline"
+msgstr ""
+
+msgid "Send connection: online"
+msgstr ""
+
+msgid "Send e-mail to suspended tenant's administrator"
+msgstr ""
+
+msgid "Send new code"
+msgstr ""
+
+msgid "Send notifications to unknown e-mail addresses"
+msgstr ""
+
+msgid "Send password reset link as e-mail"
+msgstr ""
+
+msgid "Send sales to Zapier"
+msgstr ""
+
+msgid "Send simulator temperature to Zapier"
+msgstr ""
+
+msgid "Sender address"
+msgstr ""
+
+msgid "Sensor threshold"
+msgstr ""
+
+msgid "Separator line color"
+msgstr ""
+
+msgid "Serial"
+msgstr ""
+
+msgid "Serial number"
+msgstr ""
+
+msgid "Series"
+msgstr ""
+
+msgid "Serve cell information"
+msgstr ""
+
+msgid "Server URL"
+msgstr ""
+
+msgid "Server creation time"
+msgstr ""
+
+msgid "Server error"
+msgstr ""
+
+msgid "Server time"
+msgstr ""
+
+msgid "Server time can be different from device times in other fields."
+msgstr ""
+
+msgid "Set ALIVE interval"
+msgstr ""
+
+msgid "Set AT command error messaging"
+msgstr ""
+
+msgid "Set Config"
+msgstr ""
+
+msgid "Set DHCP lease time [seconds]"
+msgstr ""
+
+msgid "Set FLAGS"
+msgstr ""
+
+msgid "Set GPIO notify mode"
+msgstr ""
+
+msgid "Set GPS enable"
+msgstr ""
+
+msgid "Set I/O pin hardware gain"
+msgstr ""
+
+msgid "Set I/O pin mode"
+msgstr ""
+
+msgid "Set I/O pin scale"
+msgstr ""
+
+msgid "Set INHIBTIME interval"
+msgstr ""
+
+msgid "Set MODE"
+msgstr ""
+
+msgid "Set MTU"
+msgstr ""
+
+msgid "Set Metric"
+msgstr ""
+
+msgid "Set Output Hutline"
+msgstr ""
+
+msgid "Set SignalLED"
+msgstr ""
+
+msgid "Set TestMode"
+msgstr ""
+
+msgid "Set Time"
+msgstr ""
+
+msgid "Set Variable Bus"
+msgstr ""
+
+msgid "Set Variable PV"
+msgstr ""
+
+msgid "Set agent GPIO interval [seconds]"
+msgstr ""
+
+msgid "Set agent GPS interval [seconds]"
+msgstr ""
+
+msgid "Set agent connection server"
+msgstr ""
+
+msgid "Set agent connection timeout [seconds]"
+msgstr ""
+
+msgid "Set agent enable"
+msgstr ""
+
+msgid "Set agent log level"
+msgstr ""
+
+msgid "Set agent modbus port"
+msgstr ""
+
+msgid "Set agent network timeout [seconds]"
+msgstr ""
+
+msgid "Set agent reconnect interval [seconds]"
+msgstr ""
+
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr ""
+
+msgid "Set as active"
+msgstr ""
+
+msgid "Set command template"
+msgstr ""
+
+msgid "Set configuration"
+msgstr ""
+
+msgid "Set configuration parameter"
+msgstr ""
+
+msgid "Set firmware"
+msgstr ""
+
+msgid "Set humidity threshold"
+msgstr ""
+
+msgid "Set network update interval [seconds]"
+msgstr ""
+
+msgid "Set operation to EXECUTING"
+msgstr ""
+
+msgid "Set operation to FAILED"
+msgstr ""
+
+msgid "Set operation to SUCCESSFUL"
+msgstr ""
+
+msgid "Set password"
+msgstr ""
+
+msgid "Set pullup voltage [volts]"
+msgstr ""
+
+msgid "Set receiver number for SMS mode"
+msgstr ""
+
+msgid "Set reconnect delay [seconds]"
+msgstr ""
+
+msgid "Set reconnect retries"
+msgstr ""
+
+msgid "Set required availability"
+msgstr ""
+
+msgid "Set serial baud rate"
+msgstr ""
+
+msgid "Set serial port mode"
+msgstr ""
+
+msgid "Set sim pin"
+msgstr ""
+
+msgid "Set sim protection"
+msgstr ""
+
+msgid "Set software list"
+msgstr ""
+
+msgid "Set supported operations"
+msgstr ""
+
+msgid "Set system resources measurement interval [seconds]"
+msgstr ""
+
+msgid "Set temperature threshold"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Severity"
+msgstr ""
+
+msgid "Shared User Manager"
+msgstr ""
+
+msgid "Should be a valid number"
+msgstr ""
+
+msgid "Should be a valid regular expression"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show all"
+msgstr ""
+
+msgid "Show all breadcrumbs"
+msgstr ""
+
+msgid "Show checkboxes that are"
+msgstr ""
+
+msgid "Show date selection"
+msgstr ""
+
+msgid "Show details"
+msgstr ""
+
+msgid "Show devices in group"
+msgstr ""
+
+msgid "Show devices registered after"
+msgstr ""
+
+msgid "Show devices with IMEI"
+msgstr ""
+
+msgid "Show devices with active"
+msgstr ""
+
+msgid "Show devices with maintenance status"
+msgstr ""
+
+msgid "Show devices with model"
+msgstr ""
+
+msgid "Show devices with name"
+msgstr ""
+
+msgid "Show devices with push status"
+msgstr ""
+
+msgid "Show devices with send status"
+msgstr ""
+
+msgid "Show devices with serial number"
+msgstr ""
+
+msgid "Show devices with system ID"
+msgstr ""
+
+msgid "Show error message"
+msgstr ""
+
+msgid "Show more"
+msgstr ""
+
+msgid "Show summary"
+msgstr ""
+
+msgid "Showing 1 child device"
+msgid_plural "Showing {{devices.length}} child devices"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Showing {{devices.length}}"
+msgstr ""
+
+msgid "Showing {{devices.length}} items"
+msgstr ""
+
+msgid "Showing {{devices.length}} of {{totalDevices}}"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Signal quality"
+msgstr ""
+
+msgid "Signal strength"
+msgstr ""
+
+msgid "Simulator state is invalid: {{violations}}"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Slash, single or double dots and white space not allowed"
+msgstr ""
+
+msgid "Smart Rule"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" created"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" deleted"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" disabled"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" enabled"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" saved successfully!"
+msgstr ""
+
+msgid "Smart Rule \"{{name}}\" updated"
+msgstr ""
+
+msgid "Smart Rule created"
+msgstr ""
+
+msgid "Smart Rule deleted"
+msgstr ""
+
+msgid "Smart Rule disabled"
+msgstr ""
+
+msgid "Smart Rule enabled"
+msgstr ""
+
+msgid "Smart Rule successfully removed!"
+msgstr ""
+
+msgid "Smart Rule updated"
+msgstr ""
+
+msgid "Smart group \"{{name}}\" has been created!"
+msgstr ""
+
+msgid "Smart rule"
+msgstr ""
+
+msgid "SmartREST template with id \"{{templateId}}\" doesn't exist"
+msgstr ""
+
+msgid "Smartbox Commands"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Sound detector"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Source tenant status"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start Process"
+msgstr ""
+
+msgid "Start by adding your first application."
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Statement"
+msgstr ""
+
+msgid "Statistic period:"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Step after"
+msgstr ""
+
+msgid "Step before"
+msgstr ""
+
+msgid "Stop Process"
+msgstr ""
+
+msgid "Storage"
+msgstr ""
+
+msgid "Storage (MB)"
+msgstr ""
+
+msgid "Storage limit"
+msgstr ""
+
+msgid "Storage limit is too high."
+msgstr ""
+
+msgid "Storage limit must be a positive number."
+msgstr ""
+
+msgid "Storage limit per device (MB)"
+msgstr ""
+
+msgid "Storage quota"
+msgstr ""
+
+msgid "Storage quota (MB)"
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "String does not match pattern: {{schema.pattern}}"
+msgstr ""
+
+msgid "String is too long ({{viewValue.length}} chars), maximum {{schema.maxLength}}!"
+msgstr ""
+
+msgid "String is too short ({{viewValue.length}} chars), minimum {{schema.minLength}}!"
+msgstr ""
+
+msgid "Subaccounts"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Subject used for all password reset related e-mails"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
+msgstr ""
+
+msgid "Subscribed applications"
+msgstr ""
+
+msgid "Subscribed apps"
+msgstr ""
+
+msgid "Subscribed devices are charged as normal devices."
+msgstr ""
+
+msgid "Subscribed plugins"
+msgstr ""
+
+msgid "Subscription in destination tenant disabled"
+msgstr ""
+
+msgid "Subscription in destination tenant disabled and then connector suspended by source tenant"
+msgstr ""
+
+msgid "Subscription registration"
+msgstr ""
+
+msgid "Subscription removed successfully!"
+msgstr ""
+
+msgid "Subtenants"
+msgstr ""
+
+msgid "Successfully saved to library"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Support link"
+msgstr ""
+
+msgid "Support request"
+msgstr ""
+
+msgid "Support request sent"
+msgstr ""
+
+msgid "Support user"
+msgstr ""
+
+msgid "Support user access activated"
+msgstr ""
+
+msgid "Supported formats .ico"
+msgstr ""
+
+msgid "Supported formats .png, .svg"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspend tenant"
+msgstr ""
+
+msgid "Suspending tenants"
+msgstr ""
+
+msgid "Switch motion detector off"
+msgstr ""
+
+msgid "Switch motion detector on"
+msgstr ""
+
+msgid "Switch sound detector off"
+msgstr ""
+
+msgid "Switch sound detector on"
+msgstr ""
+
+msgid "Switch to ModemMode"
+msgstr ""
+
+msgid "Switch vibration detector off"
+msgstr ""
+
+msgid "Switch vibration detector on"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "System ID"
+msgstr ""
+
+msgid "TFA Settings"
+msgstr ""
+
+msgid "TFA settings updated successfully!"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Target URL for data connector"
+msgstr ""
+
+msgid "Target URL {{targetUrl}} already used by another connector!"
+msgstr ""
+
+msgid "Target asset or devices"
+msgstr ""
+
+msgid "Telephone"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Tenant"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" activated"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" created"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" deleted"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" suspended"
+msgstr ""
+
+msgid "Tenant \"{{tenant}}\" updated: {{properties}}"
+msgstr ""
+
+msgid "Tenant Manager"
+msgstr ""
+
+msgid "Tenant activated"
+msgstr ""
+
+msgid "Tenant created"
+msgstr ""
+
+msgid "Tenant deleted"
+msgstr ""
+
+msgid "Tenant has been saved!"
+msgstr ""
+
+msgid "Tenant management"
+msgstr ""
+
+msgid "Tenant options"
+msgstr ""
+
+msgid "Tenant policies"
+msgstr ""
+
+msgid "Tenant policy"
+msgstr ""
+
+msgid "Tenant policy \"{{name}}\" deleted"
+msgstr ""
+
+msgid "Tenant policy name changed to \"{{name}}\""
+msgstr ""
+
+msgid "Tenant statistics"
+msgstr ""
+
+msgid "Tenant suspended"
+msgstr ""
+
+msgid "Tenant suspended e-mail additional receiver"
+msgstr ""
+
+msgid "Tenant suspended e-mail subject"
+msgstr ""
+
+msgid "Tenant suspended e-mail template"
+msgstr ""
+
+msgid "Tenant updated"
+msgstr ""
+
+msgid "Tenants"
+msgstr ""
+
+msgid "Tenants usage statistics"
+msgstr ""
+
+msgid "Territory"
+msgstr ""
+
+msgid "Test Scheduler"
+msgstr ""
+
+msgid "Test Sequencer"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text and buttons color"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Text color of current item in navigator"
+msgstr ""
+
+msgid ""
+"The 'Allowed domain' setting will enable your JavaScript web applications to directly communicate with REST APIs.\n"
+"Set it to \"*\" to allow communication from any host.\n"
+"Set it to \"http://my.host.com, http://myother.host.com\" to allow applications from http://my.host.com and from http://myother.host.com to communicate with the platform.\n"
+"Leave it empty to allow access only from your tenant's domain.\n"
+"See http://enable-cors.org for more information."
+msgstr ""
+
+msgid "The application requested data your user does not have access to. Please check the user menu for more details"
+msgstr ""
+
+msgid "The chosen name is too long. Please try a shorter one."
+msgstr ""
+
+msgid "The code you entered is invalid. Please try again."
+msgstr ""
+
+msgid "The default application applies to all users of the tenant. Please select the default application from the list below and ensure all users have access to this application."
+msgstr ""
+
+msgid "The file selected below is too large &ndash; size limit is {{vm.fileSizeLimit|bytes}}!"
+msgstr ""
+
+msgid "The filename is too long."
+msgstr ""
+
+msgid "The quota calculation is based on the known number of devices, as displayed below."
+msgstr ""
+
+msgid "The resource is no longer available!"
+msgstr ""
+
+msgid "The selected file is not supported."
+msgstr ""
+
+msgid "The target Url did not accept the connection yet"
+msgstr ""
+
+msgid "The threshold cannot be bigger than 100%."
+msgstr ""
+
+msgid "The threshold cannot be smaller than 1%."
+msgstr ""
+
+msgid "The uploaded image cannot be bigger than 4 MB. Please upload a smaller one."
+msgstr ""
+
+msgid "The user will have the permissions in the inventory roles on the corresponding group and its children. Edit the set of roles for a group by clicking on the role names."
+msgstr ""
+
+msgid "The verification code was already sent. For a new verification code, please click on the link above."
+msgstr ""
+
+msgid "There are no alarm mappings defined"
+msgstr ""
+
+msgid "There are no credentials provided yet. Please provide some."
+msgstr ""
+
+msgid "There are several default inventory roles defined, but you can define your own according to your needs."
+msgstr ""
+
+msgid "There are several default roles defined, but you can define your own according to your needs."
+msgstr ""
+
+msgid "There is already a role with the name \"{{name}}\""
+msgstr ""
+
+msgid "These url paths have been requested by the application but your user does not have access to them."
+msgstr ""
+
+msgid "This IP address is invalid"
+msgstr ""
+
+msgid "This application has been cloned from \"{{name}}\" and won't get any further updates from the original app."
+msgstr ""
+
+msgid "This application is already assigned to tenant \"{{tenant}}\"!"
+msgstr ""
+
+msgid "This application is already made available in a global role"
+msgstr ""
+
+msgid "This application is not accessible by the owner."
+msgstr ""
+
+msgid "This date is invalid."
+msgstr ""
+
+msgid "This external ID is not unique"
+msgstr ""
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr ""
+
+msgid "This field is required!"
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "This parameter has a max length of {{param.warnMaxLength}}."
+msgstr ""
+
+msgid "This password has already been used earlier! Please choose a different one."
+msgstr ""
+
+msgid "This permission is overridden by a more generic one in this role."
+msgstr ""
+
+msgid "This role is already assigned to a parent asset."
+msgstr ""
+
+msgid "This time is invalid."
+msgstr ""
+
+msgid "This user is assigned a global role with 'Application management' permissions. Therefore all applications are accessible."
+msgstr ""
+
+msgid "This will apply to data coming from specified device"
+msgstr ""
+
+msgid "This will apply to data that has a type property."
+msgstr ""
+
+msgid "Threshold (%)"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Title to be used in browser tab"
+msgstr ""
+
+msgid "Tixi Commands"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "To choose which applications this role should have access to please remove all \"Application management\" permissions."
+msgstr ""
+
+msgid "To`date`"
+msgstr ""
+
+msgid "Toggle dropdown"
+msgstr ""
+
+msgid "Toggle navigator"
+msgstr ""
+
+msgid "Toggle realtime"
+msgstr ""
+
+msgid "Toggle side drawer"
+msgstr ""
+
+msgid "Toggle toolbar"
+msgstr ""
+
+msgid "Token successfully saved"
+msgstr ""
+
+msgid "Top bar"
+msgstr ""
+
+msgid "Track hidden"
+msgstr ""
+
+msgid "Track visible"
+msgstr ""
+
+msgid "TransMode"
+msgstr ""
+
+msgid "Truncated data."
+msgstr ""
+
+msgid "Two-factor authentication"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type filter"
+msgstr ""
+
+msgid "Type here"
+msgstr ""
+
+msgid "Type to filter"
+msgstr ""
+
+msgid "Type your password"
+msgstr ""
+
+msgid "UNSIGNED"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Unable to get system option: '{{option}}'!"
+msgstr ""
+
+msgid "Unable to get tenant option: '{{option}}'!"
+msgstr ""
+
+msgid "Unassign"
+msgstr ""
+
+msgid "Unassign device"
+msgstr ""
+
+msgid "Uncheck all visible"
+msgstr ""
+
+msgid "Unchecked"
+msgstr ""
+
+msgid "Undelegate"
+msgstr ""
+
+msgid "Under maintenance"
+msgstr ""
+
+msgid "Unit conversion"
+msgstr ""
+
+msgid "Unit:"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unsubscribe"
+msgstr ""
+
+msgid "Up to 120 characters allowed!"
+msgstr ""
+
+msgid "Up to 256 characters allowed!"
+msgstr ""
+
+msgid "Up to 32 characters allowed!"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update '<small class=\"text-muted\"><i>{{getLinkedKpiLabel()}}</i></small>' in library"
+msgstr ""
+
+msgid "Update relay status to CLOSED"
+msgstr ""
+
+msgid "Update relay status to OPEN"
+msgstr ""
+
+msgid "Update settings"
+msgstr ""
+
+msgid "Update severity of existing alarm"
+msgstr ""
+
+msgid "Updating application"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload ZIP file"
+msgstr ""
+
+msgid "Upload a PKCS #12 (.pk12) file containing the private key and certificate."
+msgstr ""
+
+msgid "Upload a valid SSL certificate for your custom domain."
+msgstr ""
+
+msgid "Upload archive"
+msgstr ""
+
+msgid "Upload certificate"
+msgstr ""
+
+msgid "Upload custom CEP rule"
+msgstr ""
+
+msgid "Upload file"
+msgstr ""
+
+msgid "Upload files"
+msgstr ""
+
+msgid "Upload {{vm.isCepRuleUpload ? '.mon' : 'ZIP'}} file"
+msgstr ""
+
+msgid "Upload, choose file or add an URL"
+msgstr ""
+
+msgid "Uploading"
+msgstr ""
+
+msgid "Uploading archive"
+msgstr ""
+
+msgid "Uploading file"
+msgstr ""
+
+msgid "Uploading&hellip;"
+msgstr ""
+
+msgid "Upto 6 archives can be stored in the platform. If you upload a new archive, the oldest archive that is not active will be deleted. Do you want to proceed?"
+msgstr ""
+
+msgid "Url"
+msgstr ""
+
+msgid "Usage between {{start}} - {{end}}"
+msgstr ""
+
+msgid "Usage statistics"
+msgstr ""
+
+msgid "Use * to allow any values."
+msgstr ""
+
+msgid "Use placeholders carefully."
+msgstr ""
+
+msgid "Use the input field above to search for devices."
+msgstr ""
+
+msgid "Use this operation"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User \"{{name}}\" created"
+msgstr ""
+
+msgid "User \"{{name}}\" deleted"
+msgstr ""
+
+msgid "User \"{{name}}\" updated"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: applications [{{applicationsList}}] removed"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: global roles [{{globalRolesList}}] removed"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] added"
+msgstr ""
+
+msgid "User \"{{name}}\" updated: inventory assignment [{{inventoryAssignment}}] removed"
+msgstr ""
+
+msgid "User \"{{userName}}\" has been deleted."
+msgstr ""
+
+msgid "User '{{username}}' already exists!"
+msgstr ""
+
+msgid "User created"
+msgstr ""
+
+msgid "User deleted"
+msgstr ""
+
+msgid "User management"
+msgstr ""
+
+msgid "User management password reset"
+msgstr ""
+
+msgid "User must reset password on next login"
+msgstr ""
+
+msgid "User name"
+msgstr ""
+
+msgid "User permissions"
+msgstr ""
+
+msgid "User roles copied successfully"
+msgstr ""
+
+msgid "User settings"
+msgstr ""
+
+msgid "User successfully saved"
+msgstr ""
+
+msgid "User to work in Cockpit application. This does not include the access to any device data."
+msgstr ""
+
+msgid "User unauthorized error message"
+msgstr ""
+
+msgid "User updated"
+msgstr ""
+
+msgid "User with e-mail '{{email}}' already exists!"
+msgstr ""
+
+msgid "User's application access successfully changed."
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Username (e.g. e-mail)"
+msgstr ""
+
+msgid "Username must not contain spaces nor slashes (\"/\", \"\\\") nor (\"+\"), (\":\"), (\"$\") signs."
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Valid URL required!"
+msgstr ""
+
+msgid "Valid from"
+msgstr ""
+
+msgid "Valid to"
+msgstr ""
+
+msgid "Valid url is required."
+msgstr ""
+
+msgid "Validation rules"
+msgstr ""
+
+msgid "Validations are simple rules such as `min must be less than max`. Red bordered input fields will give you clues. You must also select at least one datapoint."
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value and unit"
+msgstr ""
+
+msgid "Value displayed when data is aggregated"
+msgstr ""
+
+msgid "Value in px"
+msgstr ""
+
+msgid "Value {{viewValue}} is equal to exclusive maximum {{schema.exclusiveMaximum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is equal to exclusive minimum {{schema.exclusiveMinimum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is greater than maximum {{schema.maximum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is less than minimum {{schema.minimum}}!"
+msgstr ""
+
+msgid "Value {{viewValue}} is not a valid number!"
+msgstr ""
+
+msgid "Value, unit and time"
+msgstr ""
+
+msgid "Verification code"
+msgstr ""
+
+msgid "Verification code SMS resent."
+msgstr ""
+
+msgid "Verification token SMS template"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Version: {{vm.backendVersion}} (backend), {{vm.uiVersion}} (UI)"
+msgstr ""
+
+msgid "Vibration detector"
+msgstr ""
+
+msgid "WAITING FOR CONNECTION"
+msgstr ""
+
+msgid "WAN"
+msgstr ""
+
+msgid "WAN IP address"
+msgstr ""
+
+msgid "WAN Profile"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "Wait while settings are loaded&hellip;"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Waiting for connection"
+msgstr ""
+
+msgid "Waiting for data subscription setup to complete…"
+msgstr ""
+
+msgid "Waiting in queue"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warning e-mail subject"
+msgstr ""
+
+msgid "Warning e-mail template"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "We will now log you out and redirect to your new domain {{vm.redirectUrl}} in <b>1</b> second."
+msgid_plural "We will now log you out and redirect to your new domain {{vm.redirectUrl}} in <b>{{$count}}</b> seconds."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Web Developers Guide"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Welcome to Administration"
+msgstr ""
+
+msgid "Welcome to {{vm.appName | humanizeAppName}}"
+msgstr ""
+
+msgid "When a storage quota is set, total used storage over storage quota is displayed"
+msgstr ""
+
+msgid "When activated, a verification code sent by SMS is required to complete authentication"
+msgstr ""
+
+msgid "When clicking OK you agree that a support user gets access to your tenant to help you in your specific problem."
+msgstr ""
+
+msgid "When clicking OK you agree that support personnel from {{company_name}} gets access to your user interface in order to be able to help you with your specific problem."
+msgstr ""
+
+msgid "Who"
+msgstr ""
+
+msgid "Widget successfully created"
+msgstr ""
+
+msgid "With this application you can"
+msgstr ""
+
+msgid "Y Axis"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Yellow range"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are about to activate a custom domain name."
+msgstr ""
+
+msgid ""
+"You are about to create branded versions of built-in applications.\n"
+"       This process takes up to 2 minutes."
+msgstr ""
+
+msgid "You are about to deactivate a custom domain name."
+msgstr ""
+
+msgid "You are successfully disconnected from {{externalServiceName}}. Please login to your {{externalServiceName}} account, and also perform de-registration there."
+msgstr ""
+
+msgid "You can also copy inventory roles from another user or replace this user's roles with the roles of another user."
+msgstr ""
+
+msgid "You cannot edit TFA settings because they are disabled on the platform level."
+msgstr ""
+
+msgid "You don't have permission to retrieve owner"
+msgstr ""
+
+msgid "You have successfully delegated to user \"{{userName}}\"."
+msgstr ""
+
+msgid "You have successfully removed delegation from user \"{{userName}}\"."
+msgstr ""
+
+msgid "You must add at least one data point."
+msgstr ""
+
+msgid "You must add at least one retention rule."
+msgstr ""
+
+msgid "You must enable at least one datapoint."
+msgstr ""
+
+msgid "You need these roles to access retention rules: Retention Rule Read / Admin"
+msgstr ""
+
+msgid "You need to fix validation errors before you can save."
+msgstr ""
+
+msgid "You will receive emails with csv/excel files attached for {{count}} series."
+msgstr ""
+
+msgid "Your password is expired. Please set a new password."
+msgstr ""
+
+msgid "Your password is not strong enough. Please include numbers, lower and upper case characters"
+msgstr ""
+
+msgid "Your password will expire {{expirationTime | relativeDate}}! Consider changing password now."
+msgstr ""
+
+msgid "accuracy"
+msgstr ""
+
+msgid "activating"
+msgstr ""
+
+msgid "active"
+msgstr ""
+
+msgid "altitude"
+msgstr ""
+
+msgid "amount"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "applications {{list}} added"
+msgstr ""
+
+msgid "applications {{list}} removed"
+msgstr ""
+
+msgid "at"
+msgstr ""
+
+msgid "battery value"
+msgstr ""
+
+msgid "ber value"
+msgstr ""
+
+msgid "calculating number of API requests"
+msgstr ""
+
+msgid "calculating number of device API requests"
+msgstr ""
+
+msgid "calculating number of devices"
+msgstr ""
+
+msgid "calculating number of users"
+msgstr ""
+
+msgid "calculating storage"
+msgstr ""
+
+msgid "cellId"
+msgstr ""
+
+msgid "comma - ,"
+msgstr ""
+
+msgid "configuration"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "default 0 = unlimited validity"
+msgstr ""
+
+msgid "description=\"{{description | translate}}\""
+msgstr ""
+
+msgid "device name"
+msgstr ""
+
+msgid "device name=\"{{deviceName}}\""
+msgstr ""
+
+msgid "device time"
+msgstr ""
+
+msgid "device type"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "e.g. \"Lato\", Arial, Verdana, sans-serif"
+msgstr ""
+
+msgid "e.g. +49 9 876 543 210"
+msgstr ""
+
+msgid "e.g. 1"
+msgstr ""
+
+msgid "e.g. 10300, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. 46543432321, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. 54321-123, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. Forwarding measurements"
+msgstr ""
+
+msgid "e.g. ModelName, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. My Device, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. My connector"
+msgstr ""
+
+msgid "e.g. ^\\\\d{1,9}$"
+msgstr ""
+
+msgid "e.g. c8y_FragmentToCopy"
+msgstr ""
+
+msgid "e.g. c8y_FragmentToFilter"
+msgstr ""
+
+msgid "e.g. c8y_Linux"
+msgstr ""
+
+msgid "e.g. enabled"
+msgstr ""
+
+msgid "e.g. https://target-tenant.com"
+msgstr ""
+
+msgid "e.g. myModule01"
+msgstr ""
+
+msgid "e.g. myVal*, you can use * as wildcard character"
+msgstr ""
+
+msgid "e.g. true"
+msgstr ""
+
+msgid "e.g. two-factor-authentication"
+msgstr ""
+
+msgid "e.g.: #27b3ce"
+msgstr ""
+
+msgid "e.g.: 10"
+msgstr ""
+
+msgid "e.g.: 25"
+msgstr ""
+
+msgid "e.g.: Verification code: {token}"
+msgstr ""
+
+msgid "e.g.: administration,devicemanagement,cockpit"
+msgstr ""
+
+msgid "e.g.: localhost"
+msgstr ""
+
+msgid "e.g.: {{expireDate}}"
+msgstr ""
+
+msgid "enabled"
+msgstr ""
+
+msgid "failure reason=\"{{failureReason | translateServerMessage}}\""
+msgstr ""
+
+msgid "failureReason"
+msgstr ""
+
+msgid "fragment"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "https://support.ram.m2m.telekom.com/apps/HelpAndService/index.html"
+msgstr ""
+
+msgid "iccid"
+msgstr ""
+
+msgid "imei"
+msgstr ""
+
+msgid "imsi"
+msgstr ""
+
+msgid "km"
+msgstr ""
+
+msgid "lac"
+msgstr ""
+
+msgid "latitude"
+msgstr ""
+
+msgid "longitude"
+msgstr ""
+
+msgid "m"
+msgstr ""
+
+msgid "max"
+msgstr ""
+
+msgid "mcc"
+msgstr ""
+
+msgid "medium"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "mnc"
+msgstr ""
+
+msgid "model"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "newmodule"
+msgstr ""
+
+msgid "oAuth"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "on the"
+msgstr ""
+
+msgid "parameters"
+msgstr ""
+
+msgid "password strength"
+msgstr ""
+
+msgid "pending"
+msgstr ""
+
+msgid "permission"
+msgid_plural "permissions"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "point - ."
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "required interval"
+msgstr ""
+
+msgid "revision"
+msgstr ""
+
+msgid "roles {{list}} added"
+msgstr ""
+
+msgid "roles {{list}} removed"
+msgstr ""
+
+msgid "rssi value"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "semi-colon - ;"
+msgstr ""
+
+msgid "sending SMSs in smart rules"
+msgstr ""
+
+msgid "serialNumber"
+msgstr ""
+
+msgid "series"
+msgstr ""
+
+msgid "severity"
+msgstr ""
+
+msgid "status=\"{{status | translate}}\""
+msgstr ""
+
+msgid "strong"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid "suspended"
+msgstr ""
+
+msgid "tab - \\t"
+msgstr ""
+
+msgid "temperature value"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "the communication with some devices"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "two-factors authentication"
+msgstr ""
+
+msgid "type"
+msgstr ""
+
+msgid "unique child ID"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "url"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "waiting"
+msgstr ""
+
+msgid "weak"
+msgstr ""
+
+msgid "{{firstItem}} to {{lastItem}}"
+msgstr ""
+
+msgid "{{qty}} loaded"
+msgstr ""
+
+msgid "{{status | translate}} using code {{code}}"
+msgstr ""
+
+msgid "{{storageLimit}} storage quota"
+msgstr ""
+
+msgid "{{storageSize}} storage"
+msgstr ""

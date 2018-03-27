@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Displays tweets from Twitter's embedded timeline widget"
+msgstr "Zeigt Twitter-Tweets an"
+
+msgid "No borders"
+msgstr "Kein Rahmen"
+
+msgid "No footer"
+msgstr "Keine Fußzeile"
+
+msgid "No header"
+msgstr "Keine Kopfzeile"
+
+msgid "Transparent"
+msgstr "Transparent"
+
+msgid "Twitter news"
+msgstr "Twitter-Nachrichten"
+
+msgid "Twitter's username"
+msgstr "Twitter-Benutzername"
+
+msgid "Twitter's widget ID"
+msgstr "Twitter-Widget-ID"
+
+msgid "You can obtain Twitter's widget ID from <a href=\"https://twitter.com/settings/widgets\">Widgets Settings</a>."
+msgstr "Die Twitter-Widget-ID finden Sie in Ihren <a href=\"https://twitter.com/settings/widgets\">Widget-Einstellungen</a>."

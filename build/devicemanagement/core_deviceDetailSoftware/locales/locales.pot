@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceDetailSoftware/controllers/software.js:95
+msgid "Confirm software changes?"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/firmware.html:9
+msgid "Current firmware"
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/software.js:96
+msgid "Do you want to create a device operation to process the software changes? Please note that this operation is asynchronous."
+msgstr ""
+
+#: core_deviceDetailSoftware/views/firmware.html:4
+msgid "Firmware"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/firmware.html:15
+msgid "Firmware to install"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/firmware.html:28
+#: core_deviceDetailSoftware/views/software.html:56
+msgid "Install"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:14
+msgid "Name"
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/firmware.js:53
+msgid "No firmware information available"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:8
+msgid "No software available on the device"
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/firmware.js:26
+msgid "Operation to update firmware created"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:24
+msgid "Remove"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:35
+msgid "Reset changes"
+msgstr ""
+
+#: core_deviceDetailSoftware/index.js:14
+#: core_deviceDetailSoftware/views/software.html:4
+msgid "Software"
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/software.js:72
+msgid "Software change operation created"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:43
+msgid "Software to install"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:32
+msgid "Submit operation"
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/software.js:85
+msgid "Update device software."
+msgstr ""
+
+#: core_deviceDetailSoftware/controllers/firmware.js:20
+msgid "Update firmware: {{firmwareName}} - {{firmwareVersion}}"
+msgstr ""
+
+#: core_deviceDetailSoftware/views/software.html:15
+msgid "Version"
+msgstr ""

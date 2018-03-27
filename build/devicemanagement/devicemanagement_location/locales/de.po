@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Add location"
+msgstr "Ort hinzufügen"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address could not be found!"
+msgstr "Adresse konnte nicht gefunden werden."
+
+msgid "Altitude"
+msgstr "Höhe"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Center map"
+msgstr "Karte zentrieren"
+
+msgid "Current location"
+msgstr "Aktueller Standort"
+
+msgid "Device location may be set by the device itself, or manually in the platform"
+msgstr "Der Gerätestandort wird von dem Gerät selbst gesetzt oder manuell in der Plattform."
+
+msgid "Displays a map with device position marker"
+msgstr "Zeigt eine Karte mit der Position des Geräts an"
+
+msgid "Edit location"
+msgstr "Position bearbeiten"
+
+msgid "Find lat/long by address"
+msgstr "Zeige lat/long durch Adresse"
+
+msgid "Latitude"
+msgstr "Breitengrad"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Location successfully saved!"
+msgstr "Standort erfolgreich gespeichert."
+
+msgid "Longitude"
+msgstr "Längengrad"
+
+msgid "Save"
+msgstr "Speichern"

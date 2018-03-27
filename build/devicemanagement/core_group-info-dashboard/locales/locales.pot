@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_group-info-dashboard/group-info-dashboard.module.js:43
+msgid "Active, critical alarms"
+msgstr ""
+
+#: core_group-info-dashboard/group-info-dashboard.module.js:70
+msgid "Group data"
+msgstr ""
+
+#: core_group-info-dashboard/group-info-dashboard.module.js:17
+msgid "Info"
+msgstr ""
+
+#: core_group-info-dashboard/group-info-dashboard.module.js:116
+msgid "Message of the day"
+msgstr ""

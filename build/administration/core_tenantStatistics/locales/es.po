@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 tenant"
+msgid_plural "{{$count}} tenants"
+msgstr[0] "1 inquilino"
+msgstr[1] "inquilinos"
+
+msgid "API requests"
+msgstr "Solicitudes de API"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Creation time"
+msgstr "Tiempo de creación"
+
+msgid "Device API requests"
+msgstr "Solicitudes de dispositivo API"
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Disabled"
+msgstr "Desactivado"
+
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "From`date`"
+msgstr "De"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "No tenants to display."
+msgstr "Sin inquilinos para mostrar."
+
+msgid "Number of devices, including child devices"
+msgstr "Número de dispositivos, incluyendo dispositivos infantiles"
+
+msgid "Number of root devices, excluding child devices"
+msgstr "Número de dispositivos raíz, excepto dispositivos infantiles"
+
+msgid "Parent tenant"
+msgstr "Inquilino de los padres"
+
+msgid "Reload"
+msgstr "Actualizar"
+
+msgid "Root devices"
+msgstr "Dispositivos de la raíz"
+
+msgid "Statistic period:"
+msgstr "Período de estadística:"
+
+msgid "Storage"
+msgstr "Almacenamiento"
+
+msgid "Storage (MB)"
+msgstr "Almacenamiento (MB)"
+
+msgid "Storage quota"
+msgstr "Cuota de Almacenamiento"
+
+msgid "Storage quota (MB)"
+msgstr "Cuota de almacenamiento (MB)"
+
+msgid "Subscribed applications"
+msgstr "Aplicaciones suscritas"
+
+msgid "Tenants"
+msgstr "Los inquilinos"
+
+msgid "Tenants usage statistics"
+msgstr "Estadísticas de uso de inquilino"
+
+msgid "To`date`"
+msgstr "A"
+
+msgid "Usage statistics"
+msgstr "Estadísticas de uso"
+
+msgid "When a storage quota is set, total used storage over storage quota is displayed"
+msgstr "Cuando se establece una cuota de almacenamiento, el almacenamiento usado sobre la cuota de almacenamiento se muestra"

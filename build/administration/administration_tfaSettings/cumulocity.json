@@ -1,0 +1,1 @@
+{"name":"TFA Settings","ngModules":["c8y.parts.tfaSettings"],"category":"Administration","description":"Configure TFA settings via UI","js":["main.js"],"appsInclude":["administration"],"version":"9.3.0","compatibility":{"app":"administration","contextPath":"tfaSettings","rootContextPath":"administration/tfaSettings"},"contextPath":"administration_tfaSettings"}

@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_applicationLinks/index.js:14
+msgid "Applications"
+msgstr ""
+
+#: core_applicationLinks/index.js:15
+msgid "Displays the list of links to available applications."
+msgstr ""

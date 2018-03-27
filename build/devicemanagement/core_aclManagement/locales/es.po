@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "ADMIN"
+msgstr "ADMINISTRADOR"
+
+msgid "ALARM"
+msgstr "ALARMA"
+
+msgid "AUDIT"
+msgstr "AUDITORÍA"
+
+msgid "EVENT"
+msgstr "EVENTO"
+
+msgid "MANAGED_OBJECT"
+msgstr "MANAGED_OBJECT"
+
+msgid "MEASUREMENT"
+msgstr "MEDIDA"
+
+msgid "OPERATION"
+msgstr "FUNCIONAMIENTO"
+
+msgid "Object's fragment type (e.g. c8y_IsDevice) to which you grant permission. Note that to have access to an object, user has to have access to all its fragments. Use an asterisk (*) to grant permission to any object's fragment type."
+msgstr "Tipo de fragmento del objeto (p. ej. c8y_IsDevice) al que usted otorga permiso. Tenga en cuenta que para tener acceso a un objeto, el usuario tiene que tener acceso a todos sus fragmentos. Use un asterisco (*) para otorgar el permiso al tipo de fragmento de cualquier objeto."
+
+msgid "Permission"
+msgstr "Permiso"
+
+msgid "READ"
+msgstr "LEER"
+
+msgid "SUPPORT"
+msgstr "SOPORTE"
+
+msgid "Scope"
+msgstr "Ámbito"
+
+msgid "Select or search"
+msgstr "Seleccionar o buscar"
+
+msgid "Type"
+msgstr "Tipo"

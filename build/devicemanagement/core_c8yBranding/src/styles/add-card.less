@@ -1,0 +1,37 @@
+.add-card,
+.card.add-card {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  min-height: 90px;
+  border: 2px dashed fade(@gray-darker, 15%);
+  background-color: transparent;
+  color: @gray;
+  text-align: center;
+
+  .box-shadow(none);
+  .transition(all .35s ease-in-out);
+  .fa,
+  .c8y-icon,
+  .c8y-icon.c8y-icon-duocolor {
+    margin-bottom: 10px;
+    width: 100%;
+    color: @brand-primary;
+    font-size: 36px;
+
+    .transition(all .35s ease);
+    +br {
+      display: none;
+    }
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    outline: none;
+    text-decoration: none;
+    .fa,
+    .c8y-icon {
+      .scale(1.2);
+    }
+  }
+}

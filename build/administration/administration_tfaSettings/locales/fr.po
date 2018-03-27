@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Allow two-factor authentication"
+msgstr "Autoriser l'authentification à deux facteurs"
+
+msgid "Limit token validity for"
+msgstr "Limiter la validité du token pour"
+
+msgid "Limit verification code validity for"
+msgstr "Limite de validité de code de vérification pour"
+
+msgid "Save TFA settings"
+msgstr "Enregistrer les paramètres de double authentification"
+
+msgid "TFA Settings"
+msgstr "Paramètres TFA"
+
+msgid "TFA settings updated successfully!"
+msgstr "Paramètres de double authentification actualisés avec succès !"
+
+msgid "You cannot edit TFA settings because they are disabled on the platform level."
+msgstr "Vous ne pouvez pas modifier les paramètres TFA car ils sont désactivés au niveau de la plate-forme."
+
+msgid "minutes"
+msgstr "minutes"

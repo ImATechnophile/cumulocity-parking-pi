@@ -1,0 +1,73 @@
+.label-value-unit-gauge {
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+  padding: 0 20px;
+  .gauge-svg,
+  .gauge-legend {
+    width: 100%;
+    @media(min-width: 768px) {
+      width: 50%;
+    }
+  }
+  .gauge-legend {
+    h3 {
+      margin: 0;
+    }
+  }
+  circle.empty {
+    stroke: transparent;
+    stroke-width: 24px;
+    fill: none;
+  }
+  .center-value,
+  .center-label,
+  .center-unit,
+  .center-date-time {
+    text-anchor: middle;
+    fill: #333;
+  }
+  .center-value {
+    letter-spacing: -1px;
+    font-size: 26px;
+  }
+  .center-label {
+    font-size: 14px;
+  }
+  .center-date-time {
+    font-style: italic;
+  }
+  .center-unit,
+  .center-date-time {
+    font-size: 10px;
+    opacity: .5;
+  }
+  .gauge-svg svg {
+    path.track,
+    path.track-value {
+      display: block;
+      stroke-linejoin: miter;
+      stroke-linecap: miter;
+      fill: none;
+      stroke-width: 22px;
+      stroke-dasharray: 503;
+      stroke-dashoffset: -503;
+    }
+    path.track {
+      stroke-dashoffset: -125.75px;
+      stroke: #f3f3f3;
+    }
+    path.track-value {
+      transition: stroke-dashoffset .25s ease;
+    }
+    path.track-scale {
+      stroke: @brand-primary;
+      stroke-width: 7;
+      fill: none;
+      stroke-dasharray: 0.03em, 5;
+    }
+  }
+  #mask {
+    fill: #fff;
+  }
+}

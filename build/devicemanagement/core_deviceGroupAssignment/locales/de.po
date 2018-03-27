@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Assign"
+msgstr "Zuweisen"
+
+msgid "Assign the device to a group below."
+msgstr "Ordnen Sie unten dem Gerät eine Gruppe zu."
+
+msgid "Choose group"
+msgstr "Gruppe auswählen"
+
+msgid "Device added to group"
+msgstr "Gerät zu Gruppe hinzugefügt."
+
+msgid "Device group assignment"
+msgstr "Gruppenzuordnung"
+
+msgid "Device not assigned."
+msgstr "Gerät nicht zugewiesen."
+
+msgid "Device removed from group"
+msgstr "Gerät aus Gruppe entfernt."
+
+msgid "Unassign device"
+msgstr "Gerätezuordnung aufheben"
+
+msgid "Widget can assign device to selected group"
+msgstr "Dieses Widget ordnet ein Gerät einer Gruppe zu."

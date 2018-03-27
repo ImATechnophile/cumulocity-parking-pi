@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Overviews"
+msgstr "概要"
+
+msgid "Refresh alarm list contents"
+msgstr "アラームリストの内容を更新する"
+
+msgid "Reload"
+msgstr "再読み込み"
+
+msgid "Show cleared alarms"
+msgstr "クリアされたアラームを表示"

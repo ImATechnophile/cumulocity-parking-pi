@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "(file size up to {{maxFileSizeKB}} KB)"
+msgstr "(ファイルサイズは最大 {{maxFileSizeKB}} KBまで可能)"
+
+msgid "Display a single image selected from the user's computer."
+msgstr "ユーザのコンピュータから選択した画像を表示"
+
+msgid "Image"
+msgstr "イメージ"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Selected file has invalid extension!"
+msgstr "選択したファイルの拡張子が無効です"
+
+msgid "Selected file is too large!"
+msgstr "選択したファイルサイズが大きすぎます"

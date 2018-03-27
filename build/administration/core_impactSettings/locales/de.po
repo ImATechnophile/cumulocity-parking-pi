@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Base URL"
+msgstr "Basis-URL"
+
+msgid "Confirm delete?"
+msgstr "Löschen bestätigen?"
+
+msgid "Connectivity"
+msgstr "Connectivity"
+
+msgid "Credentials"
+msgstr "Zugangsdaten"
+
+msgid "Credentials successfully removed!"
+msgstr "Zugangsdaten erfolgreich gelöscht."
+
+msgid "Credentials successfully updated!"
+msgstr "Zugangsdaten erfolgreich aktualisiert."
+
+msgid "Delete credentials"
+msgstr "Zugangsdaten löschen"
+
+msgid "Deleting credentials will break connection to IMPACT instance. Are you sure you want to delete your IMPACT credentials?"
+msgstr "Das Löschen der Zugangsdaten wird die Verbindung zur IMPACT-Instanz abbrechen. Sind Sie sicher, dass Sie Ihre IMPACT-Zugangsdaten löschen wollen?"
+
+msgid "IMPACT group name prefix"
+msgstr "MPACT Gruppennamenpräfix"
+
+msgid "IMPACT provider settings"
+msgstr "IMPACT Anbietereinstellungen"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Save credentials"
+msgstr "Zugangsdaten speichern"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "User"
+msgstr "Benutzer"

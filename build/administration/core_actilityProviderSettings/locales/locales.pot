@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_actilityProviderSettings/actilitySettings.html:29
+msgid "Application EUI"
+msgstr ""
+
+#: core_actilityProviderSettings/actilityProviderSettings.module.js:16
+msgid "Connectivity"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:5
+msgid ""
+"Credentials have already been provided.<br>\n"
+"          Click \"Replace credentials\" below to overwrite them."
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.component.js:38
+msgid "Credentials successfully saved"
+msgstr ""
+
+#: core_actilityProviderSettings/actilityProviderSettings.module.js:29
+msgid "LoRa provider settings"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:24
+msgid "Password"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:14
+msgid "Profile ID"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:36
+msgid "Replace credentials"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:39
+msgid "Save credentials"
+msgstr ""
+
+#: core_actilityProviderSettings/actilityProviderSettings.module.js:19
+msgid "Settings"
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:9
+msgid "There are no credentials provided yet. Please provide some."
+msgstr ""
+
+#: core_actilityProviderSettings/actilitySettings.html:19
+msgid "Username"
+msgstr ""

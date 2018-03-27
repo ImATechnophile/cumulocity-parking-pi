@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_deviceListMap/controllers/deviceListMap.js:9
+msgid "Device map"
+msgstr ""
+
+#: devicemanagement_deviceListMap/index.js:13
+msgid "Devices"
+msgstr ""
+
+#: devicemanagement_deviceListMap/index.js:14
+msgid "Map"
+msgstr ""
+
+#: devicemanagement_deviceListMap/controllers/deviceListMap.js:10
+msgid "{{qty}} markers"
+msgstr ""

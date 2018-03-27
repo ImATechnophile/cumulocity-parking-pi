@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Add configuration"
+msgstr "Ajouter une configuration"
+
+msgid "At least one configuration needs to be added."
+msgstr "Au moins une configuration doit être ajoutée."
+
+msgid "Data point name"
+msgstr "Nom de point de données"
+
+msgid "Data point status"
+msgstr "Statut de point de données"
+
+msgid "Delete configuration"
+msgstr "Supprimer la configuration"
+
+msgid "Displays in realtime the status of any binary data point."
+msgstr "Affiche en temps réel le statut de n’importe quel point de données binaires."
+
+msgid "Inactive"
+msgstr "Inactif"
+
+msgid "Label for active"
+msgstr "Étiquette pour actif"
+
+msgid "Label for inactive"
+msgstr "Étiquette pour inactifs"
+
+msgid "Managed object property"
+msgstr "Propriété de l’objet géré"
+
+msgid "Save configuration"
+msgstr "Enregistrer la configuration"
+
+msgid "Switch"
+msgstr "Interrupteur"
+
+msgid "Update configuration"
+msgstr "Actualisation la configuration"
+
+msgid "Value for active"
+msgstr "Valeur pour actif"
+
+msgid "Value for inactive"
+msgstr "Valeur pour inactif"

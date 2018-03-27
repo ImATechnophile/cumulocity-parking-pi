@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active Alarm Status"
+msgstr "Statut de l'alarme active"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add / edit icon map"
+msgstr "Ajouter / Modifiez la carte d’icône"
+
+msgid "Add condition"
+msgstr "Ajouter une condition"
+
+msgid "Add custom column"
+msgstr "Ajouter une colonne personnalisée"
+
+msgid "Add device shell operation button"
+msgstr "Ajouter le bouton d'opération du terminal d’appareil"
+
+msgid "Add icon map"
+msgstr "Ajouter une carte d’icône"
+
+msgid "Add map"
+msgstr "Ajouter une carte"
+
+msgid "Add operation"
+msgstr "Ajouter une opération"
+
+msgid "Alarm status"
+msgstr "Statut d’alarme"
+
+msgid "Alarms (3 mo.)"
+msgstr "Alarmes (3 mois)"
+
+msgid "Alarms (today)"
+msgstr "Alarmes (aujourd'hui)"
+
+msgid "Asset table"
+msgstr "Table de l’actif"
+
+msgid "Availability status"
+msgstr "Statut de disponibilité"
+
+msgid "Button configuration"
+msgstr "Configuration du bouton"
+
+msgid "Button label"
+msgstr "Etiquette du bouton"
+
+msgid "Button to execute an operation on a device"
+msgstr "Bouton pour exécuter une opération sur un appareil"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Chosen operation"
+msgstr "Opération choisie"
+
+msgid "Click here to edit"
+msgstr "Cliquez ici pour modifier"
+
+msgid "Click to hide command editor"
+msgstr "Cliquez ici pour masquer l’éditeur de commande"
+
+msgid "Click to view command editor"
+msgstr "Cliquez ici pour voir l’éditeur de commande"
+
+msgid "Color"
+msgstr "Couleur"
+
+msgid "Comparison"
+msgstr "Comparaison"
+
+msgid "Configure Column: {{col}}"
+msgstr "Configurer la colonne : {{col}}"
+
+msgid "Create operation"
+msgstr "Créer une nouvelle opération"
+
+msgid "Custom columns"
+msgstr "Colonnes personnalisées"
+
+msgid "Delete item"
+msgstr "Supprimer l’objet"
+
+msgid "Device"
+msgstr "Appareil"
+
+msgid "Device shell operation label button"
+msgstr "Bouton de label des opérations liées au terminal de l'appareil"
+
+msgid "Device shell operations"
+msgstr "Opérations liées au terminal de l’appareil"
+
+msgid "Equal"
+msgstr "Égal"
+
+msgid "Events (3 mo.)"
+msgstr "Événements (3 mois)"
+
+msgid "Events (today)"
+msgstr "Événements (aujourd'hui)"
+
+msgid "Fragment"
+msgstr "Fragment"
+
+msgid "Go to location"
+msgstr "Rendez-vous à l’emplacement"
+
+msgid "Greater than"
+msgstr "Supérieur à"
+
+msgid "Greater than or equal"
+msgstr "Supérieure ou égale à"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Icon configuration"
+msgstr "Configuration de l’icône"
+
+msgid "Icon map"
+msgstr "Icône de la carte"
+
+msgid "Label"
+msgstr "Étiquette"
+
+msgid "Last communication"
+msgstr "Dernière communication"
+
+msgid "Last valid message"
+msgstr "Dernier message valide"
+
+msgid "Less than"
+msgstr "Inférieure à"
+
+msgid "Less than or equal"
+msgstr "Inférieure ou égale à"
+
+msgid "List of child devices of an asset with configurable columns."
+msgstr "Liste des appareils d’enfant d’un actif avec des colonnes configurables."
+
+msgid "Location"
+msgstr "Lieu"
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No items to display."
+msgstr "Aucun élément à afficher."
+
+msgid "No location available"
+msgstr "Aucune localisation disponible"
+
+msgid "No operation chosen"
+msgstr "Aucune opération choisie"
+
+msgid "Not equal"
+msgstr "Pas égal"
+
+msgid "Note: Sorting might not work properly until all rows are loaded"
+msgstr "Remarque: le tri peut ne pas fonctionner correctement jusqu'à ce que toutes les lignes soient chargées"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Operation"
+msgstr "Opération"
+
+msgid "Operation Button"
+msgstr "Bouton d'opération"
+
+msgid "Operation completed successfully."
+msgstr "Opération exécutée avec succès."
+
+msgid "Operation created successfully."
+msgstr "Opération créé avec succès."
+
+msgid "Operation description"
+msgstr "Description de l'opération"
+
+msgid "Operation executed successfully."
+msgstr "L'opération a été exécutée avec succès."
+
+msgid "Operation failed."
+msgstr "Opération a échoué."
+
+msgid "Operation {{description | translate}} completed successfully."
+msgstr "L'opération {{description | translate}} a été effectuée avec succès."
+
+msgid "Operation {{description | translate}} failed!"
+msgstr "L'opération {{description | translate}} a échoué!"
+
+msgid "Operation {{desc}} has been created!"
+msgstr "L'opération {{desc}} a été créée!"
+
+msgid "Pending&hellip;"
+msgstr "En attente&hellip;"
+
+msgid "Property"
+msgstr "Propriété"
+
+msgid "Run"
+msgstr "Exécuter"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Select or search comparison"
+msgstr "Sélectionner ou chercher une comparaison"
+
+msgid "Select or search icon"
+msgstr "Sélectionner ou chercher l'icône"
+
+msgid "Select or search operation"
+msgstr "Sélectionner ou chercher une opération"
+
+msgid "Select schema properties"
+msgstr "Sélectionner les propriétés du schéma"
+
+msgid "Shows a different value for each configured value."
+msgstr "Montre une valeur différente pour chaque valeur configurée."
+
+msgid "Shows the active alarms for device"
+msgstr "Montre les alarmes actives pour l’appareil"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "To see the result click <a href=\"#/device/{{deviceId}}/control\">here</a>"
+msgstr "Pour voir le résultat, cliquez <a href=\"#/device/{{deviceId}}/control\">ici</a>"
+
+msgid "Toggle maintenance mode"
+msgstr "Basculer le mode de maintenance"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Use this operation"
+msgstr "Utiliser cette opération"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "You must add a target asset or device."
+msgstr "Vous devez ajouter des actifs ou des appareils cibles."
+
+msgid "You must select at least one property."
+msgstr "Vous devez sélectionner au moins une propriété."

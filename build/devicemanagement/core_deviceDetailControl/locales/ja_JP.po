@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Array of Relays"
+msgstr "リレーのアレイ"
+
+msgid "Control"
+msgstr "制御"
+
+msgid "Created operation: \"{{opDescription | translate}}\"!"
+msgstr "操作: \"{{opDescription | translate}}\" を作成しました"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "On"
+msgstr "オン"
+
+msgid "Relay"
+msgstr "リレー"
+
+msgid "Restart"
+msgstr "再起動"
+
+msgid "Restart device"
+msgstr "デバイスを再起動"
+
+msgid "Send"
+msgstr "送信先"
+
+msgid "Send an operation to restart the device. The process of restart can be monitored under the operations of the device."
+msgstr "デバイスを再起動する操作を送信します。 再起動のプロセスは、デバイスの操作の下で監視することができます"
+
+msgid "Send an operation to show a particular message to the device. The device behavior is device dependent."
+msgstr "デバイスに特定のメッセージを表示する操作を送信します。 デバイスの動作はデバイスによって異なります"
+
+msgid "Send an operation to start or stop device internal tracing. Result of tracing is device dependent, it can generate more events or generate a file inside the device."
+msgstr "デバイス内部のトレースを開始または停止する操作を送信します。 トレースの結果はデバイスに依存するため、デバイス内でより多くのイベントを生成したり、ファイルを生成したりすることができます"
+
+msgid "Send an operation to switch a relay on or off."
+msgstr "リレーをオンまたはオフに切り替える操作を送信"
+
+msgid "Send an operation to switch an array of relays on or off."
+msgstr "リレーのアレイをオンまたはオフに切り替える操作を送信します"
+
+msgid "Send message"
+msgstr "メッセージを送信"
+
+msgid "Send message \"{{msg}}\""
+msgstr "メッセージ \"{{msg}}\" を送信"
+
+msgid "Trace status"
+msgstr "トレースステータス"
+
+msgid "Trace status to {{traceState}}"
+msgstr "{{traceState}}のトレースステータス"
+
+msgid "Update relay status to {{relayStatus}}"
+msgstr "リレーステータスを {{relayStatus}} に更新"

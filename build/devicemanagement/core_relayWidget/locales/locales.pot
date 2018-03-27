@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_relayWidget/views/widget.html:4
+msgid "OFF"
+msgstr ""
+
+#: core_relayWidget/views/widget.html:3
+msgid "ON"
+msgstr ""
+
+#: core_relayWidget/relay.controller.js:15
+msgid "Operation created"
+msgstr ""
+
+#: core_relayWidget/views/config.html:2
+msgid "Relay ID"
+msgstr ""
+
+#: core_relayWidget/index.js:10
+msgid "Widget for switching relay"
+msgstr ""

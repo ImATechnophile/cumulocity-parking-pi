@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_password/views/index.html:36
+msgid "Enforce that all passwords are \"strong\" (green)"
+msgstr ""
+
+#: administration_password/views/index.html:12
+msgid "Limit validity for"
+msgstr ""
+
+#: administration_password/controllers/password.js:16
+#: administration_password/index.js:8
+msgid "Password"
+msgstr ""
+
+#: administration_password/views/index.html:5
+msgid "Password expiration"
+msgstr ""
+
+#: administration_password/controllers/password.js:75
+msgid "Password settings updated successfully!"
+msgstr ""
+
+#: administration_password/views/index.html:41
+msgid "Save"
+msgstr ""
+
+#: administration_password/index.js:7
+msgid "Settings"
+msgstr ""
+
+#: administration_password/views/index.html:22
+msgid "days"
+msgstr ""
+
+#: administration_password/views/index.html:24
+msgid "default 0 = unlimited validity"
+msgstr ""

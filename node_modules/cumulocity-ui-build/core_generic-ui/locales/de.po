@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "1 operation executing"
+msgid_plural "{{$count}} operations executing"
+msgstr[0] "1 Kommando wird ausgeführt"
+msgstr[1] "{{$count}} Kommandos werden ausgeführt"
+
+msgid "1 operation failed"
+msgid_plural "{{$count}} operations failed"
+msgstr[0] "1 Kommando ist fehlgeschlagen"
+msgstr[1] "{{$count}} Kommandos sind fehlgeschlagen"
+
+msgid "1 operation pending"
+msgid_plural "{{$count}} operations pending"
+msgstr[0] "1 Kommando ist ausstehend"
+msgstr[1] "{{$count}} Kommandos sind ausstehend"
+
+msgid "1 operation successful"
+msgid_plural "{{$count}} operations successful"
+msgstr[0] "1 Kommando war erfolgreich"
+msgstr[1] "{{$count}} Kommandos waren erfolgreich"
+
+msgid "Execute"
+msgstr "Ausführen"
+
+msgid "Input value"
+msgstr "Eingabewert"
+
+msgid "No recent operations"
+msgstr "Keine kürzlich erfolgten Kommandos"
+
+msgid "Object successfully updated."
+msgstr "Objekt erfolgreich aktualisiert."
+
+msgid "Objects"
+msgstr "Objekte"
+
+msgid "Operation \"{{description}}\" completed successfully."
+msgstr "Kommando \"{{description}}\" erfolgreich ausgeführt."
+
+msgid "Operation \"{{description}}\" completed with failure."
+msgstr "Kommando \"{{description}}\" ausgeführt, aber ein Fehler ist aufgetreten."
+
+msgid "Operation \"{{description}}\" completed with failure: \"{{failureReason}}\"."
+msgstr "Kommando \"{{description}}\" ausgeführt, aber folgender Fehler ist aufgetreten: \"{{failureReason}}\"."
+
+msgid "Operation created successfully."
+msgstr "Kommando erfolgreich erstellt."
+
+msgid "Recent operations"
+msgstr "Kürzlich erfolgte Kommandos"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "View history"
+msgstr "Historie ansehen"

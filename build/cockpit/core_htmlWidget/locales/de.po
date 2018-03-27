@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Allow insecure use of elements and attributes"
+msgstr "Nicht sichere Verwendung von Elementen und Attributen zulassen"
+
+msgid "Display custom HTML code"
+msgstr "Standard-HTML-Code anzeigen"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML code"
+msgstr "HTML-Code"
+
+msgid "Toggle help text"
+msgstr "Parameterübersicht einblenden"
+
+msgid "You can use the following variables in your HTML code:"
+msgstr "Die folgenden Parameter können im HTML-Code verwendet werden:"
+
+msgid "children of current device or group, you can access their properties e.g."
+msgstr "Kinder des ausgewählten Geräts/Gruppe. Beispiel für Attributzugriff:"
+
+msgid "current device or group, you can access its properties e.g."
+msgstr "Ausgewähltes Gerät/Gruppe. Beispiel für Attributzugriff:"
+
+msgid "number of device groups"
+msgstr "Anzahl Gruppen"
+
+msgid "number of devices"
+msgstr "Anzahl Geräte"
+
+msgid "number of devices with critical alarm status"
+msgstr "Anzahl der Geräte mit kritischen Alarmen"
+
+msgid "number of online devices"
+msgstr "Anzahl aktuell verbundener Geräte"
+
+msgid "number of users"
+msgstr "Anzahl Benutzer"

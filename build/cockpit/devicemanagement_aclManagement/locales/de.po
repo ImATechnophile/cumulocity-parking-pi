@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Add permission"
+msgstr "Berechtigung hinzufügen"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Check user permission"
+msgstr "Benutzerrechte überprüfen"
+
+msgid "Check user permissions section allows you to verify permissions granted to selected user for the device also inherited from parent devices or assinged to user group. Granted permission section allows you to check and manage permissions for the device."
+msgstr "Im Abschnitt “Benutzerrechte überprüfen” können Sie die Berechtigungen des Benutzers einschliesslich geerbter Rechte überprüfen. Im Abschnitt “Zugewiesene Rechte” können die unmittelbar dem Gerät zugeordneten Rechte verwaltet werden."
+
+msgid "GROUP"
+msgstr "GRUPPE"
+
+msgid "Granted permission"
+msgstr "Erteilte Berechtigung"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Has right to"
+msgstr "Besitzt die Berechtigung"
+
+msgid "New permission"
+msgstr "Neue Berechtigung"
+
+msgid "No permissions for user."
+msgstr "Keine Berechtigungen für diesen Benutzer eingetragen."
+
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+msgid "Permissions successfully updated"
+msgstr "Berechtigungen aktualisiert."
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Read and write"
+msgstr "Lesen und Schreiben"
+
+msgid "Remove permission"
+msgstr "Berechtigung entfernen"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Select or search"
+msgstr "Auswählen/Suchen"
+
+msgid "Select or search user"
+msgstr "Benutzer auswählen oder suchen"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "Diese Funktion ist veraltet. Obwohl sie noch voll funktionsfähig ist sollten Sie die neuen <a href=\"/apps/administration#roles\">Rollen</a> verwenden, um Berechtigungen zu verwalten."
+
+msgid "USER"
+msgstr "BENUTZER"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "Write"
+msgstr "Schreiben"
+
+msgid "all types of objects"
+msgstr "alle Arten von Daten"
+
+msgid "any"
+msgstr "beliebig"
+
+msgid "fragment"
+msgstr "Fragment"
+
+msgid "with"
+msgstr "mit"

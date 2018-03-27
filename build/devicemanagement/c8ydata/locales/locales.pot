@@ -1,0 +1,1558 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: c8ydata/properties/managed-objects.json:65
+msgid "APN"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:7
+msgid "Active alarms status"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:12
+msgid "Address"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:52
+msgid "Address range"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:100
+#: c8ydata/devicecommands/POSIX Agent.json:102
+#: c8ydata/devicecommands/POSIX Agent.json:104
+#: c8ydata/devicecommands/POSIX Agent.json:106
+#: c8ydata/devicecommands/POSIX Agent.json:108
+#: c8ydata/devicecommands/POSIX Agent.json:110
+#: c8ydata/devicecommands/POSIX Agent.json:112
+#: c8ydata/devicecommands/POSIX Agent.json:114
+#: c8ydata/devicecommands/POSIX Agent.json:116
+#: c8ydata/devicecommands/POSIX Agent.json:118
+#: c8ydata/devicecommands/POSIX Agent.json:120
+#: c8ydata/devicecommands/POSIX Agent.json:122
+#: c8ydata/devicecommands/POSIX Agent.json:124
+#: c8ydata/devicecommands/POSIX Agent.json:126
+#: c8ydata/devicecommands/POSIX Agent.json:128
+#: c8ydata/devicecommands/POSIX Agent.json:130
+#: c8ydata/devicecommands/POSIX Agent.json:132
+#: c8ydata/devicecommands/POSIX Agent.json:138
+#: c8ydata/devicecommands/POSIX Agent.json:140
+#: c8ydata/devicecommands/POSIX Agent.json:142
+#: c8ydata/devicecommands/POSIX Agent.json:144
+#: c8ydata/devicecommands/POSIX Agent.json:146
+#: c8ydata/devicecommands/POSIX Agent.json:148
+#: c8ydata/devicecommands/POSIX Agent.json:154
+#: c8ydata/devicecommands/POSIX Agent.json:156
+#: c8ydata/devicecommands/POSIX Agent.json:158
+#: c8ydata/devicecommands/POSIX Agent.json:160
+#: c8ydata/devicecommands/POSIX Agent.json:92
+#: c8ydata/devicecommands/POSIX Agent.json:94
+#: c8ydata/devicecommands/POSIX Agent.json:96
+#: c8ydata/devicecommands/POSIX Agent.json:98
+msgid "Agent config"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:20
+#: c8ydata/devicecommands/POSIX Agent.json:22
+msgid "Alarm"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:85
+msgid "Alarm count 3 months"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:83
+msgid "Alarm count today"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:84
+#: c8ydata/properties/managed-objects.json:86
+msgid "Alarm type"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:1
+msgid "Alarms"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:76
+msgid "Altitude"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:66
+msgid "Auth type"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:19
+msgid "Availability"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:36
+msgid "Cell ID"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:34
+#: c8ydata/devicecommands/POSIX Agent.json:36
+#: c8ydata/devicecommands/POSIX Agent.json:38
+#: c8ydata/devicecommands/POSIX Agent.json:40
+msgid "Cellular WAN"
+msgstr ""
+
+#: c8ydata/devicecommands/ED1608 General Sensor.json:1
+msgid "Change parameter"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:161
+msgid "Check Fresenius TDMS server IP"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:165
+msgid "Check Fresenius TDMS server port"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:153
+msgid "Check MQTT enablement"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:157
+msgid "Check MQTT keepalive interval"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:149
+msgid "Check if TCS:BUS plugin enabled"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:14
+msgid "City"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:15
+msgid "City code"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:53
+msgid "Clear All Logfiles"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:55
+msgid "Clear System Logfiles"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:145
+msgid "Clear device credentials"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:24
+msgid "Communication mode"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:10
+#: c8ydata/devicecommands/J2ME-Agent.json:8
+msgid "Config"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:171
+msgid "Config Eifeler Vacotec server port"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:163
+msgid "Config Fresenius TDMS server IP"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:167
+msgid "Config Fresenius TDMS server port"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:159
+msgid "Config MQTT keepalive interval [in seconds]"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:95
+msgid "Configuration snapshot"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:21
+msgid "Configure debouncing alarm text"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:19
+msgid "Configure debouncing interval for GPIO <N> [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:23
+msgid "Configure interval for status report in SMS mode [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:26
+#: c8ydata/properties/managed-objects.json:22
+msgid "Connection"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:37
+msgid "Connection type"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:18
+msgid "Country"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:3
+#: c8ydata/properties/events.json:3
+#: c8ydata/properties/managed-objects.json:72
+msgid "Creation time"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:8
+msgid "Critical"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:39
+msgid "Current band"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:38
+msgid "Current operator"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:2
+msgid "Custom properties"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:25
+msgid "Cycle data connection status"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:51
+msgid "DHCP"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:58
+#: c8ydata/devicecommands/POSIX Agent.json:60
+msgid "DHCP Server"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:55
+msgid "DNS 1"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:56
+msgid "DNS 2"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:38
+#: c8ydata/devicecommands/c8y_TixiAgent.json:40
+#: c8ydata/devicecommands/c8y_TixiAgent.json:42
+#: c8ydata/devicecommands/c8y_TixiAgent.json:44
+#: c8ydata/devicecommands/c8y_TixiAgent.json:46
+#: c8ydata/devicecommands/c8y_TixiAgent.json:48
+#: c8ydata/devicecommands/c8y_TixiAgent.json:50
+#: c8ydata/devicecommands/c8y_TixiAgent.json:52
+#: c8ydata/devicecommands/c8y_TixiAgent.json:54
+#: c8ydata/devicecommands/c8y_TixiAgent.json:56
+msgid "Data logging"
+msgstr ""
+
+#: c8ydata/devicecommands/default_AT.json:1
+msgid "Default AT Commands"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:25
+msgid "Delete Active Jobs"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:10
+#: c8ydata/devicecommands/POSIX Agent.json:28
+#: c8ydata/devicecommands/POSIX Agent.json:30
+#: c8ydata/devicecommands/POSIX Agent.json:32
+#: c8ydata/devicecommands/POSIX Agent.json:8
+#: c8ydata/devicecommands/Smartbox.json:10
+#: c8ydata/devicecommands/Smartbox.json:12
+#: c8ydata/devicecommands/Smartbox.json:14
+#: c8ydata/devicecommands/Smartbox.json:18
+#: c8ydata/devicecommands/Smartbox.json:20
+#: c8ydata/devicecommands/Smartbox.json:28
+msgid "Device"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:14
+#: c8ydata/devicecommands/c8y_TixiAgent.json:16
+#: c8ydata/devicecommands/c8y_TixiAgent.json:18
+#: c8ydata/devicecommands/c8y_TixiAgent.json:20
+#: c8ydata/devicecommands/c8y_TixiAgent.json:22
+#: c8ydata/devicecommands/c8y_TixiAgent.json:24
+#: c8ydata/devicecommands/c8y_TixiAgent.json:26
+#: c8ydata/devicecommands/c8y_TixiAgent.json:28
+#: c8ydata/devicecommands/c8y_TixiAgent.json:30
+#: c8ydata/devicecommands/c8y_TixiAgent.json:32
+#: c8ydata/devicecommands/c8y_TixiAgent.json:34
+#: c8ydata/devicecommands/c8y_TixiAgent.json:36
+msgid "Device Control"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:10
+#: c8ydata/devicecommands/c8y_TixiAgent.json:12
+#: c8ydata/devicecommands/c8y_TixiAgent.json:2
+#: c8ydata/devicecommands/c8y_TixiAgent.json:4
+#: c8ydata/devicecommands/c8y_TixiAgent.json:6
+#: c8ydata/devicecommands/c8y_TixiAgent.json:8
+msgid "Device Info"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:2
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:4
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:6
+#: c8ydata/devicecommands/Adeunis LoRaWan Sensor.json:2
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:12
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:14
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:12
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:14
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:12
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:14
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:16
+#: c8ydata/devicecommands/ED1608 General Sensor.json:2
+msgid "Device config"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:2
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:4
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:6
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:8
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:2
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:4
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:6
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:8
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:2
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:4
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:6
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:8
+#: c8ydata/devicecommands/J2ME-Agent.json:2
+#: c8ydata/devicecommands/J2ME-Agent.json:4
+#: c8ydata/devicecommands/J2ME-Agent.json:6
+msgid "Device info"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:11
+#: c8ydata/properties/events.json:8
+#: c8ydata/properties/measurements.json:6
+msgid "Device name"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:1
+#: c8ydata/devicecommands/Adeunis LoRaWan Sensor.json:1
+msgid "Device setting"
+msgstr ""
+
+#: c8ydata/devicecommands/default_AT.json:1
+#: c8ydata/devicecommands/default_AT.json:2
+msgid "Display selected roaming network"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:40
+msgid "ECN0"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:155
+msgid "Enable/disable MQTT communication"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:151
+msgid "Enable/disable TCS:BUS plugin"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:57
+#: c8ydata/properties/managed-objects.json:59
+msgid "Enabled"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:54
+msgid "End"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:7
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:7
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:7
+msgid "Enquire battery level info"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:5
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:5
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:5
+msgid "Enquire device release info"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:1
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:1
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:1
+msgid "Enquire presentation info"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:3
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:3
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:3
+msgid "Enquire serial number"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:81
+msgid "Event (no Parameter)"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:79
+msgid "Event (with Parameter)"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:89
+msgid "Event count 3 months"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:87
+msgid "Event count today"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:88
+#: c8ydata/properties/managed-objects.json:90
+msgid "Event type"
+msgstr ""
+
+#: c8ydata/properties/events.json:1
+msgid "Events"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:5
+msgid "Execute command template"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:3
+msgid "External reference"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:19
+msgid "Factory Reset"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:29
+msgid "Factory reset"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:26
+msgid "Firmware"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:16
+#: c8ydata/devicecommands/POSIX Agent.json:18
+#: c8ydata/devicecommands/POSIX Agent.json:66
+#: c8ydata/devicecommands/POSIX Agent.json:68
+#: c8ydata/devicecommands/Smartbox.json:16
+#: c8ydata/devicecommands/Smartbox.json:26
+msgid "GPIO"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:70
+#: c8ydata/devicecommands/POSIX Agent.json:72
+#: c8ydata/devicecommands/POSIX Agent.json:74
+#: c8ydata/devicecommands/POSIX Agent.json:76
+#: c8ydata/devicecommands/POSIX Agent.json:78
+#: c8ydata/devicecommands/POSIX Agent.json:80
+#: c8ydata/devicecommands/POSIX Agent.json:82
+#: c8ydata/devicecommands/POSIX Agent.json:84
+#: c8ydata/devicecommands/POSIX Agent.json:86
+#: c8ydata/devicecommands/POSIX Agent.json:88
+#: c8ydata/devicecommands/POSIX Agent.json:90
+msgid "GPIO Pin"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:62
+#: c8ydata/devicecommands/POSIX Agent.json:64
+msgid "GPS"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:1
+msgid "Get Cinterion information"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:59
+msgid "Get Config"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:57
+msgid "Get DHCP lease time [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:9
+msgid "Get Device Serial Number"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:67
+msgid "Get EVENTS Database"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:15
+msgid "Get GPIO notify mode"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:25
+msgid "Get GPIO status"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:61
+msgid "Get GPS enable"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:71
+msgid "Get I/O pin analogue input [volts]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:73
+msgid "Get I/O pin analogue raw voltage [volts]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:69
+msgid "Get I/O pin capability"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:83
+msgid "Get I/O pin digital input"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:85
+msgid "Get I/O pin digital input threshold"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:87
+msgid "Get I/O pin hardware gain"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:79
+msgid "Get I/O pin mode"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:75
+msgid "Get I/O pin scale"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:21
+msgid "Get IMSI"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:65
+msgid "Get ISP Database"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:75
+msgid "Get LOG Database"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:53
+msgid "Get MTU"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:49
+msgid "Get Metric"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:77
+msgid "Get PARAM Database"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:71
+msgid "Get PROCCFG Database"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:73
+msgid "Get SCHEDULE Database"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:23
+msgid "Get SIM status"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:69
+msgid "Get TEMPLATE Database"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:15
+msgid "Get Time"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:63
+msgid "Get USER Database"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:15
+msgid "Get actual ADC in mV"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:17
+msgid "Get actual date and time of RTC"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:125
+msgid "Get agent GPIO interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:129
+msgid "Get agent GPS interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:93
+msgid "Get agent connection server"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:105
+msgid "Get agent connection timeout [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:97
+msgid "Get agent enable"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:101
+msgid "Get agent log level"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:117
+msgid "Get agent modbus port"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:113
+msgid "Get agent network timeout [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:109
+msgid "Get agent reconnect interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:121
+msgid "Get agent signal strength measurement interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:91
+msgid "Get agent status"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:27
+msgid "Get all module events"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:1
+msgid "Get command template"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:11
+msgid "Get current receiver number"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:3
+msgid "Get detailed Cinterion information"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:9
+msgid "Get device chipset"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:147
+msgid "Get device user"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:7
+msgid "Get firmware and hardware version"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:11
+msgid "Get installed firmware"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:13
+msgid "Get internal temperature of chip"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:19
+msgid "Get list of files stored on device"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:137
+msgid "Get network update interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:1
+msgid "Get operator selection info"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:31
+msgid "Get power source and voltage"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:5
+msgid "Get power supply voltage"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:65
+msgid "Get pullup voltage [volts]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:41
+msgid "Get reconnect delay [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:45
+msgid "Get reconnect retries"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:13
+msgid "Get serial baud rate"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:133
+msgid "Get serial port mode"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:7
+msgid "Get signal strength"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:33
+msgid "Get sim pin"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:37
+msgid "Get sim protection"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:11
+msgid "Get supported serial baud rates"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:141
+msgid "Get system resources measurement interval [seconds]"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:31
+msgid "Hardware"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:100
+#: c8ydata/devicecommands/c8y_TixiAgent.json:102
+#: c8ydata/devicecommands/c8y_TixiAgent.json:104
+#: c8ydata/devicecommands/c8y_TixiAgent.json:106
+#: c8ydata/devicecommands/c8y_TixiAgent.json:108
+#: c8ydata/devicecommands/c8y_TixiAgent.json:110
+#: c8ydata/devicecommands/c8y_TixiAgent.json:112
+#: c8ydata/devicecommands/c8y_TixiAgent.json:114
+#: c8ydata/devicecommands/c8y_TixiAgent.json:96
+#: c8ydata/devicecommands/c8y_TixiAgent.json:98
+msgid "I/O and PLC"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:41
+msgid "ICCID"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:2
+#: c8ydata/properties/events.json:2
+#: c8ydata/properties/managed-objects.json:2
+#: c8ydata/properties/measurements.json:2
+msgid "ID"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:42
+msgid "IMEI"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:43
+msgid "IMSI"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:60
+#: c8ydata/properties/managed-objects.json:67
+msgid "IP"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:1
+msgid "J2ME commands"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:44
+msgid "LAC"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:58
+msgid "LAN"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:91
+msgid "Last device message"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:92
+msgid "Last measurement"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:21
+msgid "Last message"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:6
+msgid "Last updated"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:75
+msgid "Latitude"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:5
+msgid "Limit http queue"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:4
+msgid "Limit http requests"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:7
+msgid "Limit stream queue"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:6
+msgid "Limit stream requests"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:27
+msgid "LogIn"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:29
+msgid "LogIn CHAP"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:31
+msgid "LogIn CHAP Response"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:33
+msgid "LogOut"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:74
+msgid "Longitude"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:61
+msgid "MAC"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:45
+msgid "MCC"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:46
+msgid "MNC"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:47
+msgid "MSISDN"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:9
+msgid "Major"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:1
+msgid "Managed object"
+msgstr ""
+
+#: c8ydata/properties/measurements.json:1
+msgid "Measurements"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:10
+msgid "Minor"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:35
+msgid "Mobile"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:134
+#: c8ydata/devicecommands/POSIX Agent.json:136
+msgid "Modbus-RTU config"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:25
+msgid "Mode"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:32
+msgid "Model"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:150
+#: c8ydata/devicecommands/POSIX Agent.json:152
+#: c8ydata/devicecommands/POSIX Agent.json:162
+#: c8ydata/devicecommands/POSIX Agent.json:164
+#: c8ydata/devicecommands/POSIX Agent.json:166
+#: c8ydata/devicecommands/POSIX Agent.json:168
+#: c8ydata/devicecommands/POSIX Agent.json:170
+#: c8ydata/devicecommands/POSIX Agent.json:172
+#: c8ydata/devicecommands/POSIX Agent.json:174
+msgid "Module config"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:27
+msgid "Module version"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:2
+#: c8ydata/devicecommands/M2MinaBox.json:4
+#: c8ydata/devicecommands/srt_360i.json:2
+#: c8ydata/devicecommands/srt_360i.json:4
+msgid "Motion detector"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:1
+msgid "NTC commands"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:28
+#: c8ydata/properties/managed-objects.json:3
+#: c8ydata/properties/managed-objects.json:62
+#: c8ydata/properties/managed-objects.json:80
+msgid "Name"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:63
+msgid "Netmask"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:50
+msgid "Network"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:2
+#: c8ydata/devicecommands/Smartbox.json:4
+#: c8ydata/devicecommands/Smartbox.json:6
+#: c8ydata/devicecommands/Smartbox.json:8
+msgid "Network service"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:71
+msgid "Notes"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:94
+msgid "Number of child assets"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:93
+msgid "Number of child devices"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:5
+msgid "Owner"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:68
+msgid "Password"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:73
+msgid "Position"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:1
+msgid "Predefined Adeunis LoRaWan Pulse"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Sensor.json:1
+msgid "Predefined Adeunis LoRaWan Sensor"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:1
+msgid "Predefined Ascocl CM868LR-CMUS915LR"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:1
+msgid "Predefined Ascocl CM868LRTH-CMUS915LRTH"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:1
+msgid "Predefined Ascolc IR868LR-IRUS915LR"
+msgstr ""
+
+#: c8ydata/devicecommands/ED1608 General Sensor.json:1
+msgid "Predefined ED1608 General Sensor"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:60
+#: c8ydata/devicecommands/c8y_TixiAgent.json:62
+#: c8ydata/devicecommands/c8y_TixiAgent.json:64
+#: c8ydata/devicecommands/c8y_TixiAgent.json:66
+#: c8ydata/devicecommands/c8y_TixiAgent.json:68
+#: c8ydata/devicecommands/c8y_TixiAgent.json:70
+#: c8ydata/devicecommands/c8y_TixiAgent.json:72
+#: c8ydata/devicecommands/c8y_TixiAgent.json:74
+#: c8ydata/devicecommands/c8y_TixiAgent.json:76
+#: c8ydata/devicecommands/c8y_TixiAgent.json:78
+msgid "Project data"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:3
+msgid "Pulse 1 setting"
+msgstr ""
+
+#: c8ydata/devicecommands/Adeunis LoRaWan Pulse.json:5
+msgid "Pulse 2 setting"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:23
+msgid "Query Active Jobs"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:99
+msgid "Query Analog Input Hutline"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:173
+msgid "Query Eifeler Vacotec server port"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:11
+msgid "Query Enabled Servicese"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:5
+msgid "Query Ethernet state"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:9
+msgid "Query Firmware Version"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:169
+msgid "Query Fresenius VPN proxy status"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:3
+msgid "Query GSM state"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:1
+msgid "Query Hardware"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:95
+msgid "Query Inputs Hutline"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:97
+msgid "Query Outputs Hutline"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:107
+msgid "Query ProcessVars"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:105
+msgid "Query Stations Bus"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:7
+msgid "Query WLAN state"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:48
+msgid "RCSP"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:49
+msgid "RSSI"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:39
+msgid "Read Event-Log"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:45
+msgid "Read FailedIncomingCall-Log"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:43
+msgid "Read IncomingMessage-Log"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:41
+msgid "Read Job-Report"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:51
+msgid "Read Log Counter"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:37
+msgid "Read Logfile"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:49
+msgid "Read Login-Log"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:47
+msgid "Read SupportLog"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:5
+msgid "Read current network status"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:27
+msgid "Reboot device"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:17
+msgid "Region"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:58
+msgid "Remote Control"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:10
+msgid "Reoccurrence count"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:10
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:10
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:10
+msgid "Report"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:77
+msgid "Required availability"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:17
+msgid "Reset"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:21
+msgid "Reset Update"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:78
+msgid "Response interval"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:34
+msgid "Revision"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:22
+#: c8ydata/devicecommands/Smartbox.json:24
+msgid "SIM"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:69
+msgid "SIM status"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:12
+#: c8ydata/devicecommands/POSIX Agent.json:14
+#: c8ydata/devicecommands/POSIX Agent.json:24
+msgid "SMS"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:1
+#: c8ydata/devicecommands/srt_360i.json:1
+msgid "SRT 360i Sample Commands"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:113
+msgid "Scan M-Bus"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:93
+msgid "ScanWLAN"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:16
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:18
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:16
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:18
+msgid "Sensor threshold"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:12
+#: c8ydata/devicecommands/J2ME-Agent.json:14
+#: c8ydata/devicecommands/J2ME-Agent.json:16
+msgid "Serial"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:33
+msgid "Serial number"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:3
+msgid "Serve cell information"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:9
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:9
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:9
+msgid "Set ALIVE interval"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:9
+msgid "Set AT command error messaging"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:61
+msgid "Set Config"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:59
+msgid "Set DHCP lease time [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:13
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:13
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:15
+msgid "Set FLAGS"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:17
+msgid "Set GPIO notify mode"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:63
+msgid "Set GPS enable"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:89
+msgid "Set I/O pin hardware gain"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:81
+msgid "Set I/O pin mode"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:77
+msgid "Set I/O pin scale"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:11
+msgid "Set INHIBTIME interval"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:11
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:11
+#: c8ydata/devicecommands/Ascolc IR868LR-IRUS915LR.json:13
+msgid "Set MODE"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:55
+msgid "Set MTU"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:51
+msgid "Set Metric"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:101
+msgid "Set Output Hutline"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:103
+msgid "Set SignalLED"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:87
+msgid "Set TestMode"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:13
+msgid "Set Time"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:109
+msgid "Set Variable Bus"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:111
+msgid "Set Variable PV"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:127
+msgid "Set agent GPIO interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:131
+msgid "Set agent GPS interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:95
+msgid "Set agent connection server"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:107
+msgid "Set agent connection timeout [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:99
+msgid "Set agent enable"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:103
+msgid "Set agent log level"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:119
+msgid "Set agent modbus port"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:115
+msgid "Set agent network timeout [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:111
+msgid "Set agent reconnect interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:123
+msgid "Set agent signal strength measurement interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:3
+msgid "Set command template"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:7
+msgid "Set configuration parameter"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:15
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:15
+msgid "Set humidity threshold"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:139
+msgid "Set network update interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:67
+msgid "Set pullup voltage [volts]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:13
+msgid "Set receiver number for SMS mode"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:43
+msgid "Set reconnect delay [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:47
+msgid "Set reconnect retries"
+msgstr ""
+
+#: c8ydata/devicecommands/J2ME-Agent.json:15
+msgid "Set serial baud rate"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:135
+msgid "Set serial port mode"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:35
+msgid "Set sim pin"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:39
+msgid "Set sim protection"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:143
+msgid "Set system resources measurement interval [seconds]"
+msgstr ""
+
+#: c8ydata/devicecommands/Ascocl CM868LR-CMUS915LR.json:17
+#: c8ydata/devicecommands/Ascocl CM868LRTH-CMUS915LRTH.json:17
+msgid "Set temperature threshold"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:8
+msgid "Severity"
+msgstr ""
+
+#: c8ydata/devicecommands/Smartbox.json:1
+msgid "Smartbox Commands"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:79
+msgid "Software"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:10
+#: c8ydata/devicecommands/M2MinaBox.json:12
+#: c8ydata/devicecommands/srt_360i.json:10
+#: c8ydata/devicecommands/srt_360i.json:12
+msgid "Sound detector"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:9
+#: c8ydata/properties/events.json:7
+#: c8ydata/properties/measurements.json:3
+msgid "Source"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:53
+msgid "Start"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:83
+msgid "Start Process"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:7
+#: c8ydata/properties/managed-objects.json:20
+#: c8ydata/properties/managed-objects.json:23
+msgid "Status"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:85
+msgid "Stop Process"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:13
+msgid "Street"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:3
+#: c8ydata/devicecommands/srt_360i.json:3
+msgid "Switch motion detector off"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:1
+#: c8ydata/devicecommands/srt_360i.json:1
+msgid "Switch motion detector on"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:11
+#: c8ydata/devicecommands/srt_360i.json:11
+msgid "Switch sound detector off"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:9
+#: c8ydata/devicecommands/srt_360i.json:9
+msgid "Switch sound detector on"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:35
+msgid "Switch to ModemMode"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:7
+#: c8ydata/devicecommands/srt_360i.json:7
+msgid "Switch vibration detector off"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:5
+#: c8ydata/devicecommands/srt_360i.json:5
+msgid "Switch vibration detector on"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:2
+#: c8ydata/devicecommands/POSIX Agent.json:4
+#: c8ydata/devicecommands/POSIX Agent.json:6
+msgid "Template"
+msgstr ""
+
+#: c8ydata/properties/tenants.json:1
+msgid "Tenants"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:16
+msgid "Territory"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:89
+msgid "Test Scheduler"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:91
+msgid "Test Sequencer"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:80
+#: c8ydata/devicecommands/c8y_TixiAgent.json:82
+#: c8ydata/devicecommands/c8y_TixiAgent.json:84
+#: c8ydata/devicecommands/c8y_TixiAgent.json:86
+#: c8ydata/devicecommands/c8y_TixiAgent.json:88
+#: c8ydata/devicecommands/c8y_TixiAgent.json:90
+#: c8ydata/devicecommands/c8y_TixiAgent.json:92
+#: c8ydata/devicecommands/c8y_TixiAgent.json:94
+msgid "Testing"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:6
+#: c8ydata/properties/events.json:6
+msgid "Text"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:5
+#: c8ydata/properties/events.json:5
+#: c8ydata/properties/measurements.json:5
+msgid "Time"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:1
+msgid "Tixi Commands"
+msgstr ""
+
+#: c8ydata/devicecommands/c8y_TixiAgent.json:57
+msgid "TransMode"
+msgstr ""
+
+#: c8ydata/properties/alarms.json:4
+#: c8ydata/properties/events.json:4
+#: c8ydata/properties/managed-objects.json:4
+#: c8ydata/properties/measurements.json:4
+msgid "Type"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:30
+#: c8ydata/properties/managed-objects.json:82
+msgid "URL"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:70
+msgid "Username"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:29
+#: c8ydata/properties/managed-objects.json:81
+msgid "Version"
+msgstr ""
+
+#: c8ydata/devicecommands/M2MinaBox.json:6
+#: c8ydata/devicecommands/M2MinaBox.json:8
+#: c8ydata/devicecommands/srt_360i.json:6
+#: c8ydata/devicecommands/srt_360i.json:8
+msgid "Vibration detector"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:64
+msgid "WAN"
+msgstr ""
+
+#: c8ydata/devicecommands/POSIX Agent.json:42
+#: c8ydata/devicecommands/POSIX Agent.json:44
+#: c8ydata/devicecommands/POSIX Agent.json:46
+#: c8ydata/devicecommands/POSIX Agent.json:48
+#: c8ydata/devicecommands/POSIX Agent.json:50
+#: c8ydata/devicecommands/POSIX Agent.json:52
+#: c8ydata/devicecommands/POSIX Agent.json:54
+#: c8ydata/devicecommands/POSIX Agent.json:56
+msgid "WAN Profile"
+msgstr ""
+
+#: c8ydata/properties/managed-objects.json:11
+msgid "Warning"
+msgstr ""

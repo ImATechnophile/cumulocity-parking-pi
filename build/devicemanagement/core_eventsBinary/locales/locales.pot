@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_eventsBinary/components/eventBinaryActions/eventBinaryActions.html:3
+msgid "Download"
+msgstr ""
+
+#: core_eventsBinary/components/eventBinaryActions/eventBinaryActions.html:7
+msgid "Upload"
+msgstr ""

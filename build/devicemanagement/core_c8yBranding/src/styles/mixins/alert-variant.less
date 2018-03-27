@@ -1,0 +1,21 @@
+.alert-variant(@background;
+@border;
+@text-color;
+@alert-icon) {
+  background-color: white; //@background;
+  border-color: @border;
+  color: @text-color;
+  position: relative;
+  padding-left: 70px;
+  &:before {
+    content: @alert-icon;
+    background-color: @border;
+    color: white;
+  }
+  hr {
+    border-top-color: darken(@border, 5%);
+  }
+  .alert-link {
+    color: darken(@text-color, 10%);
+  }
+}

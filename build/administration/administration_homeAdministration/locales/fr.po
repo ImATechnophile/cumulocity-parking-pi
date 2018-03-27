@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add or remove <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "Ajouter ou supprimer <a href=\"#/roles\">roles</a> et configurer leurs permissions."
+
+msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr "Ajouter ou supprimez les utilisateurs et les <a href=\"#/roles\">rôles</a> et configurer leurs permissions."
+
+msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
+msgstr "Ajouter ou supprimer <a href=\"#/users\">utilisateurs</a> et configurer leurs permissions."
+
+msgid "Application settings"
+msgstr "Paramètres d’applications"
+
+msgid "Applications"
+msgstr "Applications"
+
+msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
+msgstr "Modifier les <a href=\"#/applicationsettings\">paramètres de l’application</a>."
+
+msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
+msgstr "Configurez vos <a href=\"#/eventprocessing\">propres règles et mesures de traitement</a>."
+
+msgid "Event processing"
+msgstr "Traitement de l’événement"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Quick links"
+msgstr "Liens rapides"
+
+msgid "Roles"
+msgstr "Rôles"
+
+msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
+msgstr "Se souscrire aux applications et <a href=\"#/applications\">configurez</a> vos propres applications."
+
+msgid "Usage statistics"
+msgstr "Statistiques d’utilisation"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Welcome to Administration"
+msgstr "Bienvenue à l'Administration"
+
+msgid "With this application you can"
+msgstr "Avec cette application, vous pouvez"

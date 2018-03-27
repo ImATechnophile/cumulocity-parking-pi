@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: cockpit_alarmRecent/index.js:12
+msgid "Log of recent alarms from all devices with any severity and status"
+msgstr ""
+
+#: cockpit_alarmRecent/index.js:11
+msgid "Recent alarms"
+msgstr ""

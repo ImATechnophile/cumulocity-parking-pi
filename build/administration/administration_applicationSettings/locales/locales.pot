@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_applicationSettings/controllers/applicationSettings.js:124
+msgid "Access allowed from domain(s): {{value}}!"
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:50
+msgid "Access control"
+msgstr ""
+
+#: administration_applicationSettings/controllers/applicationSettings.js:110
+msgid "Access control has been disabled"
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:56
+msgid "Allowed domain"
+msgstr ""
+
+#: administration_applicationSettings/controllers/applicationSettings.js:131
+#: administration_applicationSettings/index.js:8
+msgid "Application"
+msgstr ""
+
+#: administration_applicationSettings/controllers/applicationSettings.js:77
+msgid "Application \"{{appName | humanizeAppName}}\" is now the default application for the tenant!"
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:58
+msgid "Beware not to lock yourself out of the platform."
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:5
+msgid "Default application"
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:62
+msgid "Save access control"
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:40
+msgid "Save default application"
+msgstr ""
+
+#: administration_applicationSettings/index.js:7
+msgid "Settings"
+msgstr ""
+
+#: administration_applicationSettings/controllers/applicationSettings.js:21
+msgid ""
+"The 'Allowed domain' setting will enable your JavaScript web applications to directly communicate with REST APIs.\n"
+"Set it to \"*\" to allow communication from any host.\n"
+"Set it to \"http://my.host.com, http://myother.host.com\" to allow applications from http://my.host.com and from http://myother.host.com to communicate with the platform.\n"
+"Leave it empty to allow access only from your tenant's domain.\n"
+"See http://enable-cors.org for more information."
+msgstr ""
+
+#: administration_applicationSettings/views/index.html:9
+msgid "The default application applies to all users of the tenant. Please select the default application from the list below and ensure all users have access to this application."
+msgstr ""

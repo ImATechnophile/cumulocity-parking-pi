@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "<small>Multiple</small>"
+msgstr "<small>複数</small>"
+
+msgid "<small>No</small>"
+msgstr "<small>いいえ</small>"
+
+msgid "<small>Single</small>"
+msgstr "<small>単数</small>"
+
+msgid "<small>Yes</small>"
+msgstr "<small>はい</small>"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Commands"
+msgstr "コマンド"
+
+msgid "Continue"
+msgstr "次へ"
+
+msgid "Date created"
+msgstr "日付が作成されました"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Device types"
+msgstr "デバイスタイプ"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Expand"
+msgstr "展開"
+
+msgid "Functionalities"
+msgstr "機能"
+
+msgid "Id"
+msgstr "ID"
+
+msgid "Instance type"
+msgstr "インスタンスタイプ"
+
+msgid "LWM2M"
+msgstr "LWM2M"
+
+msgid "LWM2M post-operations"
+msgstr "LWM2Mポスト処理"
+
+msgid "Last update"
+msgstr "最終更新"
+
+msgid "Mandatory"
+msgstr "必須"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No description available"
+msgstr "説明はありません"
+
+msgid "On the left, you can enter a set of LWM2M shell commands. Each of these commands is sent to every LWM2M device that has successfully registered."
+msgstr "左側には、一連のLWM2Mシェルコマンドを入力できます。 これらの各コマンドは、正常に登録されたすべてのLWM2Mデバイスに送信されます"
+
+msgid "Operations"
+msgstr "操作"
+
+msgid "Parsing the DDF file resulted in an internal error"
+msgstr "DDFファイルの解析中に内部エラーが発生しました"
+
+msgid "Post-operations are successfully saved."
+msgstr "ポスト処理は正常に保存されました"
+
+msgid "Processing successful"
+msgstr "処理は成功しました"
+
+msgid "Range"
+msgstr "範囲"
+
+msgid "Resources"
+msgstr "リソース"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Start by uploading a DDF or XML file"
+msgstr "DDFまたはXMLファイルをアップロードして始める"
+
+msgid "The maximum period attribute indicates the maximum time in seconds the LWM2M client MAY wait between two notifications."
+msgstr "属性「最大期間」は、LWM2Mクライアントが2つの通知の間で待機する可能性のある最大時間(秒)を示します"
+
+msgid "The minimum period attribute indicates the minimum time in seconds the LWM2M client MUST wait between two notifications."
+msgstr "属性「最小期間」は、LWM2Mクライアントが2つの通知の間で待機しなければならない最小時間(秒)を示します"
+
+msgid "There was an error processing the post-operations."
+msgstr "ポスト処理の処理中にエラーが発生しました"
+
+msgid "This greater than attribute defines a threshold high value."
+msgstr "この「より大きい」属性はしきい値の高い方の値を定義します"
+
+msgid "This less than attribute defines a threshold low value."
+msgstr "この「より小さい」属性はしきい値の低い方の値を定義します"
+
+msgid "This step attribute defines a minimum change value between two notifications."
+msgstr "この「ステップ」属性は、2つの通知間の最小変更値を定義します"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Units"
+msgstr "単位"

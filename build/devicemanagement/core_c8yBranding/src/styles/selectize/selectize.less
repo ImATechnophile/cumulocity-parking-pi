@@ -1,0 +1,285 @@
+.selectize-border-radius (@radii) {
+  -webkit-border-radius: @radii;
+  -moz-border-radius: @radii;
+  border-radius: @radii;
+}
+
+.selectize-unselectable () {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.selectize-box-shadow (@shadow) {
+  -webkit-box-shadow: @shadow;
+  box-shadow: @shadow;
+}
+
+.selectize-box-sizing (@type: border-box) {
+  -webkit-box-sizing: @type;
+  -moz-box-sizing: @type;
+  box-sizing: @type;
+}
+
+.selectize-vertical-gradient (@color-top, @color-bottom) {
+  background-color: mix(@color-top, @color-bottom, 60%);
+  background-image: -moz-linear-gradient(top, @color-top, @color-bottom); // FF 3.6+
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(@color-top), to(@color-bottom)); // Safari 4+, Chrome 2+
+  background-image: -webkit-linear-gradient(top, @color-top, @color-bottom); // Safari 5.1+, Chrome 10+
+  background-image: -o-linear-gradient(top, @color-top, @color-bottom); // Opera 11.10
+  background-image: linear-gradient(to bottom, @color-top, @color-bottom); // Standard, IE10
+  background-repeat: repeat-x;
+  filter: e(%( "progid:DXImageTransform.Microsoft.gradient(startColorstr='%d', endColorstr='%d', GradientType=0)", argb(@color-top), argb(@color-bottom))); // IE9 and down
+}
+
+.selectize-control {
+  position: relative;
+}
+
+.selectize-dropdown,
+.selectize-input,
+.selectize-input input {
+  color: @selectize-color-text;
+  font-family: @selectize-font-family;
+  font-size: @selectize-font-size;
+  line-height: @selectize-line-height;
+  -webkit-font-smoothing: @selectize-font-smoothing;
+}
+
+.selectize-control.single .selectize-input.input-active,
+.selectize-input {
+  background: @selectize-color-input;
+  cursor: text;
+  display: inline-block;
+}
+
+.selectize-input {
+  border: @selectize-border;
+  border-width: @input-border-width;
+  padding: @selectize-padding-y @selectize-padding-x;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  .selectize-box-sizing(border-box); //.selectize-box-shadow(@selectize-shadow-input);
+  .selectize-border-radius(@selectize-border-radius);
+  .selectize-control.multi &.has-items {
+    @padding-x: @selectize-padding-x;
+    @padding-top: @selectize-padding-y - @selectize-padding-item-y - @selectize-width-item-border;
+    @padding-bottom: @selectize-padding-y - @selectize-padding-item-y - @selectize-margin-item-y - @selectize-width-item-border;
+    padding: @padding-top @padding-x @padding-bottom;
+  }
+  &.full {
+    background-color: @selectize-color-input-full;
+  }
+  &.disabled,
+  &.disabled * {
+    cursor: default !important;
+  }
+  &.focus {
+    .selectize-box-shadow(@selectize-shadow-input-focus);
+    border-color: @input-border-focus;
+    position: relative;
+    z-index: 13;
+    &::after {
+      margin-top: round(-@selectize-arrow-size / 2) !important;
+      right: 15px!important;
+    }
+  }
+  &.dropdown-active {
+    .selectize-border-radius(@selectize-border-radius @selectize-border-radius 0 0);
+  }
+  >* {
+    vertical-align: baseline;
+    display: -moz-inline-stack;
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+  }
+  .selectize-control.multi &>div {
+    cursor: pointer;
+    margin: 0 @selectize-margin-item-x @selectize-margin-item-y 0;
+    padding: @selectize-padding-item-y @selectize-padding-item-x;
+    background: @selectize-color-item;
+    color: @selectize-color-item-text;
+    border: @selectize-width-item-border solid @selectize-color-item-border;
+    &.active {
+      background: @selectize-color-item-active;
+      color: @selectize-color-item-active-text;
+      border: @selectize-width-item-border solid @selectize-color-item-active-border;
+    }
+  }
+  .selectize-control.multi &.disabled>div {
+    &,
+    &.active {
+      color: lighten(desaturate(@selectize-color-item-text, 100%), @selectize-lighten-disabled-item-text);
+      background: lighten(desaturate(@selectize-color-item, 100%), @selectize-lighten-disabled-item);
+      border: @selectize-width-item-border solid lighten(desaturate(@selectize-color-item-border, 100%), @selectize-lighten-disabled-item-border);
+    }
+  }
+  >input {
+    padding: 0 !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    max-width: 100% !important;
+    margin: @selectize-caret-margin !important;
+    text-indent: 0 !important;
+    border: 0 none !important;
+    background: none !important;
+    line-height: inherit !important;
+    -webkit-user-select: auto !important;
+    .selectize-box-shadow(none) !important;
+    &:focus {
+      outline: none !important;
+    }
+  }
+}
+
+.selectize-input::after {
+  content: ' ';
+  display: block;
+  clear: left;
+}
+
+.selectize-input.dropdown-active::before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  background: @selectize-color-dropdown-border-top;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.selectize-dropdown {
+  position: absolute;
+  z-index: 9;
+  border: @selectize-border;
+  background-color: @selectize-color-dropdown;
+  margin: -1px 0 0;
+  .selectize-box-sizing(border-box);
+  .box-shadow(0 20px 15px fade(black, 10%));
+  .selectize-border-radius(0 0 @selectize-border-radius @selectize-border-radius);
+  [data-selectable] {
+    cursor: pointer;
+    overflow: hidden;
+    .highlight {
+      background: @selectize-color-highlight;
+      .selectize-border-radius(1px);
+    }
+  }
+  .optgroup-header,
+  [data-selectable] {
+    padding: @selectize-padding-dropdown-item-y (@selectize-padding-dropdown-item-x);
+  }
+  .optgroup:first-child .optgroup-header {
+    border-top: 0 none;
+  }
+  .optgroup-header {
+    color: @selectize-color-optgroup-text;
+    background: @selectize-color-optgroup;
+    cursor: default;
+  }
+  .active,
+  .ui-select-choices-row:hover {
+    background-color: @selectize-color-dropdown-item-active;
+    color: @selectize-color-dropdown-item-active-text;
+    &.create {
+      color: @selectize-color-dropdown-item-create-active-text;
+    }
+  }
+  .create {
+    color: @selectize-color-dropdown-item-create-text;
+  }
+}
+
+.selectize-dropdown-content {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: @selectize-max-height-dropdown;
+}
+
+.selectize-control.single {
+  .selectize-input.focus {
+    +.selectize-dropdown {
+      top: -7px;
+      padding-top: 42px;
+      left: -7px;
+      right: -7px;
+      width: auto;
+      border: 1px solid fade(black, 5%);
+      border-radius: 3px;
+    }
+  }
+  &.direction-up {
+    .selectize-input.focus {
+      +.selectize-dropdown {
+        padding-top: 0;
+        padding-bottom: 40px;
+        margin-top: -2px;
+      }
+    }
+  }
+}
+
+.selectize-control.single .selectize-input {
+  &,
+  input {
+    cursor: pointer;
+  }
+  &.input-active,
+  &.input-active input {
+    cursor: text;
+  }
+  &:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: @selectize-arrow-offset;
+    margin-top: round( -@selectize-arrow-size / 2);
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: @selectize-arrow-size @selectize-arrow-size 0 @selectize-arrow-size;
+    border-color: transparent;
+    border-top-color: @selectize-arrow-color;
+  }
+  &.dropdown-active:after {
+    margin-top: @selectize-arrow-size * -0.8;
+    border-width: 0 @selectize-arrow-size @selectize-arrow-size @selectize-arrow-size;
+    border-color: transparent;
+    border-bottom-color: @selectize-arrow-color;
+  }
+}
+
+.selectize-control.rtl {
+  &.single .selectize-input:after {
+    left: @selectize-arrow-offset;
+    right: auto;
+  }
+  .selectize-input>input {
+    margin: @selectize-caret-margin-rtl !important;
+  }
+}
+
+.selectize-control .selectize-input.disabled {
+  opacity: @selectize-opacity-disabled;
+  background-color: @selectize-color-disabled;
+}
+
+.form-control.selectize-control {
+  height: auto;
+  padding: 0;
+  background: 0 0;
+  border: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  position: relative;
+}

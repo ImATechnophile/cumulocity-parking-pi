@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Allow two-factor authentication"
+msgstr "二要素認証を許可する"
+
+msgid "Limit token validity for"
+msgstr "トークンの有効期限"
+
+msgid "Limit verification code validity for"
+msgstr "確認コードの有効性を制限する"
+
+msgid "Save TFA settings"
+msgstr "TFA設定を保存"
+
+msgid "TFA Settings"
+msgstr "TFA設定"
+
+msgid "TFA settings updated successfully!"
+msgstr "TFA設定が正常に更新されました"
+
+msgid "You cannot edit TFA settings because they are disabled on the platform level."
+msgstr "TFA設定はプラットフォームレベルで無効になっているため編集できません"
+
+msgid "minutes"
+msgstr "分"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_scada/views/mapping.html:73
+msgid "Assign device property"
+msgstr ""
+
+#: core_scada/views/mapping.html:65
+msgid "Assign fieldbus property"
+msgstr ""
+
+#: core_scada/views/mapping.html:57
+msgid "Clear mapping"
+msgstr ""
+
+#: core_scada/views/mapping.html:14
+msgid "Current value"
+msgstr ""
+
+#: core_scada/index.js:15
+msgid "Display a configurable SVG."
+msgstr ""
+
+#: core_scada/views/componentConfig.html:8
+msgid ""
+"For placeholder to be recognized it needs to be used at least once\n"
+"        in curly braces with no other expression, e.g. <var ng-non-bindable=\"\">{{placeholderName}}</var>.\n"
+"        Then you can use this placeholderName in bindings handled by Angular.\n"
+"        There are also predefined functions available:"
+msgstr ""
+
+#: core_scada/svg.directive.js:64
+msgid "Invalid SVG"
+msgstr ""
+
+#: core_scada/views/mapping.html:11
+msgid "Mapped to"
+msgstr ""
+
+#: core_scada/views/mapping.html:5
+msgid "Placeholder"
+msgstr ""
+
+#: core_scada/views/componentConfig.html:39
+msgid "Preview"
+msgstr ""
+
+#: core_scada/views/componentConfig.html:3
+msgid "SVG"
+msgstr ""
+
+#: core_scada/views/mapping.html:8
+msgid "Target"
+msgstr ""
+
+#: core_scada/views/componentConfig.html:4
+msgid "Toggle help text"
+msgstr ""
+
+#: core_scada/views/componentConfig.html:52
+msgid "You need to choose a device and fill all mappings to be able to preview an SVG."
+msgstr ""
+
+#: core_scada/views/componentConfig.html:27
+msgid "takes alarms status object and returns a CSS class that can be used for styling: none, warning, minor, major, critical, e.g."
+msgstr ""
+
+#: core_scada/views/componentConfig.html:22
+msgid "takes device's id and redirects user to device details view, e.g."
+msgstr ""
+
+#: core_scada/views/componentConfig.html:17
+msgid "takes group's id and redirects user to group details view, e.g."
+msgstr ""

@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Asset properties"
+msgstr "アセットプロパティ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Changes saved!"
+msgstr "変更は保存されました"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Editable form for asset properties."
+msgstr "アセットプロパティを編集できるフォーム"
+
+msgid "Save"
+msgstr "保存"

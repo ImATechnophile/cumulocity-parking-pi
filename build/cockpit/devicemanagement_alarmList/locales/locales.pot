@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_alarmList/controllers/alarmList.js:66
+#: devicemanagement_alarmList/index.js:12
+#: devicemanagement_alarmList/index.js:23
+msgid "Alarms"
+msgstr ""
+
+#: devicemanagement_alarmList/views/index.html:17
+msgid "All"
+msgstr ""
+
+#: devicemanagement_alarmList/index.js:7
+msgid "Overviews"
+msgstr ""
+
+#: devicemanagement_alarmList/views/index.html:35
+msgid "Refresh alarm list contents"
+msgstr ""
+
+#: devicemanagement_alarmList/views/index.html:39
+msgid "Reload"
+msgstr ""
+
+#: devicemanagement_alarmList/views/index.html:26
+msgid "Show cleared alarms"
+msgstr ""

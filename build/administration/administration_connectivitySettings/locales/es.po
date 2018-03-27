@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Connectivity"
+msgstr "Conectividad"
+
+msgid "Connectivity credentials successfully updated"
+msgstr "Credenciales de conectividad actualizados con éxito"
+
+msgid "Failed to connect using given credentials"
+msgstr "No se pudo conectar dando credenciales"
+
+msgid "In order to see the 'Connectivity' tab in device details, the user needs to have 'Read' permission for 'Connectivity'. To change SIM card status and send text messages, the user needs to have 'Admin' permission for 'Connectivity'."
+msgstr "Para ver la ficha de 'Conectividad' en los detalles del dispositivo, el usuario debe haber ' leído ' el permiso para ‘Conectividad'. Para cambiar el estado de la tarjeta SIM y enviar mensajes de texto, el usuario debe tener permiso de 'Admin' para la 'Conectividad'."
+
+msgid "License key"
+msgstr "Clave de Licencia"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "SIM provider settings"
+msgstr "Configuración del proveedor SIM"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "This field is required!"
+msgstr "¡Este campo es requerido!"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "Nombre de usuario"

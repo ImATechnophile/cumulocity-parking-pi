@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_welcomeScreen/home.controller.js:41
+msgid "Applications"
+msgstr ""
+
+#: core_welcomeScreen/home.controller.js:51
+msgid "Documentation / Support"
+msgstr ""
+
+#: core_welcomeScreen/index.js:13
+msgid "Don't use as start page"
+msgstr ""
+
+#: core_welcomeScreen/home.controller.js:31
+msgid "Quick links"
+msgstr ""
+
+#: core_welcomeScreen/home.controller.js:61
+msgid "Twitter"
+msgstr ""

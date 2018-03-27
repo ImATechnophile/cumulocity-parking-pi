@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_alarmAssets/controllers/alarmAssets.js:57
+msgid "Alarm status changed to {{status}}"
+msgstr ""
+
+#: core_alarmAssets/index.js:11
+msgid "All critical alarms"
+msgstr ""
+
+#: core_alarmAssets/index.js:12
+msgid "Displays active critical alarms from all devices"
+msgstr ""

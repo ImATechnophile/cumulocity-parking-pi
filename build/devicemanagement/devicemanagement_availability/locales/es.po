@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Availability"
+msgstr "Disponibilidad"
+
+msgid "Availability percentage is based on the number of critical alarms raised and resolved."
+msgstr "El porcentaje de disponibilidad se basa en el número de alarmas críticas generadas y resueltas."
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Last day"
+msgstr "Último día"
+
+msgid "Last month"
+msgstr "Último mes"
+
+msgid "Last month operability"
+msgstr "Operatividad el mes pasado"
+
+msgid "Last week"
+msgstr "Semana pasada"
+
+msgid "Operability chart displays how many devices had their average availability on particular level in the last month."
+msgstr "La tabla de funcionamiento muestra cuántos dispositivos tenía su disponibilidad media a nivel particular en el último mes."
+
+msgid "Service monitoring"
+msgstr "Supervisión del servicio"
+
+msgid "availability"
+msgstr "disponibilidad"
+
+msgid "true"
+msgstr "verdad"

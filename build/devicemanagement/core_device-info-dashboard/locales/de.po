@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Active, critical alarms"
+msgstr "Aktive kritische Alarme"
+
+msgid "Battery: level"
+msgstr "Akku: Stand"
+
+msgid "CPU: workload"
+msgstr "CPU: Arbeitslast"
+
+msgid "Device and communication"
+msgstr "Gerät und Kommunikation"
+
+msgid "Device data"
+msgstr "Gerätedaten"
+
+msgid "Device status"
+msgstr "Gerätestatus"
+
+msgid "Group assignment"
+msgstr "Gruppenzuordnung"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "Memory: total"
+msgstr "Speicher: Gesamt"
+
+msgid "Memory: used"
+msgstr "Speicher: In Gebrauch"
+
+msgid "Message of the day"
+msgstr "Nachricht des Tages"
+
+msgid "Network: download"
+msgstr "Netzwerk: Download"
+
+msgid "Network: upload"
+msgstr "Netzwerk: Upload"
+
+msgid "Signal: BER"
+msgstr "Signal: BER"
+
+msgid "Signal: ECN0"
+msgstr "Signal: ECN0"
+
+msgid "Signal: RCSP"
+msgstr "Signal: RCSP"
+
+msgid "Signal: RSSI"
+msgstr "Signal: RSSI"

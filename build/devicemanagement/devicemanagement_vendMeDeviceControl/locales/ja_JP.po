@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Bill validator"
+msgstr "紙幣識別機"
+
+msgid "Cashless 1"
+msgstr "キャッシュレス1"
+
+msgid "Cashless 2"
+msgstr "キャッシュレス2"
+
+msgid "Coin changer"
+msgstr "両替機"
+
+msgid "Confirm Free vend mode?"
+msgstr "無償販売モードの確認"
+
+msgid "DDCMP on RS232 #1"
+msgstr "RS232 の DDCMP #1"
+
+msgid "DDCMP on RS232 #2"
+msgstr "RS232 の DDCMP #2"
+
+msgid "DEX on RS232 #1"
+msgstr "RS232 の DEX #1"
+
+msgid "DEX on RS232 #2"
+msgstr "RS232 の DEX #2"
+
+msgid "Device related log information will be shown under \"<b>Events</b>\"."
+msgstr "デバイス関連のログ情報は \"<b>イベント</b>\" に表示されます"
+
+msgid "Disable MDB sniffer mode"
+msgstr "MDBスニファモードを無効化"
+
+msgid "Executive"
+msgstr "実行している"
+
+msgid "Force not to use display"
+msgstr "強制的に非表示にする"
+
+msgid "Free vend"
+msgstr "無償販売"
+
+msgid "MDB"
+msgstr "MDB"
+
+msgid "Maximum Credit"
+msgstr "許容クレジット"
+
+msgid "Operate as MDB Communications Gateway"
+msgstr "MDB通信ゲートウェイとして動作する"
+
+msgid "Operation created"
+msgstr "操作の作成"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Protocol"
+msgstr "プロトコル"
+
+msgid "Remote cashless"
+msgstr "遠隔キャッシュレス"
+
+msgid "Request device Log"
+msgstr "デバイスログをリクエスト"
+
+msgid "Request device log"
+msgstr "デバイスログをリクエスト"
+
+msgid "Sales Configuration"
+msgstr "セールス構成"
+
+msgid "Serial #1"
+msgstr "シリアル #1"
+
+msgid "Serial #2"
+msgstr "シリアル #2"
+
+msgid "Set max credit to"
+msgstr "最大クレジットを設定"
+
+msgid "Set protocol"
+msgstr "プロトコルを設定"
+
+msgid "Sielaff CGW variant of Communications Gateway"
+msgstr "Sielaff CGWの通信ゲートウェイのCGWバリアント"
+
+msgid "Sielaff OLM2 variant of Communications Gateway"
+msgstr "Sielaffの通信ゲートウェイのOLM2バリアント"
+
+msgid "This setting will enable all the products to be retrieved without payment. Are you sure you want to activate Free vend?"
+msgstr "この設定により、すべての商品を支払いせず取得することができます。 無償販売を有効にしてもよろしいですか？"
+
+msgid "Update Maximum Credit"
+msgstr "最大クレジットを更新"
+
+msgid "Update protocol configuration"
+msgstr "プロトコル構成を更新"
+
+msgid "Update vending machine"
+msgstr "自動販売機を更新"
+
+msgid "Use DDCMP list #2, RS232 #2"
+msgstr "DDCMP list #2, RS232 #2 を使用"
+
+msgid "Use DDCMP list 2 on RS232 #1"
+msgstr "DDCMP list 2 on RS232 #1　を使用"
+
+msgid "Use FTL File Id 2 (default 1)"
+msgstr "FTL File Id 2 (default 1)　を使用"
+
+msgid "Use Reset Counters"
+msgstr "リセットカウンタを使用"
+
+msgid "Use enhanced DDCMP @ 2400 on RS232 #1"
+msgstr "強化DDCMP @ 2400 on RS232 #1　を使用"
+
+msgid "Use enhanced DDCMP @ 2400 on RS232 #2"
+msgstr "強化DDCMP @ 2400 on RS232 #2　を使用"
+
+msgid "VMC supports undefined credit"
+msgstr "VMC は未定義のクレジットをサポートしています"
+
+msgid "Vending Machine Settings"
+msgstr "自動販売機の設定"
+
+msgid "Vendme"
+msgstr "Vendme"
+
+msgid "cents"
+msgstr "セント"

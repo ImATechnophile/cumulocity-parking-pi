@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Actions"
+msgstr "アクション"
+
+msgid "Add new"
+msgstr "新規追加"
+
+msgid "An operation to change transport mode is currently in progress."
+msgstr "転送モードを変更する操作を現在行っています"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancel operation"
+msgstr "操作をキャンセル"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Command"
+msgstr "コマンド"
+
+msgid "Command has been sent!"
+msgstr "コマンドが送信されました"
+
+msgid "Command template"
+msgstr "コマンドテンプレート"
+
+msgid "Command's status has been updated!"
+msgstr "コマンドステータスが更新されました"
+
+msgid "Communication mode successfully changed!"
+msgstr "通信モードが正常に変更されました"
+
+msgid "Device is offline"
+msgstr "デバイスはオフラインです"
+
+msgid "Device is ready to receive commands"
+msgstr "デバイスはコマンドを受信できる状態です"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Execute"
+msgstr "実行"
+
+msgid "Execute (SMS)"
+msgstr "実行（SMS）"
+
+msgid "Execute shell command"
+msgstr "シェルコマンドを実行"
+
+msgid "Get predefined command"
+msgstr "定義済みのコマンドを取得"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No operations have been invoked yet."
+msgstr "呼び出された操作はまだありません"
+
+msgid "Operation to change communication mode successfully created!"
+msgstr "通信モードを変更する操作が正常に作成されました"
+
+msgid "Refresh device status"
+msgstr "デバイスステータスを更新"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Response"
+msgstr "レスポンス"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Search command by name or text"
+msgstr "名前もしくはテキストでコマンドを検索"
+
+msgid "Select a predefined command"
+msgstr "事前定義されたコマンドを選択"
+
+msgid "Shell"
+msgstr "シェル"
+
+msgid "Shell command template removed."
+msgstr "シェルコマンドテンプレートが削除されました"
+
+msgid "The MSISDN is not defined."
+msgstr "MSISDNが定義されていません"
+
+msgid "This is currently defined communication mode"
+msgstr "これは現在定義されている通信モードです"
+
+msgid "Use"
+msgstr "使用"
+
+msgid "View history"
+msgstr "履歴の表示"

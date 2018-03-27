@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Inventory update operation created!"
+msgstr "¡Operación de actualización de inventario creada!"
+
+msgid "Inventory update operation executed successfully!"
+msgstr "¡Operación de actualización de inventario ejecutada con éxito!"
+
+msgid "Inventory update operation failed with reason: {{failureReason}}!"
+msgstr "La operación de actualización del inventario falló con razón: {{failureReason}}!"
+
+msgid "Inventory update operation failed!"
+msgstr "¡Error en la operación de actualización de inventario!"
+
+msgid "Request inventory update"
+msgstr "Solicitar actualización de inventario"

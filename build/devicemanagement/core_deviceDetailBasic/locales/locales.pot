@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceDetailBasic/index.js:17
+msgid "Info"
+msgstr ""
+
+#: core_deviceDetailBasic/index.js:83
+msgid "Inventory update operation created!"
+msgstr ""
+
+#: core_deviceDetailBasic/index.js:86
+msgid "Inventory update operation executed successfully!"
+msgstr ""
+
+#: core_deviceDetailBasic/index.js:90
+msgid "Inventory update operation failed with reason: {{failureReason}}!"
+msgstr ""
+
+#: core_deviceDetailBasic/index.js:92
+msgid "Inventory update operation failed!"
+msgstr ""
+
+#: core_deviceDetailBasic/index.js:63
+#: core_deviceDetailBasic/index.js:71
+msgid "Request inventory update"
+msgstr ""

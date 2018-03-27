@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add software"
+msgstr "Ajouter un logiciel"
+
+msgid "Add software using the button on the toolbar."
+msgstr "Ajoutez un logiciel à l'aide du bouton sur la barre d'outils."
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Delete software"
+msgstr "Supprimer le logiciel"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Do you really want to remove software \"{{name}}\"?"
+msgstr "Voulez-vous vraiment supprimer le logiciel \" {{name}} \" ?"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "Filter"
+msgstr "Filtrer"
+
+msgid "Management"
+msgstr "Gestion"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "No software to display."
+msgstr "Aucun logiciel à afficher."
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Software repository"
+msgstr "Archive de logiciel"
+
+msgid "Software successfully added."
+msgstr "Logiciel ajouté avec succès."
+
+msgid "Software successfully removed."
+msgstr "Logiciel supprimé avec succès."
+
+msgid "Version"
+msgstr "Version"

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activate notification"
+msgstr "通知を有効化"
+
+msgid "Management"
+msgstr "管理"
+
+msgid "Notification email settings successfully updated!"
+msgstr "通知Eメールの設定が正常に更新されました"
+
+msgid "Notified user group"
+msgstr "通知されたユーザグループ"
+
+msgid "Send a warning e-mail to a user group when the storage quota is nearly reached."
+msgstr "ストレージクォータに近づいたとき、警告Eメールをユーザグループに送信"
+
+msgid "Storage quota"
+msgstr "ストレージクォータ"
+
+msgid "The threshold cannot be bigger than 100%."
+msgstr "しきい値は100%を超えることはできません"
+
+msgid "The threshold cannot be smaller than 1%."
+msgstr "しきい値は1%未満にすることはできません"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "Threshold (%)"
+msgstr "しきい値 (%)"
+
+msgid "Update settings"
+msgstr "設定を更新"

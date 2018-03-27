@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add alarm type"
+msgstr "Ajouter un type d’alarme"
+
+msgid "Alarm list"
+msgstr "Liste d’alarmes"
+
+msgid "Alarm type"
+msgstr "Type d'alarme"
+
+msgid "By active status"
+msgstr "Par statut actif"
+
+msgid "By severity"
+msgstr "Par gravité"
+
+msgid "Displays a list of alarms filtered by object, severity and status"
+msgstr "Affiche la liste des alarmes filtrés par objet, gravité et statut"
+
+msgid "Order"
+msgstr "Ordonner"
+
+msgid "Order alarms by active status, severity, and time"
+msgstr "Ordonner les alarmes par statut actif, gravité et date"
+
+msgid "Order alarms by severity and time"
+msgstr "Ordonner les alarmes par la gravité et date"
+
+msgid "Please select at least one severity."
+msgstr "Veuillez sélectionner au moins une gravité."
+
+msgid "Severities"
+msgstr "Sévérités"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Types"
+msgstr "Types"

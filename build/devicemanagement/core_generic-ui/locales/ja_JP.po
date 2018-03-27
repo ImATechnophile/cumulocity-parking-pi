@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 operation executing"
+msgid_plural "{{$count}} operations executing"
+msgstr[0] "{{$count}} 件の操作が実行中"
+
+msgid "1 operation failed"
+msgid_plural "{{$count}} operations failed"
+msgstr[0] "{{$count}} 件の操作が失敗"
+
+msgid "1 operation pending"
+msgid_plural "{{$count}} operations pending"
+msgstr[0] "{{$count}} 件の操作が保留中"
+
+msgid "1 operation successful"
+msgid_plural "{{$count}} operations successful"
+msgstr[0] "{{$count}} 件の操作が成功"
+
+msgid "Execute"
+msgstr "実行"
+
+msgid "Input value"
+msgstr "入力値"
+
+msgid "No recent operations"
+msgstr "最近の操作はありません"
+
+msgid "Object successfully updated."
+msgstr "オブジェクトは正常に更新されました"
+
+msgid "Objects"
+msgstr "オブジェクト"
+
+msgid "Operation \"{{description}}\" completed successfully."
+msgstr "操作\"{{description}}\"は正常に完了しました"
+
+msgid "Operation \"{{description}}\" completed with failure."
+msgstr "操作\"{{description}}\"は失敗を伴って完了しました"
+
+msgid "Operation \"{{description}}\" completed with failure: \"{{failureReason}}\"."
+msgstr "操作\"{{description}}\"は失敗を伴って完了しました: \"{{failureReason}}\""
+
+msgid "Operation created successfully."
+msgstr "操作が正常に作成されました"
+
+msgid "Recent operations"
+msgstr "最近の操作"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "View history"
+msgstr "履歴の表示"

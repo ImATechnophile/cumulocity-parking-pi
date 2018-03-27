@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activated"
+msgstr "Activado"
+
+msgid "Activation ready"
+msgstr "Activación lista"
+
+msgid "Audit logs"
+msgstr "Registros de auditoría"
+
+msgid "Changed"
+msgstr "Cambiado"
+
+msgid "Connectivity"
+msgstr "Conectividad"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Data usage (KB)"
+msgstr "Uso de datos (KB)"
+
+msgid "Data usage (MB)"
+msgstr "Uso de datos (MB)"
+
+msgid "Date received"
+msgstr "Fecha de recibida"
+
+msgid "Date sent"
+msgstr "Fecha de envío"
+
+msgid "Deactivated"
+msgstr "Desactivado"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Fixed IP address"
+msgstr "Dirección IP fija"
+
+msgid "From"
+msgstr "De"
+
+msgid "ICCID"
+msgstr "ICCID"
+
+msgid "In session"
+msgstr "En sesión"
+
+msgid "Inventory"
+msgstr "Inventario"
+
+msgid "Message text"
+msgstr "Texto del mensaje"
+
+msgid "Message type"
+msgstr "Tipo de mensaje"
+
+msgid "No"
+msgstr "No"
+
+msgid "Purged"
+msgstr "Purga"
+
+msgid "Reload"
+msgstr "Actualizar"
+
+msgid "Replaced"
+msgstr "Reemplazado"
+
+msgid "Retired"
+msgstr "Retirado"
+
+msgid "SIM details"
+msgstr "Detalles de la SIM"
+
+msgid "SIM status"
+msgstr "Estado de la SIM"
+
+msgid "SIM status successfully changed"
+msgstr "El estado de la SIM se ha modificado correctamente"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "SMS ID"
+msgstr "ID SMS"
+
+msgid "SMS successfully sent"
+msgstr "SMS enviado con éxito"
+
+msgid "SMS usage"
+msgstr "Uso de SMS"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Send SMS"
+msgstr "Enviar SMS"
+
+msgid "Sent from"
+msgstr "Enviado desde"
+
+msgid "Sent to"
+msgstr "Enviado a"
+
+msgid "Session IP address"
+msgstr "Dirección IP de sesión"
+
+msgid "Session start"
+msgstr "Inicio de sesión"
+
+msgid "Sessions"
+msgstr "Sesiones"
+
+msgid "Started"
+msgstr "Iniciado"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Test ready"
+msgstr "Prueba lista"
+
+msgid "This field is required!"
+msgstr "¡Este campo es requerido!"
+
+msgid "To"
+msgstr "Hasta"
+
+msgid "Trial"
+msgstr "Prueba"
+
+msgid "Voice usage"
+msgstr "Uso de la voz"
+
+msgid "Who"
+msgstr "Quién"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid ""
+"{{type}} usage this month to date ({{thisMonthStart}} - {{today}})\n"
+"Usage for last month ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"
+msgstr "{{type}} uso este mes a la fecha ({{thisMonthStart}} - {{today}}) uso el mes pasado ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"

@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:49
+msgid "<small>Multiple</small>"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:40
+msgid "<small>No</small>"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:48
+msgid "<small>Single</small>"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:39
+msgid "<small>Yes</small>"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:23
+#: core_device-protocol-lwm2m/lwm2mUploadStep.html:20
+msgid "Back"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:24
+#: core_device-protocol-lwm2m/lwm2mResource.html:60
+#: core_device-protocol-lwm2m/lwm2mUploadStep.html:21
+msgid "Cancel"
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.html:6
+msgid "Commands"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:25
+msgid "Continue"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:27
+msgid "Date created"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:13
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:14
+msgid "Description"
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperationsUi.provider.js:15
+msgid "Device types"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:19
+msgid "Edit"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:4
+msgid "Expand"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:21
+msgid "Functionalities"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:25
+msgid "Id"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:47
+msgid "Instance type"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:17
+msgid "LWM2M"
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.component.js:28
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperationsUi.provider.js:16
+msgid "LWM2M post-operations"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:29
+msgid "Last update"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:38
+msgid "Mandatory"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:10
+msgid "Name"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:33
+msgid "No description available"
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.html:22
+msgid "On the left, you can enter a set of LWM2M shell commands. Each of these commands is sent to every LWM2M device that has successfully registered."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:41
+msgid "Operations"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mUploadStep.component.js:76
+msgid "Parsing the DDF file resulted in an internal error"
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.component.js:78
+msgid "Post-operations are successfully saved."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mEditStep.html:4
+msgid "Processing successful"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:36
+msgid "Range"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mDetail.html:38
+msgid "Resources"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:63
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.html:39
+msgid "Save"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mUploadStep.html:5
+msgid "Start by uploading a DDF or XML file"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:52
+msgid "The maximum period attribute indicates the maximum time in seconds the LWM2M client MAY wait between two notifications."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:51
+msgid "The minimum period attribute indicates the minimum time in seconds the LWM2M client MUST wait between two notifications."
+msgstr ""
+
+#: core_device-protocol-lwm2m/postOperations/lwm2mPostOperations.component.js:79
+msgid "There was an error processing the post-operations."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:53
+msgid "This greater than attribute defines a threshold high value."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:54
+msgid "This less than attribute defines a threshold low value."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2m.provider.js:55
+msgid "This step attribute defines a minimum change value between two notifications."
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:43
+msgid "Type"
+msgstr ""
+
+#: core_device-protocol-lwm2m/lwm2mResource.html:45
+msgid "Units"
+msgstr ""

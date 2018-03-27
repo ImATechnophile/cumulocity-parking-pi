@@ -1,0 +1,12 @@
+{
+  "name": "Branding: Cumulocity",
+  "category": "Branding",
+  "description": "Branding for Cumulocity",
+  "copy": [
+    "img/{**/,}*.!(svg)",
+    "font/*"
+  ],
+  "less": [
+    "branding.less"
+  ]
+}

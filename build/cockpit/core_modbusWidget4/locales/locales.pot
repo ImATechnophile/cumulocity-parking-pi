@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_modbusWidget4/modbusWidgetUi.provider.js:15
+msgid "Allows for seeing status and operating modbus device"
+msgstr ""
+
+#: core_modbusWidget4/config.html:86
+msgid "At least one field needs to be selected."
+msgstr ""
+
+#: core_modbusWidget4/modbusWidgetUi.provider.js:14
+msgid "Fieldbus device widget"
+msgstr ""
+
+#: core_modbusWidget4/config.html:42
+msgid "Label"
+msgstr ""
+
+#: core_modbusWidget4/config.html:45
+msgid "Name"
+msgstr ""
+
+#: core_modbusWidget4/config.html:2
+msgid "No categories available."
+msgstr ""
+
+#: core_modbusWidget4/widget.html:43
+msgid "Set"
+msgstr ""
+
+#: core_modbusWidget4/config.html:39
+msgid "Show"
+msgstr ""
+
+#: core_modbusWidget4/widget.controller.js:70
+msgid "This field is required!"
+msgstr ""
+
+#: core_modbusWidget4/config.html:48
+msgid "Type"
+msgstr ""
+
+#: core_modbusWidget4/modbusWidget.service.js:130
+#: core_modbusWidget4/modbusWidget.service.js:64
+msgid "Uncategorized"
+msgstr ""
+
+#: core_modbusWidget4/widget.controller.js:20
+msgid "Value out of range! Allowed values from {{min | number}} to {{max | number}} with step {{step | number}}. Use up/down arrows to find nearest possible value."
+msgstr ""

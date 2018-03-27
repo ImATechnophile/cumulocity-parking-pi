@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add alarm type"
+msgstr "アラームタイプを追加"
+
+msgid "Alarm list"
+msgstr "アラームリスト"
+
+msgid "Alarm type"
+msgstr "アラームタイプ"
+
+msgid "By active status"
+msgstr "アクティブステータス別"
+
+msgid "By severity"
+msgstr "アラーム重大度別"
+
+msgid "Displays a list of alarms filtered by object, severity and status"
+msgstr "オブジェクト、アラーム重大度、およびステータス別にフィルタリングされたアラームのリストを表示"
+
+msgid "Order"
+msgstr "並び順"
+
+msgid "Order alarms by active status, severity, and time"
+msgstr "アクティブステータス、アラーム重大度、時刻による並び替え"
+
+msgid "Order alarms by severity and time"
+msgstr "アラーム重大度、時刻による並び替え"
+
+msgid "Please select at least one severity."
+msgstr "少なくとも1つのアラーム重大度を選択してください"
+
+msgid "Severities"
+msgstr "アラーム重大度"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Types"
+msgstr "タイプ"

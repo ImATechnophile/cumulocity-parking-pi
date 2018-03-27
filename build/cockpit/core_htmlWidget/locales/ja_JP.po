@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Allow insecure use of elements and attributes"
+msgstr "安全でない要素と属性の使用を許可"
+
+msgid "Display custom HTML code"
+msgstr "カスタムHTMLコードを表示"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML code"
+msgstr "HTMLコード"
+
+msgid "Toggle help text"
+msgstr "ヘルプテキスト表示/非表示"
+
+msgid "You can use the following variables in your HTML code:"
+msgstr "HTMLで以下の変数を使用できます:"
+
+msgid "children of current device or group, you can access their properties e.g."
+msgstr "現在のデバイスまたはグループの子のプロパティにアクセスできます。例:"
+
+msgid "current device or group, you can access its properties e.g."
+msgstr "現在のデバイスまたはグループのプロパティにアクセスできます。例:"
+
+msgid "number of device groups"
+msgstr "デバイスグループ数"
+
+msgid "number of devices"
+msgstr "デバイス数"
+
+msgid "number of devices with critical alarm status"
+msgstr "クリティカルアラームが発生しているデバイス数"
+
+msgid "number of online devices"
+msgstr "オンラインのデバイス数"
+
+msgid "number of users"
+msgstr "ユーザ数"

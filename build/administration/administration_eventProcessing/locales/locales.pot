@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:117
+msgid "1 rule"
+msgid_plural "{{qty}} rules"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:13
+msgid "Add module"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:12
+msgid "Add your first module by clicking below."
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:100
+msgid "Alarms"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:58
+msgid "Append"
+msgstr ""
+
+#: administration_eventProcessing/index.js:27
+msgid "Business rules"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:50
+msgid "Cancel"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:250
+msgid "Changes not saved"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:44
+msgid "Click to edit"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:40
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:86
+msgid "Collapse"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:84
+msgid "Confirm delete?"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.component.js:23
+msgid "Connected"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:72
+msgid "Debugging and monitoring"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:86
+msgid "Delete"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:155
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:26
+msgid "Deployed"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:49
+msgid "Details"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:85
+msgid "Do you really want to remove the module \"{{moduleName}}\"?"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:251
+msgid "Do you want to leave this page and discard the changes made?"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:36
+msgid "ERROR"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:27
+#: administration_eventProcessing/list/eventProcessingRulesList.html:28
+msgid "Edit"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleTitle.html:33
+#: administration_eventProcessing/index.js:28
+msgid "Event processing"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:116
+msgid "Event processing rules"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:2
+msgid "Event processing rules examples"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:24
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:22
+msgid "Examples"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:31
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:79
+msgid "Expand"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:9
+msgid "Filter notifications"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:14
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/administration/#event-processing\">User Guide</a>."
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:42
+msgid "ID"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:50
+msgid "Last modified"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:48
+msgid "Last modified: {{vm.module.lastModified | absoluteDate}}"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:128
+msgid "Metrics"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:233
+msgid "Module \"{{name}}\" has been renamed!"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:172
+msgid "Module \"{{name}}\" has been saved successfully!"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:3
+msgid "New module"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:255
+msgid "No"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:11
+msgid "No event processing modules found"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleMetrics.html:2
+msgid "No metrics available"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:25
+msgid "No notifications received yet"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:159
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.component.js:31
+#: administration_eventProcessing/list/eventProcessingRulesList.component.js:31
+msgid "Not deployed"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:114
+msgid "Notifications"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleTitle.html:24
+msgid "Only letters, digits and underscore allowed, must not start with a digit!"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.component.js:27
+msgid "Pending"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:38
+msgid "Preview"
+msgstr ""
+
+#: administration_eventProcessing/list/eventProcessingRulesList.html:32
+#: administration_eventProcessing/list/eventProcessingRulesList.html:33
+msgid "Remove"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:166
+msgid "Save"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRulesExamples.html:11
+msgid "Search in examples"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:46
+msgid "Source code"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleNotifications.html:37
+msgid "Statement"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.html:143
+msgid "Status"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:254
+msgid "Yes"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleTitle.html:17
+msgid "e.g. myModule01"
+msgstr ""
+
+#: administration_eventProcessing/details/eventProcessingRuleDetails.component.js:93
+msgid "newmodule"
+msgstr ""

@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "<strong>No properties found.</strong> Click below to add the first one."
+msgstr "<strong>Aucune propriété trouvée.</strong> Cliquez ci-dessous pour ajouter le premier."
+
+msgid "Add property"
+msgstr "Ajouter une propriété"
+
+msgid "Alarm"
+msgstr "Alarme"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Event"
+msgstr "Évènement"
+
+msgid "Inventory"
+msgstr "Inventaire"
+
+msgid "Properties library"
+msgstr "Bibliothèque de propriétés"
+
+msgid "Property removed!"
+msgstr "Propriété supprimée!"
+
+msgid "Property saved!"
+msgstr "Propriété enregistrée!"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Tenant"
+msgstr "Gérant"

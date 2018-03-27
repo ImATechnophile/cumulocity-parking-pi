@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <title>Cumulocity - Devicemanagement</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39; &#39;unsafe-inline&#39; http: https: ws: wss:; script-src &#39;self&#39; *.mapquestapi.com *.twitter.com *.twimg.com &#39;unsafe-inline&#39; data:; style-src * &#39;unsafe-inline&#39;; img-src * data:; font-src * data:; frame-src *;">
+    <link rel="shortcut icon" href="core_c8yBranding/img/favicon.ico">
+    <!--MODULES_CSS-->
+    <link rel="stylesheet" href="core_c8yBranding/style.css">
+    <!--/MODULES_CSS-->
+    <style type="text/css">
+      [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}
+    </style>
+  </head>
+  <body>
+
+    <div class="loading">
+      <img class="mainlogo">
+
+      <div class="progress progress-striped active hidden" id="assetProgressBar">
+        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+
+      <form role="form" class="loginForm hidden">
+        <div class="input-group input-group-lg form-group tenantField" id="tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant" >
+        </div>
+
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-user"></i>
+          </span>
+          <input type="text" name="user" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Username">
+        </div>
+
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="password" class="form-control" placeholder="Password">
+        </div>
+
+        <div class="checkbox pull-right">
+          <label>
+            <input type="checkbox" name="remember"> Remember me
+          </label>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Login</button>
+        <div style="margin-top: 10px;">
+          <a class="btn btn-link pull-right forgottenPasswordLink">Forgot password?</a>
+        </div>
+      </form>
+
+      <form role="form" class="passwordResetRequestForm hidden">
+        <div class="input-group input-group-lg form-group tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-envelope"></i>
+          </span>
+            <input type="email" name="email" class="form-control" placeholder="E-mail address" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Reset password</button>
+      </form>
+
+      <form role="form" class="newPasswordForm hidden">
+        <div class="input-group input-group-lg form-group tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="new-password" class="form-control" placeholder="New password">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="new-password-confirm" class="form-control" placeholder="Confirm new password">
+        </div>
+
+        <div class="password-strength">
+          <span class="password-strength-label">password strength</span>
+          <span id="passwordStrengthLabel" class="pull-right"></span>
+          <div>
+            <div id="passwordStrengthBox"></div>
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Set password</button>
+      </form>
+
+      <form role="form" class="SMStoken hidden">
+        <h4>
+          Insert the verification code you received by SMS.
+        </h4>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-mobile"></i>
+          </span>
+          <input type="text" name="smstoken" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Verification code">
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Verify</button>
+        <div style="margin-top: 10px;">
+          <a class="loginAgain" style="cursor: pointer;">Login as a different user</a>
+          <a class="pull-right resendSMSMLink" style="cursor: pointer;">Send new verification code</a>
+        </div>
+      </form>
+
+      <div class="alert alert-success hidden" style="margin-top: 55px;" id="success"></div>
+      <div class="alert alert-danger hidden" style="margin-top: 55px;" id="error"></div>
+    </div>
+
+    <div class="ng-cloak" id="app" c8y-main-app></div>
+    <script>(function(){var b=document.getElementById('assetProgressBar');b && (b.className = b.className.replace(/hidden/,''));b=document.querySelectorAll('#assetProgressBar >.progress-bar')[0];if (b) {b._w=1;window.updateProgress=setInterval(function(){ b.style.width=b._w + '%'; b._w += 5;},300);}})();window.trybootstrap=function (){if(window.bootstrap){window.bootstrap(); window.bootstrap=angular.noop;}else{setTimeout(window.trybootstrap, 300)}}</script>
+    <script>!function(a){"use strict";var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);</script>
+    <script>C8Y_NG_MODULES=["c8y.ui","c8y.parts.aclManagement","c8y.parts.dashboard2","c8y.parts.imageWidget","c8y.parts.devicePropertyWidget","c8y.qrCode","c8y.deviceControl.message","c8y.deviceControl.relay","c8y.deviceControl.relayArray","c8y.parts.deviceUsers","c8y.eventsBinary","c8y.deviceRegistration","c8y.deviceRegistrationActility","c8y.deviceRegistrationImpact","c8y.deviceManagement.home","c8y.cockpit.alarmassets","c8y.parts.kpi","c8y.smartRules","c8y.cockpit.map","c8y.cockpit.dataPointExplorer","c8y.deviceSelector","c8y.core.measurements2","leaflet-directive","c8y.relayWidget","c8y.connectivity","c8y.smartRestEditor","c8y.csvExporter","c8y.smartRestEditorUI","c8y.simulators","c8y.remoteAccess","c8y.deviceActility","c8y.aclManagement","c8y.deviceManagement","c8y.parts.firmwareList","c8y.parts.softwareList","c8y.configurationRepository","c8y.deviceConfiguration","c8y.parts.deviceList","c8y.deviceDetail","c8y.deviceDetailBasic","c8y.deviceDetailControl","c8y.deviceDetailIdentity","c8y.deviceDetailSoftware","c8y.genericUi","c8y.configAudit","c8y.parts.deviceListMap","c8y.parts.alarmList","c8y.parts.deviceControlList","c8y.deviceBulkControl","c8y.deviceShell","c8y.deviceNetwork","c8y.parts.eventList","c8y.parts.location","c8y.parts.availability","c8y.parts.tracking","c8y.parts.measurements","c8y.parts.vendMeDeviceControl","c8y.groupsHierarchy","c8y.tixiDeviceControl","c8y.logViewer","c8y.restartDevice","c8y.deviceDatabase4","c8y.modbusConfiguration4","c8y.modbusWidget4","c8y.fieldbusConfig","c8y.deviceProtocols","c8y.lwm2m","c8y.impact","c8y.deviceInfoDashboard","c8y.alarms","c8y.parts.assetPropertyWidget","c8y.deviceGroupAssignment","c8y.deviceStatus","c8y.alarmsEventsExplorer","c8y.assetNotes","c8y.groupInfoDashboard"];C8Y_APP={"langs":["de","en","es","fr","ja_JP"],"nodebug":1,"core_path":"core/","data_path":"c8ydata"};C8Y_APP.C8Y_INSTANCE_OPTIONS={};C8Y_APP.modules=C8Y_NG_MODULES;delete window.C8Y_NG_MODULES;</script>
+    <!--MODULES_CSS_DEFER--><script>["core/style.css","core_dashboard2/style.css","core_devicePropertyWidget/style.css","core_eventsBinary/style.css","core_nvd3ChartDirectives/style.css","core_smartRules/style.css","core_map/style.css","core_dataPointExplorer/style.css","core_deviceSelector/style.css","core_measurements/style.css","core_leaflet-directive/style.css","core_deviceConfiguration/style.css","devicemanagement_deviceShell/style.css","devicemanagement_deviceNetwork/style.css","devicemanagement_location/style.css","devicemanagement_availability/style.css","core_groupsHierarchy/style.css","devicemanagement_logViewer/style.css","core_deviceDatabase4/style.css","core_modbusConfiguration4/style.css","core_alarms/style.css"].forEach(function(f){loadCSS(f)})</script><!--/MODULES_CSS_DEFER-->
+    <!--MODULES_JS-->
+    <script defer src="core/main.js"></script>
+    <script defer src="c8ydata/main.js"></script>
+    <script defer src="core_aclManagement/main.js"></script>
+    <script defer src="core_dashboard2/main.js"></script>
+    <script defer src="core_imageWidget/main.js"></script>
+    <script defer src="core_devicePropertyWidget/main.js"></script>
+    <script defer src="core_qrCode/main.js"></script>
+    <script defer src="core_deviceControlMessage/main.js"></script>
+    <script defer src="core_deviceControlRelay/main.js"></script>
+    <script defer src="core_deviceControlRelayArray/main.js"></script>
+    <script defer src="administration_deviceUsers/main.js"></script>
+    <script defer src="core_eventsBinary/main.js"></script>
+    <script defer src="core_deviceRegistration/main.js"></script>
+    <script defer src="core_deviceRegistrationActilityProvider/main.js"></script>
+    <script defer src="core_deviceRegistrationImpactProvider/main.js"></script>
+    <script defer src="core_deviceManagementHome/main.js"></script>
+    <script defer src="core_alarmAssets/main.js"></script>
+    <script defer src="core_kpi/main.js"></script>
+    <script defer src="core_nvd3ChartDirectives/main.js"></script>
+    <script defer src="core_smartRules/main.js"></script>
+    <script defer src="core_map/main.js"></script>
+    <script defer src="core_dataPointExplorer/main.js"></script>
+    <script defer src="core_deviceSelector/main.js"></script>
+    <script defer src="core_measurements/main.js"></script>
+    <script defer src="core_leaflet-directive/main.js"></script>
+    <script defer src="core_relayWidget/main.js"></script>
+    <script defer src="core_connectivity/main.js"></script>
+    <script defer src="core_smartRestEditor/main.js"></script>
+    <script defer src="core_csvExporter/main.js"></script>
+    <script defer src="core_smartRestEditorUI/main.js"></script>
+    <script defer src="core_simulators/main.js"></script>
+    <script defer src="core_remoteAccess/main.js"></script>
+    <script defer src="core_deviceActility/main.js"></script>
+    <script defer src="devicemanagement_aclManagement/main.js"></script>
+    <script defer src="devicemanagement_deviceManagement/main.js"></script>
+    <script defer src="core_firmwareList/main.js"></script>
+    <script defer src="core_softwareList/main.js"></script>
+    <script defer src="core_configurationRepository/main.js"></script>
+    <script defer src="core_deviceConfiguration/main.js"></script>
+    <script defer src="core_deviceList/main.js"></script>
+    <script defer src="core_deviceDetail/main.js"></script>
+    <script defer src="core_deviceDetailBasic/main.js"></script>
+    <script defer src="core_deviceDetailControl/main.js"></script>
+    <script defer src="core_deviceDetailIdentity/main.js"></script>
+    <script defer src="core_deviceDetailSoftware/main.js"></script>
+    <script defer src="core_generic-ui/main.js"></script>
+    <script defer src="devicemanagement_deviceListMap/main.js"></script>
+    <script defer src="devicemanagement_alarmList/main.js"></script>
+    <script defer src="devicemanagement_deviceControlList/main.js"></script>
+    <script defer src="devicemanagement_deviceBulkControl/main.js"></script>
+    <script defer src="devicemanagement_deviceShell/main.js"></script>
+    <script defer src="devicemanagement_deviceNetwork/main.js"></script>
+    <script defer src="devicemanagement_eventList/main.js"></script>
+    <script defer src="devicemanagement_location/main.js"></script>
+    <script defer src="devicemanagement_availability/main.js"></script>
+    <script defer src="devicemanagement_tracking/main.js"></script>
+    <script defer src="devicemanagement_measurements/main.js"></script>
+    <script defer src="devicemanagement_vendMeDeviceControl/main.js"></script>
+    <script defer src="core_groupsHierarchy/main.js"></script>
+    <script defer src="devicemanagement_tixiDeviceControl/main.js"></script>
+    <script defer src="devicemanagement_logViewer/main.js"></script>
+    <script defer src="devicemanagement_restartDevice/main.js"></script>
+    <script defer src="core_deviceDatabase4/main.js"></script>
+    <script defer src="core_modbusConfiguration4/main.js"></script>
+    <script defer src="core_modbusWidget4/main.js"></script>
+    <script defer src="core_fieldbusConfig/main.js"></script>
+    <script defer src="core_device-protocols/main.js"></script>
+    <script defer src="core_device-protocol-lwm2m/main.js"></script>
+    <script defer src="core_device-protocol-impact/main.js"></script>
+    <script defer src="core_device-info-dashboard/main.js"></script>
+    <script defer src="core_alarms/main.js"></script>
+    <script defer src="core_assetPropertyWidget/main.js"></script>
+    <script defer src="core_deviceGroupAssignment/main.js"></script>
+    <script defer src="core_deviceStatusWidget/main.js"></script>
+    <script defer src="core_alarmsEventsExplorer/main.js"></script>
+    <script defer src="core_asset-notes/main.js"></script>
+    <script defer src="core_group-info-dashboard/main.js"></script>
+    <!--/MODULES_JS-->
+    <script defer src="data:application/javascript,window.trybootstrap()"></script></body>
+</html>

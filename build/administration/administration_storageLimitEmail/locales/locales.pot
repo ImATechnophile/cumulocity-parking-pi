@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_storageLimitEmail/views/storageLimitForm.html:9
+msgid "Activate notification"
+msgstr ""
+
+#: administration_storageLimitEmail/index.js:10
+msgid "Management"
+msgstr ""
+
+#: administration_storageLimitEmail/controllers/storageLimitCtrl.js:77
+msgid "Notification email settings successfully updated!"
+msgstr ""
+
+#: administration_storageLimitEmail/views/storageLimitForm.html:12
+msgid "Notified user group"
+msgstr ""
+
+#: administration_storageLimitEmail/views/storageLimitForm.html:3
+msgid "Send a warning e-mail to a user group when the storage quota is nearly reached."
+msgstr ""
+
+#: administration_storageLimitEmail/controllers/storageLimitCtrl.js:44
+#: administration_storageLimitEmail/index.js:11
+msgid "Storage quota"
+msgstr ""
+
+#: administration_storageLimitEmail/controllers/storageLimitCtrl.js:86
+msgid "The threshold cannot be bigger than 100%."
+msgstr ""
+
+#: administration_storageLimitEmail/controllers/storageLimitCtrl.js:87
+msgid "The threshold cannot be smaller than 1%."
+msgstr ""
+
+#: administration_storageLimitEmail/controllers/storageLimitCtrl.js:85
+msgid "This field is required!"
+msgstr ""
+
+#: administration_storageLimitEmail/views/storageLimitForm.html:18
+msgid "Threshold (%)"
+msgstr ""
+
+#: administration_storageLimitEmail/views/storageLimitForm.html:23
+msgid "Update settings"
+msgstr ""

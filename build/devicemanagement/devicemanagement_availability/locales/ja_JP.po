@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Availability"
+msgstr "稼働率"
+
+msgid "Availability percentage is based on the number of critical alarms raised and resolved."
+msgstr "デバイス稼働率はクリティカルアラームの発生と解決した数に基づいています"
+
+msgid "Devices"
+msgstr "デバイス"
+
+msgid "Last day"
+msgstr "前日"
+
+msgid "Last month"
+msgstr "先月"
+
+msgid "Last month operability"
+msgstr "先月のデバイス稼働率分布"
+
+msgid "Last week"
+msgstr "先週"
+
+msgid "Operability chart displays how many devices had their average availability on particular level in the last month."
+msgstr "デバイス稼働率チャートは、先月に一定のレベルで平均的に使用可能だったデバイス数を表示します"
+
+msgid "Service monitoring"
+msgstr "サービス監視"
+
+msgid "availability"
+msgstr "デバイス稼働率"
+
+msgid "true"
+msgstr "真"

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 API request, including:"
+msgid_plural "{{requestCount}} API requests, including:"
+msgstr[0] "1 solicitud de la API, incluyendo:"
+msgstr[1] "solicitudes de la API, incluyendo:"
+
+msgid "1 device"
+msgid_plural "{{devicesCount}} devices"
+msgstr[0] "1 dispositivo"
+msgstr[1] "dispositivos"
+
+msgid "1 device API request"
+msgid_plural "{{deviceRequestCount}} device API requests"
+msgstr[0] "solicitud de 1 dispositivo API"
+msgstr[1] "solicitudes de dispositivo API"
+
+msgid "1 root device"
+msgid_plural "{{rootDevicesCount}} root devices"
+msgstr[0] "dispositivo 1 raíz"
+msgstr[1] "dispositivos raíz"
+
+msgid "1 user"
+msgid_plural "{{count}} users"
+msgstr[0] "1 usuario"
+msgstr[1] "usuarios"
+
+msgid "<Not calculated>"
+msgstr "No calculado"
+
+msgid "Amount of data in use on {{end}}"
+msgstr "Cantidad de datos en uso {{fin}}"
+
+msgid "Current month usage"
+msgstr "Uso del mes actual"
+
+msgid "Last month usage"
+msgstr "Uso del mes pasado"
+
+msgid "Number of devices on {{end}}, including child devices."
+msgstr "Número de dispositivos en {{end}}, incluyendo dispositivos infantiles."
+
+msgid "Number of root devices on {{end}}. Does not include child devices."
+msgstr "Número de dispositivos raíz en {{end}}. No incluye los dispositivos infantiles."
+
+msgid "Subscribed apps"
+msgstr "Aplicaciones suscritas"
+
+msgid "The quota calculation is based on the known number of devices, as displayed below."
+msgstr "El cálculo de la cuota se basa en el número conocido de dispositivos, como se muestra a continuación."
+
+msgid "Usage between {{start}} - {{end}}"
+msgstr "Uso entre {{start}} - {{end}}"
+
+msgid "calculating number of API requests"
+msgstr "calculando el número de solicitudes de API"
+
+msgid "calculating number of device API requests"
+msgstr "calculando el número de solicitudes API del dispositivo"
+
+msgid "calculating number of devices"
+msgstr "calculando el número de dispositivos"
+
+msgid "calculating number of users"
+msgstr "calculando el número de usuarios"
+
+msgid "calculating storage"
+msgstr "calculando de almacenamiento"
+
+msgid "{{storageLimit}} storage quota"
+msgstr "{{storageLimit}} cuota de almacenamiento"
+
+msgid "{{storageSize}} storage"
+msgstr "{{storageSize}} almacenamiento"

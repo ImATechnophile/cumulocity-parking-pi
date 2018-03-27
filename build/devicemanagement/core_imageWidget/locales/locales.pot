@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_imageWidget/views/componentConfig.html:3
+msgid "(file size up to {{maxFileSizeKB}} KB)"
+msgstr ""
+
+#: core_imageWidget/index.js:14
+msgid "Display a single image selected from the user's computer."
+msgstr ""
+
+#: core_imageWidget/views/componentConfig.html:3
+msgid "Image"
+msgstr ""
+
+#: core_imageWidget/views/componentConfig.html:12
+msgid "Preview"
+msgstr ""
+
+#: core_imageWidget/controllers/imageWidgetConfig.js:21
+msgid "Selected file has invalid extension!"
+msgstr ""
+
+#: core_imageWidget/controllers/imageWidgetConfig.js:20
+msgid "Selected file is too large!"
+msgstr ""

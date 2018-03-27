@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Applications"
+msgstr "アプリケーション"
+
+msgid "Comma-separated list of application names"
+msgstr "アプリケーション名のカンマ区切りリスト"
+
+msgid "Configuration"
+msgstr "構成"
+
+msgid "Configuration reloaded!"
+msgstr "構成がリロードされました"
+
+msgid "Configuration saved successfully!"
+msgstr "構成が正常に保存されました"
+
+msgid "Data export"
+msgstr "データエクスポート"
+
+msgid "Default applications for new tenants"
+msgstr "新しいテナントのデフォルトアプリケーション"
+
+msgid "E-mail sent after over-limit data has been removed"
+msgstr "制限超過したデータが削除された後にEメールは送信されました"
+
+msgid "E-mail sent after over-limit data has been removed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "制限超過したデータが削除された後にEメールは送信されました。プレースホルダー：{テナント}、{サイズ} - %表記のストレージ使用量"
+
+msgid "E-mail sent one day before data removal is performed"
+msgstr "Eメールはデータの削除が実施される1日前に送信されました"
+
+msgid "E-mail sent one day before data removal is performed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr "Eメールはデータの削除が実施される1日前に送信されました。プレースホルダー：{テナント}、{サイズ} - %表記のストレージ使用量"
+
+msgid "E-mail server"
+msgstr "Eメールサーバー"
+
+msgid "E-mail subject"
+msgstr "Eメールの件名"
+
+msgid "E-mail template"
+msgstr "Eメールのテンプレート"
+
+msgid "Enable support user"
+msgstr "サポートユーザを有効にする"
+
+msgid "Enforce \"green\" passwords for all users"
+msgstr "すべてのユーザに \"緑色\" パスワードを強制する"
+
+msgid "Host"
+msgstr "ホスト"
+
+msgid "Invitation e-mail template"
+msgstr "招待Eメールテンプレート"
+
+msgid "Leave empty to skip this constraint"
+msgstr "この制約をスキップする場合は空のままにしてください"
+
+msgid "Leave empty to use value from tenant options"
+msgstr "テナントオプションの値を使用する場合は空のままにしてください"
+
+msgid "Limit exceeded e-mail subject"
+msgstr "超過したEメールの件名を制限"
+
+msgid "Limit exceeded e-mail template"
+msgstr "超過したEメールのテンプレートを制限"
+
+msgid "Minimal length of \"green\" password"
+msgstr "\"緑色\"のパスワードの最小の長さ"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Password change confirmation e-mail template"
+msgstr "パスワード変更確認Eメールテンプレート"
+
+msgid "Password history size"
+msgstr "パスワード履歴のサイズ"
+
+msgid "Password reset"
+msgstr "パスワードリセット"
+
+msgid "Password reset e-mail template (when address is known)"
+msgstr "パスワードリセットのEメールテンプレート(アドレスが自明な場合)"
+
+msgid "Password reset e-mail template (when address is not known)"
+msgstr "パスワードリセットのEメールテンプレート(アドレスが不明な場合)"
+
+msgid "Password validity limit (days)"
+msgstr "パスワードの有効期限（日）"
+
+msgid "Passwords"
+msgstr "パスワード"
+
+msgid "Placeholder: {tenant} - suspended tenant's id"
+msgstr "プレースホルダ: {tenant} -　一時停止中のテナントID"
+
+msgid "Placeholder: {token} - generated token"
+msgstr "プレースホルダ: {token} - 生成されたトークン"
+
+msgid "Placeholders: {host}, {binaryId}. Whole link to result file is: {host}/inventory/binaries/{binaryId}"
+msgstr "プレースホルダ: {host}, {binaryId}。結果ファイルへの完全リンクは以下: {host}/inventory/binaries/{binaryId}"
+
+msgid "Placeholders: {host}, {tenant-domain}"
+msgstr "プレースホルダ: {host}, {tenant-domain}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to reset password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "プレースホルダ: {host}, {tenant-domain}, {token}。パスワードをリセットする完全リンクは、例えば以下: {host}/apps/devicemanagement/index.html?token={token}"
+
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to setup password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr "プレースホルダ: {host}, {tenant-domain}, {token}。パスワードをセットアップする完全リンクは、例えば以下: {host}/apps/devicemanagement/index.html?token={token}"
+
+msgid "Placeholders: {user}, {exportApi}"
+msgstr "プレースホルダ: {user}, {exportApi}"
+
+msgid "Port"
+msgstr "ポート"
+
+msgid "Possible values: true, false, date until user should remain enabled"
+msgstr "取り得る値：true、false、ユーザが有効状態になるまでの日付"
+
+msgid "Possible values: url string, \"false\" (hides the link), leave empty to use default"
+msgstr "設定可能な値：URL文字列、 \"false\"（リンクを隠す）、空欄（デフォルトを使用）"
+
+msgid "Protocol"
+msgstr "プロトコル"
+
+msgid "Save configuration"
+msgstr "構成を保存"
+
+msgid "Send e-mail to suspended tenant's administrator"
+msgstr "一時停止しているテナントの管理者にEメールを送信"
+
+msgid "Send notifications to unknown e-mail addresses"
+msgstr "未知のEメールアドレスに通知を送信"
+
+msgid "Sender address"
+msgstr "送信者アドレス"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Storage limit"
+msgstr "ストレージ制限"
+
+msgid "Subject used for all password reset related e-mails"
+msgstr "すべてのパスワードリセット関連のEメールに使用される件名"
+
+msgid "Support link"
+msgstr "サポートリンク"
+
+msgid "Support user"
+msgstr "サポートユーザ"
+
+msgid "Suspending tenants"
+msgstr "テナントを一時停止中"
+
+msgid "Tenant suspended e-mail additional receiver"
+msgstr "テナント一時停止中のEメール受信者"
+
+msgid "Tenant suspended e-mail subject"
+msgstr "テナント一時停止中のEメール件名"
+
+msgid "Tenant suspended e-mail template"
+msgstr "テナント一時停止中のEメールテンプレート"
+
+msgid "Two-factor authentication"
+msgstr "二要素認証"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "User unauthorized error message"
+msgstr "ユーザの承認されていないエラーメッセージ"
+
+msgid "Username"
+msgstr "ユーザ名"
+
+msgid "Verification token SMS template"
+msgstr "確認トークンのSMSのテンプレート"
+
+msgid "Warning e-mail subject"
+msgstr "警告Eメール件名"
+
+msgid "Warning e-mail template"
+msgstr "警告Eメールテンプレート"
+
+msgid "e.g.: 10"
+msgstr "(例) 10"
+
+msgid "e.g.: 25"
+msgstr "(例) 25"
+
+msgid "e.g.: Verification code: {token}"
+msgstr "(例) 確認コード: {token}"
+
+msgid "e.g.: administration,devicemanagement,cockpit"
+msgstr "(例) administration,devicemanagement,cockpit"
+
+msgid "e.g.: localhost"
+msgstr "(例) localhost"
+
+msgid "e.g.: {{expireDate}}"
+msgstr "(例) {{expireDate}}"

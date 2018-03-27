@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "A table display of a collection of data points"
+msgstr "Una visualización en tabla de una colección de puntos de referencia"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "Data points table"
+msgstr "Tabla de puntos de referencia"
+
+msgid "Date &amp; time"
+msgstr "Fecha y hora"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Maximum"
+msgstr "Máximo"
+
+msgid "Minimum"
+msgstr "Mínimo"
+
+msgid "Realtime"
+msgstr "Tiempo real"
+
+msgid "Red range: {{min}} … {{max}}"
+msgstr "Gama roja: {{min}}... {{max}}"
+
+msgid "Show date selection"
+msgstr "Mostrar selección de fecha"
+
+msgid "Yellow range: {{min}} … {{max}}"
+msgstr "Gama de amarillo: {{min}}... {{max}}"

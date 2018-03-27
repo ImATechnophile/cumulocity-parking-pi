@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "APN"
+msgstr "APN"
+
+msgid "Address range"
+msgstr "アドレスの範囲"
+
+msgid "Auth type"
+msgstr "認証タイプ"
+
+msgid "Configure DHCP settings"
+msgstr "DHCPを設定"
+
+msgid "Configure LAN settings"
+msgstr "LANを設定"
+
+msgid "Configure WAN settings"
+msgstr "WANを設定"
+
+msgid "DHCP"
+msgstr "DHCP"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS 2"
+msgstr "DNS 2"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Domain name"
+msgstr "ドメイン名"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "IP Address"
+msgstr "IPアドレス"
+
+msgid "LAN"
+msgstr "LAN"
+
+msgid "MAC address"
+msgstr "MACアドレス"
+
+msgid "Messaging provider must be configured to send WAN settings to device via SMS"
+msgstr "メッセージングプロバイダは、SMS経由でデバイスにWAN設定を送信するように設定する必要があります"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Network"
+msgstr "ネットワーク"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "SIM status"
+msgstr "SIMステータス"
+
+msgid "Save changes"
+msgstr "変更を保存"
+
+msgid "Save changes (SMS)"
+msgstr "変更を保存(SMS)"
+
+msgid "Sent operation to apply DHCP settings."
+msgstr "DHCP設定を適用する操作を送信"
+
+msgid "Sent operation to apply LAN settings."
+msgstr "LAN設定を適用する操作を送信"
+
+msgid "Sent operation to apply WAN settings."
+msgstr "WAN設定を適用する操作を送信"
+
+msgid "Subnet mask"
+msgstr "サブネットマスク"
+
+msgid "User"
+msgstr "ユーザ"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "e.g. 12:AB:34:CD:56:EF"
+msgstr "(例) 12:AB:34:CD:56:EF"
+
+msgid "e.g. 192.168.0.1"
+msgstr "(例) 192.168.0.1"
+
+msgid "e.g. 192.168.0.10"
+msgstr "(例) 192.168.0.10"
+
+msgid "e.g. 192.168.0.2"
+msgstr "(例) 192.168.0.2"
+
+msgid "e.g. 255.255.255.0"
+msgstr "(例) 255.255.255.0"

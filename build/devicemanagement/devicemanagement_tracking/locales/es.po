@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activate geofence"
+msgstr "Activar geofence"
+
+msgid "Activate motion tracking"
+msgstr "Activar seguimiento de movimiento"
+
+msgid "Changes saved successfully!"
+msgstr "Cambios guardados con éxito!"
+
+msgid "Custom"
+msgstr "Personalizar"
+
+msgid "Deactivate geofence"
+msgstr "Desactivar la geofence"
+
+msgid "Deactivate motion tracking"
+msgstr "Desactivar el seguimiento de movimiento"
+
+msgid "Deselect all markers"
+msgstr "Deseleccionar todos los marcadores"
+
+msgid "Device current position not defined"
+msgstr "Posición actual del dispositivo no definida"
+
+msgid "Last day"
+msgstr "Último día"
+
+msgid "Last hour"
+msgstr "Ultima Hora"
+
+msgid "Last month"
+msgstr "Último mes"
+
+msgid "Last week"
+msgstr "Semana pasada"
+
+msgid "Load more"
+msgstr "Cargar más"
+
+msgid "No tracking events found"
+msgstr "No hay eventos de seguimiento encontrados"
+
+msgid "Operations created"
+msgstr "Operaciones creadas"
+
+msgid "Show GPS data only"
+msgstr "Mostrar sólo datos GPS"
+
+msgid "Show GSM data only"
+msgstr "Mostrar sólo datos GSM"
+
+msgid "Show all data"
+msgstr "Mostrar todos los datos"
+
+msgid "Tracking"
+msgstr "Seguimiento"
+
+msgid "Tracking events"
+msgstr "Eventos de seguimiento"

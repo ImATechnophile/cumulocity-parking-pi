@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_qrCode/services/qrCodePrinter.js:20
+msgid "Popup window failed to open. Please confirm your browser settings."
+msgstr ""
+
+#: core_qrCode/views/index.html:3
+msgid "Print QR code"
+msgstr ""
+
+#: core_qrCode/index.js:51
+#: core_qrCode/index.js:77
+msgid "Print QR codes"
+msgstr ""
+
+#: core_qrCode/index.js:12
+#: core_qrCode/index.js:32
+msgid "QR code"
+msgstr ""

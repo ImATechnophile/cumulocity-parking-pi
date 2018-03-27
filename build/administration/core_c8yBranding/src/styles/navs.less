@@ -1,0 +1,117 @@
+//
+// Navs
+// --------------------------------------------------
+// Base class
+// --------------------------------------------------
+.nav {
+  margin-bottom: 0;
+  padding-left: 0; // Override default ul/ol
+  list-style: none;
+
+  &:extend(.clearfix all);
+  >li {
+    position: relative;
+    display: block;
+    >a {
+      position: relative;
+      display: block;
+      padding: @nav-link-padding;
+      &:hover,
+      &:focus {
+        background-color: @nav-link-hover-bg;
+        text-decoration: none;
+      }
+    } // Disabled state sets text to gray and nukes hover/tab effects
+    &.disabled>a {
+      color: @nav-disabled-link-color;
+      &:hover,
+      &:focus {
+        background-color: transparent;
+        color: @nav-disabled-link-hover-color;
+        text-decoration: none;
+        cursor: @cursor-disabled;
+      }
+    }
+  } // Open dropdowns
+  .open>a {
+    &,
+    &:hover,
+    &:focus {
+      border-color: @link-color;
+      background-color: @nav-link-hover-bg;
+    }
+  } // Nav dividers (deprecated with v3.0.1)
+  //
+  // This should have been removed in v3 with the dropping of `.nav-list`, but
+  // we missed it. We don't currently support this anywhere, but in the interest
+  // of maintaining backward compatibility in case you use it, it's deprecated.
+  .nav-divider {
+    .nav-divider();
+  } // Prevent IE8 from misplacing imgs
+  //
+  // See https://github.com/h5bp/html5-boilerplate/issues/984#issuecomment-3985989
+  >li>a>img {
+    max-width: none;
+  }
+}
+
+// Pills
+// -------------------------
+.nav-pills {
+  >li {
+    float: left; // Links rendered as pills
+    >a {
+      border-radius: @nav-pills-border-radius;
+    }
+    +li {
+      margin-left: 2px;
+    } // Active state
+    &.active>a {
+      &,
+      &:hover,
+      &:focus {
+        background-color: @nav-pills-active-link-hover-bg;
+        color: @nav-pills-active-link-hover-color;
+      }
+    }
+  }
+}
+
+// Stacked pills
+.nav-stacked {
+  >li {
+    float: none;
+    +li {
+      margin-top: 2px;
+      margin-left: 0; // no need for this gap between nav items
+    }
+  }
+}
+
+// Nav variations
+// --------------------------------------------------
+// Justified nav links
+// -------------------------
+.nav-justified {
+  width: 100%;
+  >li {
+    float: none;
+    >a {
+      margin-bottom: 5px;
+      text-align: center;
+    }
+  }
+  >.dropdown .dropdown-menu {
+    top: auto;
+    left: auto;
+  }
+  @media (min-width: @screen-sm-min) {
+    >li {
+      display: table-cell;
+      width: 1%;
+      >a {
+        margin-bottom: 0;
+      }
+    }
+  }
+}

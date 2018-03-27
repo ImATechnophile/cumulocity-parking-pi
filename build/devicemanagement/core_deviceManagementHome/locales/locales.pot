@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceManagementHome/deviceManagementHome.module.js:19
+msgid "Active, critical alarms"
+msgstr ""
+
+#: core_deviceManagementHome/deviceManagementHome.module.js:49
+msgid "Home"
+msgstr ""
+
+#: core_deviceManagementHome/deviceManagementHome.module.js:28
+msgid "Map"
+msgstr ""

@@ -1,0 +1,163 @@
+label.c8y-checkbox {
+  position: relative;
+  display: block;
+  margin: 0;
+  text-transform: none;
+  font-weight: normal;
+  font-size: inherit;
+  line-height: 34px;
+  color: @gray-text;
+  cursor: pointer;
+  letter-spacing: 0;
+  .form-inline & {
+    display: inline-block;
+    line-height: 34px;
+  }
+  input[type="checkbox"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    margin: 0;
+    opacity: 0;
+  }
+  input+span {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 0;
+    color: inherit;
+    text-transform: none;
+    font-weight: normal;
+    font-size: inherit;
+    cursor: pointer;
+     :not(:empty) {
+      padding-right: 20px;
+    }
+    &::before {
+      z-index: 5;
+      display: inline-block;
+      margin-top: 0;
+      width: 24px;
+      height: 24px;
+      border: @input-border-width solid @input-border;
+      border-radius: @input-border-radius;
+      background-color: @input-bg;
+      content: '';
+      vertical-align: middle;
+      .box-shadow(inset 0 1px 1px rgba(0, 0, 0, .075));
+    }
+    &::after {
+      position: absolute;
+      content: '';
+    }
+  }
+  &:hover,
+  input[type="checkbox"]:focus {
+    ~span::before {
+      border-color: @input-border-focus;
+    }
+  }
+  input[type="checkbox"]:checked+span::after {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    display: inline-block;
+    width: 24px;
+    color: @brand-primary;
+    content: "\f00c";
+    text-align: center;
+    font: normal normal normal 18px/1 FontAwesome;
+    line-height: inherit;
+    transform: translate(0, 0);
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  input[disabled],
+  input[disabled]:checked {
+    color: lighten(@gray-medium-dark, 30%);
+    cursor: @cursor-disabled;
+    +span::before {
+      cursor: @cursor-disabled;
+      background-color: @input-bg-disabled;
+    }
+    +span::after {
+      color: @input-border;
+      cursor: @cursor-disabled;
+    }
+  }
+  &.disabled,
+  [disabled] & {
+    color: lighten(@gray-medium-dark, 30%);
+    cursor: @cursor-disabled;
+    span:before {
+      cursor: @cursor-disabled;
+      background-color: @input-bg-disabled;
+    }
+  }
+  &.checkbox-inline {
+    display: inline-block;
+    padding: 0;
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+  &.input-sm,
+  .form-group-sm &,
+  .input-sm & {
+    padding: 0;
+    font-size: 12px;
+    line-height: 20px;
+    span::before {
+      width: 18px;
+      height: 18px;
+      line-height: inherit;
+    }
+    input[type="checkbox"]:checked+span::after {
+      width: 18px;
+      font-size: 12px;
+      line-height: inherit;
+    }
+  }
+}
+
+.list-group-item label.c8y-checkbox {
+  line-height: 24px;
+}
+
+.input-group-addon label.c8y-checkbox {
+  margin: -7px;
+}
+
+// fix height when inside a table
+table,
+.table {
+  .c8y-checkbox {
+    line-height: 1;
+    input[type="checkbox"]:checked+span::after {
+      line-height: 24px;
+    }
+  }
+}
+
+// validation states
+.c8y-checkbox {
+  .has-warning & {
+    color: @brand-warning;
+    input+span::before {
+      border-color: @brand-warning;
+    }
+  }
+  .has-success & {
+    color: @brand-success;
+    input+span::before {
+      border-color: @brand-success;
+    }
+  }
+  .has-error & {
+    color: @brand-danger;
+    input+span::before {
+      border-color: @brand-danger;
+    }
+  }
+}

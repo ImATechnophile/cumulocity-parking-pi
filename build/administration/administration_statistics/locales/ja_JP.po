@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "1 API request, including:"
+msgid_plural "{{requestCount}} API requests, including:"
+msgstr[0] "{{requestCount}} 件のAPIリクエスト、以下を含む : "
+
+msgid "1 device"
+msgid_plural "{{devicesCount}} devices"
+msgstr[0] "{{devicesCount}} 個のデバイス"
+
+msgid "1 device API request"
+msgid_plural "{{deviceRequestCount}} device API requests"
+msgstr[0] "{{deviceRequestCount}} 件のデバイスからのAPIリクエスト"
+
+msgid "1 root device"
+msgid_plural "{{rootDevicesCount}} root devices"
+msgstr[0] "{{rootDevicesCount}} 個のルートデバイス"
+
+msgid "1 user"
+msgid_plural "{{count}} users"
+msgstr[0] "{{count}} 人のユーザ"
+
+msgid "<Not calculated>"
+msgstr "<未計算>"
+
+msgid "Amount of data in use on {{end}}"
+msgstr "{{end}} のデータ使用量"
+
+msgid "Current month usage"
+msgstr "今月の使用状況"
+
+msgid "Last month usage"
+msgstr "先月の使用状況"
+
+msgid "Number of devices on {{end}}, including child devices."
+msgstr "{{end}} のデバイス数（子デバイスを含む）"
+
+msgid "Number of root devices on {{end}}. Does not include child devices."
+msgstr "{{end}}のルートデバイス数（子デバイスを除く）"
+
+msgid "Subscribed apps"
+msgstr "登録済みアプリ"
+
+msgid "The quota calculation is based on the known number of devices, as displayed below."
+msgstr "クォータの計算は、以下に示すように、既知のデバイス数に基づいて行われます"
+
+msgid "Usage between {{start}} - {{end}}"
+msgstr "使用期間: {{start}} - {{end}}"
+
+msgid "calculating number of API requests"
+msgstr "APIリクエスト数を計算中です"
+
+msgid "calculating number of device API requests"
+msgstr "デバイスからのAPIリスエスト数を計算中です"
+
+msgid "calculating number of devices"
+msgstr "デバイス数を計算中です"
+
+msgid "calculating number of users"
+msgstr "ユーザ数を計算中です"
+
+msgid "calculating storage"
+msgstr "ストレージを計算中です"
+
+msgid "{{storageLimit}} storage quota"
+msgstr "{{storageSize}} ストレージクォータ"
+
+msgid "{{storageSize}} storage"
+msgstr "{{storageSize}} のデータ量"

@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceSelector/views/deviceSelectorList.html:8
+msgid "(1 child)"
+msgid_plural "({{$count}} children)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core_deviceSelector/views/deviceSelector.html:40
+msgid "Deselect all"
+msgstr ""
+
+#: core_deviceSelector/controllers/deviceSelectorListCtrl.js:72
+msgid "Device {{id}}"
+msgstr ""
+
+#: core_deviceSelector/controllers/deviceSelectorComboCtrl.js:19
+#: core_deviceSelector/controllers/deviceSelectorCtrl.js:119
+msgid "Device's name or value of any device's property"
+msgstr ""
+
+#: core_deviceSelector/views/deviceSelectorCombo.html:21
+msgid "No assets or devices found for '{{searchData.lastText}}'"
+msgstr ""
+
+#: core_deviceSelector/views/deviceSelector.html:35
+msgid "No results found."
+msgstr ""
+
+#: core_deviceSelector/controllers/deviceSelectorComboCtrl.js:35
+msgid "None"
+msgstr ""
+
+#: core_deviceSelector/controllers/deviceSelectorComboCtrl.js:205
+msgid "Root Device"
+msgstr ""
+
+#: core_deviceSelector/views/deviceSelector.html:27
+msgid "Searching devices…"
+msgstr ""
+
+#: core_deviceSelector/views/deviceSelector.html:39
+msgid "Select all"
+msgstr ""
+
+#: core_deviceSelector/controllers/deviceSelectorComboCtrl.js:36
+msgid "Selection change is disabled."
+msgstr ""
+
+#: core_deviceSelector/views/deviceSelector.html:21
+msgid "Use the input field above to search for devices."
+msgstr ""

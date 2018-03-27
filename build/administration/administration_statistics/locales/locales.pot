@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_statistics/controllers/statistics.js:159
+msgid "1 API request, including:"
+msgid_plural "{{requestCount}} API requests, including:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_statistics/controllers/statistics.js:164
+msgid "1 device"
+msgid_plural "{{devicesCount}} devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_statistics/controllers/statistics.js:160
+msgid "1 device API request"
+msgid_plural "{{deviceRequestCount}} device API requests"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_statistics/controllers/statistics.js:163
+msgid "1 root device"
+msgid_plural "{{rootDevicesCount}} root devices"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_statistics/controllers/statistics.js:174
+msgid "1 user"
+msgid_plural "{{count}} users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: administration_statistics/controllers/statistics.js:137
+msgid "<Not calculated>"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:65
+msgid "Amount of data in use on {{end}}"
+msgstr ""
+
+#: administration_statistics/views/index.html:5
+msgid "Current month usage"
+msgstr ""
+
+#: administration_statistics/views/index.html:41
+msgid "Last month usage"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:73
+msgid "Number of devices on {{end}}, including child devices."
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:69
+msgid "Number of root devices on {{end}}. Does not include child devices."
+msgstr ""
+
+#: administration_statistics/views/index.html:69
+msgid "Subscribed apps"
+msgstr ""
+
+#: administration_statistics/views/index.html:22
+msgid "The quota calculation is based on the known number of devices, as displayed below."
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:57
+msgid "Usage between {{start}} - {{end}}"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:29
+msgid "calculating number of API requests"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:30
+msgid "calculating number of device API requests"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:32
+#: administration_statistics/controllers/statistics.js:34
+msgid "calculating number of devices"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:33
+msgid "calculating number of users"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:31
+msgid "calculating storage"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:162
+msgid "{{storageLimit}} storage quota"
+msgstr ""
+
+#: administration_statistics/controllers/statistics.js:161
+msgid "{{storageSize}} storage"
+msgstr ""

@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add permission"
+msgstr "アクセス権限を追加"
+
+msgid "Add widget"
+msgstr "ウィジェットを追加"
+
+msgid "Add widget to dashboard"
+msgstr "ウィジェットをダッシュボードに追加"
+
+msgid "Apply dashboard to all devices of type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "ダッシュボードにすべてのデバイスタイプ<i>{{dashboard.deviceTypeValue}}</i>を適用"
+
+msgid "Are you sure?"
+msgstr "本当に実行しますか？"
+
+msgid "Border"
+msgstr "境界線"
+
+msgid "Bottom margin"
+msgstr "下余白"
+
+msgid "Branded"
+msgstr "テーマカラー"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Content style"
+msgstr "コンテンツスタイル"
+
+msgid "Copy dashboard"
+msgstr "ダッシュボードをコピー"
+
+msgid "Create dashboard"
+msgstr "ダッシュボードを作成"
+
+msgid "Create widget"
+msgstr "ウィジェットを作成"
+
+msgid "Customize widget style"
+msgstr "ウィジェットのスタイルをカスタマイズ"
+
+msgid "Dark"
+msgstr "暗色"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Dashboard copied. Navigate to the desired device and select \"Paste dashboard\""
+msgstr "ダッシュボードがコピーされました。目的のデバイスに移動し、 \"ダッシュボードを貼り付け\" を選択します"
+
+msgid "Dashboard copied. Navigate to the desired group and select \"Paste dashboard\""
+msgstr "ダッシュボードがコピーされました。目的のグループに移動し、 \"ダッシュボードを貼り付け\" を選択します"
+
+msgid "Dashboard default"
+msgstr "デフォルトダッシュボード"
+
+msgid "Dashboard info"
+msgstr "ダッシュボード情報"
+
+msgid "Dashboard layout"
+msgstr "ダッシュボードのレイアウト"
+
+msgid "Dashboard theme"
+msgstr "ダッシュボードのテーマ"
+
+msgid "Dashboard visible to all users"
+msgstr "すべてのユーザに表示されるダッシュボード"
+
+msgid "Default widget header style"
+msgstr "デフォルトのウィジェットのヘッダースタイル"
+
+msgid "Default widget margin"
+msgstr "ウィジェット間のデフォルトの余白"
+
+msgid "Device dashboards can only be copied into a device."
+msgstr "デバイスダッシュボードはデバイスへのみコピーできます"
+
+msgid "Do you want to remove the dashboard named \"{{name}}\" from all devices of the type \"{{deviceTypeValue}}\"?"
+msgstr "タイプ \"{{deviceTypeValue}}\" のすべてのデバイスから \"{{name}}\" という名前のダッシュボードを削除しますか？"
+
+msgid "Do you want to remove the dashboard named \"{{name}}\"?"
+msgstr " \"{{name}}\" という名前のダッシュボードを削除しますか？"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit dashboard"
+msgstr "ダッシュボードを編集"
+
+msgid "Edit widget"
+msgstr "ウィジェットを編集"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">User Guide</a>."
+msgstr "詳細については、<a c8y-guide-href=\"users-guide/cockpit/#dashboards\">ユーザガイド</a>をご覧ください"
+
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "Group dashboards can only be copied into a group."
+msgstr "グループダッシュボードはグループにのみコピーできます"
+
+msgid "Header style"
+msgstr "ヘッダースタイル"
+
+msgid "Hidden"
+msgstr "非表示"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Left margin"
+msgstr "左余白"
+
+msgid "Light"
+msgstr "淡色"
+
+msgid "Location in navigation"
+msgstr "ナビゲーション内の位置"
+
+msgid "Lock"
+msgstr "ロック"
+
+msgid "Lock/unlock this dashboard"
+msgstr "このダッシュボードのロック/ロック解除"
+
+msgid "Margin"
+msgstr "余白"
+
+msgid "Menu label"
+msgstr "メニューラベル"
+
+msgid "Menu label to display in submenu when dashboard is attached"
+msgstr "ダッシュボードが接続されているときにサブメニューに表示するメニューラベル"
+
+msgid "No widgets to display."
+msgstr "表示できるウィジェットはありません"
+
+msgid "Only dashboards from devices or groups can be copied"
+msgstr "デバイスまたはグループのダッシュボードのみをコピーできます"
+
+msgid "Only dashboards with widgets referencing the current device can be copied."
+msgstr "現在のデバイスを参照するウィジェットを持つダッシュボードのみをコピーできます"
+
+msgid "Only dashboards with widgets referencing the current group can be copied."
+msgstr "現在のグループを参照するウィジェットを持つダッシュボードのみをコピーできます"
+
+msgid "Order in navigation menu (10000 first, -10000 last)"
+msgstr "ナビゲーションメニュー表示順序 (10000 最初、-10000 最後)"
+
+msgid "Overlay"
+msgstr "重ね配置"
+
+msgid "Permission"
+msgstr "アクセス権限"
+
+msgid "Please add widgets to this dashboard."
+msgstr "このダッシュボードにウィジェットを追加してください"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Print screen of {{name}}"
+msgstr "{{name}}　の印刷画面"
+
+msgid "REPORT"
+msgstr "レポート"
+
+msgid "Regular"
+msgstr "通常"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove dashboard"
+msgstr "ダッシュボードを削除"
+
+msgid "Restore dashboard"
+msgstr "ダッシュボードを復元"
+
+msgid "Restore default dashboard"
+msgstr "デフォルトダッシュボードを復元"
+
+msgid "Right margin"
+msgstr "右マージン"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select content style"
+msgstr "コンテンツスタイルを選択"
+
+msgid "Select dashboard"
+msgstr "ダッシュボードを選択"
+
+msgid "Select header style"
+msgstr "ヘッダースタイルを選択"
+
+msgid "Select or search"
+msgstr "選択または検索"
+
+msgid "Select or search icon"
+msgstr "アイコンを選択または検索"
+
+msgid "Select report"
+msgstr "レポートを選択"
+
+msgid "Select theme"
+msgstr "テーマを選択"
+
+msgid "Select widget"
+msgstr "ウィジェットを選択"
+
+msgid "Send dashboard via e-mail"
+msgstr "ダッシュボードをEメールで送信"
+
+msgid "Send via e-mail"
+msgstr "Eメールで送信"
+
+msgid "Target assets or devices"
+msgstr "対象のアセットもしくはデバイス"
+
+msgid "There are no dashboards available"
+msgstr "利用可能なダッシュボードはありません"
+
+msgid "This dashboard is shared between all devices of the type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "このダッシュボードは、<i>{{dashboard.deviceTypeValue}}</i>タイプのすべてのデバイス間で共有されています"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "この機能は非推奨です。 まだ完全に機能していますが、アクセス権限を設定するため、新しい<a href=\"/apps/administration#roles\">ロール</a>機能を使用するべきです"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Toggle full screen"
+msgstr "フルスクリーンON/OFF"
+
+msgid "Top margin"
+msgstr "上マージン"
+
+msgid "Transparent"
+msgstr "透明"
+
+msgid "Unlock"
+msgstr "ロック解除"
+
+msgid "Welcome"
+msgstr "ようこそ"
+
+msgid "Widget"
+msgstr "ウィジェット"
+
+msgid "Widget example content."
+msgstr "ウィジェットの表示例"
+
+msgid "Widget margins"
+msgstr "ウィジェット余白"
+
+msgid "Widget title"
+msgstr "ウィジェットタイトル"
+
+msgid "Your dashboard is locked now."
+msgstr "ダッシュボードは現在ロックされています"
+
+msgid "Your dashboard is unlocked now."
+msgstr "ダッシュボードのロックが解除されました"
+
+msgid "no description"
+msgstr "説明はありません"

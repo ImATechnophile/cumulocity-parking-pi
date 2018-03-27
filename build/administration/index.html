@@ -1,0 +1,178 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <title>Cumulocity - Administration</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39; &#39;unsafe-inline&#39; http: https: ws: wss:; connect-src &#39;self&#39; *.billwerk.com http: https: ws: wss:; script-src &#39;self&#39; *.billwerk.com *.mapquestapi.com *.twitter.com *.twimg.com &#39;unsafe-inline&#39; data:; style-src * &#39;unsafe-inline&#39;; img-src * data:; font-src * data:; frame-src *;">
+    <link rel="shortcut icon" href="core_c8yBranding/img/favicon.ico">
+    <!--MODULES_CSS-->
+    <link rel="stylesheet" href="core_c8yBranding/style.css">
+    <!--/MODULES_CSS-->
+    <style type="text/css">
+      [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {display: none !important;}
+    </style>
+  </head>
+  <body>
+
+    <div class="loading">
+      <img class="mainlogo">
+
+      <div class="progress progress-striped active hidden" id="assetProgressBar">
+        <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+
+      <form role="form" class="loginForm hidden">
+        <div class="input-group input-group-lg form-group tenantField" id="tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant" >
+        </div>
+
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-user"></i>
+          </span>
+          <input type="text" name="user" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Username">
+        </div>
+
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="password" class="form-control" placeholder="Password">
+        </div>
+
+        <div class="checkbox pull-right">
+          <label>
+            <input type="checkbox" name="remember"> Remember me
+          </label>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Login</button>
+        <div style="margin-top: 10px;">
+          <a class="btn btn-link pull-right forgottenPasswordLink">Forgot password?</a>
+        </div>
+      </form>
+
+      <form role="form" class="passwordResetRequestForm hidden">
+        <div class="input-group input-group-lg form-group tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-envelope"></i>
+          </span>
+            <input type="email" name="email" class="form-control" placeholder="E-mail address" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Reset password</button>
+      </form>
+
+      <form role="form" class="newPasswordForm hidden">
+        <div class="input-group input-group-lg form-group tenantField">
+          <span class="input-group-addon">
+            <i class="fa fa-users"></i>
+          </span>
+          <input type="text" name="tenant" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Tenant">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="new-password" class="form-control" placeholder="New password">
+        </div>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-lock"></i>
+          </span>
+          <input type="password" name="new-password-confirm" class="form-control" placeholder="Confirm new password">
+        </div>
+
+        <div class="password-strength">
+          <span class="password-strength-label">password strength</span>
+          <span id="passwordStrengthLabel" class="pull-right"></span>
+          <div>
+            <div id="passwordStrengthBox"></div>
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Set password</button>
+      </form>
+
+      <form role="form" class="SMStoken hidden">
+        <h4>
+          Insert the verification code you received by SMS.
+        </h4>
+        <div class="input-group input-group-lg form-group">
+          <span class="input-group-addon">
+            <i class="fa fa-mobile"></i>
+          </span>
+          <input type="text" name="smstoken" autocapitalize="off" autocorrect="off" class="form-control" placeholder="Verification code">
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg btn-block form-group">Verify</button>
+        <div style="margin-top: 10px;">
+          <a class="loginAgain" style="cursor: pointer;">Login as a different user</a>
+          <a class="pull-right resendSMSMLink" style="cursor: pointer;">Send new verification code</a>
+        </div>
+      </form>
+
+      <div class="alert alert-success hidden" style="margin-top: 55px;" id="success"></div>
+      <div class="alert alert-danger hidden" style="margin-top: 55px;" id="error"></div>
+    </div>
+
+    <div class="ng-cloak" id="app" c8y-main-app></div>
+    <script>(function(){var b=document.getElementById('assetProgressBar');b && (b.className = b.className.replace(/hidden/,''));b=document.querySelectorAll('#assetProgressBar >.progress-bar')[0];if (b) {b._w=1;window.updateProgress=setInterval(function(){ b.style.width=b._w + '%'; b._w += 5;},300);}})();window.trybootstrap=function (){if(window.bootstrap){window.bootstrap(); window.bootstrap=angular.noop;}else{setTimeout(window.trybootstrap, 300)}}</script>
+    <script>!function(a){"use strict";var b=function(b,c,d){function j(a){return e.body?a():void setTimeout(function(){j(a)})}function l(){f.addEventListener&&f.removeEventListener("load",l),f.media=d||"all"}var g,e=a.document,f=e.createElement("link");if(c)g=c;else{var h=(e.body||e.getElementsByTagName("head")[0]).childNodes;g=h[h.length-1]}var i=e.styleSheets;f.rel="stylesheet",f.href=b,f.media="only x",j(function(){g.parentNode.insertBefore(f,c?g:g.nextSibling)});var k=function(a){for(var b=f.href,c=i.length;c--;)if(i[c].href===b)return a();setTimeout(function(){k(a)})};return f.addEventListener&&f.addEventListener("load",l),f.onloadcssdefined=k,k(l),f};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);</script>
+    <script>C8Y_NG_MODULES=["c8y.ui","c8y.users","c8y.parts.aclManagement","c8y.parts.oauth","c8y.binaryArtefactsManagement","c8y.smartRules","c8y.cockpit.map","c8y.cockpit.dataPointExplorer","c8y.deviceSelector","c8y.core.measurements2","leaflet-directive","c8y.tenants","c8y.tenantApplications","c8y.tenantStatistics","c8y.csvExporter","c8y.notifications","c8y.roles","c8y.userRoles","c8y.propertiesLibrary","c8y.platformConfiguration","c8y.dataBroker","c8y.tenantPolicies","c8y.actilityConnectivitySettings","c8y.impactSettings","c8y.enterpriseEdition","c8y.homeAdministration","c8y.parts.applicationSettings","c8y.eventProcessing","c8y.parts.alarmMapping","c8y.parts.applications","c8y.parts.statistics","c8y.pluginEditor","c8y.parts.password","c8y.parts.tfaSettings","c8y.parts.retentionRules","c8y.parts.appArchives","c8y.parts.connectivitySettings","c8y.auditLogs","c8y.parts.smsGateway","c8y.parts.storageLimitEmail"];C8Y_APP={"langs":["de","en","es","fr","ja_JP"],"nodebug":1,"core_path":"core/","data_path":"c8ydata"};C8Y_APP.C8Y_INSTANCE_OPTIONS={"tabsHorizontal":true};C8Y_APP.modules=C8Y_NG_MODULES;delete window.C8Y_NG_MODULES;</script>
+    <!--MODULES_CSS_DEFER--><script>["core/style.css","core_users/style.css","core_smartRules/style.css","core_map/style.css","core_dataPointExplorer/style.css","core_deviceSelector/style.css","core_measurements/style.css","core_leaflet-directive/style.css","administration_auditLogs/style.css"].forEach(function(f){loadCSS(f)})</script><!--/MODULES_CSS_DEFER-->
+    <!--MODULES_JS-->
+    <script defer src="core/main.js"></script>
+    <script defer src="c8ydata/main.js"></script>
+    <script defer src="core_users/main.js"></script>
+    <script defer src="core_aclManagement/main.js"></script>
+    <script defer src="core_oauth/main.js"></script>
+    <script defer src="core_binaryArtefactsManagement/main.js"></script>
+    <script defer src="core_smartRules/main.js"></script>
+    <script defer src="core_map/main.js"></script>
+    <script defer src="core_dataPointExplorer/main.js"></script>
+    <script defer src="core_deviceSelector/main.js"></script>
+    <script defer src="core_measurements/main.js"></script>
+    <script defer src="core_leaflet-directive/main.js"></script>
+    <script defer src="core_tenants/main.js"></script>
+    <script defer src="core_tenantApplications/main.js"></script>
+    <script defer src="core_tenantStatistics/main.js"></script>
+    <script defer src="core_csvExporter/main.js"></script>
+    <script defer src="core_notifications/main.js"></script>
+    <script defer src="core_roles/main.js"></script>
+    <script defer src="core_userRoles/main.js"></script>
+    <script defer src="core_propertiesLibrary/main.js"></script>
+    <script defer src="core_platformConfiguration/main.js"></script>
+    <script defer src="core_dataBroker/main.js"></script>
+    <script defer src="core_tenantPolicies/main.js"></script>
+    <script defer src="core_actilityProviderSettings/main.js"></script>
+    <script defer src="core_impactSettings/main.js"></script>
+    <script defer src="core_enterpriseEdition/main.js"></script>
+    <script defer src="administration_homeAdministration/main.js"></script>
+    <script defer src="administration_applicationSettings/main.js"></script>
+    <script defer src="administration_eventProcessing/main.js"></script>
+    <script defer src="administration_alarmMapping/main.js"></script>
+    <script defer src="administration_applications/main.js"></script>
+    <script defer src="administration_statistics/main.js"></script>
+    <script defer src="administration_pluginEditor/main.js"></script>
+    <script defer src="administration_password/main.js"></script>
+    <script defer src="administration_tfaSettings/main.js"></script>
+    <script defer src="administration_retentionRules/main.js"></script>
+    <script defer src="administration_archivesEditor/main.js"></script>
+    <script defer src="administration_connectivitySettings/main.js"></script>
+    <script defer src="administration_auditLogs/main.js"></script>
+    <script defer src="administration_SMSGatewayForm/main.js"></script>
+    <script defer src="administration_storageLimitEmail/main.js"></script>
+    <!--/MODULES_JS-->
+    <script defer src="data:application/javascript,window.trybootstrap()"></script></body>
+</html>

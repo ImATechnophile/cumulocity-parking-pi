@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:69
+msgid "Close relay"
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:113
+msgid "Failed to execute operation beacuse of reason: \"{{failureReason}}\"!"
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:117
+msgid "Failed to execute operation!"
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:65
+msgid "Open relay"
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.html:2
+msgid "Operation not supported by this device"
+msgstr ""
+
+#: core_deviceControlRelay/index.js:10
+msgid "Relay control"
+msgstr ""
+
+#: core_deviceControlRelay/index.js:11
+msgid "Remote control a device's relay switch."
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:89
+msgid "Sent operation: \"{{description | translate}}\"!"
+msgstr ""
+
+#: core_deviceControlRelay/relayControl/relayControl.controller.js:103
+msgid "Successfully executed operation: \"{{description | translate}}\"!"
+msgstr ""

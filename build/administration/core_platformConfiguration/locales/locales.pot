@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:30
+msgid "Applications"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:210
+msgid "Comma-separated list of application names"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationForm.html:1
+#: core_platformConfiguration/platformConfigurationUi.provider.js:151
+msgid "Configuration"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationForm.component.js:65
+msgid "Configuration reloaded!"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationForm.component.js:60
+msgid "Configuration saved successfully!"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:92
+msgid "Data export"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:209
+msgid "Default applications for new tenants"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:349
+msgid "E-mail sent after over-limit data has been removed"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:354
+msgid "E-mail sent after over-limit data has been removed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:336
+msgid "E-mail sent one day before data removal is performed"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:341
+msgid "E-mail sent one day before data removal is performed. Placeholders: {tenant}, {size} - storage usage in %"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:80
+msgid "E-mail server"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:268
+#: core_platformConfiguration/platformConfigurationUi.provider.js:304
+msgid "E-mail subject"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:309
+msgid "E-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:385
+msgid "Enable support user"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:184
+msgid "Enforce \"green\" passwords for all users"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:230
+msgid "Host"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:296
+msgid "Invitation e-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:204
+msgid "Leave empty to skip this constraint"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:189
+msgid "Leave empty to use value from tenant options"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:348
+msgid "Limit exceeded e-mail subject"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:353
+msgid "Limit exceeded e-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:203
+msgid "Minimal length of \"green\" password"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:250
+msgid "Password"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:288
+msgid "Password change confirmation e-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:195
+msgid "Password history size"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:61
+msgid "Password reset"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:273
+msgid "Password reset e-mail template (when address is known)"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:281
+msgid "Password reset e-mail template (when address is not known)"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:188
+msgid "Password validity limit (days)"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:37
+msgid "Passwords"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:373
+#: core_platformConfiguration/platformConfigurationUi.provider.js:378
+msgid "Placeholder: {tenant} - suspended tenant's id"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:323
+msgid "Placeholder: {token} - generated token"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:305
+#: core_platformConfiguration/platformConfigurationUi.provider.js:310
+msgid "Placeholders: {host}, {binaryId}. Whole link to result file is: {host}/inventory/binaries/{binaryId}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:289
+msgid "Placeholders: {host}, {tenant-domain}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:274
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to reset password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:297
+msgid "Placeholders: {host}, {tenant-domain}, {token}. Whole link to setup password can be e.g.: {host}/apps/devicemanagement/index.html?token={token}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:318
+msgid "Placeholders: {user}, {exportApi}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:237
+msgid "Port"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:386
+msgid "Possible values: true, false, date until user should remain enabled"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:332
+msgid "Possible values: url string, \"false\" (hides the link), leave empty to use default"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:217
+msgid "Protocol"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationForm.html:17
+msgid "Save configuration"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:361
+msgid "Send e-mail to suspended tenant's administrator"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:264
+msgid "Send notifications to unknown e-mail addresses"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:257
+msgid "Sender address"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:152
+msgid "Settings"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:101
+msgid "Storage limit"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:269
+msgid "Subject used for all password reset related e-mails"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:54
+msgid "Support link"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:73
+msgid "Support user"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:111
+msgid "Suspending tenants"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:365
+msgid "Tenant suspended e-mail additional receiver"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:372
+msgid "Tenant suspended e-mail subject"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:377
+msgid "Tenant suspended e-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:47
+msgid "Two-factor authentication"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:330
+msgid "Url"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:317
+msgid "User unauthorized error message"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:246
+msgid "Username"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:322
+msgid "Verification token SMS template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:335
+msgid "Warning e-mail subject"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:340
+msgid "Warning e-mail template"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:199
+msgid "e.g.: 10"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:242
+msgid "e.g.: 25"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:326
+msgid "e.g.: Verification code: {token}"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:213
+msgid "e.g.: administration,devicemanagement,cockpit"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:233
+msgid "e.g.: localhost"
+msgstr ""
+
+#: core_platformConfiguration/platformConfigurationUi.provider.js:389
+msgid "e.g.: {{expireDate}}"
+msgstr ""

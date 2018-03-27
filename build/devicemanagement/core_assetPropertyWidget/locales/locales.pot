@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_assetPropertyWidget/index.js:12
+msgid "Asset properties"
+msgstr ""
+
+#: core_assetPropertyWidget/views/main.html:20
+msgid "Cancel"
+msgstr ""
+
+#: core_assetPropertyWidget/main.controller.js:74
+msgid "Changes saved!"
+msgstr ""
+
+#: core_assetPropertyWidget/views/main.html:18
+msgid "Edit"
+msgstr ""
+
+#: core_assetPropertyWidget/index.js:13
+msgid "Editable form for asset properties."
+msgstr ""
+
+#: core_assetPropertyWidget/views/main.html:28
+msgid "Save"
+msgstr ""

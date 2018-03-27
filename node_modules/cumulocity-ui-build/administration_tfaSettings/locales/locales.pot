@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_tfaSettings/tfa-settings.html:15
+msgid "Allow two-factor authentication"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:24
+msgid "Limit token validity for"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:41
+msgid "Limit verification code validity for"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:58
+msgid "Save TFA settings"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:3
+msgid "TFA Settings"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.component.js:95
+msgid "TFA settings updated successfully!"
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:19
+msgid "You cannot edit TFA settings because they are disabled on the platform level."
+msgstr ""
+
+#: administration_tfaSettings/tfa-settings.html:35
+#: administration_tfaSettings/tfa-settings.html:52
+msgid "minutes"
+msgstr ""

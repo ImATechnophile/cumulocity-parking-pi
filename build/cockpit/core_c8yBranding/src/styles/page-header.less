@@ -1,0 +1,120 @@
+// PAGE TITLE
+.page-header {
+  c8y-ui-title .title {
+    margin-bottom: 0;
+    max-height: 33px;
+    letter-spacing: -0.03em;
+    font-weight: 200;
+    .clearfix();
+    h1,
+    .h1 {
+      display: inline-block;
+      margin: 0;
+      max-width: calc(~"100% - 50px");
+      width: 100%;
+      letter-spacing: -0.03em;
+      font-weight: 200;
+      font-size: 26px;
+      &:empty {
+        display: none;
+      }
+      .form-group.editable {
+        position: relative;
+        max-width: calc(~"100% - 15px");
+        .form-control {
+          letter-spacing: -0.03em;
+          font-weight: 200;
+          line-height: 29px;
+        }
+        label.editable-addon {
+          position: absolute;
+          top: 4px;
+          left: 100%;
+          margin-left: 0;
+          line-height: 30px;
+        }
+      }
+      .c8y-icon {
+        margin-top: -9px;
+        margin-left: -6px;
+      }
+    }
+    .h1>.form-group {
+      display: inline-block;
+      margin: -2px 0 -1px -8px;
+      line-height: 1;
+      .spinner {
+        position: absolute;
+        left: 100%;
+        display: inline-block;
+        margin-left: -5px;
+        height: 30px;
+        vertical-align: middle;
+      }
+    }
+    @media(max-width:@screen-xs-max) {
+      max-height: 22px;
+      h1 {
+        font-size: 18px;
+      }
+    }
+  }
+  div.breadcrumbs {
+    margin: 0 -10px;
+    padding: 0 10px;
+  }
+}
+
+// APP HEADER =============================
+.app-header {
+  margin-bottom: @margin-base;
+  @media(min-width: @screen-md-min) {
+    display: flex;
+    flex-flow: row nowrap;
+  }
+  .app-name {
+    display: flex;
+    align-items: center;
+    flex: 0 0 auto;
+    flex-flow: row nowrap;
+    margin-bottom: @margin-base;
+    .c8y-icon {
+      flex: 0 0 auto;
+      margin-top: -7px;
+      margin-left: -10px;
+      font-size: 32px;
+    }
+    .app-noicon {
+      margin: 0 10px 0 0;
+    }
+    .app-title {
+      display: flex;
+      flex-flow: column nowrap;
+      h1,
+      p {
+        margin: 0;
+      }
+      h1 {
+        font-size: 26px;
+        &:before {
+          content: initial;
+        }
+      }
+    }
+  }
+  .app-actions {
+    flex: 0 0 auto;
+    margin-left: auto;
+  }
+}
+
+.page-footer {
+  padding: 20px 0 0;
+  min-height: 90px;
+  hr {
+    display: none;
+  }
+  .btn-primary {
+    min-width: 120px;
+  }
+}

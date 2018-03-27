@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:91
+msgid "Bill validator"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:96
+msgid "Cashless 1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:101
+msgid "Cashless 2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:86
+msgid "Coin changer"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:282
+msgid "Confirm Free vend mode?"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:20
+msgid "DDCMP on RS232 #1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:27
+msgid "DDCMP on RS232 #2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:23
+msgid "DEX on RS232 #1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:30
+msgid "DEX on RS232 #2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:138
+msgid "Device related log information will be shown under \"<b>Events</b>\"."
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:47
+msgid "Disable MDB sniffer mode"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:10
+msgid "Executive"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:41
+msgid "Force not to use display"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:16
+msgid "Free vend"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:13
+msgid "MDB"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:122
+msgid "Maximum Credit"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:35
+msgid "Operate as MDB Communications Gateway"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:78
+msgid "Operation created"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:66
+msgid "Options"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:13
+msgid "Protocol"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:57
+msgid "Remote cashless"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:246
+msgid "Request device Log"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:134
+#: devicemanagement_vendMeDeviceControl/views/index.html:136
+msgid "Request device log"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:107
+msgid "Sales Configuration"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:34
+msgid "Serial #1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:50
+msgid "Serial #2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:258
+msgid "Set max credit to"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:272
+msgid "Set protocol"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:53
+msgid "Sielaff CGW variant of Communications Gateway"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:50
+msgid "Sielaff OLM2 variant of Communications Gateway"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:283
+msgid "This setting will enable all the products to be retrieved without payment. Are you sure you want to activate Free vend?"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:130
+msgid "Update Maximum Credit"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:77
+msgid "Update protocol configuration"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:118
+msgid "Update vending machine"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:61
+msgid "Use DDCMP list #2, RS232 #2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:68
+msgid "Use DDCMP list 2 on RS232 #1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:44
+msgid "Use FTL File Id 2 (default 1)"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:112
+msgid "Use Reset Counters"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:71
+msgid "Use enhanced DDCMP @ 2400 on RS232 #1"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:64
+msgid "Use enhanced DDCMP @ 2400 on RS232 #2"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:38
+msgid "VMC supports undefined credit"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/views/index.html:81
+msgid "Vending Machine Settings"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/index.js:19
+msgid "Vendme"
+msgstr ""
+
+#: devicemanagement_vendMeDeviceControl/controllers/vendMeDeviceControl.js:258
+msgid "cents"
+msgstr ""

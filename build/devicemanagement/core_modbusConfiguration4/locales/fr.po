@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Add OPCUA device"
+msgstr "Ajouter un appareil OPCUA"
+
+msgid "Add {{mode}} device"
+msgstr "Ajouter {{mode}} l’appareil"
+
+msgid "Adding"
+msgstr "Ajout en cours"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Addresses from 248 up to 254 are not allowed."
+msgstr "Les adresses de 248 à 254 ne sont pas autorisées."
+
+msgid "Baud rate"
+msgstr "Débit en bauds"
+
+msgid "CAN Bus"
+msgstr "CAN Bus"
+
+msgid "CAN Bus communication"
+msgstr "Communication CAN Bus"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Confirm delete?"
+msgstr "Confirmer la suppression ?"
+
+msgid "Data bits"
+msgstr "Bits de données"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Device successfully deleted!"
+msgstr "Appareil supprimé avec succès!"
+
+msgid "Device type"
+msgstr "Type d'appareil"
+
+msgid "Directory path"
+msgstr "Chemin du répertoire"
+
+msgid "Do you really want to remove device \"{{name}}\" with id {{id}}?"
+msgstr "Voulez-vous vraiment supprimer l’appareil \" {{name}} \" avec l’id {{identificateur}} ?"
+
+msgid "Failed to add new child device."
+msgstr "L'addition d'un nouvel appareil enfant a échouée."
+
+msgid "IP address"
+msgstr "Adresse IP"
+
+msgid "Modbus"
+msgstr "Modbus"
+
+msgid "Modbus communication"
+msgstr "Communication Modbus"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New child device has been added!"
+msgstr "Nouveau dispositif de l’enfant a été ajouté !"
+
+msgid "OPCUA"
+msgstr "OPCUA"
+
+msgid "OPCUA communication"
+msgstr "Communication OPCUA"
+
+msgid "Only natural numbers allowed!"
+msgstr "Seulement des nombres naturels autorisés!"
+
+msgid "Operation to apply settings has been sent!"
+msgstr "L'opération d'application des paramètres a été envoyée!"
+
+msgid "Parity"
+msgstr "Parité"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Polling rate"
+msgstr "Taux de polling"
+
+msgid "Polling rate should be equal to or smaller than transmit rate!"
+msgstr "Le taux de polling doit être égal ou inférieur au taux de transmission !"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Save changes"
+msgstr "Enregistrer les modifications"
+
+msgid "Select a device type…"
+msgstr "Sélectionner un type d'appareil ..."
+
+msgid "Serial communication"
+msgstr "Communication en série"
+
+msgid "Set CAN Bus configuration"
+msgstr "Définir une configuration du Bus CAN"
+
+msgid "Set modbus configuration"
+msgstr "Définir la configuration de modbus"
+
+msgid "Set serial configuration"
+msgstr "Définir une configuration en série"
+
+msgid "Stop bits"
+msgstr "Bits d'arrêt"
+
+msgid "The IP address format is invalid!"
+msgstr "Le format d’adresse IP n’est pas valide !"
+
+msgid "The URL format is invalid! The only supported protocols are http, https and opc.tcp."
+msgstr "Le format d’URL n’est pas valide ! Les seuls protocoles supportés sont http, https et opc.tcp."
+
+msgid "These addresses are already in use!"
+msgstr "Ces adresses sont déjà utilisées !"
+
+msgid "This address is already in use!"
+msgstr "L'adresse est déjà utilisée!"
+
+msgid "This field is required!"
+msgstr "Ce champ est requis!"
+
+msgid "Transmit rate"
+msgstr "Taux de transmission"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+msgid "seconds"
+msgstr "secondes"

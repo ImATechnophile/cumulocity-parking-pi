@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Asset notes"
+msgstr "Notas de activo"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Displays editable asset notes."
+msgstr "Muestra notas de activos editables."
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "No notes yet!"
+msgstr "¡No hay notas todavía!"
+
+msgid "Notes saved successfully!"
+msgstr "¡Notas guardadas correctamente!"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "{{vm.notes.lastUpdated | absoluteDate}} by {{vm.notes.user}}"
+msgstr "{{vm.notes.lastUpdated | absoluteDate}} por {{vm.notes.user}}"

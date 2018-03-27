@@ -1,0 +1,2 @@
+/* parking_pi_parking-pi-appIcon 1.0.0 2018-03-27T12:29:10+05:30 NO_COMMIT_INFO */
+!function(){"use strict";function n(n){n.parking_pi="parking"}n.$inject=["c8yAppIconsList"],angular.module("c8y.ui").run(n)}(),function(){"use strict";function n(n){}angular.module("c8y.ui").run(["$templateCache",n])}();

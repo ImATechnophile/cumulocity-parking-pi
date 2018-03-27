@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Active Alarm Status"
+msgstr "アクティブなアラームステータス"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add / edit icon map"
+msgstr "アイコンマップの追加 / 編集"
+
+msgid "Add condition"
+msgstr "状態を追加"
+
+msgid "Add custom column"
+msgstr "カスタム列を追加"
+
+msgid "Add device shell operation button"
+msgstr "デバイスシェル操作ボタンを追加"
+
+msgid "Add icon map"
+msgstr "アイコンマップを追加"
+
+msgid "Add map"
+msgstr "地図を追加"
+
+msgid "Add operation"
+msgstr "操作を追加"
+
+msgid "Alarm status"
+msgstr "アラームステータス"
+
+msgid "Alarms (3 mo.)"
+msgstr "アラーム (過去3ヵ月)"
+
+msgid "Alarms (today)"
+msgstr "アラーム (今日)"
+
+msgid "Asset table"
+msgstr "アセットテーブル"
+
+msgid "Availability status"
+msgstr "稼働率ステータス"
+
+msgid "Button configuration"
+msgstr "ボタンの構成"
+
+msgid "Button label"
+msgstr "ボタンのラベル"
+
+msgid "Button to execute an operation on a device"
+msgstr "デバイス上で操作を実行するボタン"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Chosen operation"
+msgstr "選択された操作"
+
+msgid "Click here to edit"
+msgstr "ここをクリックして編集"
+
+msgid "Click to hide command editor"
+msgstr "クリックしてコマンドエディターを非表示"
+
+msgid "Click to view command editor"
+msgstr "クリックしてコマンドエディターを表示"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Comparison"
+msgstr "比較"
+
+msgid "Configure Column: {{col}}"
+msgstr "列: {{col}} を設定"
+
+msgid "Create operation"
+msgstr "操作を作成"
+
+msgid "Custom columns"
+msgstr "カスタム列"
+
+msgid "Delete item"
+msgstr "項目を削除"
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device shell operation label button"
+msgstr "デバイスシェル操作のラベルボタン"
+
+msgid "Device shell operations"
+msgstr "デバイスシェル操作"
+
+msgid "Equal"
+msgstr "等値"
+
+msgid "Events (3 mo.)"
+msgstr "イベント(3ヵ月)"
+
+msgid "Events (today)"
+msgstr "イベント(本日)"
+
+msgid "Fragment"
+msgstr "フラグメント"
+
+msgid "Go to location"
+msgstr "位置に移動"
+
+msgid "Greater than"
+msgstr "より大きい"
+
+msgid "Greater than or equal"
+msgstr "それ以上"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Icon configuration"
+msgstr "アイコンの構成"
+
+msgid "Icon map"
+msgstr "アイコンマップ"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Last communication"
+msgstr "最終通信日時"
+
+msgid "Last valid message"
+msgstr "最終有効メッセージ"
+
+msgid "Less than"
+msgstr "未満"
+
+msgid "Less than or equal"
+msgstr "以下"
+
+msgid "List of child devices of an asset with configurable columns."
+msgstr "列の設定が可能なアセットの子デバイスのリスト"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Maintenance"
+msgstr "メンテナンス"
+
+msgid "N/A"
+msgstr "該当なし"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No items to display."
+msgstr "表示できる項目はありません"
+
+msgid "No location available"
+msgstr "利用可能な位置はありません"
+
+msgid "No operation chosen"
+msgstr "操作が選択されていません"
+
+msgid "Not equal"
+msgstr "等しくない"
+
+msgid "Note: Sorting might not work properly until all rows are loaded"
+msgstr "注 : ソートは全ての行が読み込まれるまで、正しく動作しないことがあります"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Operation Button"
+msgstr "操作ボタン"
+
+msgid "Operation completed successfully."
+msgstr "操作は正常に完了しました"
+
+msgid "Operation created successfully."
+msgstr "操作が正常に作成されました"
+
+msgid "Operation description"
+msgstr "操作説明"
+
+msgid "Operation executed successfully."
+msgstr "操作は正常に実行されました"
+
+msgid "Operation failed."
+msgstr "操作は失敗しました"
+
+msgid "Operation {{description | translate}} completed successfully."
+msgstr "操作 {{description | translate}} は正常に完了しました"
+
+msgid "Operation {{description | translate}} failed!"
+msgstr "操作 {{description | translate}} は失敗しました"
+
+msgid "Operation {{desc}} has been created!"
+msgstr "操作 {{desc}} が作成されました"
+
+msgid "Pending&hellip;"
+msgstr "保留中&hellip;"
+
+msgid "Property"
+msgstr "プロパティ"
+
+msgid "Run"
+msgstr "実行"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select or search comparison"
+msgstr "選択または検索して比較"
+
+msgid "Select or search icon"
+msgstr "アイコンを選択または検索"
+
+msgid "Select or search operation"
+msgstr "操作を選択または検索"
+
+msgid "Select schema properties"
+msgstr "スキーマのプロパティを選択"
+
+msgid "Shows a different value for each configured value."
+msgstr "構成値ごとに異なる値を表示"
+
+msgid "Shows the active alarms for device"
+msgstr "デバイスのアクティブなアラームを表示"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "To see the result click <a href=\"#/device/{{deviceId}}/control\">here</a>"
+msgstr "結果を確認するには、<a href=\"#/device/{{deviceId}}/control\">こちら</a>をクリックしてください"
+
+msgid "Toggle maintenance mode"
+msgstr "メンテナンスモード表示/非表示"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Use this operation"
+msgstr "この操作を使用"
+
+msgid "Value"
+msgstr "値"
+
+msgid "You must add a target asset or device."
+msgstr "ターゲットアセットまたはデバイスを追加してください"
+
+msgid "You must select at least one property."
+msgstr "少なくとも1つのプロパティを選択してください"

@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_connectivity/connectivity.controller.js:34
+msgid "Activated"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:39
+msgid "Activation ready"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:3
+msgid "Audit logs"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:19
+msgid "Changed"
+msgstr ""
+
+#: core_connectivity/index.js:92
+msgid "Connectivity"
+msgstr ""
+
+#: core_connectivity/views/sessions.html:16
+msgid "Customer"
+msgstr ""
+
+#: core_connectivity/views/sessions.html:25
+msgid "Data usage (KB)"
+msgstr ""
+
+#: core_connectivity/views/status.html:95
+msgid "Data usage (MB)"
+msgstr ""
+
+#: core_connectivity/views/sms.html:29
+msgid "Date received"
+msgstr ""
+
+#: core_connectivity/views/sms.html:26
+msgid "Date sent"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:44
+msgid "Deactivated"
+msgstr ""
+
+#: core_connectivity/views/sessions.html:22
+msgid "Duration"
+msgstr ""
+
+#: core_connectivity/views/sms.html:11
+msgid "Expand"
+msgstr ""
+
+#: core_connectivity/views/status.html:76
+msgid "Fixed IP address"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:23
+msgid "From"
+msgstr ""
+
+#: core_connectivity/views/status.html:41
+msgid "ICCID"
+msgstr ""
+
+#: core_connectivity/views/status.html:11
+msgid "In session"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:49
+msgid "Inventory"
+msgstr ""
+
+#: core_connectivity/views/sms.html:58
+msgid "Message text"
+msgstr ""
+
+#: core_connectivity/views/sms.html:55
+msgid "Message type"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:239
+msgid "No"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:54
+msgid "Purged"
+msgstr ""
+
+#: core_connectivity/views/index.html:4
+msgid "Reload"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:59
+msgid "Replaced"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:64
+msgid "Retired"
+msgstr ""
+
+#: core_connectivity/index.js:58
+msgid "SIM details"
+msgstr ""
+
+#: core_connectivity/views/status.html:48
+msgid "SIM status"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:199
+msgid "SIM status successfully changed"
+msgstr ""
+
+#: core_connectivity/views/sms.html:3
+msgid "SMS"
+msgstr ""
+
+#: core_connectivity/views/sms.html:23
+msgid "SMS ID"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:218
+msgid "SMS successfully sent"
+msgstr ""
+
+#: core_connectivity/views/status.html:85
+msgid "SMS usage"
+msgstr ""
+
+#: core_connectivity/views/sms.html:109
+msgid "Send"
+msgstr ""
+
+#: core_connectivity/views/sms.html:95
+msgid "Send SMS"
+msgstr ""
+
+#: core_connectivity/views/sms.html:53
+msgid "Sent from"
+msgstr ""
+
+#: core_connectivity/views/sms.html:54
+msgid "Sent to"
+msgstr ""
+
+#: core_connectivity/views/status.html:28
+msgid "Session IP address"
+msgstr ""
+
+#: core_connectivity/views/status.html:17
+msgid "Session start"
+msgstr ""
+
+#: core_connectivity/views/sessions.html:4
+msgid "Sessions"
+msgstr ""
+
+#: core_connectivity/views/sessions.html:19
+msgid "Started"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:27
+#: core_connectivity/views/sms.html:33
+#: core_connectivity/views/status.html:3
+msgid "Status"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:69
+msgid "Test ready"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:103
+msgid "This field is required!"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:24
+msgid "To"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:74
+msgid "Trial"
+msgstr ""
+
+#: core_connectivity/views/status.html:103
+msgid "Voice usage"
+msgstr ""
+
+#: core_connectivity/views/auditLogs.html:20
+msgid "Who"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:237
+msgid "Yes"
+msgstr ""
+
+#: core_connectivity/connectivity.controller.js:195
+msgid ""
+"{{type}} usage this month to date ({{thisMonthStart}} - {{today}})\n"
+"Usage for last month ({{lastMonthStart}} - {{lastMonthEnd}}): {{lastMonthUsage}}"
+msgstr ""

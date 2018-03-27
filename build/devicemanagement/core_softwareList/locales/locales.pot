@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_softwareList/views/index.html:28
+msgid "Add software"
+msgstr ""
+
+#: core_softwareList/views/index.html:75
+msgid "Add software using the button on the toolbar."
+msgstr ""
+
+#: core_softwareList/views/index.html:169
+msgid "Back"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:92
+msgid "Cancel"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:88
+msgid "Confirm delete?"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:91
+msgid "Delete"
+msgstr ""
+
+#: core_softwareList/views/index.html:98
+msgid "Delete software"
+msgstr ""
+
+#: core_softwareList/views/index.html:118
+msgid "Details"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:94
+msgid "Do you really want to remove software \"{{name}}\"?"
+msgstr ""
+
+#: core_softwareList/views/index.html:149
+#: core_softwareList/views/index.html:50
+msgid "File"
+msgstr ""
+
+#: core_softwareList/views/index.html:10
+msgid "Filter"
+msgstr ""
+
+#: core_softwareList/index.js:5
+msgid "Management"
+msgstr ""
+
+#: core_softwareList/views/index.html:134
+#: core_softwareList/views/index.html:37
+msgid "Name"
+msgstr ""
+
+#: core_softwareList/views/index.html:74
+msgid "No software to display."
+msgstr ""
+
+#: core_softwareList/views/index.html:158
+#: core_softwareList/views/index.html:57
+msgid "Save"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:27
+#: core_softwareList/index.js:6
+msgid "Software repository"
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:115
+msgid "Software successfully added."
+msgstr ""
+
+#: core_softwareList/controllers/softwareList.js:100
+msgid "Software successfully removed."
+msgstr ""
+
+#: core_softwareList/views/index.html:109
+#: core_softwareList/views/index.html:142
+#: core_softwareList/views/index.html:44
+msgid "Version"
+msgstr ""

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_devicePropertyWidget/views/fragmentRow.html:6
+msgid "Edit"
+msgstr ""
+
+#: core_devicePropertyWidget/views/config.html:4
+msgid "Fragments"
+msgstr ""
+
+#: core_devicePropertyWidget/views/fragmentRow.html:12
+msgid "OK"
+msgstr ""
+
+#: core_devicePropertyWidget/index.js:7
+msgid "Table of device properties, e.g. name, type or notes."
+msgstr ""

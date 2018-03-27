@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Enforce that all passwords are \"strong\" (green)"
+msgstr "Exigir que todas las contraseñas sean \"fuertes” (verde)"
+
+msgid "Limit validity for"
+msgstr "Validez límite para"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Password expiration"
+msgstr "Expiración de contraseña"
+
+msgid "Password settings updated successfully!"
+msgstr "¡Configuración de contraseña actualizada!"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "days"
+msgstr "dias"
+
+msgid "default 0 = unlimited validity"
+msgstr "predeterminado 0 = validez ilimitada"

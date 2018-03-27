@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Popup window failed to open. Please confirm your browser settings."
+msgstr "Popup-Fenster kann nicht geöffnet werden. Bitte überprüfen Sie ihre Browser-Einstellungen."
+
+msgid "Print QR code"
+msgstr "QR-Code drucken"
+
+msgid "Print QR codes"
+msgstr "QR-Codes drucken"
+
+msgid "QR code"
+msgstr "QR-Code"

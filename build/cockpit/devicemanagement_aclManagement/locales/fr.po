@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add permission"
+msgstr "Ajouter une permission"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Check user permission"
+msgstr "Vérifier le permet d’accès utilisateur"
+
+msgid "Check user permissions section allows you to verify permissions granted to selected user for the device also inherited from parent devices or assinged to user group. Granted permission section allows you to check and manage permissions for the device."
+msgstr "Vérifier la section permissions utilisateur vous permet de vérifier les permissions accordées à l’utilisateur sélectionné pour l’appareil aussi hérité des appareils parent ou attribués au groupe d’utilisateurs. Accordée permission section vous permet de vérifier et de gérer les permissions pour l’appareil."
+
+msgid "GROUP"
+msgstr "GROUPE"
+
+msgid "Granted permission"
+msgstr "Permissions accordées"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Has right to"
+msgstr "A droit à"
+
+msgid "New permission"
+msgstr "Nouvelle permission"
+
+msgid "No permissions for user."
+msgstr "Pas de permissions pour l’utilisateur."
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "Permissions successfully updated"
+msgstr "Permissions actualisées avec succès"
+
+msgid "Read"
+msgstr "Lu"
+
+msgid "Read and write"
+msgstr "Lire et écrivez"
+
+msgid "Remove permission"
+msgstr "Supprimer la permission"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Select or search"
+msgstr "Sélectionner ou rechercher"
+
+msgid "Select or search user"
+msgstr "Sélectionner ou rechercher un utilisateur"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "Cette fonctionnalité est désapprouvée. Bien qu’il soit toujours pleinement fonctionnel, vous devez plutôt utiliser la nouvelle fonctionnalité <a href=\"/apps/administration#roles\">rôles</a> pour définir des permissions."
+
+msgid "USER"
+msgstr "UTILISATEUR"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Write"
+msgstr "Écrivez"
+
+msgid "all types of objects"
+msgstr "tous les types d’objets"
+
+msgid "any"
+msgstr "n’importe quel"
+
+msgid "fragment"
+msgstr "fragment d'ADN"
+
+msgid "with"
+msgstr "avec"

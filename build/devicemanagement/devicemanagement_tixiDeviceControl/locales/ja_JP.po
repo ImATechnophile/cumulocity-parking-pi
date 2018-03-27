@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Could not get measurements from device because of \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\"のため、デバイスから計測値を取得できませんでした"
+
+msgid "Could not get measurements from device!"
+msgstr "デバイスから計測値を取得できませんでした"
+
+msgid "Could not initiate measurement poll because of \"{{failureReason}}\"!"
+msgstr "\"{{failureReason}}\"のため、測定を開始できませんでした"
+
+msgid "Could not initiate measurement poll!"
+msgstr "測定を開始できませんでした"
+
+msgid "Get measurements"
+msgstr "計測値を取得"
+
+msgid "Getting measurements from device..."
+msgstr "デバイスから計測値を取得.."
+
+msgid "Got measurements from device."
+msgstr "デバイスから計測値を取得しました"
+
+msgid "Initiate measurement poll"
+msgstr "測定調査を開始"
+
+msgid "Initiated measurement poll."
+msgstr "測定調査を開始しました"
+
+msgid "Initiating measurement poll..."
+msgstr "測定調査を開始中です"

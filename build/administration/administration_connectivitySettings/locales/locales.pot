@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_connectivitySettings/index.js:15
+msgid "Connectivity"
+msgstr ""
+
+#: administration_connectivitySettings/connectivitySettings.controller.js:59
+msgid "Connectivity credentials successfully updated"
+msgstr ""
+
+#: administration_connectivitySettings/connectivitySettings.controller.js:64
+msgid "Failed to connect using given credentials"
+msgstr ""
+
+#: administration_connectivitySettings/connectivitySettings.controller.js:21
+msgid "In order to see the 'Connectivity' tab in device details, the user needs to have 'Read' permission for 'Connectivity'. To change SIM card status and send text messages, the user needs to have 'Admin' permission for 'Connectivity'."
+msgstr ""
+
+#: administration_connectivitySettings/views/index.html:20
+msgid "License key"
+msgstr ""
+
+#: administration_connectivitySettings/views/index.html:47
+msgid "Password"
+msgstr ""
+
+#: administration_connectivitySettings/index.js:28
+msgid "SIM provider settings"
+msgstr ""
+
+#: administration_connectivitySettings/views/index.html:61
+msgid "Save"
+msgstr ""
+
+#: administration_connectivitySettings/index.js:18
+msgid "Settings"
+msgstr ""
+
+#: administration_connectivitySettings/connectivitySettings.controller.js:19
+msgid "This field is required!"
+msgstr ""
+
+#: administration_connectivitySettings/views/index.html:7
+msgid "URL"
+msgstr ""
+
+#: administration_connectivitySettings/views/index.html:33
+msgid "Username"
+msgstr ""

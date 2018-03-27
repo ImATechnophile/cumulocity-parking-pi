@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Aggregation"
+msgstr "Agrégation"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Bars"
+msgstr "Bars"
+
+msgid "Change aggregation or select shorter date range."
+msgstr "Modifier l'agrégation ou sélectionnez une plage de dates plus courte."
+
+msgid "Daily"
+msgstr "Quotidiennement"
+
+msgid "Daily aggregation"
+msgstr "Agrégation quotidienne"
+
+msgid "Data has been truncated. Please use aggregation."
+msgstr "Données ont été tronquées. Utilisez l'aggrégation pour voir l'intégralité de la durée sélectionnée."
+
+msgid "Drag X-Axis to move time.<br>Select time period to zoom.<br>Double click to zoom out."
+msgstr "Faites glisser l'axe X pour changer l'heure. <br> Sélectionnez la période de temps pour zoomer. <br> Double-cliquez pour effectuer un zoom arrière."
+
+msgid "From"
+msgstr "A partir de"
+
+msgid "Hourly"
+msgstr "Tous les heures"
+
+msgid "Hourly aggregation"
+msgstr "Agrégation horaire"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Line and points"
+msgstr "Ligne et points"
+
+msgid "Loading"
+msgstr "En cours de chargement"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Minimum and maximum"
+msgstr "Minimum et maximum"
+
+msgid "Minutely"
+msgstr "Par minute"
+
+msgid "Minutely aggregation"
+msgstr "Agrégation par minute"
+
+msgid "Nearest measurement:"
+msgstr "Mesure la plus proche :"
+
+msgid "No aggregation"
+msgstr "Pas d’agrégation"
+
+msgid "No data available."
+msgstr "Aucune donnée disponible."
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Real time active"
+msgstr "Active en temps réel"
+
+msgid "Real time inactive"
+msgstr "Inactif en temps réel"
+
+msgid "Reload"
+msgstr "Recharger"
+
+msgid "Right"
+msgstr "Droit"
+
+msgid "Select data points"
+msgstr "Sélectionner des points de données"
+
+msgid "To"
+msgstr "Jusqu'à"
+
+msgid "Truncated data."
+msgstr "Données tronquées."

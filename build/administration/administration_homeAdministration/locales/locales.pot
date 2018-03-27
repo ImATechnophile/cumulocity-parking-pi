@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: administration_homeAdministration/home-administration.component.js:120
+msgid "Add or remove <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:116
+msgid "Add or remove <a href=\"#/users\">users</a> and <a href=\"#/roles\">roles</a> and configure their permissions."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:118
+msgid "Add or remove <a href=\"#/users\">users</a> and configure their permissions."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:58
+msgid "Application settings"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:40
+msgid "Applications"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:15
+msgid "Change <a href=\"#/applicationsettings\">application settings</a>."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:14
+msgid "Configure your <a href=\"#/eventprocessing\">own processing rules and actions</a>."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:49
+msgid "Event processing"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.config.js:16
+#: administration_homeAdministration/home-administration.template.html:1
+msgid "Home"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:24
+msgid "Quick links"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:31
+msgid "Roles"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:13
+msgid "Subscribe to applications and <a href=\"#/applications\">set up</a> your own applications."
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:67
+msgid "Usage statistics"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.component.js:22
+msgid "Users"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:7
+msgid "Welcome to Administration"
+msgstr ""
+
+#: administration_homeAdministration/home-administration.template.html:10
+msgid "With this application you can"
+msgstr ""

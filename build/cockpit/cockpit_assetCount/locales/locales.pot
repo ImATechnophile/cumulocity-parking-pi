@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: cockpit_assetCount/views/component.html:8
+msgid "Devices"
+msgstr ""
+
+#: cockpit_assetCount/index.js:11
+msgid "Displays the number of devices which are online or have critical alarms"
+msgstr ""
+
+#: cockpit_assetCount/views/component.html:4
+msgid "Groups"
+msgstr ""
+
+#: cockpit_assetCount/views/component.html:12
+msgid "Online"
+msgstr ""
+
+#: cockpit_assetCount/views/component.html:16
+msgid "With critical alarms"
+msgstr ""

@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Alarm status changed to {{status}}"
+msgstr "Le statut de l'alarme a été modifié en {{status}}"
+
+msgid "All critical alarms"
+msgstr "Toutes les alarmes critiques"
+
+msgid "Displays active critical alarms from all devices"
+msgstr "Affiche les alarmes critiques actives de tous les appareils"

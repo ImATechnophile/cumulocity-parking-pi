@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add from datapoint"
+msgstr "データポイントから追加"
+
+msgid "Add predefined"
+msgstr "事前定義を追加"
+
+msgid "Add report"
+msgstr "レポートを追加"
+
+msgid "Add schedule"
+msgstr "スケジュールを追加"
+
+msgid "Add your first report using the button below."
+msgstr "下のボタンを使用して最初のレポートを追加してください"
+
+msgid "Alarms"
+msgstr "アラーム"
+
+msgid "Apply the selected action to the group of checked rows"
+msgstr "選択したアクションをチェックした行のグループに適用"
+
+msgid "Clone"
+msgstr "複製"
+
+msgid "Clone of {{config}}"
+msgstr "{{config}}の複製"
+
+msgid "Column"
+msgstr "カラム"
+
+msgid "Confirm delete?"
+msgstr "削除の確認"
+
+msgid "Create configuration"
+msgstr "構成を作成"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Delete property"
+msgstr "プロパティを削除"
+
+msgid "Do you really want to remove configuration \"{{name}}\"?"
+msgstr "本当に構成 \"{{name}}\" を削除しますか？"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "Export \"{{name}}\" report and send it via e-mail"
+msgstr "\"{{name}}\" レポートをエクスポートし、Eメールで送信"
+
+msgid "Export of \"{{name}}\" report"
+msgstr " \"{{name}}\" レポートのエクスポート"
+
+msgid "Export request accepted, you will receive an e-mail."
+msgstr "エクスポートリクエストが受諾されました。Eメールをご確認ください"
+
+msgid "Fields"
+msgstr "フィールド"
+
+msgid "File type"
+msgstr "ファイルタイプ"
+
+msgid "Filters"
+msgstr "フィルタ"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#reporting\">User Guide</a>."
+msgstr "詳細については、<a c8y-guide-href=\"users-guide/cockpit/#reporting\">ユーザガイド</a>をご覧ください"
+
+msgid "From"
+msgstr "開始日"
+
+msgid "From:"
+msgstr "From:"
+
+msgid "Last month"
+msgstr "先月"
+
+msgid "Last week"
+msgstr "先週"
+
+msgid "Last year"
+msgstr "前年"
+
+msgid "Managed objects"
+msgstr "管理対象オブジェクト"
+
+msgid "Measurements"
+msgstr "計測値"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No reports to display."
+msgstr "表示できるレポートはありません"
+
+msgid "Object to export"
+msgstr "エクスポートするオブジェクト"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Path"
+msgstr "パス"
+
+msgid "Please provide e-mail in user settings in order to use export functionality."
+msgstr "機能をエクスポートするには、ユーザ設定でEメールを登録してください"
+
+msgid "Properties"
+msgstr "プロパティ"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Report configuration saved!"
+msgstr "レポート構成が保存されました"
+
+msgid "Report details"
+msgstr "レポート詳細"
+
+msgid "Reporting"
+msgstr "レポート"
+
+msgid "Reports"
+msgstr "レポート"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save &amp; close"
+msgstr "保存して閉じる"
+
+msgid "Schedule export"
+msgstr "エクスポートをスケジュール"
+
+msgid "Scheduled exports"
+msgstr "スケジュールされたエクスポート"
+
+msgid "This field is required!"
+msgstr "このフィールドの入力は必須です"
+
+msgid "Time range"
+msgstr "期間"
+
+msgid "To"
+msgstr "終了日時"
+
+msgid "To:"
+msgstr "To:"
+
+msgid "Up to 120 characters allowed!"
+msgstr "120文字まで入力できます"
+
+msgid "Value"
+msgstr "値"
+
+msgid "You can add schedules once you saved report configuration."
+msgstr "一度レポート構成を保存すると、スケジュールを追加することができます"
+
+msgid "You will receive download links by email."
+msgstr "ダウンロードのリンクがEメールで送信されます"
+
+msgid "You will receive separate e-mail for each selected type of data."
+msgstr "選択した種類のデータごとに個別のEメールが送信されます"

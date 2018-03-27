@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "<small>Multiple</small>"
+msgstr "<small>Múltiples</small>"
+
+msgid "<small>No</small>"
+msgstr "<small>No</small>"
+
+msgid "<small>Single</small>"
+msgstr "<small>Solo</small>"
+
+msgid "<small>Yes</small>"
+msgstr "<small>Sí</small>"
+
+msgid "Back"
+msgstr "Atras"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Commands"
+msgstr "Comandos"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Date created"
+msgstr "Fecha de creación"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Device types"
+msgstr "Tipos de dispositivos"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Functionalities"
+msgstr "Funciones"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Instance type"
+msgstr "Tipo de instancia"
+
+msgid "LWM2M"
+msgstr "LWM2M"
+
+msgid "LWM2M post-operations"
+msgstr "Post-operaciones LWM2M"
+
+msgid "Last update"
+msgstr "Última actualización"
+
+msgid "Mandatory"
+msgstr "Obligatorio"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No description available"
+msgstr "Ninguna descripción disponible"
+
+msgid "On the left, you can enter a set of LWM2M shell commands. Each of these commands is sent to every LWM2M device that has successfully registered."
+msgstr "A la izquierda, usted puede introducir un conjunto de comandos de LWM2M. Cada uno de estos comandos se envía a cada dispositivo de LWM2M que ha registrado con éxito."
+
+msgid "Operations"
+msgstr "Operaciones"
+
+msgid "Parsing the DDF file resulted in an internal error"
+msgstr "Análisis del archivo DDF dio lugar a un error interno"
+
+msgid "Post-operations are successfully saved."
+msgstr "Las post operaciones han sido gradas con éxito."
+
+msgid "Processing successful"
+msgstr "Proceso exitoso"
+
+msgid "Range"
+msgstr "Rango"
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Start by uploading a DDF or XML file"
+msgstr "Empezar subiendo un archivo DDF o XML"
+
+msgid "The maximum period attribute indicates the maximum time in seconds the LWM2M client MAY wait between two notifications."
+msgstr "El atributo de período máximo indica el tiempo máximo en segundos que el cliente de LWM2M puede esperar entre dos notificaciones."
+
+msgid "The minimum period attribute indicates the minimum time in seconds the LWM2M client MUST wait between two notifications."
+msgstr "El atributo de período mínimo indica el tiempo mínimo en segundos que DEBE esperar el cliente LWM2M entre dos notificaciones."
+
+msgid "There was an error processing the post-operations."
+msgstr "Hubo un error procesando las post operaciones."
+
+msgid "This greater than attribute defines a threshold high value."
+msgstr "Este atributo superior define un valor alto de umbral."
+
+msgid "This less than attribute defines a threshold low value."
+msgstr "Este atributo inferior define un valor umbral bajo."
+
+msgid "This step attribute defines a minimum change value between two notifications."
+msgstr "Este atributo de paso define un valor mínimo de cambio entre dos notificaciones."
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Units"
+msgstr "Unidades"

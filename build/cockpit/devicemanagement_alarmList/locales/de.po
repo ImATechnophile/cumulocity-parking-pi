@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Alarms"
+msgstr "Alarme"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Overviews"
+msgstr "Übersichten"
+
+msgid "Refresh alarm list contents"
+msgstr "Alarmliste aktualisieren"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "Show cleared alarms"
+msgstr "Gelöschte Alarme anzeigen"

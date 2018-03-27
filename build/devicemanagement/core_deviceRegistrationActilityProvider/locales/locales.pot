@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:30
+msgid "Application key"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:56
+msgid "Back"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:35
+msgid "Connectivity plan"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:25
+msgid "Device EUI"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:5
+msgid "Device profiles"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:15
+msgid "Device type"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:60
+msgid "Next"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.component.js:36
+msgid "No connectivity plans with free slots available."
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.component.js:37
+msgid "No device profiles."
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.component.js:35
+msgid "No device types configured. Create a LoRa device type using device database."
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:42
+msgid "Only connectivity plans with free slots are displayed"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:7
+msgid "Select device profile"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:17
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:37
+msgid "Select device type"
+msgstr ""
+
+#: core_deviceRegistrationActilityProvider/deviceRegistrationActility.html:48
+msgid "Wait while provider settings are loaded&hellip;"
+msgstr ""

@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_eventList/index.js:11
+msgid "Displays the list of events for selected device."
+msgstr ""
+
+#: core_eventList/index.js:10
+msgid "Event list"
+msgstr ""

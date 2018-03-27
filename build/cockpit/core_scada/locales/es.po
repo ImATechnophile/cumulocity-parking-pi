@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Assign device property"
+msgstr "Asignar propiedad del dispositivo"
+
+msgid "Assign fieldbus property"
+msgstr "Asignar propiedad de bus de campo"
+
+msgid "Clear mapping"
+msgstr "Borrar mapeo"
+
+msgid "Current value"
+msgstr "Valor actual"
+
+msgid "Display a configurable SVG."
+msgstr "Mostrar un SVG configurable."
+
+msgid ""
+"For placeholder to be recognized it needs to be used at least once\n"
+"        in curly braces with no other expression, e.g. <var ng-non-bindable=\"\">{{placeholderName}}</var>.\n"
+"        Then you can use this placeholderName in bindings handled by Angular.\n"
+"        There are also predefined functions available:"
+msgstr ""
+"Marcador de posición a ser reconocido debe utilizarse al menos una vez en llaves con ninguna otra expresión, por ejemplo, <var ng-non-bindable=\"\">{{placeholderName}}</var> .\n"
+"        Entonces usted podrá utilizar este marcador de posición en enlaces manejados por Angular.\n"
+"        Existen también funciones predefinidas:"
+
+msgid "Invalid SVG"
+msgstr "SVG no válido"
+
+msgid "Mapped to"
+msgstr "Asignado a"
+
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+msgid "Preview"
+msgstr "Visualizar"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "Target"
+msgstr "Objetivo"
+
+msgid "Toggle help text"
+msgstr "Alternar texto de ayuda"
+
+msgid "You need to choose a device and fill all mappings to be able to preview an SVG."
+msgstr "Usted necesita elegir un dispositivo y llenar todas las asignaciones para poder escuchar un SVG."
+
+msgid "takes alarms status object and returns a CSS class that can be used for styling: none, warning, minor, major, critical, e.g."
+msgstr "toma el objeto de estado de las alarmas y devuelve una clase CSS que se puede utilizar para el estilismo: ninguna, advertencia, menor, mayor, crítica, p. ej."
+
+msgid "takes device's id and redirects user to device details view, e.g."
+msgstr "toma el id del dispositivo y redirecciona el usuario a la vista de detalles del dispositivo, por ejemplo."
+
+msgid "takes group's id and redirects user to group details view, e.g."
+msgstr "toma id del grupo y redirige al usuario a la vista de información de grupo, p. ej."

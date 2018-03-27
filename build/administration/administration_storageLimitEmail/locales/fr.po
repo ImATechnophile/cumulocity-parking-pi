@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activate notification"
+msgstr "Activer la notification"
+
+msgid "Management"
+msgstr "Gestion"
+
+msgid "Notification email settings successfully updated!"
+msgstr "Paramètres de l'e-mail de notification actualisés avec succès!"
+
+msgid "Notified user group"
+msgstr "Groupe d'utilisateurs notifiés"
+
+msgid "Send a warning e-mail to a user group when the storage quota is nearly reached."
+msgstr "Envoyer un e-mail d'avertissement à un groupe d'utilisateurs lorsque le quota de stockage est presque atteint."
+
+msgid "Storage quota"
+msgstr "Quota de stockage"
+
+msgid "The threshold cannot be bigger than 100%."
+msgstr "Le seuil ne peut pas être supérieur que 100 %."
+
+msgid "The threshold cannot be smaller than 1%."
+msgstr "Le seuil ne peut être inférieur à 1 %."
+
+msgid "This field is required!"
+msgstr "Ce champ est requis!"
+
+msgid "Threshold (%)"
+msgstr "Seuil (%)"
+
+msgid "Update settings"
+msgstr "Actualiser les paramètres"

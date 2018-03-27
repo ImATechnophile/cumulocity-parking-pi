@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: core_smartRestEditorUI/index.js:46
+msgid "CSV preview"
+msgstr ""
+
+#: core_smartRestEditorUI/index.js:19
+msgid "Device types"
+msgstr ""
+
+#: core_smartRestEditorUI/index.js:34
+msgid "Messages"
+msgstr ""
+
+#: core_smartRestEditorUI/index.js:40
+msgid "Responses"
+msgstr ""
+
+#: core_smartRestEditorUI/index.js:16
+msgid "SmartREST templates"
+msgstr ""

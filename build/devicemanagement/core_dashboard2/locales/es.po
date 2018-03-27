@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: es\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Add permission"
+msgstr "Añadir permiso"
+
+msgid "Add widget"
+msgstr "Añadir widget"
+
+msgid "Add widget to dashboard"
+msgstr "Añadir widget a panel de control"
+
+msgid "Apply dashboard to all devices of type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "Aplique el panel de control a todos los dispositivos del tipo <i>{{dashboard.deviceTypeValue}}</i>"
+
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+msgid "Border"
+msgstr "Frontera"
+
+msgid "Bottom margin"
+msgstr "Margen  inferior"
+
+msgid "Branded"
+msgstr "De Marca"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Content style"
+msgstr "Estilo de contenido"
+
+msgid "Copy dashboard"
+msgstr "Copiar panel de control"
+
+msgid "Create dashboard"
+msgstr "Crear Dashboard"
+
+msgid "Create widget"
+msgstr "Crear widget"
+
+msgid "Customize widget style"
+msgstr "Personalizar estilo de widget"
+
+msgid "Dark"
+msgstr "Oscuro"
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "Dashboard copied. Navigate to the desired device and select \"Paste dashboard\""
+msgstr "Tablero copiado. Desplácese al dispositivo deseado y seleccione \"Pegar panel de control”"
+
+msgid "Dashboard copied. Navigate to the desired group and select \"Paste dashboard\""
+msgstr "Tablero copiado. Desplácese hasta el grupo deseado y seleccione \"Pegar panel de control”"
+
+msgid "Dashboard default"
+msgstr "Tablero por defecto"
+
+msgid "Dashboard info"
+msgstr "Información del panel de control"
+
+msgid "Dashboard layout"
+msgstr "Diseño del panel de control"
+
+msgid "Dashboard theme"
+msgstr "Tema del panel de control"
+
+msgid "Dashboard visible to all users"
+msgstr "Tablero visible a todos los usuarios"
+
+msgid "Default widget header style"
+msgstr "Estilo de cabecera widget por defecto"
+
+msgid "Default widget margin"
+msgstr "Margen de widget por defecto"
+
+msgid "Device dashboards can only be copied into a device."
+msgstr "Los paneles de control de dispositivo sólo se pueden copiar en un dispositivo."
+
+msgid "Do you want to remove the dashboard named \"{{name}}\" from all devices of the type \"{{deviceTypeValue}}\"?"
+msgstr "¿Desea eliminar el panel de control denominado \"{{name}}\" de todos los dispositivos del tipo \"{{deviceTypeValue}}\"?"
+
+msgid "Do you want to remove the dashboard named \"{{name}}\"?"
+msgstr "¿Realmente desea eliminar el panel de control llamado \"{{name}}”?"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit dashboard"
+msgstr "Editar escritorio"
+
+msgid "Edit widget"
+msgstr "Editar Widget"
+
+msgid "Find out more on the <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">User Guide</a>."
+msgstr "Saber más sobre la <a c8y-guide-href=\"users-guide/cockpit/#dashboards\">Guía del usuario</a>."
+
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Group dashboards can only be copied into a group."
+msgstr "Los grupos paneles de control sólo pueden copiarse dentro de un grupo."
+
+msgid "Header style"
+msgstr "Estilo de encabezado"
+
+msgid "Hidden"
+msgstr "Oculto"
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Left margin"
+msgstr "Margen izquierdo"
+
+msgid "Light"
+msgstr "Luz"
+
+msgid "Location in navigation"
+msgstr "Ubicación en navegación"
+
+msgid "Lock"
+msgstr "Bloqueado"
+
+msgid "Lock/unlock this dashboard"
+msgstr "Bloquear/desbloquear este panel"
+
+msgid "Margin"
+msgstr "Margen"
+
+msgid "Menu label"
+msgstr "Etiqueta de menú"
+
+msgid "Menu label to display in submenu when dashboard is attached"
+msgstr "Etiqueta de menú para visualizar en el submenú cuando se coloca el panel de control"
+
+msgid "No widgets to display."
+msgstr "No hay widgets para mostrar."
+
+msgid "Only dashboards from devices or groups can be copied"
+msgstr "Sólo los paneles de control de dispositivos o grupos pueden ser copiados"
+
+msgid "Only dashboards with widgets referencing the current device can be copied."
+msgstr "Sólo los paneles de control con widgets haciendo referencia al dispositivo actual se pueden copiar."
+
+msgid "Only dashboards with widgets referencing the current group can be copied."
+msgstr "Sólo los paneles de control con widgets haciendo referencia al grupo actual se pueden copiar."
+
+msgid "Order in navigation menu (10000 first, -10000 last)"
+msgstr "Ordenar en el menú de navegación (10000 primero, -10000 último)"
+
+msgid "Overlay"
+msgstr "Sobrepuesto"
+
+msgid "Permission"
+msgstr "Permiso"
+
+msgid "Please add widgets to this dashboard."
+msgstr "Por favor añada widgets a este panel."
+
+msgid "Preview"
+msgstr "Visualizar"
+
+msgid "Print screen of {{name}}"
+msgstr "Imprimir pantalla {{name}}"
+
+msgid "REPORT"
+msgstr "REPORTAR"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Remove"
+msgstr "Borrar"
+
+msgid "Remove dashboard"
+msgstr "Eliminar panel de control"
+
+msgid "Restore dashboard"
+msgstr "Restaurar panel de control"
+
+msgid "Restore default dashboard"
+msgstr "Restaurar panel de control por defecto"
+
+msgid "Right margin"
+msgstr "Mar. Derecho"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Select content style"
+msgstr "Seleccionar estilo de contenido"
+
+msgid "Select dashboard"
+msgstr "Seleccionar panel de control"
+
+msgid "Select header style"
+msgstr "Elija un estilo de cabecera"
+
+msgid "Select or search"
+msgstr "Seleccionar o buscar"
+
+msgid "Select or search icon"
+msgstr "Seleccione o busque el icono"
+
+msgid "Select report"
+msgstr "Seleccione informes"
+
+msgid "Select theme"
+msgstr "Seleccionar tema"
+
+msgid "Select widget"
+msgstr "Seleccionar widget"
+
+msgid "Send dashboard via e-mail"
+msgstr "Enviar el tablero por correo electrónico"
+
+msgid "Send via e-mail"
+msgstr "Enviar por correo electrónico"
+
+msgid "Target assets or devices"
+msgstr "Activos o dispositivos de destino"
+
+msgid "There are no dashboards available"
+msgstr "No hay paneles de control disponibles"
+
+msgid "This dashboard is shared between all devices of the type <i>{{dashboard.deviceTypeValue}}</i>"
+msgstr "Este panel de control es compartido entre todos los dispositivos de tipo <i>{{dashboard.deviceTypeValue}}</i>"
+
+msgid "This feature is deprecated. Although it's still fully functional you should rather use new <a href=\"/apps/administration#roles\">Roles</a> feature to set permissions."
+msgstr "Esta característica es obsoleta. Aunque sigue siendo completamente funcional más bien debe usar <a href=\"/apps/administration#roles\">Roles</a> para establecer los permisos."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Toggle full screen"
+msgstr "Alternar pantalla completa"
+
+msgid "Top margin"
+msgstr "Margen superior"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "Unlock"
+msgstr "Desbloquear"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Widget"
+msgstr "Widget"
+
+msgid "Widget example content."
+msgstr "Contenido de ejemplo de widget."
+
+msgid "Widget margins"
+msgstr "Márgenes de Widgets"
+
+msgid "Widget title"
+msgstr "Título de Widget"
+
+msgid "Your dashboard is locked now."
+msgstr "Su panel de control está bloqueado ahora."
+
+msgid "Your dashboard is unlocked now."
+msgstr "Su panel de control está desbloqueado ahora."
+
+msgid "no description"
+msgstr "sin descripción"

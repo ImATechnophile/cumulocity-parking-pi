@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+msgid "Activate geofence"
+msgstr "ジオフェンスを有効化"
+
+msgid "Activate motion tracking"
+msgstr "モーショントラッキングを有効化"
+
+msgid "Changes saved successfully!"
+msgstr "変更は正常に保存されました"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Deactivate geofence"
+msgstr "ジオフェンスの無効化"
+
+msgid "Deactivate motion tracking"
+msgstr "モーショントラッキングの無効化"
+
+msgid "Deselect all markers"
+msgstr "すべてのマーカーの選択を解除"
+
+msgid "Device current position not defined"
+msgstr "デバイスの現在地が定義されていません"
+
+msgid "Last day"
+msgstr "前日"
+
+msgid "Last hour"
+msgstr "1時間前"
+
+msgid "Last month"
+msgstr "先月"
+
+msgid "Last week"
+msgstr "先週"
+
+msgid "Load more"
+msgstr "さらに読み込む"
+
+msgid "No tracking events found"
+msgstr "トラッキングイベントが見つかりません"
+
+msgid "Operations created"
+msgstr "操作が作成されました"
+
+msgid "Show GPS data only"
+msgstr "GPSデータのみを表示"
+
+msgid "Show GSM data only"
+msgstr "GSMデータのみを表示"
+
+msgid "Show all data"
+msgstr "すべてのデータを表示"
+
+msgid "Tracking"
+msgstr "トラッキング"
+
+msgid "Tracking events"
+msgstr "イベントのトラッキング"
