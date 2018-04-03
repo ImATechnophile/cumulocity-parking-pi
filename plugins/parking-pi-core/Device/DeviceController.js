@@ -13,9 +13,11 @@
         $scope.entire=[];
 
         function init() {
+            console.log("function started");
             var filters = {type: 'c8y_Linux' };
             c8yInventory.list(filters).then(function (devices) {
                 angular.forEach(devices, function(device){
+                    console.log("loopn started");
                     var pos = device.c8y_Position;
                     var deviceDetail={
                         serialNo: $scope.entire.length + 1,

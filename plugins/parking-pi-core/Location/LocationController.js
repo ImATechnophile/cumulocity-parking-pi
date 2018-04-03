@@ -10,10 +10,17 @@
     $scope,
     $q,
     $routeParams,
+    $rootScope,
     c8yDevices,
     c8yAlert
 
   ) {
+    $scope.$on("$destroy",function(){
+    if (angular.isDefined(stop)) {
+        $interval.cancel(stop);
+        console.log("destroy");
+      }
+    });
     c8yDevices.detail($routeParams.deviceId).then(function (res) {
       var fulldata=res.data;
       console.log("new location :",fulldata.c8y_Position);
