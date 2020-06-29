@@ -200,7 +200,7 @@ In the words of **Steven Pinker**:
 
 ## Authors
 
-* **Saravana Prakash** - *Initial work* - [Projects in python](https://bitbucket.org/ImATechnophile95/)
+* **Saravana Prakash** - *Initial work* - [Projects in python](https://bitbucket.org/ImATechnophile-Personal/)
 
 See also the list of [contributors](https://github.com/ImATechnophile/parking-pi-app/graphs/contributors) who participated in this project.
 
